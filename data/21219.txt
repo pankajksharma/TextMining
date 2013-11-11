@@ -1,0 +1,5 @@
+nationw -1 stak -1 stak -1 stak -1 stak -1 limit -1 market -1 market -1 market -1 small -1 sect -1 sect -1 apv -1 apv -1 municip -1 low -1 own -1 own -1 own -1 privat -1 privat -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 forward -1 -2
+manag -1 expert -1 individual -1 larg -1 larg -1 larg -1 larg -1 stat -1 stat -1 stat -1 stat -1 stat -1 stat -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 modif -1 lead -1 lead -1 bill -1 istv -1 quest -1 lend -1 law -1 futur -1 shar -1 shar -1 shar -1 -2
+shar -1 thursday -1 outlin -1 deposit -1 maxim -1 secret -1 deput -1 balaz -1 ground -1 financ -1 financ -1 told -1 muncip -1 network -1 work -1 sandor -1 minist -1 agn -1 partial -1 new -1 put -1 direct -1 abel -1 corpor -1 otp -1 otp -1 otp -1 otp -1 otp -1 otp -1 plan -1 -2
+includ -1 person -1 answ -1 reduc -1 reduc -1 reduc -1 legisl -1 account -1 friday -1 role -1 achief -1 peto -1 rule -1 newsroom -1 add -1 add -1 allow -1 confer -1 creat -1 budap -1 transact -1 hung -1 hung -1 hung -1 hung -1 hold -1 hold -1 offic -1 sale -1 sale -1 commerc -1 -2
+virtu -1 -2

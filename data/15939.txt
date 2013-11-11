@@ -1,0 +1,4 @@
+seminar -1 compan -1 compan -1 compan -1 compan -1 alleg -1 engag -1 medic -1 medic -1 medic -1 specif -1 drug -1 spa -1 wuppert -1 biomed -1 jude -1 doct -1 countr -1 undertak -1 william -1 german -1 german -1 physic -1 annual -1 reid -1 employ -1 dick -1 larg -1 devic -1 germ -1 -2
+germ -1 germ -1 stat -1 italy -1 meet -1 expect -1 prob -1 govern -1 st -1 bill -1 world -1 world -1 reut -1 big -1 medtron -1 medtron -1 medtron -1 medtron -1 medtron -1 medtron -1 medtron -1 busi -1 busi -1 disrupt -1 shar -1 support -1 spons -1 liabl -1 case -1 industr -1 hurt -1 -2
+damag -1 financ -1 investig -1 worry -1 comput -1 mater -1 mater -1 research -1 sorin -1 kickback -1 georg -1 georg -1 georg -1 chief -1 educat -1 interview -1 interview -1 charg -1 wednesday -1 wednesday -1 concern -1 involut -1 revenu -1 reject -1 spokesm -1 suppl -1 schem -1 late -1 allegat -1 prosecut -1 add -1 -2
+execut -1 fear -1 activ -1 -2

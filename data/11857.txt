@@ -1,0 +1,4 @@
+stak -1 compan -1 compan -1 compan -1 compan -1 compan -1 compan -1 compan -1 capac -1 acquir -1 hous -1 clos -1 month -1 construc -1 provinc -1 build -1 bank -1 bank -1 invest -1 annual -1 free -1 employ -1 peopl -1 quart -1 issu -1 stat -1 percent -1 percent -1 decid -1 km -1 -2
+reut -1 payabl -1 pric -1 million -1 million -1 million -1 million -1 shar -1 nadir -1 nation -1 nation -1 monday -1 public -1 public -1 off -1 told -1 offer -1 offer -1 work -1 cement -1 cement -1 initial -1 insur -1 cair -1 depart -1 pound -1 pound -1 pound -1 pound -1 mile -1 direct -1 -2
+cost -1 south -1 south -1 salahuddin -1 ton -1 plan -1 plan -1 includ -1 plant -1 plant -1 plant -1 tend -1 ezzeddin -1 ezzeddin -1 ezzeddin -1 qena -1 plot -1 esmat -1 project -1 project -1 egypt -1 egypt -1 egypt -1 egypt -1 found -1 found -1 set -1 add -1 hold -1 hold -1 offic -1 -2
+mln -1 -2

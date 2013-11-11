@@ -1,0 +1,2 @@
+nasdaq -1 limit -1 market -1 gener -1 quiet -1 stock -1 stock -1 high -1 perform -1 year -1 ahead -1 composit -1 midday -1 point -1 midsess -1 billion -1 stand -1 individual -1 issu -1 slight -1 slight -1 treasur -1 gain -1 gain -1 auction -1 industr -1 stead -1 narrow -1 rose -1 note -1 -2
+session -1 wednesday -1 hand -1 wall -1 street -1 blu -1 chip -1 bond -1 dow -1 afternoon -1 activ -1 pace -1 slug -1 -2

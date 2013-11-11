@@ -1,0 +1,3 @@
+acquir -1 acquir -1 market -1 market -1 credit -1 credit -1 back -1 tuesday -1 stg -1 stg -1 vehicl -1 privat -1 form -1 billion -1 deal -1 deal -1 equit -1 fund -1 issu -1 sourc -1 stat -1 administ -1 instal -1 million -1 europ -1 control -1 arrang -1 arrang -1 time -1 financ -1 -2
+financ -1 financ -1 provid -1 securit -1 securit -1 securit -1 mult -1 prim -1 london -1 servic -1 insur -1 program -1 pape -1 pape -1 vendcrown -1 vendcrown -1 vendcrown -1 sell -1 sponsor -1 tham -1 electr -1 ninth -1 asset -1 asset -1 tag -1 tag -1 prem -1 prem -1 prem -1 dollar -1 glob -1 -2
+flem -1 newsroom -1 add -1 natw -1 natw -1 natw -1 natw -1 natw -1 natw -1 transact -1 transact -1 cp -1 commerc -1 commerc -1 mln -1 -2

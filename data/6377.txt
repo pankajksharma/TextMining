@@ -1,0 +1,3 @@
+launch -1 briton -1 resort -1 resort -1 resort -1 resort -1 restaur -1 restaur -1 year -1 year -1 hotel -1 hotel -1 hotel -1 hotel -1 term -1 agent -1 agent -1 privat -1 privat -1 privat -1 sea -1 sea -1 billion -1 manag -1 invest -1 invest -1 zlatn -1 zlatn -1 pyasats -1 pyasats -1 -2
+list -1 hamp -1 slanchev -1 slanchev -1 bryag -1 bryag -1 zdravet -1 larg -1 week -1 varnenchik -1 narts -1 germ -1 busi -1 seasid -1 scandinav -1 million -1 sold -1 sold -1 sold -1 thursday -1 long -1 buy -1 sofia -1 foreign -1 made -1 procedur -1 visit -1 ago -1 bulgar -1 bulgar -1 bulgar -1 -2
+russian -1 complex -1 coast -1 lucrat -1 base -1 sell -1 lev -1 lev -1 purpos -1 bulg -1 plan -1 includ -1 black -1 black -1 built -1 total -1 major -1 holiday -1 newsroom -1 top -1 slow -1 -2

@@ -1,0 +1,2 @@
+metal -1 kerb -1 kerb -1 cop -1 cop -1 cop -1 thin -1 clos -1 clos -1 month -1 lme -1 lme -1 trap -1 gmt -1 int -1 level -1 flat -1 narrow -1 quot -1 bare -1 london -1 move -1 play -1 equal -1 ton -1 peg -1 alumin -1 compar -1 compar -1 day -1 -2
+resist -1 band -1 late -1 late -1 barry -1 afternoon -1 unchang -1 newsroom -1 solid -1 offic -1 trad -1 trad -1 -2

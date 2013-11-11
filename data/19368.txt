@@ -1,0 +1,5 @@
+limit -1 ambassador -1 early -1 early -1 market -1 recent -1 econom -1 dlr -1 french -1 french -1 french -1 stock -1 clos -1 clos -1 high -1 union -1 interest -1 rate -1 month -1 low -1 monet -1 halt -1 year -1 greenback -1 rebound -1 term -1 come -1 fresh -1 yen -1 yen -1 -2
+bank -1 point -1 malped -1 deal -1 deal -1 franc -1 franc -1 franc -1 franc -1 franc -1 larg -1 sympath -1 bought -1 slight -1 domest -1 domest -1 stat -1 report -1 meet -1 anal -1 expect -1 help -1 treasur -1 overnight -1 fell -1 janu -1 gain -1 gain -1 rally -1 thursday -1 flat -1 -2
+european -1 strength -1 open -1 end -1 end -1 benchmark -1 industr -1 edg -1 rais -1 tone -1 foreign -1 rose -1 rose -1 exchang -1 loss -1 senior -1 chirac -1 slid -1 slid -1 fail -1 ent -1 lift -1 emu -1 propos -1 sell -1 session -1 session -1 session -1 mike -1 deadlin -1 assert -1 -2
+dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 compl -1 japan -1 bond -1 bond -1 chang -1 dow -1 jone -1 aver -1 late -1 set -1 action -1 action -1 presid -1 jacqu -1 seesaw -1 mark -1 mark -1 mark -1 mark -1 mark -1 refc -1 boost -1 amid -1 sign -1 -2
+trad -1 group -1 -2

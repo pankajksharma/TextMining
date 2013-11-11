@@ -1,0 +1,2 @@
+mgt -1 conc -1 praecip -1 du -1 launch -1 month -1 dec -1 year -1 full -1 und -1 bank -1 manag -1 borrow -1 list -1 franc -1 spread -1 pay -1 lead -1 pric -1 law -1 matur -1 long -1 banqu -1 luxembourg -1 increas -1 august -1 coupon -1 coupon -1 typ -1 genfin -1 -2
+genfin -1 luf -1 luf -1 london -1 bln -1 bln -1 bln -1 step -1 note -1 date -1 sell -1 general -1 general -1 gov -1 joint -1 bond -1 bond -1 oct -1 newsroom -1 add -1 amt -1 iss -1 reoff -1 lux -1 lux -1 lux -1 denom -1 fee -1 pct -1 -2

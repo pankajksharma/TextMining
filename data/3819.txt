@@ -1,0 +1,5 @@
+televis -1 mexic -1 mexic -1 mexic -1 mexic -1 market -1 floor -1 hous -1 back -1 feel -1 tuesday -1 target -1 target -1 stock -1 stock -1 stock -1 clos -1 record -1 broker -1 high -1 demonstr -1 demonstr -1 demonstr -1 build -1 data -1 data -1 data -1 york -1 york -1 point -1 -2
+point -1 extrem -1 writ -1 system -1 deal -1 deal -1 peopl -1 suspend -1 gmt -1 gmt -1 chao -1 local -1 local -1 expect -1 home -1 main -1 main -1 index -1 disrupt -1 disrupt -1 adjust -1 open -1 open -1 hour -1 entr -1 entr -1 dan -1 time -1 time -1 time -1 time -1 -2
+time -1 return -1 told -1 comput -1 exchang -1 exchang -1 pret -1 city -1 bell -1 continu -1 postpon -1 edt -1 edt -1 bols -1 bols -1 bols -1 aren -1 riot -1 scarc -1 door -1 day -1 minut -1 caus -1 wednesday -1 wednesday -1 spokesm -1 student -1 dow -1 set -1 retu -1 ipc -1 -2
+polic -1 releas -1 make -1 newsroom -1 enter -1 parent -1 operat -1 norm -1 norm -1 synch -1 hold -1 origin -1 offic -1 offic -1 offic -1 delay -1 delay -1 electron -1 electron -1 electron -1 adr -1 adr -1 adr -1 telmex -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2
+trad -1 trad -1 trad -1 trot -1 disarray -1 block -1 block -1 -2

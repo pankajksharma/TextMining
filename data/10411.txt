@@ -1,0 +1,2 @@
+draw -1 sunday -1 point -1 stand -1 stand -1 dundee -1 unit -1 lost -1 socc -1 socc -1 kilmarnock -1 raith -1 motherwel -1 premy -1 premy -1 scot -1 scot -1 won -1 match -1 play -1 dunfermlin -1 rang -1 hibern -1 divid -1 divid -1 result -1 result -1 goal -1 tabulat -1 aberdeen -1 -2
+aberdeen -1 celtic -1 heart -1 heart -1 -2

@@ -1,0 +1,5 @@
+gilt -1 market -1 credit -1 credit -1 credit -1 tuesday -1 tuesday -1 money -1 money -1 money -1 rate -1 rate -1 rate -1 rate -1 rate -1 liquid -1 year -1 likley -1 start -1 suck -1 bank -1 bank -1 bank -1 stray -1 inact -1 inact -1 point -1 system -1 mid -1 mid -1 -2
+borrow -1 borrow -1 deal -1 deal -1 deal -1 deal -1 deal -1 deal -1 deal -1 deal -1 week -1 week -1 issu -1 report -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 expect -1 requir -1 govern -1 int -1 treasur -1 bill -1 cash -1 level -1 -2
+level -1 level -1 open -1 deposit -1 deposit -1 end -1 end -1 remain -1 remain -1 stead -1 reserv -1 reserv -1 short -1 foreign -1 financ -1 call -1 call -1 call -1 call -1 call -1 bombay -1 india -1 certif -1 pape -1 date -1 settl -1 export -1 bar -1 corpor -1 corpor -1 institut -1 -2
+breach -1 july -1 day -1 day -1 resist -1 refin -1 septemb -1 septemb -1 reduc -1 rbi -1 rbi -1 secur -1 secur -1 demand -1 demand -1 june -1 barry -1 avail -1 unchang -1 unchang -1 newsroom -1 indian -1 indian -1 coupl -1 top -1 commerc -1 elev -1 trad -1 trad -1 trad -1 pick -1 -2
+pick -1 pick -1 -2

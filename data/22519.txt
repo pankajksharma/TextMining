@@ -1,0 +1,4 @@
+metal -1 novemb -1 credit -1 interest -1 interest -1 octob -1 north -1 shr -1 sydney -1 billion -1 invest -1 invest -1 unfrank -1 deprec -1 mim -1 mim -1 week -1 mine -1 stat -1 pay -1 minor -1 reg -1 gain -1 gain -1 gain -1 million -1 million -1 million -1 europ -1 dividend -1 -2
+dividend -1 dividend -1 gold -1 industr -1 industr -1 rtr -1 cent -1 cent -1 cent -1 exchang -1 exchang -1 austral -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 net -1 pre -1 note -1 note -1 -2
+geograph -1 geograph -1 south -1 date -1 date -1 americ -1 americ -1 final -1 incom -1 smelt -1 profit -1 profit -1 profit -1 profit -1 profit -1 profit -1 result -1 result -1 result -1 charg -1 item -1 papua -1 total -1 june -1 guinea -1 abnorm -1 abnorm -1 abnorm -1 coal -1 newsroom -1 op -1 -2
+operat -1 operat -1 hold -1 sale -1 tax -1 tax -1 tax -1 group -1 mln -1 -2

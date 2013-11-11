@@ -1,0 +1,3 @@
+night -1 roadblock -1 roadblock -1 tuesday -1 stop -1 stop -1 year -1 kill -1 kill -1 kill -1 kill -1 provinc -1 turk -1 road -1 peopl -1 peopl -1 report -1 troop -1 rebel -1 rebel -1 rebel -1 check -1 ident -1 conflict -1 ablaz -1 party -1 monday -1 guerrill -1 guerrill -1 guerrill -1 -2
+told -1 kurd -1 kurd -1 kurdist -1 work -1 forc -1 host -1 host -1 turkey -1 turkey -1 turkey -1 interc -1 autonom -1 link -1 pkk -1 pkk -1 siva -1 driv -1 passeng -1 passeng -1 passeng -1 passeng -1 secur -1 eastern -1 eastern -1 erzinc -1 set -1 releas -1 fight -1 buse -1 buse -1 -2
+buse -1 offic -1 offic -1 independ -1 group -1 -2

@@ -1,0 +1,2 @@
+french -1 french -1 money -1 money -1 money -1 clos -1 rate -1 rate -1 rate -1 rate -1 rate -1 pari -1 bank -1 bank -1 unoffic -1 franc -1 franc -1 key -1 alongsid -1 germ -1 germ -1 percent -1 percent -1 lower -1 lower -1 thursday -1 cut -1 cut -1 call -1 call -1 -2
+call -1 intervent -1 intervent -1 day -1 friday -1 bundesbank -1 repo -1 newsroom -1 steer -1 offic -1 ceil -1 -2

@@ -1,0 +1,2 @@
+limit -1 market -1 market -1 market -1 back -1 french -1 french -1 stock -1 clos -1 low -1 start -1 point -1 billion -1 tie -1 cac -1 cac -1 mid -1 franc -1 quart -1 gmt -1 percent -1 percent -1 percent -1 strong -1 expect -1 index -1 volum -1 show -1 futur -1 futur -1 -2
+thursday -1 thursday -1 shar -1 open -1 open -1 contract -1 contract -1 expir -1 shed -1 ground -1 weak -1 resil -1 loss -1 loss -1 growth -1 blu -1 chip -1 friday -1 friday -1 morn -1 regain -1 boost -1 trad -1 option -1 block -1 -2

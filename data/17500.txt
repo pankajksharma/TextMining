@@ -1,0 +1,3 @@
+mgt -1 limit -1 launch -1 rate -1 rate -1 bp -1 bp -1 bp -1 sep -1 sep -1 own -1 year -1 full -1 und -1 bank -1 bank -1 standard -1 manag -1 borrow -1 list -1 scotland -1 spread -1 issu -1 percent -1 pay -1 lead -1 home -1 ipma2 -1 pric -1 guarant -1 -2
+guarant -1 law -1 sing -1 sing -1 moody -1 float -1 ubs -1 million -1 million -1 matur -1 increas -1 bullet -1 hk -1 august -1 typ -1 frn -1 frn -1 libor -1 prov -1 engl -1 forc -1 nz -1 nz -1 london -1 countryw -1 countryw -1 countryw -1 repay -1 note -1 note -1 date -1 -2
+base -1 sell -1 corp -1 corp -1 corp -1 uk -1 hong -1 gov -1 kong -1 newsroom -1 add -1 singl -1 amt -1 iss -1 reoff -1 lux -1 branch -1 denom -1 fee -1 neg -1 sale -1 plg -1 crs -1 tax -1 deflt -1 maj -1 ctry -1 mln -1 mln -1 mln -1 -2

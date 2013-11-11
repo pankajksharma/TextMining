@@ -1,0 +1,2 @@
+newsdesk -1 credit -1 tuesday -1 cs -1 sport -1 suiss -1 bank -1 york -1 shr -1 manag -1 common -1 common -1 deal -1 boston -1 act -1 show -1 shar -1 shar -1 shar -1 shar -1 auction -1 dutch -1 buy -1 off -1 off -1 off -1 outstand -1 financ -1 purchas -1 senior -1 -2
+numb -1 footwear -1 underwrit -1 prelimin -1 reduc -1 tend -1 tend -1 tend -1 tend -1 accept -1 accept -1 intern -1 make -1 add -1 count -1 reebok -1 reebok -1 reebok -1 mln -1 -2

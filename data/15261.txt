@@ -1,0 +1,4 @@
+market -1 market -1 market -1 market -1 small -1 publ -1 publ -1 repret -1 kg -1 kg -1 lax -1 rate -1 rate -1 rate -1 tariff -1 journ -1 jfk -1 hkg -1 agent -1 sin -1 nrt -1 middl -1 sel -1 dxb -1 bah -1 forward -1 unit -1 indicat -1 larg -1 afric -1 -2
+ship -1 rio -1 stat -1 report -1 report -1 east -1 amsterdam -1 amsterdam -1 amsterdam -1 ratio -1 main -1 reut -1 reut -1 reut -1 pric -1 pric -1 volum -1 dutch -1 dutch -1 guild -1 guild -1 current -1 current -1 airport -1 confid -1 nbo -1 ams -1 ams -1 ams -1 ams -1 ams -1 -2
+ams -1 ams -1 ams -1 ams -1 ams -1 ams -1 ams -1 ams -1 ams -1 ams -1 ams -1 ams -1 ams -1 obtain -1 quot -1 quot -1 bog -1 london -1 ams_jnb -1 weight -1 calcul -1 rang -1 rang -1 date -1 basi -1 americ -1 base -1 aug -1 aug -1 latin -1 airlin -1 -2
+tpe -1 carg -1 carg -1 carg -1 carg -1 kul -1 mct -1 auh -1 air -1 air -1 air -1 air -1 mex -1 scl -1 aver -1 aver -1 version -1 regul -1 activ -1 asia -1 pacif -1 chi -1 -2

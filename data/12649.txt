@@ -1,0 +1,5 @@
+metal -1 febru -1 fundamant -1 market -1 novemb -1 novemb -1 newssroom -1 cop -1 cop -1 cop -1 cop -1 cop -1 cop -1 cop -1 cop -1 high -1 encour -1 march -1 low -1 rebound -1 term -1 term -1 octob -1 octob -1 fall -1 decreas -1 lme -1 lme -1 lme -1 poor -1 -2
+decemb -1 week -1 today -1 meet -1 anal -1 expect -1 soon -1 outlook -1 fell -1 fell -1 fell -1 fell -1 level -1 level -1 main -1 janu -1 gain -1 gain -1 gain -1 gain -1 volum -1 volum -1 volum -1 futur -1 test -1 support -1 support -1 open -1 open -1 end -1 end -1 -2
+end -1 end -1 long -1 contract -1 contract -1 techn -1 monday -1 narrow -1 short -1 short -1 short -1 rise -1 rise -1 buy -1 pressur -1 made -1 rose -1 rose -1 exchang -1 intr -1 london -1 shanghai -1 shanghai -1 shanghai -1 lack -1 move -1 fact -1 posit -1 specul -1 responsibl -1 new -1 -2
+new -1 consolid -1 rang -1 rang -1 ton -1 ton -1 ton -1 sell -1 session -1 alumin -1 day -1 day -1 septemb -1 septemb -1 board -1 friday -1 combin -1 combin -1 hit -1 due -1 due -1 negat -1 add -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 -2
+activ -1 hold -1 slow -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

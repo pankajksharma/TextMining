@@ -1,0 +1,2 @@
+stak -1 market -1 tuesday -1 stock -1 clos -1 clos -1 clos -1 high -1 privat -1 point -1 firm -1 attent -1 index -1 shar -1 thursday -1 control -1 reop -1 public -1 public -1 colomb -1 colomb -1 focus -1 exchang -1 plantat -1 institut -1 wednesday -1 sri -1 lank -1 bours -1 holiday -1 -2
+holiday -1 newsroom -1 sale -1 -2

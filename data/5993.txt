@@ -1,0 +1,1 @@
+shr -1 shr -1 q2 -1 industr -1 graph -1 net -1 net -1 sale -1 -2

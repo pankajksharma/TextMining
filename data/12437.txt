@@ -1,0 +1,4 @@
+overweight -1 overweight -1 market -1 target -1 medic -1 cs -1 cs -1 cs -1 cs -1 cs -1 month -1 stratec -1 stratec -1 stratec -1 stratec -1 stratec -1 stratec -1 year -1 full -1 disproport -1 regist -1 firm -1 equit -1 franc -1 franc -1 franc -1 franc -1 percent -1 percent -1 percent -1 -2
+percent -1 anal -1 expect -1 ratio -1 ratio -1 pric -1 pric -1 model -1 million -1 million -1 shar -1 shar -1 techn -1 monday -1 increas -1 outs -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 rais -1 rais -1 rais -1 research -1 quot -1 growth -1 growth -1 net -1 net -1 -2
+half -1 half -1 note -1 estimat -1 basi -1 incom -1 incom -1 wrot -1 earn -1 earn -1 portfolio -1 result -1 result -1 prem -1 zurich -1 editor -1 bours -1 excel -1 achief -1 urs -1 gratif -1 recommend -1 recommend -1 kunz -1 afternoon -1 forecast -1 forecast -1 operat -1 operat -1 mark -1 hold -1 -2
+electron -1 sale -1 sale -1 -2

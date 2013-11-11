@@ -1,0 +1,5 @@
+early -1 market -1 slip -1 tuesday -1 target -1 clos -1 steep -1 interest -1 rate -1 dtb -1 eras -1 low -1 low -1 currenc -1 schedul -1 frankfurt -1 point -1 point -1 point -1 billion -1 affect -1 pictur -1 german -1 firm -1 deal -1 spread -1 spread -1 today -1 germ -1 germ -1 -2
+germ -1 germ -1 yield -1 strong -1 minus -1 anal -1 anal -1 anal -1 govern -1 level -1 level -1 big -1 gain -1 futur -1 futur -1 futur -1 futur -1 futur -1 support -1 european -1 open -1 end -1 contract -1 contract -1 contract -1 trow -1 stead -1 short -1 current -1 financ -1 met -1 -2
+focus -1 pret -1 comfort -1 minist -1 move -1 plc -1 event -1 take -1 new -1 claim -1 note -1 note -1 rang -1 rang -1 basi -1 basi -1 basi -1 stuart -1 plan -1 day -1 day -1 profit -1 break -1 resist -1 curv -1 curv -1 hand -1 septemb -1 septemb -1 goal -1 prev -1 -2
+chanc -1 budget -1 intern -1 attempt -1 norinchukin -1 deficit -1 deficit -1 achief -1 chang -1 bund -1 bund -1 bund -1 bund -1 bund -1 late -1 late -1 late -1 set -1 newsroom -1 loom -1 mark -1 mark -1 hold -1 hold -1 ord -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2
+trad -1 trad -1 -2

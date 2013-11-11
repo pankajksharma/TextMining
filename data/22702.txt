@@ -1,0 +1,4 @@
+limit -1 early -1 market -1 market -1 thai -1 thai -1 thai -1 thai -1 thai -1 songkhl -1 stock -1 kg -1 kg -1 interest -1 ahead -1 rain -1 rain -1 term -1 provinc -1 provinc -1 octob -1 octob -1 rss3 -1 forward -1 firm -1 decemb -1 decemb -1 week -1 week -1 week -1 -2
+week -1 week -1 domest -1 domest -1 ship -1 ship -1 local -1 expect -1 expect -1 expect -1 govern -1 fell -1 big -1 janu -1 janu -1 pric -1 pric -1 pric -1 pric -1 deliv -1 benchmark -1 chin -1 smallhold -1 buy -1 buy -1 buy -1 daily -1 grow -1 scat -1 bangkok -1 bangkok -1 -2
+ent -1 fob -1 export -1 export -1 trang -1 surat -1 includ -1 septemb -1 rub -1 rub -1 rub -1 friday -1 japan -1 japan -1 japan -1 major -1 thailand -1 than -1 hit -1 prompt -1 hatyai -1 moderat -1 newsroom -1 absent -1 southern -1 southern -1 boost -1 ord -1 ord -1 sale -1 delay -1 -2
+trad -1 trad -1 slug -1 eas -1 eas -1 eas -1 -2

@@ -1,0 +1,4 @@
+stak -1 compan -1 compan -1 acquir -1 novemb -1 econom -1 econom -1 french -1 stock -1 interest -1 own -1 agent -1 bank -1 firm -1 invest -1 invest -1 interior -1 de -1 de -1 de -1 de -1 de -1 light -1 light -1 light -1 light -1 light -1 light -1 light -1 light -1 -2
+stat -1 stat -1 stat -1 rio -1 rio -1 rio -1 rio -1 rio -1 report -1 percent -1 janeir -1 janeir -1 janeir -1 janeir -1 local -1 administ -1 david -1 end -1 log -1 control -1 arrang -1 auction -1 assist -1 buy -1 buy -1 pow -1 pow -1 financ -1 monopo -1 exchang -1 priv -1 -2
+priv -1 ing -1 cerj -1 cerj -1 cerj -1 cerj -1 cerj -1 city -1 luiz -1 travess -1 travess -1 travess -1 edf -1 bid -1 bid -1 util -1 upcom -1 simon -1 new -1 new -1 new -1 part -1 brazil -1 brazil -1 sell -1 led -1 electr -1 electr -1 electr -1 council -1 ask -1 -2
+ask -1 plac -1 memb -1 suppl -1 consort -1 consort -1 make -1 newsroom -1 vice -1 presid -1 operat -1 distribut -1 prepar -1 -2

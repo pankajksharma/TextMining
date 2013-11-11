@@ -1,0 +1,4 @@
+early -1 mexic -1 mexic -1 mexic -1 mexic -1 market -1 market -1 look -1 tuesday -1 stock -1 clos -1 clos -1 clos -1 clos -1 clos -1 sunday -1 rate -1 month -1 month -1 year -1 ahead -1 bank -1 fall -1 line -1 invest -1 invest -1 spot -1 deal -1 deal -1 deal -1 -2
+deal -1 annual -1 peso -1 peso -1 peso -1 peso -1 peso -1 peso -1 peso -1 today -1 yield -1 stat -1 local -1 expect -1 balanc -1 treasur -1 speech -1 speech -1 hour -1 hour -1 deliv -1 end -1 end -1 long -1 contract -1 contract -1 contract -1 contract -1 contract -1 drop -1 nation -1 -2
+monday -1 increas -1 rise -1 made -1 rose -1 quion -1 city -1 continu -1 declin -1 declin -1 specul -1 specul -1 ernest -1 zedill -1 book -1 corpor -1 day -1 profit -1 demand -1 demand -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 bond -1 bond -1 alex -1 newsroom -1 address -1 presid -1 -2
+presid -1 presid -1 reflect -1 trad -1 centavo -1 centavo -1 centavo -1 hedg -1 -2

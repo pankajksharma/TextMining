@@ -1,0 +1,3 @@
+vet -1 niger -1 niger -1 niger -1 niger -1 niger -1 accur -1 pipelin -1 pipelin -1 alleg -1 gas -1 petroleum -1 trust -1 avert -1 togo -1 human -1 fund -1 produc -1 stat -1 commonwealth -1 commonwealth -1 pay -1 natur -1 digest -1 unpatriot -1 lago -1 accus -1 reut -1 million -1 thursday -1 -2
+open -1 contract -1 youth -1 oil -1 remain -1 time -1 press -1 press -1 caution -1 daily -1 feed -1 investig -1 made -1 verif -1 vouch -1 beef -1 import -1 thisday -1 work -1 vanguard -1 right -1 cow -1 diseas -1 mad -1 dialog -1 signif -1 speed -1 rive -1 ghan -1 story -1 story -1 -2
+aug -1 door -1 plan -1 guard -1 element -1 project -1 abus -1 polic -1 newsroom -1 add -1 mission -1 concent -1 sabot -1 benin -1 tax -1 group -1 -2

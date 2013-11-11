@@ -1,0 +1,4 @@
+stay -1 stall -1 tuesday -1 clos -1 saturday -1 monarch -1 year -1 privat -1 middl -1 sea -1 guest -1 tie -1 tie -1 tie -1 tie -1 tie -1 stand -1 war -1 amman -1 turn -1 join -1 hussein -1 hussein -1 hussein -1 hussein -1 hussein -1 gulf -1 gulf -1 gulf -1 gulf -1 -2
+red -1 jord -1 jord -1 jord -1 jord -1 jord -1 jord -1 stat -1 stat -1 stat -1 east -1 strong -1 expect -1 oman -1 oman -1 oman -1 invad -1 seafront -1 palac -1 palac -1 talk -1 remain -1 damag -1 bilater -1 western -1 aqab -1 city -1 senior -1 iraq -1 iraq -1 iraq -1 -2
+arriv -1 qaboo -1 qaboo -1 qaboo -1 visit -1 visit -1 ago -1 defect -1 saddam -1 improv -1 forgiv -1 neighbor -1 king -1 king -1 king -1 king -1 ally -1 day -1 condemn -1 arabia -1 arabia -1 person -1 arab -1 arab -1 kuwait -1 kuwait -1 spokesm -1 saud -1 saud -1 refus -1 sult -1 -2
+sult -1 sult -1 dramat -1 port -1 process -1 presid -1 southern -1 hold -1 offic -1 -2

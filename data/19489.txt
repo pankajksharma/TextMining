@@ -1,0 +1,3 @@
+noncompet -1 launch -1 submit -1 w9 -1 high -1 high -1 high -1 rate -1 rate -1 sep -1 sep -1 low -1 countr -1 tail -1 ny -1 billion -1 amount -1 amount -1 manag -1 usd -1 invest -1 discount -1 discount -1 discount -1 issu -1 debt -1 debt -1 straight -1 yield -1 yield -1 -2
+pay -1 minus -1 govern -1 treasur -1 treasur -1 cash -1 bill -1 bill -1 bill -1 bill -1 pric -1 pric -1 sold -1 matur -1 matur -1 auction -1 auction -1 auction -1 auction -1 time -1 time -1 typ -1 typ -1 cove -1 award -1 bid -1 bid -1 bid -1 bid -1 bid -1 bln -1 -2
+bln -1 district -1 date -1 rang -1 rang -1 rang -1 basi -1 cusip -1 aug -1 day -1 day -1 day -1 day -1 result -1 accept -1 fed -1 total -1 pt -1 sept -1 due -1 aver -1 aver -1 aver -1 aver -1 brought -1 usa -1 mln -1 pct -1 pct -1 pct -1 -2

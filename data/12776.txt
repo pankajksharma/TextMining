@@ -1,0 +1,2 @@
+lebanon -1 clos -1 clos -1 month -1 month -1 month -1 month -1 year -1 bracket -1 term -1 billion -1 billion -1 billion -1 billion -1 amount -1 amount -1 week -1 week -1 week -1 week -1 issu -1 issu -1 issu -1 issu -1 yield -1 treasur -1 bill -1 bill -1 beirut -1 beirut -1 -2
+matur -1 monday -1 monday -1 rais -1 rais -1 rais -1 rais -1 august -1 august -1 leban -1 leban -1 financ -1 nomin -1 minist -1 subscrib -1 ago -1 pound -1 pound -1 pound -1 pound -1 pound -1 pound -1 bln -1 post -1 prev -1 prev -1 editor -1 dollar -1 surplus -1 -2

@@ -1,0 +1,3 @@
+liber -1 inspect -1 clos -1 room -1 writ -1 file -1 report -1 meet -1 percent -1 percent -1 percent -1 monitor -1 taxpay -1 taxpay -1 taxpay -1 law -1 polish -1 provis -1 million -1 million -1 leav -1 warsaw -1 zloty -1 zloty -1 cabinet -1 return -1 made -1 made -1 told -1 cut -1 -2
+wlodzimierz -1 cimoszewicz -1 cimoszewicz -1 cimoszewicz -1 friend -1 prim -1 minist -1 gift -1 claim -1 claim -1 incom -1 institut -1 relat -1 relief -1 reduc -1 revenu -1 revenu -1 pln -1 budget -1 budget -1 criticis -1 pole -1 deductibl -1 deductibl -1 donat -1 donat -1 irregul -1 deduc -1 found -1 abus -1 rule -1 -2
+newsroom -1 allow -1 advant -1 advant -1 tax -1 tax -1 tax -1 tax -1 tax -1 tax -1 tax -1 mln -1 -2

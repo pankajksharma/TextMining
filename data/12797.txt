@@ -1,0 +1,3 @@
+clear -1 gener -1 accur -1 idea -1 clos -1 begin -1 munich -1 privat -1 newspap -1 agree -1 expenditur -1 cypriot -1 fund -1 berlin -1 expect -1 lead -1 digest -1 reut -1 defend -1 contract -1 talk -1 talk -1 greek -1 monday -1 industr -1 cyprus -1 cyprus -1 cyprus -1 cyprus -1 afford -1 -2
+press -1 financ -1 verif -1 vouch -1 airway -1 haney -1 simer -1 minist -1 move -1 charavgh -1 christodoulou -1 direct -1 scen -1 develop -1 sir -1 problem -1 problem -1 story -1 story -1 aug -1 milit -1 milit -1 milit -1 audit -1 airlin -1 plot -1 equip -1 found -1 alith -1 make -1 republ -1 -2
+add -1 envoy -1 cler -1 denktash -1 fault -1 philelefthero -1 offic -1 -2

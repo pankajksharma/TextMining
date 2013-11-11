@@ -1,0 +1,2 @@
+cop -1 tuesday -1 municip -1 rate -1 year -1 amount -1 invest -1 deal -1 deal -1 issu -1 yield -1 yield -1 percent -1 percent -1 pric -1 pric -1 pric -1 moody -1 mig -1 million -1 remain -1 coupon -1 servic -1 certif -1 date -1 final -1 particip -1 pipe -1 pipe -1 jaffray -1 -2
+subject -1 chang -1 minnesot -1 minnesot -1 due -1 desk -1 pct -1 mln -1 -2

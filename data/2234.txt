@@ -1,0 +1,2 @@
+limit -1 french -1 autorout -1 ffr -1 bp -1 sep -1 sep -1 year -1 full -1 pari -1 pari -1 billion -1 manag -1 borrow -1 list -1 de -1 franc -1 spread -1 domest -1 straight -1 pay -1 pay -1 lead -1 pric -1 moody -1 matur -1 cna -1 banqu -1 caiss -1 coupon -1 -2
+typ -1 national -1 national -1 london -1 bln -1 des -1 note -1 date -1 announc -1 bond -1 bond -1 bond -1 set -1 newsroom -1 amt -1 iss -1 reoff -1 freq -1 denom -1 fee -1 sale -1 pct -1 pct -1 -2

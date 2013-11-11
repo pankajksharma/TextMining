@@ -1,0 +1,2 @@
+compan -1 api -1 api -1 api -1 api -1 bow -1 bow -1 sulphur -1 sulphur -1 sulphur -1 sulphur -1 blend -1 blend -1 shell -1 shell -1 canad -1 canad -1 canad -1 pric -1 oil -1 oil -1 rais -1 man -1 heavy -1 medium -1 medium -1 medium -1 medium -1 medium -1 date -1 -2
+cda -1 eff -1 rive -1 rive -1 hardist -1 hardist -1 hardist -1 hardist -1 cdlr -1 crom -1 crom -1 imper -1 suncor -1 petr -1 petr -1 koch -1 m3 -1 pct -1 pct -1 pct -1 pct -1 -2

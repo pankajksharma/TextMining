@@ -1,0 +1,3 @@
+carry -1 rate -1 year -1 year -1 year -1 btp -1 btp -1 btp -1 btp -1 pvs -1 pvs -1 gross -1 gross -1 yield -1 yield -1 yield -1 percent -1 treasur -1 assign -1 assign -1 fix -1 italian -1 italian -1 trln -1 trln -1 trln -1 trln -1 pric -1 auction -1 auction -1 -2
+auction -1 lire -1 lire -1 lire -1 lire -1 lire -1 lire -1 august -1 rise -1 coupon -1 seventh -1 seventh -1 bid -1 net -1 trill -1 trill -1 tranch -1 tranch -1 tranch -1 note -1 july -1 july -1 compar -1 result -1 prev -1 worth -1 bond -1 bond -1 pct -1 pct -1 pct -1 -2
+pct -1 pct -1 pct -1 pct -1 pct -1 -2

@@ -1,0 +1,3 @@
+compan -1 puert -1 puert -1 puert -1 ramo -1 ramo -1 tuesday -1 resort -1 manil -1 manil -1 manil -1 own -1 build -1 cover -1 fax -1 seek -1 stat -1 stat -1 stat -1 vict -1 pali -1 pali -1 heir -1 embroil -1 environ -1 environ -1 environ -1 marco -1 legal -1 palac -1 -2
+nation -1 secret -1 secret -1 reserv -1 azul -1 azul -1 azul -1 row -1 respect -1 investig -1 depos -1 proclam -1 propert -1 propert -1 forest -1 court -1 depart -1 depart -1 claim -1 hectar -1 hectar -1 ferdinand -1 south -1 lot -1 develop -1 philippin -1 conduc -1 milit -1 land -1 land -1 land -1 -2
+land -1 land -1 land -1 plan -1 titl -1 titl -1 comment -1 inform -1 proclaim -1 marin -1 fidel -1 newsroom -1 add -1 nullif -1 nullif -1 presid -1 presid -1 presid -1 park -1 offic -1 batang -1 -2

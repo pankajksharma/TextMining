@@ -1,0 +1,3 @@
+stock -1 fond -1 skod -1 bank -1 list -1 equit -1 equit -1 czk -1 czk -1 czk -1 issu -1 pric -1 pric -1 volum -1 shar -1 min -1 kladn -1 aero -1 czech -1 spt -1 made -1 pse -1 exchang -1 pragu -1 pragu -1 komercn -1 cesk -1 sporiteln -1 cez -1 ckd -1 -2
+prah -1 mosteck -1 uh -1 spol -1 okd -1 telecom -1 prazsk -1 prazsk -1 agb -1 direct -1 direct -1 podilov -1 elektrarn -1 opatov -1 grafiatisk -1 selik -1 kabl -1 krusnohorsk -1 lesy -1 lesy -1 lesy -1 chlumec -1 krivoklat -1 iks -1 plzen -1 prag -1 tabak -1 plynar -1 aug -1 tmp -1 pivov -1 -2
+montaz -1 precios -1 lustr -1 turnov -1 prerovsk -1 vitkovic -1 stroj -1 rif -1 selly -1 bellot -1 kb -1 strojplast -1 tachov -1 newsroom -1 max -1 tel -1 pf -1 hold -1 trad -1 trad -1 -2

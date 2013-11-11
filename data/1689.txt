@@ -1,0 +1,2 @@
+dlr -1 tuesday -1 clos -1 bank -1 forward -1 forward -1 forward -1 swap -1 deal -1 deal -1 deal -1 deal -1 deal -1 larg -1 larg -1 today -1 premia -1 premia -1 pay -1 int -1 volum -1 volum -1 open -1 end -1 rise -1 pressur -1 bombay -1 quot -1 rang -1 corpor -1 -2
+spurt -1 day -1 rupee -1 rupee -1 demand -1 dollar -1 dollar -1 dollar -1 moderat -1 newsroom -1 indian -1 indian -1 reflect -1 shad -1 shad -1 trad -1 -2

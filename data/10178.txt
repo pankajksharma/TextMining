@@ -1,0 +1,4 @@
+payment -1 damascus -1 stall -1 saturday -1 sunday -1 peac -1 peac -1 year -1 ahead -1 start -1 middl -1 middl -1 agree -1 tie -1 concret -1 amman -1 amman -1 road -1 larg -1 jord -1 jord -1 jord -1 jord -1 loan -1 loan -1 kabarit -1 stat -1 east -1 east -1 balanc -1 -2
+al -1 soft -1 modern -1 aid -1 contribut -1 million -1 million -1 million -1 million -1 support -1 push -1 talk -1 discuss -1 area -1 facilit -1 bilater -1 pow -1 foreign -1 foreign -1 financ -1 aqab -1 prim -1 embass -1 minist -1 minist -1 minist -1 arriv -1 arriv -1 arriv -1 tour -1 visit -1 -2
+visit -1 karim -1 northern -1 grant -1 grant -1 grant -1 bord -1 day -1 includ -1 arabia -1 plant -1 expand -1 saud -1 abdul -1 project -1 total -1 egypt -1 yukihik -1 iked -1 iked -1 iked -1 japan -1 japan -1 japan -1 japan -1 japan -1 japan -1 rule -1 due -1 process -1 palestin -1 -2
+israel -1 israel -1 symbol -1 boost -1 offic -1 sign -1 trad -1 cross -1 -2

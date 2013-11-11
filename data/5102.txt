@@ -1,0 +1,2 @@
+soybean -1 veget -1 veget -1 veget -1 market -1 grain -1 rapeseed -1 xinjiang -1 shandong -1 sichu -1 wholesal -1 wholesal -1 wuxi -1 grad -1 grad -1 grad -1 grad -1 grad -1 pric -1 pric -1 pric -1 nation -1 jiangsu -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 -2
+chin -1 chin -1 hunan -1 cent -1 qual -1 tianjin -1 peanut -1 figur -1 figur -1 figur -1 figur -1 jiangx -1 zhejiang -1 jilin -1 ton -1 aug -1 aug -1 item -1 inform -1 hubei -1 yuan -1 -2

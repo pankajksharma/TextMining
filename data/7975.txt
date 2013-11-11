@@ -1,0 +1,4 @@
+limit -1 early -1 market -1 retail -1 back -1 ag -1 tuesday -1 echo -1 french -1 french -1 stock -1 clos -1 clos -1 high -1 high -1 interest -1 dossy -1 rate -1 octob -1 newspap -1 point -1 cac -1 cac -1 cac -1 live -1 german -1 good -1 firm -1 deal -1 deal -1 -2
+deal -1 les -1 franc -1 franc -1 franc -1 franc -1 today -1 slight -1 slight -1 germ -1 germ -1 gmt -1 gmt -1 report -1 percent -1 percent -1 expect -1 big -1 index -1 gain -1 volum -1 futur -1 futur -1 million -1 thursday -1 thursday -1 shar -1 shar -1 support -1 open -1 open -1 -2
+contract -1 rise -1 rise -1 august -1 durabl -1 cut -1 declin -1 half -1 take -1 promod -1 promod -1 sell -1 july -1 profit -1 result -1 resist -1 spar -1 wall -1 septemb -1 septemb -1 street -1 asset -1 spokesm -1 blu -1 chip -1 friday -1 bond -1 due -1 due -1 due -1 afternoon -1 -2
+surpr -1 ord -1 hold -1 trad -1 -2

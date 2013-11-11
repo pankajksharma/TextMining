@@ -1,0 +1,2 @@
+payment -1 thai -1 thai -1 clos -1 declar -1 declar -1 form -1 unit -1 fund -1 fund -1 fund -1 special -1 special -1 cash -1 shar -1 thursday -1 mfc -1 dividend -1 dividend -1 dividend -1 august -1 paid -1 invesc -1 period -1 book -1 septemb -1 septemb -1 hong -1 kong -1 thailand -1 -2
+newsroom -1 asia -1 asia -1 -2

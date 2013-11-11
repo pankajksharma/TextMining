@@ -1,0 +1,2 @@
+compoar -1 market -1 market -1 clos -1 union -1 bank -1 deal -1 list -1 maintain -1 week -1 percent -1 pric -1 index -1 index -1 volum -1 volum -1 million -1 million -1 million -1 thursday -1 riga -1 increas -1 stead -1 eston -1 eston -1 rise -1 rise -1 rose -1 compar -1 wednesday -1 -2
+wednesday -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 bours -1 bours -1 newsroom -1 activ -1 activ -1 slug -1 pick -1 -2

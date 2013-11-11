@@ -1,0 +1,2 @@
+market -1 market -1 maghrib -1 money -1 interest -1 rate -1 liquid -1 receiv -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 billion -1 billion -1 billion -1 amount -1 week -1 week -1 week -1 sourc -1 percent -1 percent -1 dirham -1 dirham -1 dirham -1 dirham -1 al -1 leav -1 -2
+auction -1 auction -1 auction -1 august -1 made -1 made -1 cent -1 inject -1 inject -1 rabat -1 allocat -1 allocat -1 bid -1 equal -1 wednesday -1 morocc -1 morocc -1 satisf -1 demand -1 total -1 repurchas -1 newsroom -1 offic -1 -2

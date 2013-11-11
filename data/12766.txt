@@ -1,0 +1,2 @@
+market -1 market -1 refer -1 tuesday -1 stock -1 stock -1 clos -1 clos -1 point -1 point -1 seng -1 percent -1 fell -1 index -1 index -1 monday -1 public -1 declin -1 london -1 resum -1 blu -1 chip -1 hong -1 hong -1 hong -1 kong -1 kong -1 kong -1 friday -1 holiday -1 -2
+holiday -1 newsroom -1 trad -1 hang -1 -2

@@ -1,0 +1,2 @@
+brisk -1 stock -1 clos -1 clos -1 high -1 high -1 bank -1 point -1 invest -1 fund -1 fund -1 delh -1 delh -1 delh -1 strong -1 local -1 index -1 brok -1 shar -1 shar -1 end -1 push -1 push -1 buy -1 foreign -1 exchang -1 cement -1 institut -1 steel -1 fii -1 -2
+bours -1 moderat -1 mutual -1 -2

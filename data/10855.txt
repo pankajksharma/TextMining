@@ -1,0 +1,4 @@
+econom -1 correct -1 kucan -1 tuesday -1 countr -1 countr -1 countr -1 begin -1 declar -1 agree -1 agree -1 amount -1 good -1 interior -1 issu -1 stat -1 represent -1 percent -1 balanc -1 aleksand -1 busi -1 polish -1 polish -1 polish -1 aid -1 slov -1 slov -1 million -1 million -1 unfavor -1 -2
+monday -1 bilater -1 occas -1 sloven -1 sloven -1 zbigniew -1 foreign -1 foreign -1 rose -1 told -1 minist -1 minist -1 accompan -1 visit -1 visit -1 visit -1 crim -1 delegat -1 new -1 neighbor -1 part -1 organ -1 aim -1 export -1 turnov -1 siemiatkowsk -1 kwasniewsk -1 kwasniewsk -1 kwasniewsk -1 kwasniewsk -1 plan -1 -2
+day -1 relat -1 coop -1 coop -1 pharmaceutic -1 jacek -1 includ -1 includ -1 chemic -1 wednesday -1 dominat -1 climat -1 joint -1 alpin -1 total -1 due -1 polic -1 fight -1 republ -1 buchacz -1 milan -1 confer -1 zdzislaw -1 presid -1 presid -1 presid -1 rapack -1 rapack -1 rapack -1 creat -1 offic -1 -2
+sign -1 sign -1 trad -1 trad -1 trad -1 -2

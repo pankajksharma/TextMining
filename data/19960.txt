@@ -1,0 +1,2 @@
+jail -1 room -1 room -1 limerick -1 asleep -1 upstair -1 woman -1 intercept -1 prison -1 prison -1 cash -1 cash -1 thursday -1 open -1 ireland -1 slept -1 ground -1 made -1 safe -1 work -1 forc -1 southw -1 arriv -1 pound -1 take -1 coast -1 ward -1 rob -1 stol -1 irish -1 -2
+thief -1 thief -1 thief -1 canteen -1 canteen -1 canteen -1 canteen -1 polic -1 make -1 offic -1 offic -1 -2

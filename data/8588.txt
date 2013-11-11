@@ -1,0 +1,4 @@
+mouth -1 compan -1 elect -1 elect -1 elect -1 elect -1 accur -1 pipelin -1 reach -1 opinion -1 fair -1 own -1 curb -1 bank -1 fall -1 expert -1 cattl -1 alban -1 fund -1 produc -1 stat -1 local -1 local -1 local -1 local -1 govern -1 decid -1 scient -1 lead -1 lead -1 -2
+digest -1 ethnic -1 world -1 reut -1 law -1 law -1 eu -1 million -1 control -1 party -1 party -1 prosper -1 cosmet -1 podg -1 elektrostopanstv -1 abdurahm -1 alit -1 consid -1 polit -1 polit -1 press -1 press -1 hodg -1 grow -1 met -1 verif -1 provid -1 vouch -1 mater -1 enabl -1 diseas -1 -2
+lab -1 nova -1 part -1 skopj -1 skopj -1 macedon -1 macedon -1 final -1 propos -1 casul -1 story -1 story -1 electr -1 aug -1 announc -1 resolut -1 particip -1 memb -1 project -1 worth -1 dollar -1 friday -1 chang -1 epidem -1 cond -1 coal -1 coal -1 rule -1 rule -1 oppos -1 dnevnik -1 -2
+slobod -1 foot -1 makedonij -1 vece -1 newsroom -1 ballot -1 hold -1 demo -1 demo -1 distribut -1 -2

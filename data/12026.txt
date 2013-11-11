@@ -1,0 +1,3 @@
+clear -1 correct -1 correct -1 ag -1 repret -1 interest -1 month -1 year -1 full -1 full -1 bank -1 bank -1 bank -1 bank -1 debt -1 germ -1 gmt -1 stat -1 percent -1 administ -1 personnel -1 provis -1 provis -1 provis -1 million -1 million -1 million -1 oper -1 oper -1 refe -1 -2
+commit -1 rose -1 prov -1 figur -1 figur -1 figur -1 net -1 net -1 net -1 net -1 gp -1 gp -1 gp -1 partial -1 note -1 cost -1 incom -1 incom -1 incom -1 h1 -1 h1 -1 h1 -1 h1 -1 h1 -1 earn -1 earn -1 compar -1 profit -1 profit -1 profit -1 profit -1 -2
+result -1 actual -1 bad -1 account -1 expend -1 june -1 make -1 parent -1 parent -1 operat -1 operat -1 mark -1 mark -1 mark -1 dg -1 dg -1 trad -1 group -1 group -1 group -1 group -1 group -1 group -1 group -1 group -1 pct -1 -2

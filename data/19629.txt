@@ -1,0 +1,3 @@
+market -1 market -1 credit -1 interest -1 interest -1 perform -1 rate -1 rate -1 rate -1 rate -1 low -1 shown -1 term -1 term -1 agent -1 generat -1 bank -1 bank -1 del -1 del -1 individual -1 larg -1 client -1 today -1 fund -1 loan -1 domest -1 ibca -1 ibca -1 ibca -1 -2
+ibca -1 ibca -1 ibca -1 stat -1 affirm -1 affirm -1 affirm -1 a1 -1 nazional -1 nazional -1 banc -1 banc -1 level -1 legal -1 thursday -1 european -1 long -1 remain -1 stead -1 reserv -1 short -1 lavor -1 lavor -1 weak -1 weak -1 made -1 margin -1 qual -1 london -1 bnl -1 bnl -1 -2
+bnl -1 bnl -1 net -1 improv -1 improv -1 improv -1 reli -1 base -1 incom -1 corpor -1 announc -1 driv -1 enhanc -1 revenu -1 reduc -1 depend -1 newsroom -1 add -1 reflect -1 reflect -1 interbank -1 -2

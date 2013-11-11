@@ -1,0 +1,2 @@
+ag -1 month -1 full -1 frankfurt -1 fall -1 invest -1 invest -1 germ -1 stat -1 fix -1 million -1 pack -1 viag -1 viag -1 pre -1 pre -1 note -1 energ -1 energ -1 h1 -1 profit -1 profit -1 chemic -1 chemic -1 logist -1 particip -1 workforc -1 asset -1 june -1 newsroom -1 -2
+mark -1 sale -1 tax -1 tax -1 group -1 group -1 group -1 group -1 group -1 group -1 pct -1 -2

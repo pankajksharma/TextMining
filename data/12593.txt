@@ -1,0 +1,3 @@
+sery -1 gas -1 year -1 term -1 term -1 qtr -1 qtr -1 sydney -1 trend -1 fall -1 fall -1 quart -1 quart -1 quart -1 gross -1 mine -1 produc -1 produc -1 produc -1 produc -1 produc -1 produc -1 percent -1 percent -1 percent -1 percent -1 fell -1 q2 -1 pric -1 index -1 -2
+index -1 show -1 wat -1 adjust -1 adjust -1 monday -1 industr -1 industr -1 industr -1 industr -1 industr -1 industr -1 statist -1 bureau -1 rtr -1 rise -1 past -1 rose -1 austral -1 austral -1 austral -1 servic -1 abs -1 abs -1 electr -1 total -1 june -1 june -1 june -1 june -1 june -1 -2
+season -1 season -1 newsroom -1 manufactur -1 origin -1 -2

@@ -1,0 +1,2 @@
+temper -1 market -1 market -1 saturday -1 sunday -1 agent -1 firm -1 spot -1 spot -1 week -1 west -1 west -1 sourc -1 report -1 administ -1 pric -1 pric -1 pric -1 pric -1 lower -1 show -1 thursday -1 flat -1 hour -1 hour -1 hour -1 deliv -1 deliv -1 monday -1 stead -1 -2
+stead -1 feder -1 pow -1 pow -1 pow -1 pow -1 western -1 mwh -1 megawat -1 electr -1 electr -1 day -1 day -1 heatwav -1 heat -1 bonnevill -1 held -1 friday -1 friday -1 late -1 unchang -1 forecast -1 forecast -1 bpa -1 bpa -1 bpa -1 norm -1 norm -1 keep -1 block -1 block -1 -2

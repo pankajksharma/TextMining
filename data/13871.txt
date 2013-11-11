@@ -1,0 +1,2 @@
+compan -1 train -1 stock -1 month -1 declar -1 shr -1 nil -1 nil -1 shenzh -1 railroad -1 list -1 guangzhou -1 stat -1 st -1 payabl -1 million -1 end -1 dividend -1 dividend -1 exchang -1 servic -1 net -1 note -1 h1 -1 except -1 railway -1 railway -1 railway -1 turnov -1 result -1 -2
+particip -1 item -1 hong -1 hong -1 hong -1 kong -1 kong -1 kong -1 june -1 newsroom -1 yuan -1 yuan -1 yuan -1 yuan -1 guangsh -1 guangsh -1 guangsh -1 sole -1 operat -1 -2

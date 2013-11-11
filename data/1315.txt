@@ -1,0 +1,2 @@
+stock -1 downgrad -1 alert -1 rate -1 rate -1 rate -1 month -1 glass -1 glass -1 point -1 system -1 issu -1 grad -1 percent -1 assign -1 index -1 brok -1 exchang -1 cut -1 research -1 research -1 research -1 section -1 move -1 topix -1 nippon -1 nippon -1 elec -1 toky -1 direct -1 -2
+valu -1 electr -1 institut -1 institut -1 daiw -1 daiw -1 wednesday -1 prev -1 secur -1 see -1 -2

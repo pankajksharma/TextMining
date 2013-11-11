@@ -1,0 +1,3 @@
+market -1 fin -1 fin -1 fin -1 merg -1 own -1 countr -1 year -1 term -1 start -1 som -1 finland -1 week -1 norway -1 produc -1 stat -1 stat -1 requir -1 introduc -1 helsink -1 administ -1 grid -1 grid -1 support -1 techn -1 swed -1 pow -1 pow -1 exchang -1 exchang -1 -2
+exchang -1 exchang -1 assoc -1 util -1 imatr -1 voim -1 ago -1 note -1 harmon -1 harmon -1 ivo -1 ivo -1 taxat -1 led -1 electr -1 electr -1 electr -1 run -1 charg -1 nordic -1 nordic -1 nordic -1 nordic -1 derivat -1 pan -1 bours -1 friday -1 separat -1 suppport -1 newsroom -1 operat -1 -2
+nordel -1 nordel -1 prerequir -1 trad -1 trad -1 -2

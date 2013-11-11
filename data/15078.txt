@@ -1,0 +1,2 @@
+sep -1 sep -1 sep -1 term -1 mgr -1 mar -1 yen -1 bank -1 trust -1 borrow -1 issu -1 straight -1 straight -1 pay -1 pay -1 lead -1 int -1 pric -1 nis -1 moody -1 matur -1 coupon -1 typ -1 bln -1 date -1 date -1 date -1 bbb -1 aug -1 dai -1 -2
+ichi -1 kangy -1 jcr -1 jbri -1 secur -1 bond -1 bond -1 set -1 nomur -1 amt -1 iss -1 sign -1 isek -1 isek -1 -2

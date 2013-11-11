@@ -1,0 +1,4 @@
+inclin -1 tuesday -1 stock -1 stock -1 clos -1 begin -1 begin -1 begin -1 gram -1 wt -1 nl -1 sydney -1 resourc -1 war -1 war -1 common -1 mine -1 mine -1 drill -1 drill -1 assign -1 canad -1 rho -1 rho -1 rho -1 rhoo -1 javorie -1 podpolom -1 ax -1 ax -1 -2
+miner -1 miner -1 ordin -1 junior -1 diamons -1 test -1 shar -1 shar -1 shar -1 shar -1 face -1 face -1 quar -1 quar -1 channel -1 gold -1 gold -1 gold -1 vancouv -1 vancouv -1 vancouv -1 vancouv -1 rtr -1 current -1 met -1 met -1 met -1 cent -1 width -1 exchang -1 exchang -1 -2
+exchang -1 exchang -1 austral -1 austral -1 austral -1 call -1 quot -1 continu -1 senior -1 section -1 explor -1 nearb -1 outcrop -1 discov -1 program -1 ton -1 includ -1 septemb -1 septemb -1 effect -1 board -1 sampl -1 chang -1 band -1 hole -1 licent -1 symbol -1 symbol -1 symbol -1 newsroom -1 slovak -1 -2
+rhod -1 rhod -1 rhod -1 rhod -1 rhod -1 reveal -1 trad -1 trad -1 trad -1 option -1 option -1 option -1 -2

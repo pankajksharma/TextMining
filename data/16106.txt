@@ -1,0 +1,4 @@
+night -1 obligat -1 limit -1 limit -1 limit -1 limit -1 small -1 publ -1 quiet -1 decibel -1 decibel -1 worthwil -1 gosch -1 violat -1 way -1 low -1 beneex -1 term -1 octob -1 trim -1 peopl -1 noisy -1 stat -1 local -1 govern -1 world -1 level -1 level -1 level -1 level -1 -2
+big -1 janu -1 lower -1 exist -1 belief -1 maxim -1 increas -1 time -1 heathrow -1 heathrow -1 met -1 airport -1 airport -1 airport -1 aircraft -1 flow -1 effort -1 minist -1 minist -1 numb -1 gatwick -1 gatwick -1 london -1 london -1 london -1 depart -1 detect -1 detect -1 lord -1 loud -1 fine -1 -2
+pape -1 reposit -1 apply -1 propos -1 plan -1 day -1 transport -1 announc -1 wednesday -1 reduc -1 reduc -1 reduc -1 reduc -1 effect -1 aviat -1 spokesm -1 spokesm -1 uk -1 intern -1 present -1 satisf -1 monit -1 brit -1 compl -1 make -1 nois -1 nois -1 nois -1 nois -1 nois -1 newsroom -1 -2
+busy -1 stanst -1 consult -1 sought -1 -2

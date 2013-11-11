@@ -1,0 +1,2 @@
+stak -1 train -1 tuesday -1 own -1 race -1 race -1 year -1 york -1 length -1 length -1 quart -1 michael -1 km -1 dist -1 win -1 win -1 hors -1 hall -1 juddmont -1 juddmont -1 rid -1 frankie -1 dettor -1 bijou -1 ind -1 jason -1 weav -1 godolphin -1 saeed -1 upward -1 -2
+bin -1 suroor -1 pound -1 half -1 mile -1 old -1 favourit -1 hill -1 run -1 island -1 result -1 result -1 ran -1 intern -1 intern -1 group -1 -2

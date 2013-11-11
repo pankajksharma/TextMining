@@ -1,0 +1,4 @@
+follow -1 febru -1 novemb -1 month -1 month -1 year -1 yr -1 yr -1 lo -1 lo -1 lo -1 bank -1 bank -1 bank -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 toront -1 week -1 week -1 week -1 week -1 bought -1 yld -1 yld -1 yld -1 yield -1 -2
+yield -1 yield -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 govern -1 treasur -1 bill -1 bill -1 bill -1 bill -1 bill -1 bill -1 avg -1 avg -1 avg -1 avg -1 canad -1 canad -1 canad -1 mo -1 mo -1 mo -1 mo -1 reut -1 pric -1 -2
+pric -1 million -1 million -1 auction -1 bureau -1 august -1 bln -1 bln -1 bln -1 bln -1 bln -1 bln -1 bln -1 bln -1 mat -1 aug -1 detail -1 day -1 day -1 day -1 day -1 total -1 due -1 due -1 due -1 due -1 due -1 due -1 due -1 due -1 due -1 -2
+due -1 aver -1 aver -1 amt -1 hold -1 pct -1 pct -1 pct -1 pct -1 -2

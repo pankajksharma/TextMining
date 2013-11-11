@@ -1,0 +1,4 @@
+stay -1 market -1 novemb -1 sect -1 recent -1 recent -1 stop -1 interest -1 interest -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 month -1 month -1 year -1 year -1 term -1 bank -1 bank -1 bank -1 bank -1 point -1 point -1 billion -1 statut -1 discount -1 -2
+discount -1 annual -1 issu -1 issu -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 percent -1 interv -1 treasur -1 treasur -1 treasur -1 bill -1 bill -1 bill -1 float -1 float -1 million -1 million -1 open -1 open -1 mohieddin -1 stabl -1 rais -1 rais -1 public -1 off -1 financ -1 -2
+cent -1 offer -1 offer -1 minist -1 amex -1 pound -1 pound -1 pound -1 medium -1 americ -1 sell -1 link -1 land -1 day -1 day -1 plan -1 express -1 wednesday -1 arab -1 septemb -1 el -1 gharib -1 worth -1 egypt -1 egypt -1 egypt -1 bond -1 bond -1 bond -1 bond -1 bond -1 -2
+aver -1 late -1 mln -1 -2

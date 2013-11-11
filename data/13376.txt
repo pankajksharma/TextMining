@@ -1,0 +1,1 @@
+compan -1 facil -1 agent -1 build -1 build -1 approv -1 approv -1 requir -1 protect -1 environ -1 environ -1 oasi -1 oasi -1 exxon -1 exxon -1 oil -1 green -1 green -1 wast -1 won -1 certif -1 permit -1 corp -1 plant -1 equip -1 compl -1 process -1 manufactur -1 -2

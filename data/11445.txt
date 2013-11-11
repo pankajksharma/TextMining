@@ -1,0 +1,2 @@
+market -1 portion -1 stock -1 rand -1 year -1 year -1 equit -1 week -1 week -1 week -1 million -1 shar -1 shar -1 foreign -1 exchang -1 exchang -1 purchas -1 purchas -1 figur -1 net -1 net -1 net -1 ago -1 jse -1 jse -1 resid -1 resid -1 resid -1 note -1 date -1 -2
+sell -1 sell -1 aug -1 comprehend -1 safric -1 johannesburg -1 johannesburg -1 newsroom -1 execut -1 reflect -1 transact -1 transact -1 sale -1 sale -1 -2

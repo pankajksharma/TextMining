@@ -1,0 +1,4 @@
+elector -1 elect -1 elect -1 elect -1 elect -1 elect -1 elect -1 elect -1 gener -1 cdu -1 cdu -1 cdu -1 cdu -1 cdu -1 cdu -1 track -1 opinion -1 opinion -1 octob -1 fdp -1 fdp -1 fdp -1 fdp -1 fdp -1 fdp -1 april -1 april -1 april -1 april -1 german -1 -2
+csu -1 csu -1 csu -1 csu -1 csu -1 csu -1 spd -1 spd -1 spd -1 spd -1 spd -1 spd -1 germ -1 main -1 support -1 party -1 party -1 nation -1 polit -1 polit -1 august -1 emnid -1 emnid -1 emnid -1 emnid -1 emnid -1 emnid -1 allensbach -1 allensbach -1 allensbach -1 allensbach -1 -2
+fors -1 fors -1 forschungsgrup -1 wahl -1 green -1 green -1 green -1 green -1 green -1 green -1 research -1 res -1 res -1 res -1 res -1 res -1 res -1 note -1 poll -1 poll -1 aug -1 aug -1 aug -1 aug -1 july -1 july -1 july -1 result -1 june -1 june -1 june -1 -2
+june -1 june -1 late -1 late -1 newsroom -1 pds -1 pds -1 pds -1 pds -1 pds -1 pds -1 bon -1 offic -1 group -1 -2

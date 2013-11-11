@@ -1,0 +1,3 @@
+mechan -1 fire -1 fire -1 emerg -1 emerg -1 emerg -1 submit -1 tuesday -1 revolt -1 countr -1 provinc -1 provinc -1 provinc -1 schedul -1 agent -1 pursu -1 seek -1 peopl -1 debat -1 week -1 southeast -1 stat -1 stat -1 govern -1 int -1 extraordin -1 bill -1 rebel -1 law -1 law -1 -2
+law -1 surrend -1 conflict -1 open -1 party -1 increas -1 die -1 guerrill -1 outlaw -1 kurd -1 kurd -1 kurdist -1 anatol -1 work -1 forc -1 forc -1 coordin -1 parlia -1 parlia -1 envis -1 draft -1 draft -1 new -1 permit -1 neighbor -1 aim -1 lift -1 bord -1 turkey -1 turkey -1 pkk -1 -2
+pkk -1 session -1 run -1 secur -1 southeastern -1 coal -1 rule -1 rule -1 rule -1 separat -1 heed -1 operat -1 operat -1 creat -1 suspect -1 ord -1 count -1 cross -1 -2

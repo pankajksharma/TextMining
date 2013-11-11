@@ -1,0 +1,2 @@
+limit -1 limit -1 market -1 low -1 low -1 year -1 live -1 indicat -1 anal -1 expect -1 expect -1 cash -1 level -1 hog -1 hog -1 hog -1 hog -1 hog -1 hog -1 slaught -1 futur -1 futur -1 futur -1 futur -1 support -1 open -1 contract -1 techn -1 increas -1 stead -1 -2
+stead -1 august -1 pork -1 pork -1 pork -1 pork -1 belly -1 belly -1 cent -1 cent -1 pack -1 cwt -1 loss -1 call -1 continu -1 livestock -1 cme -1 cme -1 valu -1 cutout -1 session -1 run -1 suppl -1 major -1 weigh -1 weigh -1 adequat -1 add -1 trad -1 influ -1 -2

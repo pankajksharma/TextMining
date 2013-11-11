@@ -1,0 +1,4 @@
+obligat -1 fully -1 acquir -1 credit -1 union -1 rate -1 rate -1 rate -1 rate -1 own -1 term -1 term -1 term -1 term -1 octob -1 agent -1 bank -1 bank -1 bank -1 bank -1 bank -1 unit -1 decemb -1 equit -1 cibc -1 cibc -1 cibc -1 cibc -1 cibc -1 cibc -1 -2
+cibc -1 cibc -1 larg -1 loan -1 ibca -1 ibca -1 ibca -1 ibca -1 stat -1 aa -1 minus -1 a1 -1 assign -1 assign -1 assign -1 canad -1 canad -1 design -1 guarant -1 busi -1 busi -1 thursday -1 european -1 european -1 long -1 long -1 prior -1 short -1 short -1 eurobons -1 gundy -1 -2
+gundy -1 gundy -1 gundy -1 guaranteed -1 london -1 london -1 plc -1 plc -1 plc -1 cwg -1 cwg -1 cwg -1 cwg -1 base -1 imper -1 corpor -1 conduc -1 reorgan -1 whol -1 uk -1 intern -1 secur -1 bond -1 chang -1 enter -1 operat -1 operat -1 creat -1 creat -1 branch -1 branch -1 -2
+wood -1 wood -1 wood -1 wood -1 commerc -1 subsid -1 -2

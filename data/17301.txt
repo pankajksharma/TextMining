@@ -1,0 +1,3 @@
+market -1 newsdesk -1 rival -1 sery -1 sery -1 sery -1 rate -1 perform -1 perform -1 york -1 k5 -1 k5 -1 k5 -1 system -1 wedenesday -1 intel -1 line -1 larg -1 domest -1 devic -1 introduc -1 advanc -1 advanc -1 amd -1 amd -1 amd -1 design -1 model -1 test -1 chin -1 -2
+chin -1 chin -1 chin -1 press -1 pow -1 clock -1 auchard -1 comput -1 comput -1 enabl -1 micr -1 micr -1 megahertz -1 speed -1 equal -1 pcs -1 pcs -1 pcs -1 base -1 desktop -1 desktop -1 simil -1 run -1 corp -1 beij -1 person -1 chip -1 chip -1 chip -1 held -1 process -1 -2
+legend -1 legend -1 legend -1 legend -1 legend -1 featur -1 manufactur -1 confer -1 group -1 -2

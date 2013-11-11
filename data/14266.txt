@@ -1,0 +1,4 @@
+punjab -1 congress -1 congress -1 anti -1 anti -1 anti -1 hous -1 jail -1 jail -1 tuesday -1 sentenc -1 sentenc -1 violat -1 month -1 month -1 low -1 year -1 year -1 year -1 kill -1 kill -1 kill -1 octob -1 sikh -1 sikh -1 sikh -1 sikh -1 sikh -1 sikh -1 dhingr -1 -2
+amritsar -1 trust -1 headquart -1 reveng -1 curfew -1 peopl -1 peopl -1 peopl -1 human -1 stat -1 delh -1 bodyguard -1 mob -1 govern -1 lead -1 lead -1 lead -1 troop -1 root -1 accus -1 accus -1 blow -1 assassin -1 party -1 case -1 gold -1 die -1 imprison -1 deput -1 wak -1 press -1 -2
+right -1 prim -1 minist -1 minist -1 burn -1 court -1 court -1 court -1 india -1 india -1 shrin -1 spree -1 parlia -1 ago -1 judg -1 northern -1 riot -1 riot -1 riot -1 holy -1 milit -1 run -1 includ -1 templ -1 templ -1 concur -1 indir -1 explos -1 involut -1 memb -1 order -1 -2
+lynch -1 role -1 separat -1 gandh -1 gandh -1 gandh -1 indian -1 indian -1 indian -1 operat -1 ord -1 group -1 verdict -1 -2

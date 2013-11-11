@@ -1,0 +1,2 @@
+market -1 b2 -1 privat -1 manag -1 borrow -1 deal -1 equit -1 annual -1 nc -1 issu -1 issu -1 sourc -1 debt -1 debt -1 yield -1 pay -1 pay -1 omnipoint -1 omnipoint -1 lead -1 pric -1 pric -1 moody -1 thursday -1 matur -1 ccc -1 coupon -1 typ -1 call -1 call -1 -2
+note -1 note -1 date -1 donaldson -1 jenret -1 semi -1 corp -1 plac -1 lufin -1 snr -1 rule -1 amt -1 iss -1 reoff -1 freq -1 pct -1 pct -1 mln -1 mln -1 -2

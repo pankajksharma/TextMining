@@ -1,0 +1,5 @@
+yellow -1 grain -1 market -1 newsdesk -1 credit -1 texa -1 texa -1 track -1 track -1 stock -1 balt -1 balt -1 durum -1 durum -1 durum -1 duluth -1 duluth -1 bushel -1 hrw -1 hrw -1 hrw -1 portland -1 agent -1 unit -1 gulf -1 gulf -1 gulf -1 gulf -1 today -1 ill -1 -2
+ill -1 discontinu -1 grad -1 oat -1 oat -1 govern -1 st -1 st -1 loui -1 loui -1 kans -1 kans -1 pric -1 pric -1 rye -1 rye -1 termin -1 commod -1 commod -1 commod -1 chicag -1 chicag -1 chicag -1 srw -1 srw -1 srw -1 corn -1 corn -1 corn -1 corn -1 cwt -1 -2
+wheat -1 offer -1 city -1 city -1 farm -1 notic -1 cfsa -1 cfsa -1 sww -1 sww -1 sww -1 stockton -1 stockton -1 soybn -1 servic -1 sorg -1 sorg -1 evansvill -1 evansvill -1 norf -1 memph -1 memph -1 brly -1 soyb -1 seatl -1 txg -1 certif -1 lou -1 barley -1 consolid -1 amarill -1 -2
+amarill -1 redempt -1 valu -1 valu -1 louisian -1 differ -1 peoria -1 peoria -1 corp -1 sorghum -1 sorghum -1 minneapol -1 minneapol -1 norfolk -1 cincinnat -1 cincinnat -1 effect -1 toled -1 toled -1 june -1 port -1 los -1 los -1 angel -1 angel -1 denv -1 denv -1 hrs -1 hrs -1 hrs -1 lag -1 -2
+establ -1 -2

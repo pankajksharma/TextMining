@@ -1,0 +1,4 @@
+ninet -1 stak -1 stak -1 stak -1 polibrasil -1 polibrasil -1 polibrasil -1 polibrasil -1 polibrasil -1 capac -1 petroquir -1 acquir -1 market -1 polipropilen -1 polipropilen -1 ipirang -1 stock -1 sharehold -1 consist -1 merg -1 magom -1 year -1 bank -1 firm -1 de -1 de -1 de -1 capit -1 produc -1 shell -1 -2
+stat -1 rio -1 rio -1 janeir -1 janeir -1 percent -1 percent -1 percent -1 minor -1 cash -1 pric -1 exist -1 million -1 million -1 million -1 million -1 shar -1 log -1 nation -1 oil -1 auction -1 auction -1 auction -1 remain -1 buy -1 paid -1 priv -1 exchang -1 propyl -1 propyl -1 belong -1 -2
+mega -1 mega -1 mega -1 mega -1 fact -1 simon -1 petrochem -1 direct -1 brazil -1 brazil -1 estimat -1 organ -1 ton -1 develop -1 plan -1 relat -1 giant -1 petrobr -1 total -1 bond -1 consort -1 consort -1 consort -1 consort -1 adhemar -1 bnd -1 newsroom -1 creat -1 reai -1 reai -1 sale -1 -2
+subsid -1 -2

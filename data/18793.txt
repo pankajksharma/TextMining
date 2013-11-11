@@ -1,0 +1,3 @@
+stay -1 market -1 market -1 market -1 tight -1 tight -1 tight -1 money -1 money -1 clos -1 clos -1 clos -1 high -1 high -1 rate -1 rate -1 rate -1 rate -1 month -1 liquid -1 liquid -1 liquid -1 julie -1 bank -1 bank -1 billion -1 system -1 firm -1 firm -1 deal -1 -2
+fund -1 report -1 percent -1 percent -1 expect -1 overnight -1 sent -1 thursday -1 thursday -1 open -1 end -1 push -1 finish -1 inject -1 cent -1 continu -1 pape -1 hu -1 taiw -1 taiw -1 day -1 compar -1 wednesday -1 bond -1 afternoon -1 operat -1 interbank -1 amid -1 commerc -1 slug -1 trad -1 -2
+trad -1 slow -1 eas -1 -2

@@ -1,0 +1,4 @@
+newsdesk -1 lebowitz -1 alleg -1 fals -1 engag -1 illinoi -1 stop -1 amic -1 agree -1 suit -1 suit -1 file -1 trademark -1 trademark -1 issu -1 stat -1 brand -1 reut -1 big -1 big -1 big -1 big -1 big -1 big -1 big -1 big -1 big -1 big -1 entitl -1 contract -1 -2
+sum -1 remain -1 discuss -1 unfair -1 termin -1 termin -1 smith -1 smith -1 smith -1 smith -1 smith -1 smith -1 smith -1 smith -1 smith -1 smith -1 chicag -1 provid -1 infring -1 cent -1 compet -1 court -1 court -1 court -1 court -1 court -1 district -1 district -1 judg -1 chief -1 grant -1 -2
+deny -1 basi -1 injunct -1 jean -1 prelimin -1 overal -1 specialt -1 breach -1 july -1 jacket -1 includ -1 resolut -1 wednesday -1 motion -1 favor -1 found -1 apparel -1 rule -1 rule -1 make -1 manufactur -1 execut -1 pete -1 surpr -1 licens -1 licens -1 advert -1 offic -1 sign -1 caterpill -1 caterpill -1 -2
+caterpill -1 caterpill -1 caterpill -1 caterpill -1 caterpill -1 caterpill -1 caterpill -1 disput -1 -2

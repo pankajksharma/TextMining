@@ -1,0 +1,3 @@
+mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 market -1 floor -1 recent -1 protest -1 protest -1 econom -1 back -1 track -1 stock -1 stock -1 stock -1 high -1 interest -1 interest -1 perform -1 rate -1 demonstr -1 receib -1 data -1 start -1 affect -1 fall -1 -2
+issu -1 issu -1 mix -1 pric -1 strength -1 deposit -1 benchmark -1 ve -1 rose -1 side -1 exchang -1 exchang -1 signif -1 bols -1 underl -1 school -1 school -1 americ -1 compar -1 great -1 impossibl -1 concern -1 effect -1 plac -1 student -1 major -1 morn -1 morn -1 releas -1 parent -1 delay -1 -2
+adr -1 adr -1 adr -1 adr -1 telmex -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

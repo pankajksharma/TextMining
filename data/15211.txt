@@ -1,0 +1,3 @@
+econom -1 tuesday -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 month -1 year -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 form -1 point -1 point -1 point -1 stat -1 stat -1 percent -1 percent -1 percent -1 percent -1 -2
+percent -1 requir -1 lead -1 lend -1 lend -1 lend -1 dong -1 deposit -1 governor -1 time -1 reserv -1 made -1 cent -1 cent -1 call -1 call -1 cut -1 cut -1 cut -1 cut -1 cut -1 prim -1 prim -1 prim -1 bid -1 move -1 half -1 save -1 taiw -1 taiw -1 taiw -1 -2
+taipei -1 run -1 island -1 coop -1 coop -1 coop -1 pass -1 reduc -1 reduc -1 effect -1 order -1 friday -1 major -1 respons -1 late -1 newsroom -1 yuan -1 sheu -1 sheu -1 commerc -1 jumpstart -1 slug -1 -2

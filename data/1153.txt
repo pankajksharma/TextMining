@@ -1,0 +1,3 @@
+early -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 market -1 tuesday -1 tuesday -1 tuesday -1 stock -1 stock -1 stock -1 clos -1 clos -1 clos -1 record -1 high -1 high -1 good -1 invest -1 invest -1 spot -1 deal -1 deal -1 peso -1 peso -1 peso -1 peso -1 peso -1 -2
+peso -1 peso -1 peso -1 strong -1 strong -1 strong -1 cool -1 gain -1 index -1 index -1 hour -1 hour -1 benchmark -1 remain -1 rise -1 buy -1 foreign -1 weak -1 centav -1 centav -1 centav -1 quion -1 city -1 predict -1 bols -1 day -1 day -1 wednesday -1 histor -1 intraday -1 hit -1 -2
+alex -1 set -1 newsroom -1 surg -1 trad -1 bit -1 pick -1 -2

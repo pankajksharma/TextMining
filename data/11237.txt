@@ -1,0 +1,3 @@
+mexic -1 leslie -1 municip -1 henry -1 las -1 cruc -1 site -1 system -1 seek -1 transmit -1 percent -1 meet -1 decid -1 burd -1 million -1 monday -1 author -1 smith -1 public -1 provid -1 prov -1 paso -1 paso -1 paso -1 propert -1 propert -1 propert -1 propert -1 city -1 city -1 -2
+city -1 court -1 court -1 util -1 util -1 util -1 util -1 jr -1 substat -1 devot -1 magist -1 judg -1 judg -1 neighbor -1 proof -1 harm -1 electr -1 electr -1 electr -1 electr -1 condemn -1 condemn -1 condemn -1 revenu -1 revenu -1 town -1 spokesm -1 account -1 el -1 el -1 el -1 -2
+found -1 rule -1 rule -1 suprem -1 operat -1 quintan -1 quintan -1 -2

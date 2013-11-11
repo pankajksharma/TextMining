@@ -1,0 +1,4 @@
+recov -1 metal -1 metal -1 wolrd -1 diversf -1 capac -1 mexic -1 mexic -1 mexic -1 stock -1 broker -1 broker -1 high -1 high -1 chri -1 year -1 year -1 year -1 year -1 term -1 term -1 cover -1 cover -1 start -1 prec -1 larg -1 domest -1 produc -1 mine -1 report -1 -2
+percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 outlook -1 defend -1 pric -1 volum -1 volum -1 volum -1 flat -1 end -1 exposur -1 exposur -1 long -1 remain -1 gold -1 gold -1 industr -1 increas -1 increas -1 increas -1 initiat -1 initiat -1 short -1 grow -1 aspin -1 -2
+qual -1 city -1 play -1 medium -1 posit -1 geograph -1 valuat -1 plan -1 plan -1 result -1 essent -1 refin -1 refin -1 giant -1 expand -1 silf -1 silf -1 friday -1 zinc -1 zinc -1 recommend -1 recommend -1 newsroom -1 hold -1 hold -1 hold -1 sale -1 sale -1 sale -1 interaccion -1 interaccion -1 -2
+interaccion -1 interaccion -1 penol -1 penol -1 penol -1 penol -1 -2

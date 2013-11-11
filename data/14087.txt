@@ -1,0 +1,4 @@
+market -1 market -1 market -1 emerg -1 lce -1 back -1 speculatl -1 idea -1 clos -1 clos -1 clos -1 syrian -1 high -1 high -1 high -1 high -1 month -1 march -1 march -1 low -1 low -1 low -1 nerv -1 fresh -1 octob -1 octob -1 octob -1 octob -1 octob -1 cover -1 -2
+york -1 york -1 trim -1 midsess -1 physic -1 firm -1 decemb -1 deal -1 deal -1 peopl -1 overnight -1 chas -1 world -1 world -1 pric -1 pric -1 pric -1 brok -1 brok -1 futur -1 futur -1 anticip -1 test -1 support -1 support -1 strength -1 end -1 end -1 contract -1 contract -1 contract -1 -2
+suzan -1 rostl -1 remain -1 didn -1 commod -1 wak -1 rais -1 short -1 buy -1 buy -1 buy -1 buy -1 buy -1 finish -1 finish -1 pressur -1 loss -1 fail -1 collaps -1 sugar -1 sugar -1 sugar -1 buoy -1 note -1 rang -1 settl -1 basi -1 basi -1 ton -1 sell -1 sell -1 -2
+day -1 day -1 dry -1 csc -1 csc -1 held -1 friday -1 whit -1 unchang -1 trad -1 trad -1 -2

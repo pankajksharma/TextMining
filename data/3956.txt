@@ -1,0 +1,2 @@
+bring -1 early -1 market -1 quiet -1 thai -1 thai -1 tuesday -1 money -1 baht -1 high -1 interest -1 rate -1 rate -1 rate -1 rate -1 low -1 cheap -1 bank -1 bank -1 bank -1 fall -1 swap -1 deal -1 deal -1 deal -1 fund -1 fund -1 percent -1 percent -1 percent -1 -2
+local -1 requir -1 overnight -1 reserv -1 wednesday -1 suppl -1 prompt -1 late -1 late -1 late -1 tomorrow -1 tomorrow -1 afternoon -1 offshor -1 interbank -1 interbank -1 trad -1 trad -1 eas -1 eas -1 -2

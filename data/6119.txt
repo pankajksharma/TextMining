@@ -1,0 +1,2 @@
+launch -1 rate -1 rate -1 facil -1 liquid -1 liquid -1 bank -1 bank -1 billion -1 fax -1 gmt -1 percent -1 percent -1 special -1 special -1 amsterdam -1 advanc -1 advanc -1 advanc -1 open -1 expir -1 dutch -1 dutch -1 guild -1 short -1 replac -1 cent -1 cent -1 cut -1 cut -1 -2
+allocat -1 subscrib -1 day -1 day -1 announc -1 tend -1 friday -1 friday -1 friday -1 newsroom -1 pact -1 pact -1 pact -1 pct -1 -2

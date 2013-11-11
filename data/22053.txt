@@ -1,0 +1,4 @@
+novemb -1 market -1 market -1 grain -1 grain -1 clos -1 clos -1 clos -1 clos -1 stg -1 stg -1 stg -1 stg -1 stg -1 stg -1 low -1 low -1 ballantyn -1 dec -1 begin -1 good -1 good -1 spot -1 decemb -1 peopl -1 mill -1 mill -1 mill -1 report -1 grad -1 -2
+percent -1 east -1 amsterdam -1 cash -1 mean -1 busi -1 futur -1 futur -1 futur -1 futur -1 protein -1 deliv -1 jim -1 weekend -1 weekend -1 renew -1 area -1 area -1 harvest -1 pressur -1 feed -1 feed -1 feed -1 feed -1 paid -1 mater -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 -2
+wheat -1 wheat -1 london -1 won -1 barley -1 barley -1 coast -1 ton -1 lot -1 lot -1 lot -1 fob -1 fob -1 uk -1 uk -1 uk -1 friday -1 oct -1 port -1 depend -1 depend -1 weather -1 weather -1 make -1 unchang -1 newsroom -1 forecast -1 mark -1 thought -1 slow -1 trad -1 -2
+trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

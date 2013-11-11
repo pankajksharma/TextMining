@@ -1,0 +1,4 @@
+payment -1 payment -1 payment -1 payment -1 compan -1 early -1 small -1 emerg -1 tuesday -1 tuesday -1 tuesday -1 kun -1 kun -1 kun -1 kun -1 kun -1 kun -1 seoul -1 bankruptc -1 bankruptc -1 bankruptc -1 construc -1 construc -1 construc -1 construc -1 construc -1 construc -1 construc -1 default -1 build -1 -2
+agree -1 dongsung -1 dongsung -1 dongsung -1 dongsung -1 gaurant -1 unlist -1 loan -1 hankook -1 debt -1 debt -1 debt -1 youngnam -1 dongb -1 promit -1 kilhoon -1 meet -1 meet -1 seoulbank -1 help -1 help -1 lead -1 confirm -1 home -1 principl -1 guarant -1 face -1 give -1 avoid -1 avoid -1 narrow -1 -2
+august -1 buy -1 extend -1 extend -1 bust -1 rid -1 medium -1 korean -1 size -1 note -1 south -1 engineer -1 corp -1 deadlin -1 promis -1 due -1 consort -1 consort -1 consort -1 takeov -1 young -1 young -1 young -1 young -1 young -1 young -1 make -1 afternoon -1 afternoon -1 newsroom -1 escap -1 -2
+escap -1 offic -1 offic -1 -2

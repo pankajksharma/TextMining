@@ -1,0 +1,2 @@
+ut -1 sery -1 municip -1 rate -1 rate -1 agent -1 agent -1 amount -1 invest -1 issu -1 rev -1 stat -1 aa -1 aa -1 expect -1 expect -1 moody -1 moody -1 deliv -1 pow -1 pow -1 pow -1 servic -1 intermountain -1 intermountain -1 date -1 announc -1 suppl -1 bond -1 prospect -1 -2
+desk -1 sale -1 sale -1 -2

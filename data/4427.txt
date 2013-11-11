@@ -1,0 +1,2 @@
+market -1 launch -1 gener -1 refug -1 clos -1 stg -1 stg -1 issu -1 issu -1 debt -1 meet -1 percent -1 special -1 extraordin -1 cash -1 million -1 million -1 shar -1 shar -1 assur -1 rais -1 august -1 august -1 off -1 financ -1 financ -1 call -1 purchas -1 right -1 propert -1 -2
+london -1 plc -1 date -1 aim -1 penc -1 corpor -1 july -1 resolut -1 estat -1 pass -1 reduc -1 moorfield -1 moorfield -1 moorfield -1 moorfield -1 plac -1 proceed -1 hoar -1 govet -1 respons -1 cond -1 cond -1 newsroom -1 mute -1 -2

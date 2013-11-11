@@ -1,0 +1,2 @@
+tuesday -1 shutdown -1 immed -1 hot -1 york -1 york -1 nuke -1 point -1 point -1 ny -1 system -1 line -1 nrc -1 nrc -1 unit -1 unit -1 report -1 standb -1 status -1 anticip -1 con -1 con -1 pow -1 pow -1 return -1 daily -1 commit -1 servic -1 megawat -1 mw -1 -2
+mw -1 consolid -1 shut -1 shut -1 nuclear -1 nuclear -1 detail -1 plant -1 typic -1 regulat -1 edison -1 edison -1 ed -1 station -1 restart -1 pt -1 prompt -1 indian -1 indian -1 indian -1 desk -1 -2

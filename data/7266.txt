@@ -1,0 +1,4 @@
+compan -1 hous -1 hous -1 merrill -1 sery -1 municip -1 fitch -1 receiv -1 receiv -1 writ -1 amount -1 amount -1 amount -1 amount -1 firm -1 baum -1 today -1 dtp -1 yield -1 confirm -1 confirm -1 confirm -1 alask -1 alask -1 aaa -1 aaa -1 aaa -1 aaa -1 aaa -1 aaa -1 -2
+pric -1 pric -1 pric -1 moody -1 deliv -1 deliv -1 matur -1 matur -1 matur -1 matur -1 smith -1 barney -1 august -1 august -1 incorpor -1 bear -1 princip -1 stearn -1 coupon -1 coupon -1 financ -1 financ -1 call -1 call -1 cab -1 approx -1 award -1 award -1 initial -1 insur -1 georg -1 -2
+note -1 date -1 date -1 date -1 date -1 final -1 final -1 redempt -1 corpor -1 corpor -1 paineweb -1 wednesday -1 par -1 septemb -1 revenu -1 subject -1 dollar -1 lynch -1 bond -1 bond -1 zero -1 mbia -1 due -1 late -1 goldm -1 sach -1 featur -1 featur -1 mortg -1 desk -1 trad -1 -2
+option -1 option -1 -2

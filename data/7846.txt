@@ -1,0 +1,3 @@
+early -1 early -1 market -1 rand -1 rand -1 high -1 interest -1 rate -1 chri -1 shak -1 bank -1 point -1 point -1 point -1 turn -1 firm -1 firm -1 deal -1 deal -1 percept -1 week -1 week -1 week -1 afric -1 afric -1 strong -1 help -1 sent -1 sent -1 level -1 -2
+mood -1 big -1 index -1 index -1 index -1 futur -1 shar -1 shar -1 shar -1 shar -1 push -1 end -1 end -1 end -1 governor -1 talk -1 gloom -1 gold -1 gold -1 industr -1 industr -1 stead -1 reserv -1 buy -1 caution -1 nibbl -1 spectul -1 upbeat -1 declin -1 move -1 improv -1 -2
+fail -1 buoy -1 program -1 south -1 stal -1 lift -1 institut -1 institut -1 hike -1 relat -1 filt -1 involut -1 board -1 board -1 dollar -1 combin -1 activ -1 trad -1 trad -1 trad -1 -2

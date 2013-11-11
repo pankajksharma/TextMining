@@ -1,0 +1,2 @@
+grain -1 quiet -1 hard -1 year -1 provinc -1 food -1 food -1 food -1 wint -1 red -1 bought -1 bought -1 ship -1 ship -1 pric -1 soft -1 behalf -1 bureau -1 bureau -1 bureau -1 buy -1 typ -1 wheat -1 wheat -1 wheat -1 wheat -1 forc -1 date -1 basi -1 ton -1 -2
+ton -1 ton -1 fob -1 taiw -1 taiw -1 taiw -1 taipei -1 detail -1 wednesday -1 tend -1 tend -1 tend -1 oct -1 newsroom -1 arm -1 pacif -1 locat -1 agrex -1 trad -1 trad -1 trad -1 -2

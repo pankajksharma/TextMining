@@ -1,0 +1,2 @@
+draw -1 draw -1 genev -1 uefa -1 pao -1 pao -1 cup -1 cup -1 cup -1 cup -1 team -1 team -1 today -1 olympiako -1 olympiako -1 poland -1 european -1 european -1 warsaw -1 greek -1 win -1 socc -1 socc -1 ferencvaro -1 legia -1 dimitr -1 aek -1 aek -1 chemlon -1 humen -1 -2
+greec -1 kontogian -1 seed -1 athen -1 athen -1 involut -1 plac -1 newsroom -1 slovak -1 hung -1 -2

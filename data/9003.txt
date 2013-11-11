@@ -1,0 +1,4 @@
+small -1 clos -1 clos -1 high -1 interest -1 low -1 low -1 low -1 low -1 term -1 retreat -1 mild -1 bank -1 fall -1 select -1 invest -1 backward -1 backward -1 maintain -1 today -1 stat -1 local -1 expect -1 expect -1 rish -1 dhanuk -1 fell -1 ratnabal -1 level -1 level -1 -2
+pric -1 pric -1 rally -1 volum -1 volum -1 brok -1 brok -1 brok -1 anticip -1 shar -1 shar -1 shar -1 shar -1 face -1 support -1 support -1 end -1 calcut -1 calcut -1 calcut -1 techn -1 techn -1 industr -1 time -1 sustain -1 narrow -1 short -1 short -1 buy -1 foreign -1 exchang -1 -2
+bombay -1 move -1 levy -1 take -1 specul -1 specul -1 period -1 itc -1 stiff -1 rang -1 reli -1 lot -1 sell -1 institut -1 profit -1 charg -1 charg -1 fii -1 fii -1 rupee -1 rupee -1 tisc -1 account -1 blu -1 blu -1 secur -1 chip -1 chip -1 friday -1 shad -1 shad -1 -2
+ord -1 trad -1 trad -1 pick -1 -2

@@ -1,0 +1,4 @@
+market -1 market -1 texa -1 carry -1 tuesday -1 clos -1 indic -1 indic -1 indic -1 high -1 interest -1 month -1 month -1 low -1 low -1 low -1 low -1 henry -1 york -1 lid -1 mid -1 mid -1 deal -1 unit -1 spot -1 spot -1 wait -1 natg -1 natg -1 gulf -1 -2
+gulf -1 bidweek -1 light -1 basin -1 west -1 sourc -1 report -1 expect -1 cool -1 cts -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 soft -1 soft -1 million -1 deliv -1 talk -1 industr -1 midcontin -1 area -1 appalach -1 mcculloch -1 august -1 august -1 august -1 august -1 buy -1 -2
+buy -1 pow -1 hover -1 pressur -1 cent -1 cent -1 cent -1 dove -1 purchas -1 quot -1 upcom -1 specul -1 bulk -1 coast -1 rang -1 louisian -1 aug -1 day -1 filt -1 labor -1 septemb -1 septemb -1 septemb -1 septemb -1 prem -1 therm -1 brit -1 late -1 holiday -1 weather -1 make -1 -2
+permian -1 permian -1 desk -1 region -1 hub -1 trad -1 trad -1 keep -1 -2

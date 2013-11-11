@@ -1,0 +1,3 @@
+early -1 rival -1 back -1 rumor -1 broker -1 broker -1 high -1 merg -1 agree -1 buyout -1 richardson -1 richardson -1 richardson -1 richardson -1 greenshield -1 greenshield -1 greenshield -1 greenshield -1 deal -1 spot -1 sourc -1 strong -1 canad -1 canad -1 canad -1 canad -1 catapult -1 reut -1 busi -1 brok -1 -2
+brok -1 brok -1 million -1 million -1 million -1 thursday -1 thursday -1 circl -1 domin -1 domin -1 domin -1 domin -1 remain -1 elimin -1 buy -1 buy -1 told -1 work -1 purchas -1 forc -1 move -1 new -1 book -1 day -1 spokesm -1 intern -1 secur -1 combin -1 releas -1 top -1 sale -1 -2
+rbc -1 rbc -1 rbc -1 rbc -1 rbc -1 independ -1 -2

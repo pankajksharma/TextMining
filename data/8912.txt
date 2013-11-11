@@ -1,0 +1,2 @@
+market -1 diammon -1 newsdesk -1 dlr -1 la -1 la -1 unc -1 low -1 low -1 dap -1 dap -1 dap -1 chg -1 deal -1 ammon -1 ammon -1 gulf -1 gulf -1 phosph -1 cash -1 pric -1 pric -1 pric -1 unavail -1 flat -1 unq -1 stead -1 chicag -1 short -1 cent -1 -2
+cent -1 fla -1 move -1 ton -1 wednesday -1 dn -1 friday -1 amid -1 slow -1 slow -1 -2

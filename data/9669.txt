@@ -1,0 +1,2 @@
+market -1 market -1 heav -1 thin -1 thin -1 gas -1 high -1 cheap -1 inact -1 firm -1 firm -1 indicat -1 assess -1 bunk -1 bunk -1 bunk -1 bunk -1 cst -1 cst -1 cst -1 enquir -1 enquir -1 brok -1 thursday -1 thursday -1 mdo -1 crud -1 oil -1 singapor -1 singapor -1 -2
+singapor -1 pape -1 ton -1 compar -1 carg -1 friday -1 friday -1 newsroom -1 trad -1 trad -1 trad -1 -2

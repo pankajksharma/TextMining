@@ -1,0 +1,3 @@
+early -1 early -1 repair -1 back -1 back -1 back -1 tuesday -1 specif -1 stag -1 full -1 full -1 spokeswom -1 spokeswom -1 output -1 output -1 line -1 unit -1 unit -1 unit -1 unit -1 week -1 week -1 week -1 sahe -1 produc -1 distill -1 distill -1 distill -1 distill -1 percent -1 -2
+expect -1 reut -1 restor -1 anticip -1 crud -1 crud -1 crud -1 crud -1 crud -1 oil -1 bureau -1 rtr -1 august -1 told -1 austral -1 mobil -1 mobil -1 mobil -1 shut -1 bpd -1 bpd -1 day -1 refin -1 refin -1 refin -1 refin -1 refin -1 barrel -1 due -1 melbourn -1 melbourn -1 -2
+see -1 operat -1 -2

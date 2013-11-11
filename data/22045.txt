@@ -1,0 +1,1 @@
+nth -1 grain -1 ocean -1 forecast96 -1 forecast96 -1 crnt -1 crnt -1 cen -1 afric -1 produc -1 east -1 east -1 amr -1 world -1 europ -1 wheat -1 est -1 est -1 igc -1 ussr -1 nr -1 south -1 fr -1 prev -1 prev -1 total -1 asia -1 asia -1 region -1 -2

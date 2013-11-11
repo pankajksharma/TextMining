@@ -1,0 +1,3 @@
+early -1 early -1 market -1 market -1 market -1 sect -1 tuesday -1 tuesday -1 money -1 clos -1 cap -1 rate -1 rate -1 liquid -1 retreat -1 bargain -1 bank -1 deal -1 deal -1 deal -1 deal -1 rush -1 nairob -1 shill -1 shill -1 shill -1 shill -1 shill -1 shill -1 percent -1 -2
+lost -1 overnight -1 level -1 level -1 gain -1 lukewarm -1 drop -1 oil -1 keny -1 keny -1 keny -1 return -1 weak -1 weak -1 cent -1 purchas -1 offer -1 hunt -1 move -1 play -1 pound -1 pound -1 part -1 rang -1 rang -1 export -1 compar -1 day -1 day -1 post -1 post -1 -2
+wednesday -1 prev -1 explain -1 satisf -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 aver -1 aver -1 morn -1 afternoon -1 newsroom -1 add -1 fear -1 ord -1 ord -1 interbank -1 hold -1 sale -1 commerc -1 trad -1 trad -1 -2

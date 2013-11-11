@@ -1,0 +1,7 @@
+compan -1 nov -1 nov -1 nov -1 nov -1 nov -1 nov -1 nov -1 nov -1 nov -1 nov -1 sect -1 sect -1 sect -1 sect -1 retail -1 econom -1 dwell -1 stock -1 interest -1 sep -1 sep -1 dec -1 dec -1 dec -1 dec -1 dec -1 dec -1 dec -1 dec -1 -2
+dec -1 qtr -1 qtr -1 build -1 privat -1 privat -1 privat -1 data -1 commenc -1 sydney -1 billion -1 trend -1 invest -1 fax -1 expenditur -1 unit -1 deprec -1 indicat -1 week -1 capit -1 quart -1 quart -1 quart -1 gross -1 gross -1 debt -1 debt -1 debt -1 domest -1 produc -1 stat -1 -2
+percent -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 q2 -1 pric -1 pric -1 pric -1 pric -1 pric -1 prev1 -1 busi -1 index -1 -2
+adj -1 adj -1 adj -1 adj -1 adj -1 adj -1 adj -1 adj -1 adj -1 prev2 -1 ordin -1 deflat -1 gne -1 struc -1 mach -1 awot -1 awot -1 mayq -1 mayq -1 mayq -1 mayq -1 time -1 statist -1 rtr -1 public -1 public -1 austral -1 austral -1 cpi -1 cpi -1 gdp -1 -2
+gdp -1 gdp -1 gdp -1 gdp -1 gdp -1 gdp -1 net -1 net -1 pre -1 posit -1 period -1 underl -1 underl -1 const -1 const -1 const -1 const -1 consum -1 aug -1 aug -1 aug -1 earn -1 profit -1 plant -1 invent -1 q1 -1 q1 -1 q1 -1 q1 -1 q1 -1 extern -1 -2
+extern -1 intern -1 equip -1 total -1 total -1 total -1 total -1 total -1 total -1 total -1 total -1 oct -1 oct -1 oct -1 oct -1 oct -1 oct -1 oct -1 oct -1 oct -1 aver -1 late -1 late -1 late -1 newsroom -1 trad -1 tax -1 pct -1 pct -1 pct -1 pct -1 -2
+pct -1 pct -1 pct -1 -2

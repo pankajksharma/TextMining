@@ -1,0 +1,2 @@
+stay -1 market -1 money -1 interest -1 rate -1 rate -1 buchar -1 term -1 bank -1 bank -1 bank -1 billion -1 billion -1 cen -1 lei -1 lei -1 oversubscrib -1 oversubscrib -1 week -1 week -1 fund -1 fund -1 fund -1 percent -1 percent -1 thursday -1 nation -1 auction -1 short -1 off -1 -2
+continu -1 bid -1 idl -1 bnr -1 bnr -1 refin -1 exceed -1 unchang -1 newsroom -1 roman -1 roman -1 -2

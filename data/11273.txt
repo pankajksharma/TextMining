@@ -1,0 +1,2 @@
+compan -1 disclos -1 newsdesk -1 reach -1 term -1 teleport -1 teleport -1 tcg -1 york -1 york -1 agree -1 agree -1 agree -1 invest -1 deal -1 equit -1 local -1 detroit -1 boston -1 busi -1 long -1 dist -1 dieg -1 monday -1 area -1 chicag -1 provid -1 san -1 san -1 network -1 -2
+francisc -1 phon -1 phon -1 cove -1 city -1 altern -1 ent -1 direct -1 commun -1 corp -1 corp -1 great -1 involut -1 miam -1 major -1 los -1 milwauk -1 angel -1 connect -1 access -1 metropolit -1 group -1 -2

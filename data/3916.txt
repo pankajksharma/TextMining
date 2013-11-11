@@ -1,0 +1,2 @@
+theft -1 carry -1 fals -1 hard -1 safet -1 cover -1 newspap -1 newspap -1 common -1 smok -1 ticket -1 introduc -1 ident -1 petty -1 face -1 nation -1 chin -1 chin -1 area -1 unspecif -1 buy -1 articl -1 daily -1 offend -1 loss -1 crimin -1 dete -1 fine -1 fine -1 detail -1 -2
+gave -1 land -1 wednesday -1 regulat -1 airlin -1 airlin -1 airlin -1 airlin -1 board -1 proceed -1 passeng -1 passeng -1 passeng -1 passeng -1 equip -1 equip -1 thief -1 inflight -1 guangm -1 lifesav -1 sly -1 make -1 fight -1 scal -1 offic -1 restrict -1 choic -1 -2

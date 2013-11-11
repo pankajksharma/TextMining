@@ -1,0 +1,2 @@
+rumor -1 rumor -1 record -1 drug -1 month -1 retreat -1 debr -1 sherm -1 gmt -1 gain -1 shar -1 shar -1 shar -1 shar -1 talk -1 talk -1 industr -1 remain -1 longstand -1 fade -1 fade -1 scrap -1 london -1 bid -1 bid -1 sharp -1 specul -1 wip -1 consolid -1 markdown -1 -2
+sell -1 driv -1 zenec -1 zenec -1 zenec -1 zenec -1 subject -1 takeov -1 takeov -1 takeov -1 intend -1 newsroom -1 absent -1 yesterday -1 trad -1 trad -1 independ -1 group -1 -2

@@ -1,0 +1,4 @@
+acquir -1 market -1 clar -1 clar -1 life -1 life -1 life -1 sect -1 emerg -1 credit -1 gener -1 situat -1 situat -1 rumor -1 rumor -1 rumor -1 rumor -1 cs -1 high -1 interest -1 suiss -1 heinrich -1 billion -1 deal -1 unit -1 week -1 today -1 report -1 anal -1 anal -1 -2
+float -1 restat -1 belief -1 shar -1 liabl -1 long -1 talk -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 time -1 reseach -1 mercantil -1 horst -1 buy -1 off -1 financ -1 financ -1 volatil -1 continu -1 declin -1 bid -1 posit -1 posit -1 front -1 wiem -1 wiem -1 -2
+problem -1 reinsur -1 reinsur -1 reinsur -1 reinsur -1 reinsur -1 reinsur -1 earn -1 run -1 run -1 plan -1 plan -1 day -1 day -1 prudent -1 prudent -1 prudent -1 corp -1 expand -1 comment -1 comment -1 comment -1 spokesm -1 zurich -1 editor -1 strateg -1 add -1 add -1 prospect -1 sterl -1 catastroph -1 -2
+sale -1 -2

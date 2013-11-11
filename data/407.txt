@@ -1,0 +1,4 @@
+early -1 draw -1 back -1 api -1 api -1 api -1 tuesday -1 stock -1 stock -1 stock -1 high -1 low -1 revers -1 year -1 year -1 year -1 build -1 build -1 build -1 data -1 data -1 data -1 york -1 stand -1 spot -1 spot -1 gulf -1 week -1 week -1 week -1 -2
+slight -1 distill -1 distill -1 report -1 deem -1 drawdown -1 reformul -1 harbor -1 nymex -1 fell -1 level -1 pric -1 pric -1 show -1 show -1 show -1 futur -1 futur -1 million -1 million -1 million -1 million -1 million -1 million -1 end -1 oil -1 increas -1 stabl -1 stabl -1 august -1 bear -1 -2
+bear -1 bear -1 side -1 cent -1 cent -1 call -1 numb -1 slid -1 sharp -1 period -1 put -1 coast -1 scant -1 compar -1 day -1 invent -1 invent -1 gasolin -1 gasolin -1 gasolin -1 gasolin -1 gasolin -1 heat -1 heat -1 barrel -1 barrel -1 barrel -1 barrel -1 total -1 late -1 season -1 -2
+season -1 access -1 access -1 releas -1 norm -1 heel -1 prod -1 slow -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

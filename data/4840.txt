@@ -1,0 +1,3 @@
+compan -1 market -1 interest -1 construc -1 construc -1 lisbon -1 lisbon -1 lisbon -1 sgp -1 portug -1 firm -1 invest -1 invest -1 today -1 bought -1 bought -1 fund -1 fund -1 fund -1 fund -1 gmt -1 percent -1 escudo -1 big -1 reut -1 show -1 volum -1 shar -1 shar -1 nation -1 -2
+consid -1 portugu -1 portugu -1 buy -1 stood -1 foreign -1 told -1 bare -1 won -1 play -1 pre -1 restructur -1 diog -1 vaz -1 vaz -1 gued -1 gued -1 jose -1 institut -1 result -1 spokesm -1 somagu -1 somagu -1 somagu -1 somagu -1 somagu -1 somagu -1 bours -1 bours -1 unchang -1 newsroom -1 -2
+recogn -1 vice -1 presid -1 operat -1 trad -1 pct -1 -2

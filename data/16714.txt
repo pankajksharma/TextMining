@@ -1,0 +1,2 @@
+market -1 market -1 quiet -1 tuesday -1 tuesday -1 thin -1 thin -1 stock -1 clos -1 clos -1 clos -1 low -1 low -1 low -1 ahead -1 volum -1 volum -1 volum -1 volum -1 futur -1 futur -1 nelson -1 minim -1 deliv -1 deliv -1 contract -1 contract -1 weekend -1 time -1 sam -1 -2
+rice -1 rice -1 rice -1 rice -1 rice -1 cent -1 cbot -1 cbot -1 cwt -1 cwt -1 cwt -1 notic -1 estimat -1 day -1 day -1 day -1 labor -1 septemb -1 septemb -1 friday -1 mark -1 drift -1 amid -1 amid -1 trad -1 trad -1 option -1 -2

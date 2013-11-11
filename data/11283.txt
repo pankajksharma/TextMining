@@ -1,0 +1,2 @@
+newsdesk -1 record -1 llc -1 york -1 trust -1 unit -1 unit -1 unit -1 expect -1 squar -1 gain -1 gain -1 million -1 sold -1 domin -1 domin -1 domin -1 monday -1 cent -1 cent -1 realt -1 realt -1 realt -1 shop -1 meadowdal -1 meadowdal -1 foot -1 see -1 richmons -1 sale -1 -2
+sale -1 -2

@@ -1,0 +1,4 @@
+mechan -1 recov -1 recov -1 recov -1 recov -1 recov -1 attach -1 floor -1 floor -1 struck -1 back -1 back -1 ocean -1 ocean -1 repret -1 bag -1 bag -1 bottom -1 kill -1 stuck -1 spokeswom -1 april -1 sea -1 iceberg -1 ship -1 ship -1 ship -1 sank -1 shallow -1 wreck -1 -2
+canad -1 fell -1 fell -1 fell -1 mean -1 boston -1 feet -1 thursday -1 wat -1 wat -1 give -1 reag -1 hull -1 hull -1 hull -1 return -1 met -1 paid -1 surfac -1 rms -1 effort -1 forc -1 cabl -1 cabl -1 scrap -1 accompan -1 exped -1 exped -1 exped -1 unsink -1 titan -1 -2
+titan -1 titan -1 titan -1 cruis -1 haul -1 newfoundland -1 coast -1 lift -1 erin -1 ton -1 base -1 problem -1 burst -1 commun -1 failur -1 steel -1 steel -1 diesel -1 giant -1 board -1 passeng -1 passeng -1 snap -1 piec -1 piec -1 piec -1 equip -1 crew -1 crew -1 fill -1 purcel -1 -2
+purcel -1 friday -1 port -1 retrief -1 slab -1 mission -1 thought -1 locat -1 -2

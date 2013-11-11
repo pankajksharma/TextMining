@@ -1,0 +1,3 @@
+market -1 market -1 market -1 market -1 market -1 target -1 steep -1 counterbalanc -1 high -1 year -1 year -1 year -1 year -1 fall -1 german -1 view -1 view -1 view -1 fax -1 franc -1 larg -1 week -1 yield -1 yield -1 report -1 strong -1 moment -1 moment -1 mix -1 big -1 -2
+rally -1 futur -1 futur -1 flat -1 thursday -1 brussel -1 matur -1 leav -1 time -1 belgian -1 belgian -1 buy -1 sideway -1 lack -1 olo -1 move -1 linear -1 note -1 note -1 direct -1 direct -1 direct -1 direct -1 pape -1 pape -1 sell -1 offset -1 divid -1 compar -1 strang -1 curv -1 -2
+curv -1 driv -1 overwhelm -1 bond -1 strateg -1 due -1 perfect -1 newsroom -1 ord -1 left -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

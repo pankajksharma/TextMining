@@ -1,0 +1,2 @@
+rain -1 privat -1 sea -1 sea -1 wsc -1 wsc -1 niki -1 niki -1 westward -1 produc -1 hain -1 expect -1 expect -1 gain -1 hour -1 strength -1 chin -1 chin -1 chin -1 damag -1 flood -1 typhoon -1 typhoon -1 servic -1 move -1 south -1 south -1 intensif -1 corpor -1 hit -1 -2
+weather -1 mph -1 mph -1 wind -1 wind -1 forecast -1 top -1 -2

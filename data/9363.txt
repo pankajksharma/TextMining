@@ -1,0 +1,2 @@
+gener -1 sep -1 term -1 jun -1 wgtd -1 shr -1 equit -1 equit -1 stockhold -1 stockhold -1 debt -1 balanc -1 sheet -1 avg -1 q3 -1 oper -1 shar -1 liabl -1 liabl -1 liabl -1 end -1 end -1 long -1 maxim -1 party -1 mos -1 mos -1 current -1 current -1 current -1 -2
+outstand -1 loss -1 loss -1 loss -1 loss -1 research -1 net -1 net -1 net -1 net -1 patent -1 admin -1 consolid -1 incom -1 develop -1 relat -1 pharmaceutic -1 asset -1 asset -1 asset -1 expend -1 expend -1 total -1 total -1 total -1 deficit -1 deficit -1 operat -1 licens -1 -2

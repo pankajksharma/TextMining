@@ -1,0 +1,2 @@
+attend -1 halftim -1 fortun -1 bayern -1 munich -1 munich -1 germ -1 germ -1 penalt -1 st -1 st -1 sum -1 sum -1 cologn -1 socc -1 boruss -1 duesseldorf -1 match -1 match -1 play -1 leverkus -1 divid -1 divid -1 minut -1 wednesday -1 marin -1 bay -1 zorc -1 chapuisat -1 riedl -1 -2
+duisburg -1 kirst -1 bochum -1 dortmund -1 rizzitel -1 peschel -1 vladoiu -1 -2

@@ -1,0 +1,2 @@
+stay -1 compan -1 compan -1 compan -1 carry -1 sharehold -1 own -1 conserv -1 privat -1 privat -1 privat -1 radio -1 intact -1 costel -1 costel -1 costel -1 costel -1 stat -1 introduc -1 govern -1 govern -1 govern -1 treasur -1 felt -1 telecommun -1 rtr -1 telstr -1 telstr -1 telstr -1 telstr -1 -2
+austral -1 austral -1 austral -1 austral -1 austral -1 interview -1 want -1 corp -1 break -1 break -1 break -1 labor -1 hand -1 wednesday -1 asset -1 prev -1 favor -1 major -1 oppos -1 separat -1 make -1 pete -1 ord -1 -2

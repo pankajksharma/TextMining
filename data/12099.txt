@@ -1,0 +1,4 @@
+bring -1 market -1 market -1 tuesday -1 stock -1 stock -1 clos -1 clos -1 clos -1 sunday -1 damp -1 ahead -1 karach -1 karach -1 fresh -1 shrank -1 brother -1 bhut -1 point -1 billion -1 billion -1 benazir -1 siem -1 deal -1 deal -1 capit -1 lost -1 percent -1 local -1 govern -1 -2
+sent -1 sent -1 fell -1 fell -1 jan -1 pric -1 gain -1 index -1 index -1 rally -1 rally -1 volum -1 brok -1 million -1 million -1 shar -1 shar -1 shar -1 party -1 shed -1 monday -1 monday -1 short -1 short -1 short -1 rollov -1 dewan -1 rose -1 lose -1 call -1 prim -1 -2
+minist -1 insur -1 leve -1 pakist -1 posit -1 dip -1 dip -1 dip -1 dip -1 pakistan -1 pakistan -1 part -1 sell -1 sell -1 sell -1 engineer -1 session -1 plan -1 rupee -1 rupee -1 rupee -1 wellcom -1 kse -1 wednesday -1 wednesday -1 adamj -1 prev -1 hubc -1 depress -1 depress -1 bours -1 -2
+salm -1 oppos -1 oppos -1 asif -1 holiday -1 ibrahim -1 add -1 khan -1 campaign -1 ptcl -1 amid -1 trad -1 trad -1 -2

@@ -1,0 +1,5 @@
+febru -1 draw -1 launch -1 launch -1 econom -1 econom -1 repret -1 inspect -1 inspect -1 revolt -1 exercis -1 month -1 month -1 countr -1 year -1 team -1 provinc -1 potent -1 generat -1 billion -1 appoint -1 war -1 invest -1 expenditur -1 sidia -1 kaba -1 kaba -1 annual -1 pump -1 rich -1 -2
+franc -1 franc -1 franc -1 capit -1 west -1 salar -1 afric -1 stat -1 report -1 guinean -1 guinean -1 guinean -1 percent -1 percent -1 govern -1 govern -1 bill -1 check -1 blood -1 root -1 administ -1 miner -1 exist -1 reform -1 million -1 face -1 end -1 deput -1 proport -1 current -1 public -1 -2
+pow -1 foreign -1 ousman -1 financ -1 told -1 rid -1 civil -1 civil -1 civil -1 civil -1 hydroelectr -1 cut -1 cut -1 work -1 senior -1 prim -1 minist -1 minist -1 compet -1 tour -1 tour -1 tour -1 servic -1 servic -1 spend -1 spend -1 clean -1 serv -1 serv -1 serv -1 take -1 -2
+brib -1 dete -1 stiff -1 job -1 ivory -1 neighbor -1 part -1 part -1 coast -1 fict -1 fict -1 cont -1 simil -1 plan -1 payrol -1 wag -1 driv -1 dead -1 wednesday -1 lansan -1 accept -1 vast -1 army -1 guinea -1 guinea -1 guinea -1 measur -1 reviv -1 presid -1 campaign -1 offic -1 -2
+offic -1 left -1 -2

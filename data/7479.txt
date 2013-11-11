@@ -1,0 +1,3 @@
+stay -1 stay -1 market -1 market -1 credit -1 econom -1 econom -1 money -1 money -1 cs -1 rate -1 rate -1 rate -1 rate -1 liquid -1 monet -1 suiss -1 currenc -1 quant -1 bank -1 forward -1 discount -1 discount -1 discount -1 franc -1 franc -1 key -1 slight -1 straight -1 percent -1 -2
+strong -1 strong -1 anal -1 anal -1 expect -1 expect -1 accommod -1 easy -1 lower -1 show -1 thursday -1 thursday -1 jeggl -1 long -1 nation -1 remain -1 stead -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 typ -1 weak -1 exchang -1 research -1 research -1 continu -1 signif -1 new -1 divid -1 -2
+relat -1 snb -1 snb -1 snb -1 snb -1 impact -1 effect -1 bond -1 late -1 action -1 afternoon -1 add -1 add -1 steer -1 pete -1 operat -1 left -1 eas -1 influ -1 keep -1 interpret -1 -2

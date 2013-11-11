@@ -1,0 +1,4 @@
+allot -1 allot -1 allot -1 stop -1 stop -1 stop -1 stop -1 stop -1 stop -1 month -1 low -1 low -1 low -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 amount -1 amount -1 amount -1 amount -1 amount -1 amount -1 franc -1 franc -1 franc -1 -2
+franc -1 franc -1 franc -1 franc -1 yield -1 yield -1 yield -1 percent -1 percent -1 percent -1 treasur -1 avg -1 avg -1 avg -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 brussel -1 auction -1 auction -1 auction -1 belgian -1 belgian -1 compet -1 allocat -1 -2
+bid -1 bid -1 bid -1 bid -1 bid -1 bid -1 olo -1 olo -1 olo -1 olo -1 weight -1 weight -1 weight -1 note -1 rang -1 rang -1 rang -1 outcom -1 detail -1 gave -1 july -1 july -1 accept -1 accept -1 accept -1 june -1 total -1 total -1 total -1 total -1 aver -1 -2
+newsroom -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 -2

@@ -1,0 +1,4 @@
+allot -1 allot -1 allot -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 month -1 tail -1 tail -1 tail -1 fall -1 amount -1 amount -1 amount -1 week -1 week -1 week -1 week -1 week -1 week -1 yield -1 treasur -1 cash -1 cash -1 -2
+cash -1 bill -1 mo -1 mo -1 mo -1 matur -1 matur -1 matur -1 auction -1 belgian -1 belgian -1 compet -1 compet -1 compet -1 bid -1 bid -1 bid -1 bln -1 bln -1 bln -1 bln -1 bln -1 bln -1 note -1 note -1 note -1 date -1 date -1 date -1 date -1 date -1 -2
+date -1 bfr -1 bfr -1 bfr -1 bfr -1 bfr -1 bfr -1 day -1 day -1 day -1 result -1 result -1 result -1 result -1 accept -1 accept -1 accept -1 aver -1 aver -1 aver -1 amt -1 amt -1 amt -1 top -1 top -1 top -1 top -1 top -1 top -1 sale -1 sale -1 -2
+sale -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 -2

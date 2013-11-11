@@ -1,0 +1,3 @@
+hld -1 tr -1 gener -1 tech -1 echo -1 stock -1 stock -1 clos -1 clos -1 mor -1 york -1 micron -1 inv -1 pepsic -1 nys -1 nys -1 mesa -1 unch -1 mine -1 tran -1 world -1 philip -1 test -1 thursday -1 shar -1 hark -1 eltr -1 westingh -1 panenrg -1 gold -1 -2
+recpt -1 ampex -1 ntn -1 jts -1 bema -1 exchang -1 western -1 amex -1 amex -1 elec -1 elec -1 consolid -1 consolid -1 consolid -1 energ -1 americ -1 rjr -1 nabisc -1 corp -1 corp -1 corp -1 alcohol -1 wal -1 mart -1 air -1 zenith -1 stor -1 bay -1 activ -1 activ -1 activ -1 -2
+activ -1 depo -1 com -1 cp -1 cp -1 trad -1 -2

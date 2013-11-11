@@ -1,0 +1,2 @@
+nov -1 credit -1 interest -1 dec -1 year -1 year -1 shr -1 sydney -1 nil -1 fall -1 unfrank -1 erg -1 erg -1 erg -1 deprec -1 debt -1 stat -1 pay -1 reg -1 provis -1 million -1 dividend -1 dividend -1 dividend -1 telecommun -1 rtr -1 cent -1 cent -1 cent -1 loss -1 -2
+loss -1 austral -1 net -1 net -1 note -1 note -1 date -1 date -1 final -1 incom -1 profit -1 profit -1 charg -1 equip -1 total -1 june -1 abnorm -1 abnorm -1 newsroom -1 manufactur -1 operat -1 doubt -1 reflect -1 sale -1 electron -1 tax -1 tax -1 pct -1 -2

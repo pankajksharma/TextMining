@@ -1,0 +1,2 @@
+naphth -1 naphth -1 naphth -1 market -1 small -1 spec -1 tuesday -1 paraffin -1 cif -1 high -1 full -1 quant -1 potent -1 firm -1 firm -1 deal -1 deal -1 light -1 bought -1 assess -1 shaxson -1 ipe -1 ipe -1 balanc -1 ras -1 exist -1 cate -1 futur -1 nichol -1 flat -1 -2
+europ -1 end -1 crud -1 rose -1 mater -1 mater -1 mater -1 london -1 russian -1 rang -1 ton -1 skikd -1 prem -1 lanuf -1 carg -1 barrel -1 demand -1 suppl -1 dow -1 adequat -1 nwe -1 nwe -1 nwe -1 newsroom -1 ara -1 northw -1 region -1 trad -1 trad -1 use -1 -2

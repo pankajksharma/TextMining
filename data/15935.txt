@@ -1,0 +1,3 @@
+capac -1 market -1 market -1 clos -1 month -1 term -1 term -1 generat -1 agree -1 deal -1 peopl -1 week -1 expect -1 loui -1 loui -1 loui -1 loui -1 oglethorp -1 oglethorp -1 oglethorp -1 duke -1 duke -1 duke -1 duke -1 dreyfus -1 dreyfus -1 dreyfus -1 dreyfus -1 million -1 end -1 -2
+end -1 long -1 control -1 august -1 short -1 pow -1 pow -1 pow -1 pow -1 pow -1 award -1 bid -1 serv -1 georg -1 megawat -1 evaluat -1 base -1 enron -1 enron -1 electr -1 corp -1 corp -1 corp -1 coop -1 coop -1 wednesday -1 ventur -1 consort -1 pact -1 pact -1 pact -1 -2
+subsid -1 -2

@@ -1,0 +1,4 @@
+stay -1 emerg -1 cane -1 hous -1 stock -1 sunday -1 reach -1 kill -1 kill -1 build -1 agent -1 agent -1 agent -1 bank -1 resourc -1 food -1 report -1 report -1 east -1 helicopt -1 govern -1 km -1 home -1 level -1 shelt -1 shelt -1 wat -1 wat -1 wat -1 monday -1 -2
+danger -1 author -1 area -1 area -1 nazar -1 flood -1 flood -1 flood -1 flood -1 met -1 cent -1 awash -1 warn -1 addi -1 ethiop -1 ethiop -1 ethiop -1 ethiop -1 ethiop -1 abab -1 work -1 wonj -1 wonj -1 wonj -1 koka -1 minist -1 inflat -1 boat -1 plantat -1 plantat -1 shiferaw -1 -2
+shiferaw -1 jars -1 move -1 move -1 move -1 fact -1 nearb -1 nearb -1 half -1 resid -1 resid -1 sugar -1 sugar -1 new -1 hectar -1 mile -1 acr -1 blanket -1 hazard -1 rescu -1 rive -1 rive -1 rive -1 evacuat -1 burst -1 milit -1 estat -1 medicin -1 person -1 person -1 field -1 -2
+cubic -1 town -1 vast -1 rub -1 friday -1 submerg -1 submerg -1 releas -1 dam -1 prepar -1 -2

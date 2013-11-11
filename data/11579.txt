@@ -1,0 +1,4 @@
+negot -1 elect -1 accur -1 union -1 yugoslav -1 yugoslav -1 year -1 schedul -1 start -1 agree -1 agree -1 expert -1 free -1 alban -1 alban -1 today -1 today -1 today -1 meet -1 local -1 local -1 minor -1 expect -1 govern -1 govern -1 lead -1 digest -1 pdp -1 pdp -1 ethnic -1 -2
+reut -1 defend -1 law -1 law -1 end -1 end -1 end -1 talk -1 party -1 party -1 party -1 prosper -1 monday -1 polit -1 social -1 press -1 press -1 buy -1 verif -1 vouch -1 prim -1 minist -1 aspirat -1 visit -1 russian -1 territor -1 skopj -1 skopj -1 macedon -1 macedon -1 macedon -1 -2
+macedon -1 macedon -1 macedon -1 bord -1 propos -1 autonom -1 story -1 story -1 divid -1 aug -1 session -1 redraw -1 septemb -1 satisf -1 diploamt -1 sdmu -1 request -1 coal -1 rule -1 dnevnik -1 afternoon -1 vece -1 newsroom -1 arm -1 dissatisf -1 creat -1 region -1 demo -1 demo -1 sign -1 trad -1 -2
+zone -1 -2

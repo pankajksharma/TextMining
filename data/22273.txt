@@ -1,0 +1,4 @@
+limit -1 market -1 begin -1 year -1 year -1 start -1 start -1 start -1 bank -1 agree -1 rare -1 system -1 system -1 invest -1 fax -1 eoe -1 eoe -1 eoe -1 eoe -1 eoe -1 week -1 today -1 germ -1 amsterdam -1 van -1 expect -1 fix -1 reut -1 pric -1 brok -1 -2
+futur -1 futur -1 futur -1 european -1 accustom -1 contract -1 contract -1 contract -1 contract -1 dutch -1 dutch -1 dutch -1 give -1 time -1 time -1 initiat -1 wis -1 speak -1 commit -1 told -1 exchang -1 ago -1 fail -1 date -1 portfolio -1 actual -1 particip -1 particip -1 ready -1 involut -1 chanc -1 -2
+spokesm -1 spokesm -1 attempt -1 attempt -1 lex -1 familiar -1 friday -1 found -1 bond -1 bond -1 bond -1 bond -1 illiquid -1 spur -1 broad -1 need -1 make -1 make -1 newsroom -1 reviv -1 activ -1 electron -1 delay -1 delay -1 fto -1 fto -1 trad -1 trad -1 trad -1 droog -1 reinvigor -1 -2
+hedg -1 option -1 -2

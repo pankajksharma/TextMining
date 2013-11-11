@@ -1,0 +1,5 @@
+stak -1 compan -1 compan -1 early -1 early -1 early -1 tuesday -1 high -1 high -1 entir -1 month -1 month -1 month -1 month -1 year -1 year -1 term -1 full -1 frankfurt -1 billion -1 fall -1 wholesal -1 week -1 today -1 capit -1 capit -1 capit -1 issu -1 issu -1 issu -1 -2
+issu -1 germ -1 stat -1 percent -1 percent -1 pay -1 decid -1 bill -1 jump -1 pric -1 busi -1 busi -1 busi -1 busi -1 volum -1 million -1 million -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 end -1 drop -1 dividend -1 dividend -1 eligibl -1 increas -1 increas -1 rais -1 -2
+august -1 rise -1 reason -1 financ -1 nomin -1 focus -1 comput -1 comput -1 comput -1 comput -1 comput -1 warn -1 right -1 right -1 subscrib -1 initial -1 initial -1 postpon -1 postpon -1 postpon -1 move -1 sharp -1 unlikel -1 restructur -1 period -1 cost -1 valu -1 basic -1 run -1 want -1 plan -1 -2
+plan -1 profit -1 profit -1 result -1 announc -1 announc -1 caus -1 field -1 mandat -1 septemb -1 septemb -1 septemb -1 held -1 chang -1 cond -1 set -1 set -1 meant -1 releas -1 newsroom -1 mark -1 mark -1 mark -1 mark -1 mark -1 mark -1 sale -1 delay -1 subsid -1 tax -1 group -1 -2
+group -1 -2

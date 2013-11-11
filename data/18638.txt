@@ -1,0 +1,4 @@
+metal -1 market -1 sect -1 sect -1 remov -1 reach -1 month -1 month -1 low -1 year -1 year -1 privat -1 april -1 billion -1 billion -1 tobacc -1 food -1 common -1 produc -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 strong -1 reut -1 -2
+million -1 million -1 million -1 shar -1 shar -1 end -1 control -1 control -1 oil -1 oil -1 statist -1 ocei -1 ocei -1 rise -1 rise -1 colomb -1 wid -1 venezuel -1 venezuel -1 venezuel -1 foreign -1 rose -1 cent -1 mater -1 exchang -1 exchang -1 imf -1 chief -1 period -1 part -1 program -1 -2
+final -1 export -1 export -1 export -1 export -1 export -1 export -1 export -1 sponsor -1 exclud -1 drink -1 july -1 july -1 carac -1 transport -1 compar -1 compar -1 chemic -1 account -1 account -1 inform -1 total -1 total -1 june -1 jpr -1 due -1 iron -1 newsroom -1 offic -1 trad -1 trad -1 -2
+pct -1 -2

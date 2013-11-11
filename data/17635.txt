@@ -1,0 +1,2 @@
+compan -1 tuesday -1 thin -1 thin -1 gas -1 high -1 firm -1 bunk -1 bunk -1 bunk -1 bunk -1 bunk -1 cst -1 cst -1 enquir -1 enquir -1 pric -1 pric -1 pric -1 pric -1 mdo -1 drop -1 oil -1 oil -1 remain -1 stead -1 stead -1 stead -1 off -1 singapor -1 -2
+singapor -1 singapor -1 singapor -1 return -1 cent -1 spit -1 sharp -1 sell -1 compar -1 compar -1 hap -1 wednesday -1 carg -1 demand -1 major -1 broad -1 newsroom -1 region -1 region -1 trad -1 trad -1 trad -1 -2

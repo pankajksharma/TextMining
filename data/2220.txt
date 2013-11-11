@@ -1,0 +1,4 @@
+homeland -1 recov -1 tuts -1 strongm -1 bring -1 buyoy -1 situat -1 engag -1 tuesday -1 refug -1 refug -1 union -1 hutus -1 zair -1 tanzan -1 peac -1 peac -1 peac -1 halt -1 shown -1 unity -1 agent -1 war -1 cris -1 seek -1 seek -1 week -1 afric -1 report -1 stat -1 -2
+bloc -1 rebel -1 accus -1 societ -1 aid -1 eu -1 eu -1 eu -1 million -1 face -1 support -1 support -1 european -1 ireland -1 nation -1 guerrill -1 polit -1 flood -1 urg -1 pressur -1 civil -1 deep -1 effort -1 call -1 forc -1 dialog -1 rotat -1 repatr -1 organ -1 led -1 milit -1 -2
+wag -1 condemn -1 resolut -1 reconcil -1 essent -1 concern -1 pier -1 intern -1 army -1 army -1 promis -1 late -1 newsroom -1 presid -1 hold -1 offic -1 left -1 dublin -1 rwand -1 rwand -1 flee -1 group -1 prepar -1 burund -1 burund -1 burund -1 burund -1 burund -1 burund -1 burund -1 burund -1 -2
+burund -1 hutu -1 hutu -1 -2

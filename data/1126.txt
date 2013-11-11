@@ -1,0 +1,4 @@
+market -1 market -1 back -1 back -1 thin -1 thin -1 money -1 stock -1 stock -1 stock -1 stock -1 stock -1 clos -1 clos -1 clos -1 clos -1 clos -1 perform -1 ahead -1 billion -1 invest -1 food -1 wait -1 key -1 issu -1 produc -1 percent -1 lead -1 fell -1 pric -1 -2
+pric -1 index -1 gain -1 gain -1 gain -1 albeit -1 brok -1 brok -1 million -1 million -1 million -1 million -1 flat -1 shar -1 shar -1 shar -1 shar -1 shar -1 edg -1 rise -1 rise -1 foreign -1 foreign -1 rose -1 continu -1 continu -1 bid -1 bolivar -1 bolivar -1 bolivar -1 bolivar -1 -2
+bolivar -1 bolivar -1 thing -1 sile -1 session -1 ramirez -1 institut -1 day -1 carac -1 carac -1 carac -1 blu -1 chip -1 worth -1 friday -1 foucs -1 maves -1 maves -1 undynam -1 incambio -1 adels -1 mantex -1 sudamtex -1 gonzalez -1 newsroom -1 surg -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2
+trad -1 trad -1 trad -1 trad -1 trad -1 cross -1 cross -1 cross -1 -2

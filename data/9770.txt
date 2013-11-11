@@ -1,0 +1,2 @@
+eps -1 fountain -1 year -1 year -1 yen -1 yen -1 yen -1 nil -1 nil -1 nil -1 nil -1 div -1 billion -1 decemb -1 prft -1 current -1 pen -1 pen -1 pen -1 loss -1 loss -1 loss -1 net -1 ago -1 note -1 sailor -1 sailor -1 actual -1 major -1 late -1 -2
+make -1 parent -1 parent -1 forecast -1 forecast -1 ord -1 sale -1 mln -1 mln -1 mln -1 -2

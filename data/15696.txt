@@ -1,0 +1,2 @@
+recov -1 gome -1 train -1 month -1 month -1 month -1 doct -1 club -1 knee -1 knee -1 injur -1 oliveir -1 tore -1 leagu -1 portugu -1 socc -1 champ -1 underw -1 strik -1 strik -1 scor -1 liga -1 domingo -1 domingo -1 domingo -1 wednesday -1 port -1 port -1 season -1 action -1 -2
+operat -1 operat -1 top -1 top -1 -2

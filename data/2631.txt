@@ -1,0 +1,4 @@
+syria -1 syria -1 syria -1 syria -1 abdull -1 netanyahu -1 tishreen -1 farouk -1 lebanon -1 lebanon -1 kaddoum -1 thawr -1 accur -1 elia -1 hraw -1 mahmoud -1 tuesday -1 zu -1 syrian -1 syrian -1 syrian -1 peac -1 peac -1 newspap -1 agree -1 tie -1 view -1 saad -1 occup -1 today -1 -2
+lead -1 lead -1 digest -1 al -1 al -1 al -1 al -1 reut -1 act -1 solut -1 ident -1 end -1 talk -1 princ -1 leagu -1 time -1 provoc -1 sabah -1 crown -1 press -1 leban -1 commit -1 verif -1 vouch -1 continu -1 coordin -1 prim -1 prim -1 escalat -1 minist -1 minist -1 -2
+numb -1 arma -1 sheikh -1 visit -1 visit -1 baath -1 bi -1 stress -1 attack -1 south -1 iranian -1 story -1 story -1 nuclear -1 aug -1 threat -1 threat -1 arab -1 arab -1 arab -1 accept -1 pan -1 benjamin -1 kuwait -1 secur -1 joint -1 total -1 achief -1 achief -1 withdraw -1 palestin -1 -2
+israel -1 israel -1 israel -1 israel -1 action -1 presid -1 sign -1 zone -1 prepar -1 -2

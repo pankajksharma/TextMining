@@ -1,0 +1,2 @@
+stak -1 gas -1 own -1 year -1 year -1 agree -1 spain -1 spain -1 invest -1 firm -1 firm -1 firm -1 stat -1 percent -1 percent -1 percent -1 percent -1 dock -1 dock -1 astr -1 astr -1 inversor -1 million -1 span -1 repsol -1 oil -1 buy -1 buy -1 pow -1 financ -1 -2
+call -1 argentin -1 argentin -1 argentin -1 argentin -1 electr -1 sud -1 sud -1 brid -1 endes -1 endes -1 endes -1 endes -1 endes -1 expand -1 therm -1 project -1 project -1 station -1 station -1 dollar -1 total -1 suppl -1 madrid -1 newsroom -1 creat -1 group -1 pct -1 -2

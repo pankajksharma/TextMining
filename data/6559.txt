@@ -1,0 +1,2 @@
+acquir -1 newsdesk -1 pool -1 medic -1 stock -1 pharmaceut -1 interest -1 safet -1 york -1 firm -1 firm -1 firm -1 common -1 client -1 bought -1 devic -1 produc -1 stat -1 design -1 million -1 thursday -1 contract -1 industr -1 feder -1 buy -1 financ -1 provid -1 health -1 health -1 care -1 -2
+care -1 exchang -1 research -1 research -1 research -1 assoc -1 servic -1 biotechn -1 parexel -1 parexel -1 parexel -1 parexel -1 parexel -1 organ -1 develop -1 purpos -1 corp -1 account -1 intern -1 clinic -1 clinic -1 transact -1 consult -1 consult -1 -2

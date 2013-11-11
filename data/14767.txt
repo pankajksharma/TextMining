@@ -1,0 +1,4 @@
+gilt -1 gilt -1 market -1 market -1 market -1 market -1 retail -1 thin -1 tuesday -1 stg -1 low -1 low -1 year -1 year -1 bank -1 billion -1 invest -1 deal -1 deal -1 deal -1 deal -1 wait -1 domest -1 gmt -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 -2
+govern -1 cue -1 senan -1 hogan -1 main -1 volum -1 futur -1 test -1 end -1 monday -1 remain -1 stead -1 stead -1 time -1 weak -1 provid -1 rose -1 rose -1 focus -1 focus -1 stimul -1 london -1 figur -1 penc -1 penc -1 thing -1 session -1 day -1 wednesday -1 septemb -1 uk -1 -2
+uk -1 uk -1 intern -1 june -1 friday -1 irish -1 irish -1 irish -1 irish -1 bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 lacklustr -1 due -1 due -1 holiday -1 holiday -1 action -1 afternoon -1 newsroom -1 litmus -1 mute -1 hold -1 sale -1 sale -1 dublin -1 dublin -1 slug -1 -2
+trad -1 trad -1 trad -1 trad -1 -2

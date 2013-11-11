@@ -1,0 +1,2 @@
+sery -1 municip -1 rate -1 rate -1 facil -1 facil -1 liquid -1 hospit -1 hospit -1 bank -1 invest -1 deal -1 issu -1 stat -1 aa -1 aa -1 govern -1 nashvill -1 nashvill -1 nashvill -1 moody -1 moody -1 nation -1 health -1 servic -1 georg -1 educat -1 davidson -1 vmig -1 vmig -1 -2
+tn -1 announc -1 board -1 baptist -1 baptist -1 desk -1 count -1 metropolit -1 -2

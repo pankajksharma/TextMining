@@ -1,0 +1,4 @@
+mgt -1 launch -1 launch -1 grenfel -1 grenfel -1 multiarth -1 multiarth -1 rate -1 bp -1 bp -1 bp -1 sep -1 sep -1 currenc -1 morg -1 morg -1 manag -1 manag -1 borrow -1 unit -1 list -1 reply -1 issu -1 ml -1 pay -1 lead -1 lead -1 home -1 ipma2 -1 level -1 -2
+pric -1 guarant -1 law -1 sing -1 matur -1 deutsch -1 deutsch -1 arrang -1 arrang -1 arrang -1 bullet -1 hk -1 singapor -1 singapor -1 coupon -1 financ -1 typ -1 frn -1 frn -1 guaranteed -1 call -1 engl -1 forc -1 repay -1 put -1 note -1 note -1 program -1 date -1 sinar -1 sinar -1 -2
+sinar -1 sinar -1 mas -1 mas -1 mas -1 mas -1 yrs -1 yrs -1 book -1 aug -1 def -1 announc -1 asian -1 par -1 uk -1 hong -1 kong -1 gov -1 joint -1 lmt -1 indones -1 newsroom -1 amt -1 iss -1 fee -1 denom -1 neg -1 sale -1 plg -1 crs -1 maj -1 -2
+ctry -1 mln -1 mln -1 mln -1 mln -1 mln -1 mln -1 -2

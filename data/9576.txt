@@ -1,0 +1,4 @@
+tru -1 tru -1 supe -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 low -1 own -1 variabl -1 melb -1 fai -1 bank -1 bank -1 syd -1 nab -1 sydney -1 annual -1 occup -1 guid -1 loan -1 loan -1 loan -1 produc -1 endeavor -1 stat -1 stat -1 -2
+percent -1 austr -1 categ -1 introduc -1 st -1 advanc -1 home -1 fix -1 fix -1 fix -1 citibank -1 lend -1 reut -1 ram -1 gio -1 prior -1 rtr -1 august -1 macquarie -1 ongo -1 austral -1 quot -1 mlc -1 intr -1 bnz -1 premy -1 adelaid -1 take -1 georg -1 size -1 aussie -1 -2
+updat -1 note -1 cost -1 calcul -1 calcul -1 yrs -1 yrs -1 yrs -1 imb -1 homeloan -1 bsoc -1 bsoc -1 anz -1 suncorp -1 aapr -1 bmc -1 charg -1 includ -1 nsw -1 sa -1 great -1 account -1 upfront -1 bankw -1 aidc -1 aver -1 westpac -1 cba -1 newsroom -1 mortg -1 mortg -1 -2
+newcastl -1 metway -1 chs -1 -2

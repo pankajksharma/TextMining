@@ -1,0 +1,3 @@
+french -1 renovat -1 rate -1 rate -1 rate -1 rate -1 currenc -1 currenc -1 currenc -1 currenc -1 bank -1 bank -1 bank -1 usd -1 franc -1 loan -1 loan -1 loan -1 loan -1 dem -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 -2
+percent -1 introduc -1 italian -1 lend -1 lend -1 lend -1 lend -1 ecu -1 drachm -1 lire -1 cyprus -1 cyprus -1 cyprus -1 foreign -1 foreign -1 foreign -1 foreign -1 quot -1 altern -1 georg -1 georgiopoulo -1 frf -1 gbp -1 itl -1 jpy -1 athen -1 base -1 base -1 base -1 base -1 consum -1 -2
+person -1 wednesday -1 expand -1 expand -1 unchang -1 newsroom -1 mortg -1 -2

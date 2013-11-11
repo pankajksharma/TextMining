@@ -1,0 +1,4 @@
+eagl -1 clear -1 gener -1 record -1 record -1 record -1 briton -1 low -1 low -1 year -1 year -1 fortun -1 ahead -1 start -1 week -1 germ -1 germ -1 strong -1 bunk -1 profess -1 lead -1 design -1 soft -1 brok -1 brok -1 feet -1 feet -1 thursday -1 european -1 shot -1 -2
+shot -1 shot -1 shot -1 open -1 open -1 round -1 round -1 round -1 round -1 round -1 tore -1 terribl -1 green -1 golf -1 sand -1 sand -1 head -1 bogey -1 bogey -1 tour -1 tour -1 won -1 play -1 play -1 play -1 play -1 russel -1 russel -1 event -1 put -1 put -1 -2
+bernhard -1 lang -1 yard -1 yard -1 paul -1 admit -1 raymons -1 birdy -1 birdy -1 break -1 fairway -1 field -1 birdie -1 par -1 par -1 par -1 fellow -1 sixth -1 rough -1 iron -1 hole -1 hole -1 hole -1 pleas -1 broadhurst -1 broadhurst -1 broadhurst -1 broadhurst -1 nippenburg -1 orr -1 surpr -1 -2
+fault -1 gary -1 fourth -1 drov -1 hold -1 left -1 beat -1 group -1 -2

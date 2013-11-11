@@ -1,0 +1,4 @@
+negot -1 compan -1 compan -1 compan -1 stak -1 stak -1 stak -1 stak -1 stak -1 businessm -1 stock -1 immed -1 union -1 union -1 union -1 interest -1 aviv -1 aviv -1 countr -1 own -1 year -1 privat -1 privat -1 start -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 -2
+bank -1 bank -1 bank -1 manag -1 larg -1 bought -1 leum -1 leum -1 jacobson -1 jacobson -1 percent -1 percent -1 percent -1 govern -1 govern -1 govern -1 govern -1 shar -1 shar -1 control -1 talk -1 discuss -1 daily -1 exchang -1 head -1 offer -1 purchas -1 purchas -1 dialog -1 meir -1 put -1 -2
+part -1 direct -1 sell -1 sell -1 sell -1 plan -1 charg -1 comment -1 shlom -1 spokesm -1 eliahu -1 eliahu -1 eliahu -1 eliahu -1 eliahu -1 maariv -1 sixth -1 held -1 found -1 consort -1 consort -1 consort -1 consort -1 israel -1 israel -1 israel -1 newsroom -1 add -1 add -1 tel -1 tel -1 -2
+hold -1 hold -1 hold -1 hold -1 offic -1 commerc -1 group -1 group -1 -2

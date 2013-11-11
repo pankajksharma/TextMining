@@ -1,0 +1,5 @@
+limit -1 puert -1 market -1 market -1 market -1 sect -1 bound -1 quiet -1 welcom -1 ulcc -1 vlcc -1 vlcc -1 vlcc -1 vlcc -1 w65 -1 w65 -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 ullc -1 low -1 assesss -1 w60 -1 w66 -1 own -1 meagr -1 sun -1 -2
+w105 -1 w105 -1 w130 -1 middl -1 blouk -1 petroleum -1 extrem -1 poor -1 firm -1 employ -1 gulf -1 week -1 week -1 key -1 slight -1 westward -1 ship -1 eastward -1 east -1 east -1 atlant -1 natur -1 confirm -1 int -1 fix -1 fix -1 fix -1 fix -1 fix -1 level -1 astr -1 -2
+boom -1 boom -1 usg -1 brok -1 brok -1 brok -1 brok -1 tank -1 tank -1 tank -1 europ -1 mideast -1 crud -1 crud -1 remain -1 increas -1 stead -1 stead -1 transatl -1 rise -1 rise -1 public -1 singapor -1 made -1 continu -1 herald -1 london -1 trip -1 trip -1 mediterranean -1 take -1 -2
+take -1 coast -1 gear -1 south -1 settl -1 ton -1 ton -1 ton -1 ton -1 ton -1 chart -1 chart -1 day -1 unsur -1 travel -1 travel -1 mike -1 rico -1 ukc -1 ukc -1 ukc -1 prev -1 carg -1 held -1 japan -1 found -1 fina -1 kpc -1 holiday -1 newsroom -1 caribbean -1 -2
+singl -1 activ -1 region -1 mark -1 korea -1 sirius -1 sullom -1 voe -1 cross -1 -2

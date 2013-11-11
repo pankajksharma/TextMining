@@ -1,0 +1,2 @@
+life -1 life -1 sect -1 sect -1 sect -1 gener -1 gener -1 breakdown -1 month -1 bank -1 bank -1 billion -1 billion -1 billion -1 invest -1 fax -1 stat -1 hagu -1 amsterdam -1 reut -1 busi -1 busi -1 million -1 guild -1 health -1 health -1 aegon -1 aegon -1 loss -1 insur -1 -2
+insur -1 insur -1 insur -1 insur -1 insur -1 insur -1 bln -1 pre -1 pre -1 incom -1 incom -1 incom -1 h1 -1 aug -1 profit -1 profit -1 revenu -1 revenu -1 prem -1 total -1 total -1 june -1 newsroom -1 activ -1 activ -1 tax -1 tax -1 accid -1 accid -1 -2

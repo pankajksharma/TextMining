@@ -1,0 +1,2 @@
+tuesday -1 clos -1 clos -1 high -1 interest -1 rate -1 low -1 firm -1 debt -1 debt -1 meet -1 euro -1 fell -1 mix -1 mix -1 reut -1 fomc -1 fomc -1 fomc -1 futur -1 futur -1 sold -1 end -1 contract -1 rais -1 mail -1 aug -1 session -1 day -1 express -1 -2
+announc -1 relief -1 relief -1 derivat -1 derivat -1 bond -1 sept -1 desk -1 trad -1 -2

@@ -1,0 +1,4 @@
+react -1 repair -1 incid -1 submarin -1 submarin -1 submarin -1 submarin -1 back -1 wallach -1 wallach -1 wallach -1 fals -1 inspect -1 fast -1 begin -1 safet -1 agent -1 sea -1 sea -1 suggest -1 spot -1 indicat -1 human -1 light -1 govern -1 prob -1 prob -1 sinist -1 busi -1 panel -1 -2
+delib -1 aboard -1 aboard -1 aboard -1 cabinet -1 cabinet -1 time -1 feder -1 destruc -1 public -1 met -1 investig -1 investig -1 investig -1 san -1 san -1 sever -1 pret -1 cut -1 cut -1 cut -1 propert -1 numb -1 london -1 london -1 quick -1 servic -1 juan -1 juan -1 play -1 crimin -1 -2
+discov -1 attack -1 motiv -1 base -1 base -1 nuclear -1 nuclear -1 nuclear -1 lt -1 electr -1 conduc -1 dang -1 dang -1 watch -1 examin -1 wednesday -1 effect -1 john -1 inform -1 crew -1 crew -1 naval -1 june -1 suppl -1 suppl -1 wrong -1 found -1 foot -1 wir -1 wir -1 wir -1 -2
+wir -1 add -1 sabot -1 command -1 navy -1 navy -1 navy -1 navy -1 assum -1 routin -1 offic -1 funct -1 -2

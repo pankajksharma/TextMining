@@ -1,0 +1,4 @@
+compan -1 compan -1 clear -1 bound -1 protest -1 gener -1 train -1 tuesday -1 athol -1 athol -1 rtz -1 union -1 union -1 bate -1 bate -1 stockpil -1 forev -1 rate -1 construc -1 full -1 pty -1 sydney -1 output -1 manag -1 cra -1 unit -1 wait -1 wait -1 week -1 week -1 -2
+gmt -1 produc -1 produc -1 ship -1 ship -1 mine -1 mine -1 mine -1 mine -1 mine -1 mine -1 mine -1 lost -1 lost -1 backlog -1 backlog -1 govern -1 reut -1 personnel -1 million -1 million -1 europ -1 maxim -1 industr -1 rtr -1 return -1 queensland -1 blair -1 blair -1 commit -1 provid -1 -2
+told -1 loss -1 work -1 mackay -1 forestr -1 strik -1 strik -1 plc -1 job -1 energ -1 load -1 load -1 ton -1 ton -1 ton -1 valu -1 mat -1 corp -1 result -1 relat -1 rod -1 caus -1 wednesday -1 equip -1 memb -1 hong -1 kong -1 fill -1 japan -1 port -1 coal -1 -2
+coal -1 coal -1 coal -1 coal -1 steam -1 need -1 make -1 newsroom -1 vessel -1 operat -1 operat -1 operat -1 pacif -1 pacif -1 walk -1 hold -1 offic -1 -2

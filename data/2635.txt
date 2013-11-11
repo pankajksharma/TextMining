@@ -1,0 +1,4 @@
+market -1 elect -1 elect -1 netanyahu -1 lebanon -1 lebanon -1 lebanon -1 lebanon -1 lebanon -1 lebanon -1 econom -1 accur -1 hraw -1 tuesday -1 interest -1 rate -1 peac -1 ad -1 year -1 nahar -1 april -1 jabe -1 diyar -1 nida -1 tie -1 watan -1 stand -1 blast -1 common -1 list -1 -2
+gross -1 slight -1 domest -1 produc -1 percent -1 govern -1 lead -1 treasur -1 digest -1 bill -1 q2 -1 principl -1 al -1 al -1 reut -1 blitz -1 face -1 bekaa -1 beirut -1 beirut -1 banqu -1 audi -1 remain -1 princ -1 hizbollah -1 hizbollah -1 crown -1 press -1 press -1 verif -1 vouch -1 -2
+minist -1 growth -1 parlia -1 valley -1 step -1 part -1 attack -1 south -1 south -1 south -1 story -1 story -1 aug -1 run -1 milit -1 land -1 anwar -1 safir -1 hand -1 arab -1 kuwait -1 army -1 pro -1 pro -1 stick -1 due -1 oppos -1 need -1 israel -1 israel -1 madrid -1 -2
+mount -1 forecast -1 presid -1 offic -1 death -1 -2

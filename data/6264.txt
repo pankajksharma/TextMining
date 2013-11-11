@@ -1,0 +1,2 @@
+ag -1 month -1 full -1 frankfurt -1 domest -1 basf -1 basf -1 germ -1 stat -1 q2 -1 million -1 foreign -1 gp -1 pre -1 pre -1 note -1 exclud -1 profit -1 profit -1 chemic -1 june -1 newsroom -1 mark -1 sale -1 sale -1 sale -1 tax -1 tax -1 tax -1 group -1 -2
+group -1 group -1 pct -1 -2

@@ -1,0 +1,2 @@
+internac -1 launch -1 credit -1 lisbon -1 lisbon -1 bank -1 billion -1 portug -1 comerc -1 de -1 de -1 capit -1 gmt -1 percent -1 banc -1 banc -1 escudo -1 escudo -1 escudo -1 rest -1 rest -1 volum -1 million -1 opa -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 -2
+buy -1 public -1 off -1 daily -1 offer -1 bid -1 espirit -1 bes -1 bes -1 bes -1 lisboa -1 announc -1 editor -1 bours -1 bulletin -1 sant -1 hold -1 hold -1 bic -1 bic -1 bic -1 -2

@@ -1,0 +1,2 @@
+market -1 market -1 clos -1 clos -1 clos -1 owing -1 simex -1 simex -1 simex -1 monet -1 schedul -1 brent -1 brent -1 brent -1 bank -1 petroleum -1 ipe -1 ipe -1 futur -1 contract -1 contract -1 nation -1 crud -1 monday -1 monday -1 singapor -1 singapor -1 singapor -1 respect -1 exchang -1 -2
+exchang -1 london -1 london -1 offset -1 intern -1 intern -1 brit -1 holiday -1 holiday -1 holiday -1 mutual -1 newsroom -1 trad -1 trad -1 trad -1 -2

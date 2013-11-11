@@ -1,0 +1,3 @@
+stay -1 limit -1 limit -1 market -1 market -1 econom -1 tuesday -1 hard -1 stock -1 stock -1 stock -1 bottom -1 interest -1 low -1 low -1 low -1 year -1 meagr -1 point -1 point -1 wait -1 indicat -1 week -1 key -1 gmt -1 percent -1 nikkei -1 nikkei -1 level -1 environ -1 -2
+volum -1 futur -1 brok -1 brok -1 brok -1 brok -1 million -1 shar -1 open -1 open -1 glu -1 benchmark -1 monday -1 monday -1 time -1 buy -1 loss -1 loss -1 toky -1 toky -1 hasn -1 turnov -1 session -1 daiw -1 post -1 particip -1 septemb -1 secur -1 japan -1 chang -1 hit -1 -2
+aver -1 aver -1 due -1 morn -1 hefty -1 yesterday -1 sidelin -1 trad -1 trad -1 pick -1 -2

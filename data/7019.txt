@@ -1,0 +1,2 @@
+quiet -1 quiet -1 martinez -1 clos -1 clos -1 rate -1 bank -1 bank -1 bank -1 bank -1 agree -1 firm -1 firm -1 firm -1 deal -1 unit -1 strong -1 end -1 end -1 plent -1 venezuel -1 venezuel -1 cent -1 exchang -1 intervent -1 cenbnk -1 buoy -1 bolivar -1 bolivar -1 ana -1 -2
+carac -1 day -1 day -1 particip -1 wednesday -1 isabel -1 demand -1 demand -1 dollar -1 dollar -1 dollar -1 dollar -1 suppl -1 morn -1 afternoon -1 newsroom -1 add -1 busy -1 sale -1 trad -1 trad -1 trad -1 -2

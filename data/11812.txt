@@ -1,0 +1,2 @@
+market -1 market -1 low -1 low -1 low -1 low -1 simex -1 simex -1 touch -1 ahead -1 bank -1 deal -1 deal -1 deal -1 light -1 downsid -1 report -1 report -1 expect -1 nikkei -1 nikkei -1 nikkei -1 cash -1 volum -1 futur -1 futur -1 tank -1 tank -1 doreen -1 siow -1 -2
+support -1 european -1 end -1 end -1 end -1 end -1 contract -1 contract -1 techn -1 monday -1 remain -1 weak -1 take -1 sharp -1 sharp -1 profit -1 wednesday -1 septemb -1 septemb -1 friday -1 intraday -1 due -1 trad -1 -2

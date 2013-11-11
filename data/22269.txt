@@ -1,0 +1,2 @@
+quiet -1 clos -1 clos -1 high -1 high -1 interest -1 dec -1 mild -1 line -1 firm -1 report -1 report -1 amsterdam -1 jan -1 pric -1 busi -1 thursday -1 europ -1 european -1 open -1 end -1 afloat -1 dist -1 chicag -1 buy -1 buy -1 off -1 feed -1 prov -1 mater -1 -2
+offer -1 scat -1 pellet -1 serv -1 soymeal -1 soymeal -1 sharp -1 posit -1 argentin -1 south -1 americ -1 ton -1 ton -1 sunmeal -1 dollar -1 friday -1 friday -1 oct -1 morn -1 newsroom -1 untrad -1 mch -1 trad -1 trad -1 trad -1 trad -1 -2

@@ -1,0 +1,3 @@
+clos -1 clos -1 rate -1 rate -1 month -1 year -1 year -1 year -1 year -1 btp -1 btp -1 btp -1 btp -1 btp -1 btp -1 yr -1 yr -1 yr -1 yr -1 amount -1 issu -1 gmt -1 gmt -1 stat -1 percent -1 percent -1 percent -1 italy -1 pay -1 pay -1 -2
+pay -1 pay -1 treasur -1 treasur -1 fix -1 italian -1 float -1 end -1 auction -1 auction -1 auction -1 auction -1 august -1 august -1 august -1 off -1 off -1 coupon -1 coupon -1 coupon -1 coupon -1 offer -1 subscrib -1 subscrib -1 initial -1 tranch -1 tranch -1 tranch -1 tranch -1 certif -1 certif -1 -2
+pape -1 announc -1 cct -1 cct -1 cct -1 bond -1 bond -1 regul -1 pct -1 -2

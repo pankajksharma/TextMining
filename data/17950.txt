@@ -1,0 +1,5 @@
+compan -1 capac -1 market -1 market -1 high -1 high -1 perform -1 month -1 month -1 month -1 year -1 year -1 currenc -1 point -1 line -1 line -1 line -1 poor -1 discount -1 quart -1 eurotunnel -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 strong -1 -2
+fell -1 level -1 pric -1 pric -1 volum -1 volum -1 volum -1 volum -1 volum -1 million -1 million -1 million -1 shar -1 deliv -1 channel -1 channel -1 increas -1 increas -1 virtual -1 swed -1 crown -1 crown -1 crown -1 car -1 car -1 car -1 traff -1 traff -1 traff -1 traff -1 grow -1 -2
+rose -1 rose -1 rose -1 rose -1 rose -1 dove -1 loss -1 loss -1 loss -1 loss -1 loss -1 blam -1 numb -1 growth -1 heavy -1 stockholm -1 half -1 half -1 half -1 sharp -1 simon -1 freight -1 period -1 period -1 cost -1 ferry -1 ferry -1 h1 -1 haydon -1 attribut -1 july -1 -2
+transport -1 result -1 includ -1 post -1 post -1 dominat -1 wednesday -1 effect -1 passeng -1 passeng -1 calai -1 demand -1 brit -1 ab -1 rout -1 season -1 negat -1 newsroom -1 add -1 add -1 mount -1 mount -1 sten -1 sten -1 sten -1 sten -1 sten -1 sten -1 sten -1 operat -1 compens -1 -2
+delay -1 cross -1 -2

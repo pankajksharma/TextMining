@@ -1,0 +1,2 @@
+market -1 slip -1 stock -1 stg -1 stg -1 immed -1 chain -1 sainsbur -1 sainsbur -1 sainsbur -1 week -1 issu -1 sourc -1 anal -1 volum -1 brok -1 million -1 million -1 million -1 shar -1 shar -1 shar -1 talk -1 talk -1 cut -1 cut -1 cut -1 fisc -1 london -1 pre -1 -2
+plc -1 sell -1 profit -1 profit -1 wednesday -1 comment -1 supermarket -1 secur -1 recommend -1 newsroom -1 forecast -1 forecast -1 forecast -1 natw -1 natw -1 natw -1 amid -1 trad -1 trad -1 eas -1 tax -1 -2

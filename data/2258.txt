@@ -1,0 +1,3 @@
+stock -1 stg -1 stg -1 interest -1 own -1 hotel -1 hotel -1 hotel -1 hotel -1 shr -1 shr -1 nil -1 nil -1 site -1 writ -1 writ -1 headlin -1 invest -1 week -1 stat -1 percent -1 confirm -1 payabl -1 float -1 gain -1 million -1 million -1 exchang -1 loss -1 loss -1 -2
+loss -1 loss -1 zealand -1 london -1 london -1 brierley -1 twent -1 period -1 note -1 note -1 penc -1 develop -1 h1 -1 thistl -1 thistl -1 thistl -1 except -1 turnov -1 july -1 want -1 profit -1 profit -1 profit -1 profit -1 result -1 result -1 pretax -1 pretax -1 pretax -1 charg -1 charg -1 -2
+charg -1 charg -1 charg -1 uk -1 uk -1 hit -1 newsroom -1 operat -1 tax -1 -2

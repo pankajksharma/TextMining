@@ -1,0 +1,4 @@
+market -1 market -1 market -1 small -1 repret -1 kg -1 kg -1 lax -1 rate -1 rate -1 rate -1 tariff -1 journ -1 lon -1 lon -1 lon -1 lon -1 lon -1 lon -1 lon -1 lon -1 lon -1 lon -1 lon -1 lon -1 lon -1 lon -1 jfk -1 hkg -1 agent -1 -2
+sin -1 nrt -1 middl -1 sel -1 syd -1 dxb -1 bah -1 jnb -1 forward -1 cph -1 unit -1 indicat -1 larg -1 afric -1 ship -1 stat -1 report -1 report -1 east -1 ratio -1 main -1 reut -1 reut -1 pric -1 pric -1 scandinav -1 volum -1 current -1 current -1 airport -1 confid -1 -2
+obtain -1 quot -1 quot -1 london -1 sto -1 weight -1 gbp -1 calcul -1 rang -1 rang -1 basi -1 americ -1 base -1 aug -1 aug -1 latin -1 airlin -1 sao -1 carg -1 carg -1 carg -1 uk -1 uk -1 air -1 air -1 air -1 aver -1 aver -1 activ -1 sterl -1 asia -1 -2
+pacif -1 chi -1 -2

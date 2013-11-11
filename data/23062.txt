@@ -1,0 +1,3 @@
+uruguay -1 ambassador -1 ambassador -1 attend -1 begin -1 affect -1 unit -1 unit -1 hondur -1 debat -1 issu -1 issu -1 issu -1 boliv -1 stat -1 stat -1 meet -1 meet -1 local -1 rest -1 chilean -1 leav -1 talk -1 talk -1 nation -1 nation -1 monday -1 monday -1 weekend -1 discuss -1 -2
+insulz -1 foreign -1 city -1 embass -1 minist -1 madelein -1 arriv -1 arriv -1 arriv -1 tour -1 tour -1 part -1 chil -1 chil -1 chil -1 chil -1 chil -1 program -1 americ -1 americ -1 jose -1 council -1 council -1 summit -1 day -1 latin -1 latin -1 guatemal -1 relat -1 includ -1 memb -1 -2
+miguel -1 secur -1 friday -1 late -1 albright -1 albright -1 albright -1 albright -1 cochabamb -1 perman -1 offic -1 offic -1 offic -1 offic -1 -2

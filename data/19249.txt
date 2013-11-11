@@ -1,0 +1,2 @@
+early -1 early -1 rumor -1 stock -1 month -1 year -1 year -1 karach -1 karach -1 bank -1 bank -1 bank -1 bank -1 bank -1 fall -1 good -1 good -1 good -1 firm -1 decemb -1 deal -1 deal -1 deal -1 report -1 percent -1 expect -1 gain -1 shar -1 thursday -1 end -1 -2
+financ -1 pressur -1 rose -1 half -1 pakist -1 pakist -1 askar -1 askar -1 askar -1 day -1 profit -1 profit -1 result -1 result -1 announc -1 rupee -1 hand -1 bours -1 chang -1 newsroom -1 ambreen -1 shoukat -1 rony -1 byramj -1 prospect -1 top -1 hope -1 commerc -1 trad -1 pct -1 -2

@@ -1,0 +1,4 @@
+negot -1 compan -1 stak -1 market -1 market -1 market -1 market -1 market -1 gener -1 stock -1 stock -1 stock -1 stock -1 clos -1 clos -1 reach -1 low -1 low -1 liquid -1 privat -1 privat -1 privat -1 point -1 point -1 equit -1 issu -1 slight -1 lost -1 percent -1 anal -1 -2
+anal -1 dirham -1 dirham -1 dirham -1 dirham -1 dirham -1 dirham -1 dirham -1 dirham -1 level -1 societ -1 pric -1 janu -1 index -1 futur -1 million -1 million -1 million -1 shar -1 shar -1 convert -1 end -1 end -1 pull -1 remain -1 stockbrok -1 sni -1 sni -1 speak -1 national -1 investiss -1 -2
+exchang -1 mekouar -1 mekouar -1 declin -1 casablanc -1 uplin -1 rabat -1 moham -1 tranch -1 tranch -1 half -1 turnov -1 session -1 session -1 session -1 session -1 compar -1 includ -1 hand -1 wednesday -1 prev -1 prev -1 morocc -1 blu -1 secur -1 chip -1 bours -1 bours -1 total -1 bond -1 bond -1 -2
+bond -1 newsroom -1 add -1 hold -1 trad -1 block -1 -2

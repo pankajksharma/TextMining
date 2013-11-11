@@ -1,0 +1,4 @@
+market -1 market -1 market -1 bound -1 stock -1 stock -1 stock -1 sunday -1 sunday -1 sunday -1 low -1 karach -1 cover -1 bank -1 fays -1 point -1 fall -1 select -1 deal -1 deal -1 unrest -1 unrest -1 capit -1 stat -1 percent -1 help -1 fell -1 fell -1 fell -1 fell -1 -2
+fell -1 fell -1 sent -1 pric -1 gain -1 gain -1 index -1 index -1 index -1 rally -1 volum -1 provis -1 million -1 million -1 thursday -1 shar -1 shar -1 shar -1 shar -1 open -1 end -1 end -1 end -1 gloom -1 oil -1 monday -1 monday -1 polit -1 polit -1 short -1 pow -1 -2
+scrip -1 dewan -1 dewan -1 weak -1 rose -1 rose -1 lose -1 lose -1 exchang -1 insur -1 bln -1 bln -1 pakist -1 sharp -1 pakistan -1 pakistan -1 rang -1 settl -1 led -1 fibr -1 plan -1 day -1 peshawar -1 resist -1 rupee -1 rupee -1 rupee -1 rupee -1 rupee -1 kse -1 adamj -1 -2
+prev -1 salm -1 salm -1 ovai -1 subhan -1 oppos -1 due -1 ibrahim -1 khan -1 hub -1 ptcl -1 amid -1 trad -1 -2

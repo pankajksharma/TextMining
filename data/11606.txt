@@ -1,0 +1,4 @@
+early -1 study -1 econom -1 la -1 opinion -1 insist -1 menem -1 gerald -1 begin -1 provinc -1 provinc -1 privat -1 privat -1 bank -1 bank -1 bank -1 bank -1 york -1 nacion -1 nacion -1 nacion -1 de -1 de -1 larg -1 carlo -1 carlo -1 corrig -1 hipotecario -1 loan -1 loan -1 -2
+loan -1 report -1 stat -1 stat -1 stat -1 govern -1 govern -1 home -1 quest -1 banc -1 banc -1 banc -1 banc -1 law -1 aid -1 aid -1 support -1 support -1 deposit -1 deposit -1 talk -1 caval -1 caval -1 monday -1 feder -1 reserv -1 polit -1 financ -1 told -1 priv -1 priv -1 -2
+minist -1 compet -1 chief -1 argentin -1 argentin -1 bueno -1 bueno -1 sell -1 sell -1 sell -1 sponsor -1 institut -1 person -1 predecess -1 air -1 air -1 favor -1 favor -1 favor -1 chairm -1 doming -1 recommend -1 newsroom -1 presid -1 roqu -1 offic -1 sale -1 sale -1 sale -1 fernandez -1 fernandez -1 -2
+fernandez -1 keep -1 rodriguez -1 rodriguez -1 backpedal -1 -2

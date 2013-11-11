@@ -1,0 +1,2 @@
+fully -1 floor -1 rate -1 rate -1 rate -1 month -1 month -1 receiv -1 currenc -1 full -1 bank -1 bank -1 bank -1 bank -1 point -1 billion -1 billion -1 forward -1 denomin -1 indicat -1 today -1 fund -1 italy -1 italy -1 italy -1 percent -1 percent -1 percent -1 percent -1 percent -1 -2
+assign -1 minim -1 minim -1 minim -1 lire -1 august -1 foreign -1 met -1 subscrib -1 bid -1 part -1 tend -1 tend -1 tend -1 prev -1 dollar -1 dollar -1 aver -1 set -1 repurchas -1 repo -1 repo -1 -2

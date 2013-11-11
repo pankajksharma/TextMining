@@ -1,0 +1,4 @@
+compan -1 acquir -1 early -1 early -1 market -1 retail -1 retail -1 stop -1 stop -1 high -1 union -1 union -1 reach -1 month -1 merg -1 review -1 review -1 review -1 start -1 agree -1 affect -1 deal -1 deal -1 deal -1 deal -1 unit -1 automat -1 assess -1 sourc -1 sourc -1 -2
+sourc -1 bv -1 requir -1 decid -1 decid -1 tell -1 law -1 eu -1 shar -1 thursday -1 netherland -1 netherland -1 european -1 european -1 european -1 brussel -1 end -1 talk -1 party -1 dutch -1 dutch -1 dutch -1 dutch -1 author -1 author -1 author -1 conclud -1 conclud -1 buy -1 buy -1 return -1 -2
+investig -1 investig -1 commit -1 commit -1 commit -1 commit -1 commit -1 commit -1 continu -1 compet -1 compet -1 draft -1 final -1 turnov -1 july -1 threshold -1 plan -1 plan -1 ask -1 impact -1 concern -1 involut -1 legisl -1 jurisdict -1 blokk -1 blokk -1 request -1 late -1 toy -1 toy -1 toy -1 -2
+takeov -1 make -1 newsroom -1 add -1 operat -1 let -1 subsid -1 prepar -1 -2

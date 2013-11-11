@@ -1,0 +1,1 @@
+gilt -1 stock -1 stock -1 stg -1 rate -1 rate -1 bank -1 convers -1 convers -1 percent -1 percent -1 treasur -1 treasur -1 england -1 convert -1 date -1 septemb -1 boe -1 set -1 hold -1 hold -1 -2

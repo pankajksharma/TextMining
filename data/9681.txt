@@ -1,0 +1,2 @@
+thin -1 clos -1 kg -1 low -1 ahead -1 term -1 yen -1 yen -1 yen -1 yen -1 cover -1 sporad -1 invest -1 firm -1 spot -1 spot -1 spot -1 spill -1 mix -1 mix -1 janu -1 pric -1 volum -1 futur -1 futur -1 adjust -1 hour -1 hour -1 contract -1 expir -1 -2
+expir -1 benchmark -1 monday -1 short -1 august -1 stood -1 rose -1 posit -1 uncertain -1 direct -1 rang -1 lot -1 session -1 day -1 day -1 dominat -1 rub -1 rub -1 friday -1 kobe -1 kobe -1 amid -1 sidelin -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

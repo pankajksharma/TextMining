@@ -1,0 +1,5 @@
+market -1 market -1 market -1 market -1 recent -1 stock -1 stock -1 broker -1 high -1 high -1 high -1 high -1 month -1 year -1 year -1 privat -1 bank -1 bank -1 sight -1 point -1 point -1 point -1 fall -1 doesn -1 live -1 invest -1 firm -1 unit -1 report -1 report -1 -2
+percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 strong -1 anal -1 anal -1 anal -1 help -1 fix -1 fix -1 fell -1 fell -1 fell -1 main -1 main -1 pric -1 pric -1 index -1 gain -1 gain -1 gain -1 polish -1 polish -1 million -1 million -1 million -1 million -1 -2
+million -1 million -1 test -1 thursday -1 flat -1 shar -1 shar -1 shar -1 maxim -1 zloty -1 zloty -1 zloty -1 zloty -1 zloty -1 monday -1 monday -1 signal -1 rise -1 buy -1 extend -1 daily -1 rose -1 rose -1 rose -1 gdansk -1 lose -1 ryszard -1 seventh -1 continu -1 move -1 wojnowsk -1 -2
+excess -1 risen -1 part -1 bph -1 led -1 earn -1 turnov -1 turnov -1 turnov -1 session -1 session -1 alumin -1 july -1 july -1 hap -1 plant -1 wig -1 demand -1 kety -1 friday -1 friday -1 due -1 late -1 spur -1 pierc -1 consecut -1 mass -1 nfi -1 possibl -1 top -1 top -1 -2
+trad -1 trad -1 trad -1 -2

@@ -1,0 +1,4 @@
+compan -1 acquir -1 market -1 gener -1 gener -1 gener -1 interest -1 month -1 month -1 beneex -1 beneex -1 tylan -1 tylan -1 currenc -1 jul -1 jul -1 jul -1 jul -1 potent -1 data -1 unsolicit -1 shr -1 fall -1 amount -1 gross -1 sourc -1 stat -1 extraordin -1 extraordin -1 extraordin -1 -2
+extraordin -1 extraordin -1 q3 -1 administ -1 gain -1 busi -1 shar -1 shar -1 shar -1 shar -1 shar -1 end -1 end -1 goodwill -1 foreign -1 exchang -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 research -1 integr -1 prim -1 net -1 net -1 net -1 net -1 net -1 -2
+weight -1 dete -1 thousand -1 cost -1 cost -1 cost -1 consolid -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 develop -1 earn -1 earn -1 profit -1 item -1 item -1 item -1 item -1 item -1 attempt -1 expend -1 expend -1 expend -1 expend -1 expend -1 -2
+total -1 combin -1 aver -1 operat -1 operat -1 operat -1 sale -1 sale -1 sale -1 amort -1 tax -1 tax -1 tax -1 -2

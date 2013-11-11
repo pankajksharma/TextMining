@@ -1,0 +1,4 @@
+market -1 tight -1 tight -1 recent -1 tuesday -1 tuesday -1 money -1 clos -1 clos -1 clos -1 high -1 high -1 high -1 high -1 month -1 month -1 liquid -1 liquid -1 liquid -1 year -1 year -1 year -1 ahead -1 bank -1 yr -1 cd -1 deal -1 deal -1 deal -1 individual -1 -2
+yield -1 yield -1 yield -1 yield -1 yield -1 yield -1 help -1 overnight -1 contribut -1 mth -1 matur -1 matur -1 push -1 push -1 deposit -1 end -1 end -1 end -1 benchmark -1 monday -1 rise -1 rise -1 buy -1 extend -1 cent -1 box -1 trill -1 won -1 half -1 sharp -1 yoon -1 -2
+korean -1 korean -1 certif -1 pape -1 yeom -1 rang -1 persist -1 jeong -1 corpor -1 corpor -1 corpor -1 corpor -1 day -1 concern -1 concern -1 concern -1 chusok -1 chusok -1 secur -1 worth -1 demand -1 daewoo -1 bond -1 bond -1 hit -1 rule -1 aver -1 due -1 repo -1 repo -1 holiday -1 -2
+thanksgiv -1 unchang -1 add -1 activ -1 possibl -1 cds -1 cp -1 commerc -1 eas -1 -2

@@ -1,0 +1,2 @@
+term -1 term -1 currenc -1 currenc -1 jul -1 data -1 billion -1 fax -1 borrow -1 franc -1 franc -1 franc -1 debt -1 debt -1 debt -1 debt -1 debt -1 debt -1 stat -1 stat -1 stat -1 requir -1 treasur -1 mth -1 brussel -1 end -1 end -1 long -1 belgian -1 belgian -1 -2
+belgian -1 belgian -1 belgian -1 belgian -1 short -1 foreign -1 foreign -1 net -1 net -1 net -1 bln -1 july -1 july -1 bfr -1 total -1 chang -1 chang -1 releas -1 newsroom -1 -2

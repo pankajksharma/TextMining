@@ -1,0 +1,5 @@
+compan -1 market -1 market -1 market -1 stock -1 clos -1 occur -1 high -1 high -1 low -1 low -1 year -1 bank -1 bank -1 point -1 point -1 billion -1 billion -1 billion -1 billion -1 standard -1 standard -1 discount -1 invest -1 deal -1 list -1 larg -1 light -1 slight -1 percent -1 -2
+anal -1 jump -1 jump -1 jan -1 reut -1 pric -1 index -1 index -1 rally -1 volum -1 brok -1 million -1 shar -1 shar -1 shar -1 shar -1 end -1 end -1 push -1 monday -1 sum -1 increas -1 crown -1 crown -1 crown -1 crown -1 crown -1 rise -1 reason -1 czech -1 czech -1 -2
+czech -1 spt -1 rose -1 lose -1 exchang -1 pragu -1 pragu -1 pragu -1 pragu -1 warn -1 px50 -1 komercn -1 komercn -1 komercn -1 figur -1 cez -1 cez -1 cez -1 cez -1 util -1 net -1 net -1 move -1 exper -1 half -1 half -1 posit -1 crosb -1 dip -1 telecom -1 calcul -1 -2
+purpos -1 propel -1 rpix -1 electr -1 simil -1 thing -1 turnov -1 session -1 day -1 day -1 day -1 profit -1 profit -1 profit -1 profit -1 announc -1 wednesday -1 prev -1 account -1 account -1 account -1 intern -1 bours -1 total -1 late -1 spur -1 broad -1 holiday -1 newsroom -1 republ -1 sykor -1 -2
+alan -1 unclear -1 wood -1 commerc -1 trad -1 eas -1 -2

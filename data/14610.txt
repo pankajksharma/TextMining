@@ -1,0 +1,5 @@
+febru -1 payment -1 tuesday -1 money -1 money -1 clos -1 clos -1 clos -1 clos -1 parit -1 rate -1 rate -1 rate -1 march -1 march -1 march -1 low -1 lira -1 lira -1 lira -1 lira -1 lira -1 lira -1 bank -1 bank -1 bank -1 bank -1 point -1 turk -1 turk -1 -2
+system -1 firm -1 firm -1 firm -1 decemb -1 deal -1 today -1 today -1 fund -1 yield -1 yield -1 yield -1 yield -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 treasur -1 treasur -1 treasur -1 bill -1 bill -1 bill -1 bill -1 bill -1 -2
+bill -1 cash -1 overnight -1 overnight -1 fell -1 fell -1 mix -1 lend -1 sold -1 matur -1 long -1 leav -1 auction -1 auction -1 auction -1 auction -1 auction -1 monday -1 monday -1 monday -1 monday -1 give -1 rais -1 buy -1 rose -1 cent -1 cent -1 trill -1 trill -1 trill -1 trill -1 -2
+repay -1 take -1 pape -1 pape -1 pape -1 pape -1 pape -1 pape -1 istanbul -1 day -1 profit -1 wednesday -1 wednesday -1 reduc -1 prev -1 wednesdsay -1 worth -1 demand -1 dollar -1 dollar -1 dollar -1 total -1 aver -1 aver -1 aver -1 due -1 repo -1 newsroom -1 activ -1 activ -1 mark -1 -2
+eas -1 option -1 -2

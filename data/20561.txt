@@ -1,0 +1,2 @@
+veget -1 econom -1 fresh -1 data -1 yr -1 yr -1 yr -1 yr -1 tobacc -1 fax -1 produc -1 pric -1 pric -1 pric -1 index -1 index -1 telephon -1 adjust -1 mth -1 mth -1 mth -1 mth -1 brussel -1 rent -1 belgian -1 belgian -1 belgian -1 rise -1 august -1 foreign -1 -2
+health -1 call -1 unhealth -1 minist -1 minist -1 inflat -1 inflat -1 inflat -1 petrol -1 note -1 base -1 consum -1 exclud -1 aug -1 aug -1 july -1 travel -1 wag -1 affair -1 potatoe -1 alcohol -1 chang -1 chang -1 chang -1 releas -1 newsroom -1 eas -1 pct -1 pct -1 pct -1 pct -1 -2

@@ -1,0 +1,2 @@
+saturday -1 union -1 union -1 rugby -1 rugby -1 stirl -1 sarac -1 harlequin -1 west -1 currie -1 newbridg -1 cardiff -1 northampton -1 nation -1 hartlepool -1 leagu -1 leagu -1 bristol -1 vale -1 newport -1 engl -1 engl -1 engl -1 forest -1 premy -1 london -1 scot -1 scot -1 scot -1 swansea -1 -2
+match -1 watson -1 divid -1 divid -1 leicest -1 result -1 result -1 welsh -1 welsh -1 welsh -1 gloucest -1 melros -1 orrel -1 bridgend -1 llanel -1 dunv -1 irish -1 ebbw -1 treorch -1 caerphil -1 boroughmuir -1 hawick -1 heriot -1 jed -1 bath -1 wasp -1 sale -1 count -1 -2

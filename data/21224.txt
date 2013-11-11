@@ -1,0 +1,4 @@
+early -1 market -1 quiet -1 dlr -1 clos -1 clos -1 high -1 pip -1 pip -1 currenc -1 currenc -1 currenc -1 yen -1 yen -1 yen -1 bank -1 bank -1 bank -1 billion -1 albert -1 firm -1 firm -1 unit -1 deal -1 larg -1 week -1 week -1 zsolt -1 usual -1 forex -1 -2
+mix -1 level -1 level -1 level -1 main -1 main -1 futur -1 futur -1 futur -1 open -1 open -1 end -1 end -1 matur -1 matur -1 ecu -1 ecu -1 contract -1 drop -1 drop -1 stead -1 commod -1 forint -1 forint -1 forint -1 forint -1 forint -1 buy -1 finish -1 foreign -1 foreign -1 -2
+cent -1 cent -1 exchang -1 tilim -1 kulkeresekedelm -1 purchas -1 magyar -1 move -1 move -1 dene -1 risk -1 turnov -1 day -1 compar -1 result -1 resist -1 resist -1 bce -1 bce -1 account -1 dollar -1 dollar -1 dollar -1 friday -1 friday -1 newsroom -1 budap -1 budap -1 hung -1 interbank -1 trad -1 -2
+trad -1 -2

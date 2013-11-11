@@ -1,0 +1,4 @@
+approach -1 market -1 market -1 situat -1 clos -1 high -1 low -1 low -1 garry -1 revers -1 bank -1 swift -1 start -1 overpric -1 point -1 fall -1 good -1 good -1 discount -1 deal -1 deal -1 deal -1 deal -1 deal -1 week -1 west -1 debt -1 germ -1 yield -1 yield -1 -2
+yield -1 report -1 report -1 lost -1 strong -1 amsterdam -1 expect -1 expect -1 help -1 sent -1 rest -1 gain -1 volum -1 futur -1 matur -1 matur -1 end -1 end -1 end -1 long -1 long -1 monday -1 dutch -1 dutch -1 dutch -1 dutch -1 weekend -1 remain -1 guild -1 rise -1 short -1 -2
+buy -1 buy -1 equival -1 finish -1 bear -1 durabl -1 pressur -1 weak -1 import -1 brunt -1 continu -1 fail -1 direct -1 rang -1 basi -1 sell -1 sell -1 july -1 breach -1 day -1 resist -1 curv -1 curv -1 effect -1 prev -1 brit -1 friday -1 bond -1 bond -1 bond -1 bond -1 -2
+bund -1 bund -1 cushion -1 holiday -1 newsroom -1 see -1 offshor -1 ord -1 w33n -1 bit -1 tiny -1 -2

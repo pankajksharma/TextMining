@@ -1,0 +1,2 @@
+gener -1 syndic -1 union -1 union -1 rate -1 rate -1 month -1 facil -1 year -1 year -1 start -1 bank -1 bank -1 bank -1 point -1 week -1 issu -1 issu -1 pric -1 float -1 float -1 million -1 matur -1 deposit -1 arrang -1 hk -1 call -1 offer -1 london -1 certif -1 -2
+put -1 basi -1 final -1 par -1 mandat -1 mandat -1 hong -1 hong -1 kong -1 kong -1 jardin -1 flem -1 newsroom -1 landesbank -1 bayerisch -1 frcd -1 fee -1 interbank -1 option -1 mln -1 -2

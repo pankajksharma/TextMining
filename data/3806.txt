@@ -1,0 +1,4 @@
+intens -1 compan -1 study -1 sect -1 gener -1 cop -1 cop -1 cop -1 cop -1 cop -1 idea -1 year -1 year -1 build -1 newspap -1 generat -1 generat -1 generat -1 output -1 manag -1 invest -1 empret -1 nacion -1 jaim -1 de -1 larg -1 ship -1 produc -1 produc -1 mine -1 -2
+mine -1 report -1 report -1 percent -1 expect -1 steepl -1 margaret -1 world -1 mull -1 busi -1 chilean -1 million -1 million -1 million -1 diario -1 diario -1 end -1 case -1 abroad -1 industr -1 decad -1 rise -1 pow -1 foreign -1 grow -1 synerg -1 mater -1 margin -1 northern -1 fine -1 chil -1 -2
+chil -1 chil -1 electricidad -1 ton -1 ton -1 ton -1 smelt -1 electr -1 electr -1 electr -1 plan -1 particip -1 wednesday -1 refin -1 refin -1 refin -1 refin -1 refin -1 endes -1 endes -1 endes -1 bauz -1 bauz -1 asset -1 el -1 el -1 orgill -1 santiag -1 x212 -1 project -1 process -1 -2
+process -1 newsroom -1 activ -1 concent -1 concent -1 -2

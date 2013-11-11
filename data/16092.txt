@@ -1,0 +1,2 @@
+naphth -1 tight -1 thin -1 thin -1 sulphur -1 gas -1 slack -1 slack -1 interest -1 low -1 cargoe -1 firm -1 firm -1 firm -1 firm -1 produc -1 produc -1 strong -1 strong -1 strong -1 soft -1 soft -1 futur -1 futur -1 support -1 crud -1 oil -1 oil -1 oil -1 oil -1 -2
+oil -1 buy -1 fuel -1 fuel -1 off -1 mater -1 resil -1 london -1 russian -1 take -1 fob -1 impact -1 wednesday -1 prem -1 gasolin -1 perceiv -1 demand -1 demand -1 nwe -1 nwe -1 newsroom -1 eurograd -1 ara -1 barg -1 barg -1 activ -1 trad -1 trad -1 -2

@@ -1,0 +1,2 @@
+sery -1 municip -1 agent -1 agent -1 bank -1 amount -1 rev -1 yield -1 percent -1 expect -1 pric -1 pric -1 pric -1 urban -1 urban -1 million -1 million -1 matur -1 deliv -1 renew -1 coupon -1 coupon -1 namp -1 namp -1 call -1 allocat -1 move -1 idah -1 idah -1 aredat -1 -2
+corp -1 par -1 revenu -1 secur -1 bond -1 bond -1 bond -1 seattl -1 qualif -1 northw -1 desk -1 top -1 scal -1 pct -1 pct -1 -2

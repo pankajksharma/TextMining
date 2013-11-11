@@ -1,0 +1,4 @@
+early -1 gener -1 back -1 begin -1 agent -1 agent -1 agent -1 agent -1 newspap -1 shortfal -1 trim -1 billion -1 kenned -1 kenned -1 kenned -1 kenned -1 turn -1 turn -1 unit -1 week -1 today -1 report -1 report -1 report -1 expect -1 gene -1 florid -1 florid -1 florid -1 alli -1 -2
+open -1 monday -1 elimin -1 feder -1 feder -1 feder -1 deput -1 rais -1 current -1 civil -1 cent -1 cent -1 cent -1 cent -1 cent -1 call -1 deep -1 cut -1 cut -1 cut -1 work -1 work -1 work -1 forc -1 initial -1 servic -1 half -1 restructur -1 sweep -1 shuttl -1 job -1 -2
+part -1 direct -1 jane -1 pape -1 sutton -1 aim -1 offset -1 sapc -1 day -1 day -1 plan -1 payrol -1 centur -1 wednesday -1 workforc -1 workforc -1 account -1 budget -1 project -1 joint -1 ventur -1 oct -1 spac -1 spac -1 spac -1 spac -1 spac -1 spac -1 spac -1 releas -1 add -1 -2
+thom -1 partn -1 operat -1 scal -1 offic -1 offic -1 -2

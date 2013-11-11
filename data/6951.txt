@@ -1,0 +1,4 @@
+fully -1 market -1 gener -1 stock -1 stock -1 drug -1 rate -1 low -1 brew -1 hotel -1 mild -1 bank -1 bank -1 live -1 firm -1 food -1 unit -1 list -1 week -1 week -1 today -1 issu -1 debt -1 percent -1 expect -1 croat -1 croat -1 mix -1 mix -1 zagreb -1 -2
+reut -1 pric -1 pric -1 gain -1 volum -1 volum -1 brok -1 million -1 million -1 sold -1 sold -1 sold -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 flat -1 flat -1 thursday -1 edg -1 time -1 time -1 august -1 pliv -1 rise -1 rise -1 rise -1 public -1 -2
+daily -1 zagreback -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 podravk -1 rose -1 told -1 cent -1 exchang -1 lose -1 lagun -1 arenatur -1 rade -1 predict -1 porec -1 sell -1 turnov -1 turnov -1 hand -1 par -1 refin -1 total -1 bond -1 -2
+chang -1 process -1 newsroom -1 karlovack -1 pivovar -1 activ -1 activ -1 activ -1 metk -1 jelent -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 pick -1 -2

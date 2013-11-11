@@ -1,0 +1,2 @@
+market -1 tuesday -1 high -1 rate -1 rate -1 rate -1 rate -1 month -1 low -1 liquid -1 start -1 bank -1 bank -1 system -1 amman -1 cd -1 deal -1 week -1 week -1 jord -1 jord -1 salar -1 slight -1 percent -1 transf -1 overnight -1 soft -1 million -1 deposit -1 monday -1 -2
+auction -1 edg -1 public -1 hover -1 weak -1 rose -1 continu -1 minist -1 subscrib -1 take -1 certif -1 excess -1 rang -1 rang -1 rang -1 attribut -1 institut -1 query -1 dinar -1 dinar -1 dinar -1 newsroom -1 pct -1 pct -1 -2

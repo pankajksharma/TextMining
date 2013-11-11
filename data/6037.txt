@@ -1,0 +1,2 @@
+newsdesk -1 hous -1 bot -1 receiv -1 point -1 nil -1 st -1 custom -1 il -1 deliv -1 deliv -1 deliv -1 deliv -1 long -1 long -1 contract -1 contract -1 gold -1 gold -1 gold -1 chicag -1 chicag -1 august -1 august -1 august -1 august -1 cbot -1 old -1 old -1 lot -1 -2
+lot -1 aug -1 prudent -1 account -1 account -1 silf -1 silf -1 silf -1 kilo -1 kilo -1 option -1 -2

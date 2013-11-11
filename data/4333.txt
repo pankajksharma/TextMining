@@ -1,0 +1,2 @@
+internac -1 life -1 back -1 bp -1 full -1 trust -1 manag -1 borrow -1 spread -1 sbc -1 sbc -1 sbc -1 warburg -1 warburg -1 warburg -1 issu -1 pay -1 lead -1 lead -1 banc -1 pric -1 matur -1 undisc -1 remit -1 typ -1 frn -1 frn -1 libor -1 securit -1 bital -1 -2
+london -1 london -1 certif -1 grant -1 date -1 yrs -1 base -1 aug -1 announc -1 par -1 joint -1 aver -1 newsroom -1 amt -1 iss -1 fee -1 mln -1 mln -1 -2

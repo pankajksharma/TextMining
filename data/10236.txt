@@ -1,0 +1,2 @@
+jakart -1 stock -1 clos -1 clos -1 record -1 high -1 low -1 april -1 april -1 york -1 york -1 york -1 nil -1 resourc -1 common -1 list -1 volum -1 volum -1 million -1 class -1 thursday -1 shar -1 shar -1 day -1 day -1 prev -1 intern -1 friday -1 newsroom -1 asia -1 -2
+asia -1 pacif -1 pacif -1 tel -1 hold -1 block -1 -2

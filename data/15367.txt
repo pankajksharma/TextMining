@@ -1,0 +1,4 @@
+metal -1 early -1 market -1 outnumb -1 back -1 stock -1 stock -1 rate -1 march -1 year -1 ahead -1 rebound -1 term -1 nerv -1 full -1 sydney -1 point -1 point -1 point -1 fall -1 invest -1 firm -1 firm -1 firm -1 firm -1 peopl -1 today -1 mine -1 sound -1 percent -1 -2
+percent -1 percent -1 strong -1 local -1 local -1 expect -1 expect -1 expect -1 help -1 st -1 jump -1 outlook -1 ratio -1 big -1 big -1 index -1 index -1 index -1 ordin -1 brok -1 brok -1 brok -1 futur -1 million -1 shar -1 shar -1 open -1 open -1 open -1 push -1 long -1 -2
+remain -1 stead -1 stead -1 tone -1 rise -1 finish -1 return -1 return -1 bounc -1 cent -1 pret -1 austral -1 austral -1 reassur -1 reassur -1 continu -1 net -1 move -1 posit -1 posit -1 underl -1 lift -1 sharemarket -1 base -1 pasminc -1 hesit -1 thing -1 thing -1 day -1 day -1 profit -1 -2
+result -1 result -1 wednesday -1 wall -1 wall -1 septemb -1 street -1 prem -1 major -1 major -1 bond -1 bond -1 season -1 trad -1 trad -1 -2

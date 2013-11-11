@@ -1,0 +1,3 @@
+draw -1 lviv -1 odess -1 point -1 chornomoret -1 chornomoret -1 stand -1 stand -1 ukrain -1 ukrain -1 cska -1 cska -1 lost -1 torped -1 torped -1 dynam -1 dynam -1 weekend -1 socc -1 premy -1 premy -1 kremin -1 kremin -1 won -1 kremenchuk -1 match -1 vorskl -1 vorskl -1 play -1 play -1 -2
+poltav -1 metalurg -1 metalurg -1 ternopil -1 ternopil -1 zaporizhy -1 zaporizhy -1 shakhtar -1 shakhtar -1 donetsk -1 kryvb -1 kryvb -1 kryvy -1 karpat -1 karpat -1 prykarpatty -1 prykarpatty -1 frankivsk -1 zirk -1 zirk -1 niba -1 niba -1 kirovohrad -1 dnipr -1 dnipr -1 vinnytsy -1 dnipropetrovsk -1 tavria -1 nyva -1 nyva -1 nyva -1 -2
+divid -1 divid -1 result -1 result -1 goal -1 tabulat -1 rig -1 ivan -1 kief -1 kief -1 -2

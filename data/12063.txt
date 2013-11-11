@@ -1,0 +1,3 @@
+market -1 market -1 gener -1 repret -1 clos -1 high -1 spain -1 firm -1 fax -1 deal -1 deal -1 franc -1 hundred -1 slight -1 usual -1 strong -1 bunk -1 bunk -1 bunk -1 amsterdam -1 cst -1 enquir -1 level -1 pric -1 pric -1 pric -1 pric -1 gain -1 busi -1 rotterdam -1 -2
+europ -1 european -1 ensur -1 minim -1 minim -1 oil -1 oil -1 oil -1 stead -1 stead -1 public -1 fuel -1 fuel -1 fuel -1 rose -1 offer -1 play -1 mediterranean -1 mediterranean -1 uncertain -1 ten -1 direct -1 lot -1 ton -1 ton -1 ton -1 fob -1 med -1 result -1 includ -1 includ -1 -2
+hamburg -1 demand -1 friday -1 friday -1 friday -1 due -1 holiday -1 unchang -1 newsroom -1 ara -1 barg -1 southern -1 -2

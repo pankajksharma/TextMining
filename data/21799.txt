@@ -1,0 +1,3 @@
+market -1 market -1 market -1 fin -1 clos -1 clos -1 clos -1 nerv -1 nerv -1 gap -1 gap -1 point -1 point -1 point -1 trend -1 german -1 german -1 firm -1 firm -1 firm -1 deal -1 deal -1 week -1 week -1 week -1 slight -1 yield -1 yield -1 yield -1 dem -1 -2
+percent -1 strong -1 erm -1 erm -1 erm -1 expect -1 helsink -1 fim -1 markk -1 markk -1 markk -1 markk -1 markk -1 markk -1 flat -1 flat -1 end -1 end -1 end -1 talk -1 remain -1 virtual -1 narrow -1 narrow -1 volatil -1 margin -1 specul -1 direct -1 basi -1 basi -1 basi -1 -2
+ilkk -1 link -1 link -1 virtan -1 friday -1 friday -1 bond -1 bond -1 bond -1 due -1 moderat -1 newsroom -1 mark -1 shad -1 trad -1 trad -1 -2

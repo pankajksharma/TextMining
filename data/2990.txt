@@ -1,0 +1,2 @@
+negot -1 negot -1 market -1 christiansson -1 volkswagen -1 tuesday -1 middl -1 skod -1 seat -1 german -1 manag -1 porsch -1 magazin -1 magazin -1 produc -1 produc -1 germ -1 report -1 report -1 reut -1 talk -1 discuss -1 swed -1 swed -1 told -1 lar -1 stockholm -1 size -1 deny -1 deny -1 -2
+coop -1 wednesday -1 truck -1 truck -1 truck -1 involut -1 spokesm -1 joint -1 make -1 newsroom -1 scania -1 scania -1 scania -1 scania -1 henrik -1 alberius -1 vw -1 vw -1 vw -1 vw -1 -2

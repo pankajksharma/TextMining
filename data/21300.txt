@@ -1,0 +1,3 @@
+compan -1 french -1 stock -1 interest -1 interest -1 month -1 low -1 receib -1 regist -1 standard -1 list -1 franc -1 franc -1 report -1 minor -1 jan -1 jan -1 payabl -1 poland -1 million -1 deposit -1 print -1 czech -1 exchang -1 pack -1 loss -1 loss -1 loss -1 loss -1 loss -1 -2
+loss -1 figur -1 figur -1 net -1 net -1 net -1 net -1 half -1 note -1 consolid -1 cost -1 cost -1 calcul -1 incom -1 incom -1 profit -1 profit -1 profit -1 item -1 account -1 intern -1 june -1 june -1 june -1 cofinec -1 cofinec -1 glob -1 newsroom -1 republ -1 operat -1 operat -1 -2
+operat -1 budap -1 budap -1 hung -1 sale -1 sale -1 tax -1 group -1 group -1 -2

@@ -1,0 +1,4 @@
+limit -1 hous -1 french -1 stock -1 sulphur -1 sulphur -1 clos -1 gas -1 gas -1 cif -1 slack -1 high -1 high -1 interest -1 havr -1 month -1 low -1 low -1 octob -1 north -1 cargoe -1 cargoe -1 turn -1 firm -1 firm -1 unit -1 west -1 bought -1 bought -1 distill -1 -2
+stat -1 grad -1 alger -1 percent -1 attent -1 strong -1 ipe -1 ipe -1 ipe -1 introduc -1 window -1 pric -1 pric -1 eu -1 futur -1 sold -1 thursday -1 europ -1 support -1 european -1 arbitr -1 pull -1 contract -1 techn -1 oil -1 oil -1 transatl -1 norweg -1 august -1 buy -1 buy -1 -2
+off -1 past -1 cent -1 ventspil -1 le -1 bid -1 play -1 mediterranean -1 russian -1 russian -1 brazil -1 brazil -1 brazil -1 gear -1 rang -1 load -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 outright -1 refin -1 refin -1 regulat -1 septemb -1 prem -1 carg -1 snap -1 suppl -1 -2
+sept -1 sept -1 prompt -1 nwe -1 advant -1 surg -1 sign -1 trad -1 trad -1 pick -1 pick -1 -2

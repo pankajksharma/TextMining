@@ -1,0 +1,2 @@
+compan -1 repret -1 clos -1 bohai -1 bohai -1 bohai -1 month -1 shr -1 nil -1 nil -1 nil -1 larg -1 produc -1 produc -1 produc -1 stat -1 payabl -1 gain -1 interim -1 million -1 end -1 dividend -1 dividend -1 chin -1 industr -1 respect -1 tianjin -1 tianjin -1 tianjin -1 net -1 -2
+net -1 net -1 note -1 grant -1 book -1 except -1 except -1 turnov -1 profit -1 chemic -1 chemic -1 item -1 hong -1 kong -1 june -1 marin -1 newsroom -1 yuan -1 yuan -1 yuan -1 subsid -1 group -1 pct -1 -2

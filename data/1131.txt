@@ -1,0 +1,4 @@
+payment -1 payment -1 clear -1 publ -1 deck -1 lugo -1 elli -1 elli -1 elli -1 elli -1 unrestructur -1 rank -1 high -1 interest -1 rate -1 omar -1 low -1 year -1 year -1 fresh -1 schedul -1 turn -1 pave -1 debt -1 debt -1 debt -1 debt -1 debt -1 debt -1 debt -1 -2
+debt -1 debt -1 meet -1 meet -1 meet -1 meet -1 pay -1 govern -1 lead -1 reut -1 law -1 futur -1 futur -1 million -1 million -1 matur -1 matur -1 end -1 end -1 end -1 nation -1 gazet -1 honor -1 increas -1 assist -1 august -1 public -1 outstand -1 venezuel -1 venezuel -1 venezuel -1 -2
+financ -1 financ -1 financ -1 financ -1 financ -1 paid -1 paid -1 told -1 import -1 minist -1 minist -1 minist -1 step -1 roy -1 direct -1 credibl -1 arrear -1 arrear -1 arrear -1 arrear -1 basic -1 carac -1 extern -1 budget -1 intern -1 newsroom -1 add -1 republ -1 delay -1 delay -1 offic -1 -2
+prepar -1 -2

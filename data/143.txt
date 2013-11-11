@@ -1,0 +1,4 @@
+small -1 martin -1 carry -1 businessm -1 tuesday -1 fly -1 fly -1 month -1 year -1 kill -1 william -1 start -1 york -1 scotland -1 peopl -1 red -1 bought -1 domest -1 fit -1 approv -1 florid -1 sum -1 pend -1 pioneer -1 chicag -1 provid -1 san -1 francisc -1 servic -1 depart -1 -2
+depart -1 depart -1 tentat -1 tentat -1 tentat -1 period -1 period -1 final -1 americ -1 base -1 gave -1 day -1 plan -1 plan -1 plan -1 plan -1 transport -1 transport -1 announc -1 airlin -1 airlin -1 airlin -1 airlin -1 bomb -1 approvss -1 comment -1 comment -1 pan -1 pan -1 pan -1 pan -1 -2
+pan -1 pan -1 pan -1 aviat -1 aviat -1 spokesm -1 bankrupt -1 ink -1 blu -1 lockerbie -1 mosley -1 mosley -1 miam -1 miam -1 miam -1 chuck -1 cob -1 familiar -1 logo -1 shugru -1 found -1 found -1 restart -1 rout -1 los -1 glob -1 angel -1 rule -1 brought -1 make -1 execut -1 -2
+operat -1 -2

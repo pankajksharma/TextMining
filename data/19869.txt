@@ -1,0 +1,2 @@
+train -1 year -1 term -1 michig -1 helicopt -1 bill -1 end -1 aboard -1 nominat -1 nominat -1 convent -1 chicag -1 chicag -1 flow -1 city -1 washington -1 arriv -1 arriv -1 trip -1 mile -1 day -1 day -1 wednesday -1 clinton -1 clinton -1 clinton -1 indian -1 presid -1 campaign -1 demo -1 -2
+prepar -1 -2

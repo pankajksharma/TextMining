@@ -1,0 +1,5 @@
+early -1 early -1 small -1 correct -1 overhang -1 tuesday -1 tuesday -1 clos -1 month -1 month -1 fair -1 low -1 low -1 octob -1 brent -1 brent -1 brent -1 brent -1 brent -1 brent -1 middl -1 north -1 north -1 sea -1 sea -1 sea -1 reinforc -1 suit -1 turn -1 discount -1 -2
+deal -1 unit -1 unit -1 week -1 statfjord -1 statfjord -1 statfjord -1 produc -1 gmt -1 stat -1 stat -1 suff -1 ate -1 oseberg -1 level -1 tumbl -1 fate -1 pric -1 pric -1 sold -1 million -1 arbitr -1 talk -1 talk -1 crud -1 crud -1 oil -1 ve -1 monday -1 wet -1 stabl -1 -2
+rise -1 off -1 pressur -1 weak -1 weak -1 cent -1 cent -1 cent -1 margin -1 margin -1 cut -1 offer -1 declin -1 blam -1 london -1 overstock -1 match -1 half -1 half -1 half -1 half -1 posit -1 pape -1 date -1 date -1 load -1 outright -1 outright -1 valuat -1 run -1 tom -1 -2
+caus -1 refin -1 refin -1 refin -1 septemb -1 septemb -1 septemb -1 septemb -1 septemb -1 prem -1 prem -1 prem -1 barrel -1 barrel -1 major -1 hit -1 late -1 weigh -1 prompt -1 worst -1 gullfak -1 gullfak -1 gullfak -1 newsroom -1 ashby -1 aggress -1 oversuppl -1 hope -1 defer -1 trad -1 trad -1 -2
+trad -1 bit -1 disput -1 -2

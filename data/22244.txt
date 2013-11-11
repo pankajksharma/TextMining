@@ -1,0 +1,5 @@
+fire -1 early -1 congress -1 elect -1 hous -1 hous -1 back -1 stop -1 stop -1 stop -1 sunday -1 laud -1 congressm -1 reputat -1 start -1 war -1 assault -1 gore -1 gore -1 gore -1 gore -1 dole -1 dole -1 dole -1 dole -1 dole -1 peopl -1 jack -1 stat -1 kemp -1 -2
+kemp -1 kemp -1 kemp -1 kemp -1 fit -1 world -1 level -1 environ -1 restor -1 belief -1 newt -1 gingrich -1 gingrich -1 speech -1 task -1 open -1 end -1 party -1 party -1 nation -1 candid -1 convent -1 secret -1 democrat -1 democrat -1 cabinet -1 polit -1 polit -1 rais -1 oust -1 urg -1 -2
+speak -1 speak -1 sad -1 monst -1 civil -1 civil -1 health -1 relent -1 care -1 warn -1 unify -1 head -1 head -1 call -1 call -1 work -1 forc -1 medicaid -1 servic -1 half -1 bob -1 senat -1 senat -1 program -1 program -1 program -1 attack -1 attack -1 americ -1 stapl -1 educat -1 -2
+favourit -1 link -1 vote -1 wrot -1 wrot -1 day -1 express -1 threat -1 child -1 wednesday -1 legisl -1 discours -1 discours -1 criticis -1 fed -1 medicar -1 medicar -1 boy -1 whit -1 rule -1 oppos -1 republ -1 republ -1 republ -1 jeopard -1 mort -1 vice -1 vice -1 presid -1 presid -1 creat -1 -2
+let -1 demo -1 whip -1 -2

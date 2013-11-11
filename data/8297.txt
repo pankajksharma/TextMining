@@ -1,0 +1,2 @@
+televis -1 acquir -1 acquir -1 market -1 market -1 affil -1 begin -1 own -1 start -1 whr -1 whr -1 agree -1 agree -1 amount -1 deal -1 radio -1 radio -1 radio -1 local -1 livingston -1 herit -1 herit -1 herit -1 herit -1 media -1 media -1 network -1 undisclos -1 rochest -1 rochest -1 -2
+base -1 commun -1 corp -1 septemb -1 present -1 station -1 station -1 station -1 station -1 station -1 fm -1 fm -1 friday -1 major -1 operat -1 operat -1 operat -1 -2

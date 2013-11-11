@@ -1,0 +1,4 @@
+omit -1 limit -1 knight -1 martin -1 toss -1 toss -1 saturday -1 ronnie -1 team -1 ata -1 matthew -1 captain -1 captain -1 alec -1 croft -1 surrey -1 graham -1 graham -1 lancashir -1 maynard -1 trafford -1 lost -1 debut -1 mull -1 headley -1 england -1 england -1 england -1 england -1 england -1 -2
+dean -1 hollioak -1 hollioak -1 moin -1 nick -1 thursday -1 round -1 win -1 gough -1 stewart -1 replac -1 side -1 seam -1 cricket -1 cricket -1 lloyd -1 saeed -1 match -1 won -1 pakist -1 pakist -1 pakist -1 pakist -1 malik -1 edgbaston -1 put -1 put -1 wicket -1 rehm -1 akram -1 anwar -1 -2
+day -1 mike -1 atherton -1 batsm -1 youn -1 wasim -1 saqlain -1 intern -1 mushtaq -1 mushtaq -1 thorp -1 aamir -1 sohail -1 adam -1 adam -1 bat -1 bat -1 ijaz -1 inzamam -1 ul -1 haq -1 salim -1 robert -1 waqar -1 ur -1 make -1 khan -1 pete -1 iran -1 alan -1 ahm -1 -2
+ahm -1 over -1 dar -1 -2

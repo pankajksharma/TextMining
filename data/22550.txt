@@ -1,0 +1,3 @@
+recov -1 night -1 early -1 hous -1 swept -1 occur -1 body -1 body -1 hillslop -1 hospit -1 rain -1 kill -1 kill -1 agent -1 fall -1 live -1 peninsul -1 vill -1 peopl -1 peopl -1 week -1 report -1 stat -1 reut -1 reut -1 thursday -1 trig -1 appar -1 nation -1 flood -1 -2
+past -1 perak -1 perak -1 wash -1 victim -1 told -1 told -1 quot -1 quot -1 aborigin -1 pos -1 search -1 heavy -1 northern -1 new -1 dipang -1 kampar -1 kampar -1 settl -1 settl -1 settl -1 rive -1 rescu -1 rescu -1 bernam -1 bernam -1 bernam -1 bernam -1 malays -1 malays -1 malays -1 -2
+built -1 town -1 spokesm -1 spokesm -1 spokesm -1 friday -1 friday -1 late -1 morn -1 polic -1 polic -1 polic -1 polic -1 fear -1 offic -1 landsl -1 landsl -1 landsl -1 landsl -1 landsl -1 -2

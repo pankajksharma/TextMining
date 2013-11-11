@@ -1,0 +1,7 @@
+mgt -1 mgt -1 mgt -1 mgt -1 conc -1 conc -1 conc -1 conc -1 limit -1 life -1 life -1 life -1 life -1 launch -1 merrill -1 merrill -1 back -1 back -1 tuesday -1 cap -1 cap -1 cap -1 cap -1 month -1 term -1 full -1 full -1 full -1 full -1 und -1 -2
+und -1 und -1 und -1 york -1 trust -1 common -1 list -1 spread -1 spread -1 spread -1 spread -1 loan -1 aa -1 pay -1 pay -1 pay -1 pay -1 pay -1 a1 -1 aaa -1 aaa -1 jan -1 jan -1 jan -1 jan -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 -2
+law -1 moody -1 moody -1 moody -1 moody -1 aa3 -1 class -1 class -1 class -1 class -1 typ -1 typ -1 typ -1 typ -1 frn -1 frn -1 frn -1 frn -1 frn -1 frn -1 libor -1 libor -1 libor -1 libor -1 prov -1 forc -1 household -1 ind -1 ind -1 ind -1 ind -1 -2
+london -1 tranch -1 tranch -1 note -1 note -1 note -1 note -1 date -1 date -1 date -1 date -1 ave -1 ave -1 ave -1 ave -1 yrs -1 yrs -1 yrs -1 yrs -1 a2 -1 a2 -1 a3 -1 base -1 base -1 base -1 base -1 baa2 -1 sell -1 sell -1 sell -1 sell -1 -2
+bbb -1 std -1 exp -1 exp -1 exp -1 exp -1 consum -1 aug -1 aug -1 aug -1 aug -1 aug -1 aug -1 aug -1 aug -1 mat -1 mat -1 mat -1 mat -1 mat -1 mat -1 mat -1 mat -1 par -1 par -1 par -1 par -1 par -1 par -1 par -1 par -1 -2
+asset -1 asset -1 gov -1 dollar -1 dollar -1 lynch -1 newsroom -1 amt -1 amt -1 amt -1 amt -1 iss -1 iss -1 iss -1 iss -1 leg -1 leg -1 leg -1 leg -1 reoff -1 reoff -1 reoff -1 reoff -1 lux -1 freq -1 denom -1 fee -1 fee -1 fee -1 fee -1 neg -1 -2
+sale -1 plg -1 crs -1 tax -1 deflt -1 maj -1 pct -1 pct -1 pct -1 pct -1 mln -1 mln -1 mln -1 mln -1 -2

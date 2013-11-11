@@ -1,0 +1,2 @@
+ocean -1 saturday -1 sunday -1 north -1 north -1 north -1 good -1 turn -1 west -1 west -1 west -1 gmt -1 avil -1 east -1 atlant -1 strong -1 strong -1 strong -1 expect -1 storm -1 less -1 model -1 nation -1 antill -1 grow -1 cent -1 comput -1 veer -1 swirl -1 edt -1 -2
+move -1 miss -1 miss -1 posit -1 new -1 mile -1 kph -1 kph -1 island -1 edouard -1 edouard -1 edouard -1 edouard -1 hurrican -1 hurrican -1 hurrican -1 hurrican -1 mph -1 mph -1 wind -1 add -1 latitud -1 caribbean -1 caribbean -1 longitud -1 lixion -1 forecast -1 forecast -1 northw -1 swing -1 exact -1 -2

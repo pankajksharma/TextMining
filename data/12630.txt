@@ -1,0 +1,4 @@
+compan -1 jakart -1 jakart -1 credit -1 target -1 month -1 begin -1 year -1 telkom -1 receiv -1 yen -1 bank -1 billion -1 sumitom -1 system -1 system -1 system -1 line -1 line -1 deal -1 employ -1 stat -1 east -1 main -1 phas -1 telephon -1 instal -1 million -1 nusantar -1 minim -1 -2
+end -1 end -1 end -1 control -1 contract -1 contract -1 monday -1 suhart -1 telecommun -1 java -1 area -1 current -1 public -1 public -1 public -1 financ -1 import -1 obtain -1 city -1 surabay -1 nec -1 nec -1 nec -1 nec -1 nec -1 nec -1 nec -1 nec -1 develop -1 export -1 corpor -1 -2
+corpor -1 corpor -1 commun -1 plan -1 sixth -1 project -1 project -1 worth -1 joint -1 joint -1 ventur -1 suppl -1 suppl -1 japan -1 japan -1 pt -1 pt -1 pt -1 pt -1 indones -1 indones -1 indones -1 indones -1 son -1 young -1 newsroom -1 switch -1 switch -1 switch -1 humpuss -1 humpuss -1 -2
+presid -1 ord -1 subsid -1 -2

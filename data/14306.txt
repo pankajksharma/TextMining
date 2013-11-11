@@ -1,0 +1,4 @@
+stay -1 market -1 market -1 market -1 evident -1 feel -1 look -1 intermed -1 tuesday -1 stock -1 stock -1 saturday -1 clos -1 clos -1 high -1 low -1 low -1 fresh -1 fall -1 good -1 pivot -1 invest -1 invest -1 backward -1 backward -1 wait -1 wait -1 fund -1 fund -1 domest -1 -2
+anal -1 rish -1 dhanuk -1 dhanuk -1 ratnabal -1 pric -1 pric -1 pric -1 rally -1 rally -1 brok -1 brok -1 brok -1 shar -1 shar -1 shar -1 shar -1 support -1 support -1 end -1 calcut -1 calcut -1 calcut -1 industr -1 edg -1 time -1 time -1 attract -1 buy -1 buy -1 foreign -1 -2
+foreign -1 pressur -1 weak -1 exchang -1 offer -1 lack -1 fact -1 levy -1 predict -1 posit -1 dull -1 technic -1 technic -1 technic -1 technic -1 itc -1 period -1 reli -1 sell -1 sell -1 institut -1 day -1 watch -1 charg -1 charg -1 fii -1 fii -1 rupee -1 rupee -1 ready -1 tend -1 -2
+account -1 secur -1 bours -1 cse -1 prompt -1 make -1 make -1 mutual -1 absent -1 slow -1 trad -1 trad -1 -2

@@ -1,0 +1,4 @@
+syria -1 publ -1 repret -1 countr -1 countr -1 petroleum -1 amount -1 amount -1 unit -1 annual -1 quart -1 produc -1 report -1 report -1 stat -1 stat -1 stat -1 alger -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 oman -1 world -1 fell -1 fell -1 show -1 million -1 -2
+million -1 million -1 million -1 million -1 shar -1 crud -1 crud -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 monday -1 give -1 reserv -1 rose -1 prov -1 opec -1 opec -1 iraq -1 figur -1 figur -1 figur -1 emirat -1 organ -1 organ -1 organ -1 bpd -1 bpd -1 bpd -1 -2
+bpd -1 oapec -1 oapec -1 oapec -1 oapec -1 oapec -1 base -1 export -1 export -1 export -1 export -1 export -1 export -1 export -1 export -1 liby -1 compar -1 compar -1 day -1 includ -1 arabia -1 arab -1 arab -1 arab -1 arab -1 arab -1 arab -1 arab -1 arab -1 kuwait -1 kuwait -1 -2
+barrel -1 saud -1 memb -1 memb -1 egypt -1 suppl -1 bahrain -1 glob -1 qatar -1 yemen -1 group -1 pct -1 -2

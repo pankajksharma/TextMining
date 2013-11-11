@@ -1,0 +1,2 @@
+retail -1 interest -1 rate -1 rate -1 year -1 year -1 year -1 term -1 term -1 invest -1 issu -1 issu -1 issu -1 stat -1 stat -1 stat -1 treasur -1 fix -1 guarant -1 choos -1 thursday -1 minim -1 belgian -1 extend -1 medium -1 medium -1 note -1 note -1 note -1 note -1 -2
+program -1 revis -1 septemb -1 june -1 belg -1 -2

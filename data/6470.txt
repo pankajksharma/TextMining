@@ -1,0 +1,3 @@
+market -1 usda -1 usda -1 usda -1 ag -1 high -1 reach -1 month -1 countr -1 year -1 year -1 billion -1 billion -1 produc -1 southeast -1 southeast -1 percent -1 percent -1 percent -1 percent -1 percent -1 east -1 shar -1 shar -1 thursday -1 chin -1 chin -1 increas -1 decad -1 past -1 -2
+fisc -1 agricultur -1 agricultur -1 agricultur -1 depart -1 ago -1 bln -1 updat -1 note -1 bulk -1 south -1 const -1 export -1 export -1 export -1 export -1 export -1 export -1 taiw -1 asian -1 account -1 hong -1 kong -1 held -1 june -1 june -1 total -1 total -1 japan -1 japan -1 major -1 -2
+asia -1 asia -1 pacif -1 region -1 korea -1 trad -1 -2

@@ -1,0 +1,2 @@
+market -1 refer -1 back -1 clos -1 clos -1 low -1 beneex -1 gerald -1 ahead -1 octob -1 trim -1 trim -1 roll -1 manag -1 produc -1 nymex -1 nymex -1 pric -1 futur -1 mode -1 samuel -1 arb -1 end -1 expir -1 crud -1 crud -1 crud -1 oil -1 oil -1 oil -1 -2
+shed -1 monday -1 give -1 remain -1 cent -1 cent -1 loss -1 loss -1 take -1 take -1 posit -1 direct -1 final -1 session -1 session -1 day -1 profit -1 profit -1 minut -1 refin -1 septemb -1 septemb -1 barrel -1 barrel -1 afternoon -1 trad -1 trad -1 -2

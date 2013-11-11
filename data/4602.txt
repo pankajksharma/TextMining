@@ -1,0 +1,2 @@
+healthcar -1 healthcar -1 healthcar -1 market -1 market -1 emerg -1 newsdesk -1 medic -1 medic -1 gas -1 drug -1 march -1 receiv -1 therap -1 food -1 unit -1 produc -1 produc -1 stat -1 approv -1 approv -1 administ -1 ventil -1 ventil -1 chicag -1 infant -1 ally -1 ally -1 ally -1 wednesday -1 -2
+intern -1 equip -1 equip -1 make -1 respir -1 -2

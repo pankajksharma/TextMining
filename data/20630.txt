@@ -1,0 +1,3 @@
+oj -1 market -1 study -1 phar -1 phar -1 publ -1 vis -1 vis -1 taci -1 revers -1 journ -1 journ -1 journ -1 pursu -1 di -1 manag -1 expert -1 treat -1 issu -1 produc -1 display -1 minor -1 decid -1 protect -1 societ -1 behalf -1 european -1 european -1 european -1 open -1 -2
+open -1 end -1 print -1 ecu -1 sum -1 author -1 sloven -1 august -1 august -1 august -1 articl -1 articl -1 invitat -1 invitat -1 respect -1 commit -1 procedur -1 qual -1 wastewat -1 notic -1 notic -1 compet -1 servic -1 servic -1 note -1 program -1 framework -1 commun -1 commun -1 council -1 july -1 -2
+medicin -1 regulat -1 tend -1 tend -1 eec -1 inform -1 inform -1 equip -1 softwar -1 republ -1 add -1 content -1 content -1 ord -1 offic -1 offic -1 docu -1 -2

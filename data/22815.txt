@@ -1,0 +1,2 @@
+compan -1 contrast -1 draw -1 downgrad -1 downgrad -1 disappoint -1 bank -1 hist -1 billion -1 billion -1 manag -1 invest -1 report -1 expect -1 expect -1 outlook -1 time -1 swed -1 crown -1 made -1 forestr -1 stockholm -1 pre -1 half -1 half -1 jame -1 jame -1 jame -1 capel -1 capel -1 -2
+capel -1 capel -1 simon -1 hsbc -1 specul -1 stark -1 sell -1 sell -1 h1 -1 h1 -1 wors -1 haydon -1 compar -1 profit -1 profit -1 result -1 optim -1 reduc -1 guard -1 h2 -1 stor -1 stor -1 stor -1 stor -1 worst -1 newsroom -1 forecast -1 tax -1 group -1 -2

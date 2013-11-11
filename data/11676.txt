@@ -1,0 +1,2 @@
+market -1 stock -1 record -1 year -1 generat -1 agree -1 correspons -1 edegel -1 edegel -1 report -1 report -1 cash -1 cash -1 million -1 million -1 class -1 class -1 shar -1 shar -1 shar -1 shar -1 dividend -1 dividend -1 dividend -1 dividend -1 peruv -1 lima -1 lima -1 payout -1 daily -1 -2
+exchang -1 peru -1 date -1 date -1 base -1 base -1 electr -1 profit -1 profit -1 profit -1 sol -1 sol -1 sol -1 sept -1 sept -1 set -1 newsroom -1 add -1 -2

@@ -1,0 +1,4 @@
+payment -1 limit -1 tough -1 protest -1 econom -1 back -1 clos -1 high -1 reach -1 facil -1 month -1 month -1 monet -1 demonstr -1 year -1 declar -1 billion -1 billion -1 billion -1 billion -1 system -1 annual -1 cfa -1 cfa -1 cfa -1 cfa -1 week -1 fund -1 fund -1 sourc -1 -2
+stat -1 stat -1 violent -1 pay -1 govern -1 govern -1 treasur -1 bill -1 bill -1 janu -1 administ -1 academ -1 reform -1 million -1 adjust -1 nige -1 nige -1 nige -1 nige -1 univers -1 time -1 indefinit -1 civil -1 cut -1 cut -1 cut -1 prevent -1 notabl -1 minist -1 minist -1 structur -1 -2
+undergo -1 serv -1 invalid -1 overseen -1 cost -1 grant -1 grant -1 grant -1 grant -1 grant -1 grant -1 program -1 old -1 aim -1 educat -1 niamey -1 arrear -1 milit -1 plan -1 announc -1 caus -1 wednesday -1 enhanc -1 reduc -1 bankrupt -1 bankrupt -1 intern -1 student -1 student -1 student -1 student -1 -2
+student -1 june -1 deficit -1 owe -1 owe -1 abidj -1 access -1 regul -1 newsroom -1 campaign -1 -2

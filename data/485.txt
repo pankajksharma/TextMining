@@ -1,0 +1,1 @@
+record -1 shr -1 amount -1 quart -1 pay -1 entertain -1 prior -1 aug -1 sept -1 late -1 gaylord -1 qtly -1 -2

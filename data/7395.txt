@@ -1,0 +1,2 @@
+launch -1 schapir -1 stock -1 alert -1 alert -1 mary -1 beneex -1 line -1 nasd -1 nasd -1 acknowledg -1 invest -1 invest -1 invest -1 deal -1 help -1 decid -1 internet -1 internet -1 big -1 thursday -1 face -1 nation -1 media -1 care -1 warn -1 loss -1 assoc -1 servic -1 risk -1 -2
+risk -1 announc -1 driv -1 regulat -1 secur -1 make -1 arm -1 presid -1 campaign -1 interact -1 pick -1 -2

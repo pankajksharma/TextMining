@@ -1,0 +1,2 @@
+fire -1 tr -1 kepit -1 kepit -1 kleinwort -1 stock -1 money -1 sharehold -1 privat -1 manag -1 trust -1 invest -1 de -1 fund -1 fund -1 fund -1 slam -1 lead -1 pric -1 treg -1 treg -1 treg -1 behalf -1 thursday -1 european -1 european -1 increas -1 off -1 off -1 sausmarez -1 -2
+growth -1 initial -1 improv -1 plc -1 jame -1 cost -1 cost -1 propos -1 result -1 charg -1 driv -1 board -1 reject -1 process -1 worst -1 sale -1 delay -1 delay -1 henderson -1 -2

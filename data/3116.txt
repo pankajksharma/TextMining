@@ -1,0 +1,3 @@
+limit -1 back -1 accur -1 tuesday -1 hospit -1 countr -1 own -1 reign -1 newspap -1 annual -1 week -1 capit -1 salar -1 salar -1 stat -1 bakil -1 percent -1 muluz -1 chao -1 expect -1 govern -1 lead -1 digest -1 reut -1 show -1 support -1 face -1 open -1 minim -1 rise -1 -2
+social -1 press -1 press -1 public -1 zimbabw -1 zimbabw -1 zimbabw -1 verif -1 civil -1 vouch -1 offer -1 work -1 minist -1 herald -1 servic -1 servic -1 agricultur -1 strik -1 strik -1 serv -1 malaw -1 zimbabwean -1 zimbabwean -1 welfar -1 story -1 story -1 aug -1 day -1 hike -1 labor -1 wednesday -1 -2
+wednesday -1 demand -1 order -1 dismit -1 newsroom -1 presid -1 nur -1 offic -1 harar -1 harar -1 staff -1 -2

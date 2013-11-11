@@ -1,0 +1,2 @@
+credit -1 rate -1 rate -1 rate -1 countr -1 countr -1 term -1 receiv -1 agent -1 bank -1 bank -1 bank -1 york -1 bankwatch -1 bankwatch -1 bankwatch -1 upgrad -1 upgrad -1 upgrad -1 issu -1 grad -1 grad -1 stat -1 liabl -1 warsaw -1 zloty -1 thomson -1 thomson -1 thomson -1 short -1 -2
+bre -1 bre -1 bre -1 bre -1 lc -1 lc -1 ic -1 ic -1 intr -1 rozwoju -1 risk -1 risk -1 base -1 sa -1 involut -1 prev -1 friday -1 eksportu -1 newsroom -1 measur -1 scal -1 -2

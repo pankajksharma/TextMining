@@ -1,0 +1,2 @@
+soybean -1 usda -1 usda -1 grain -1 grain -1 newsdesk -1 stock -1 stock -1 bushel -1 grand -1 point -1 point -1 lake -1 gulf -1 week -1 report -1 atlant -1 cst -1 nation -1 nation -1 unq -1 area -1 chicag -1 corn -1 wheat -1 southw -1 thousand -1 rive -1 great -1 nw -1 -2
+total -1 fill -1 plain -1 pacif -1 region -1 pct -1 -2

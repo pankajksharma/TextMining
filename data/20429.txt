@@ -1,0 +1,2 @@
+metal -1 market -1 tuesday -1 clos -1 high -1 high -1 kg -1 kg -1 lme -1 lme -1 lme -1 deal -1 today -1 local -1 local -1 cue -1 overnight -1 fell -1 pric -1 baran -1 krishnaan -1 european -1 rgt -1 kl -1 buy -1 off -1 rose -1 rose -1 cent -1 cent -1 -2
+exchang -1 margin -1 offer -1 tin -1 tin -1 london -1 bid -1 ton -1 ton -1 malays -1 turnov -1 wednesday -1 prem -1 total -1 ringgit -1 ringgit -1 trad -1 eas -1 -2

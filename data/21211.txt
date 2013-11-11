@@ -1,0 +1,5 @@
+stay -1 market -1 market -1 market -1 stock -1 stock -1 stock -1 drug -1 high -1 high -1 high -1 rate -1 fast -1 fast -1 low -1 hotel -1 hotel -1 hotel -1 ahead -1 agent -1 privat -1 bank -1 bank -1 tie -1 firm -1 invest -1 zlatn -1 unit -1 unit -1 week -1 -2
+week -1 today -1 issu -1 issu -1 confect -1 croat -1 croat -1 zagreb -1 atla -1 big -1 tripl -1 pric -1 pric -1 gain -1 gain -1 volum -1 volum -1 volum -1 volum -1 brok -1 million -1 million -1 flat -1 flat -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 push -1 -2
+sum -1 edg -1 time -1 time -1 pliv -1 hren -1 rise -1 rise -1 rise -1 rise -1 ceufin -1 foresaw -1 return -1 livel -1 zagreback -1 zagreback -1 zagreback -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 grow -1 grow -1 seaq -1 rose -1 cent -1 -2
+exchang -1 lagun -1 london -1 excpect -1 doubl -1 suncan -1 sell -1 hvar -1 turnov -1 turnov -1 travel -1 break -1 gdr -1 particip -1 hand -1 intern -1 demand -1 friday -1 chang -1 newsroom -1 rat -1 add -1 activ -1 activ -1 activ -1 activ -1 kra -1 metk -1 jelent -1 pace -1 ivan -1 -2
+signific -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

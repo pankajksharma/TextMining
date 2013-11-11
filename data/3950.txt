@@ -1,0 +1,3 @@
+early -1 market -1 market -1 market -1 quiet -1 clos -1 kg -1 kg -1 kg -1 interest -1 stockpil -1 year -1 year -1 fresh -1 octob -1 octob -1 start -1 start -1 rss3 -1 tsr20 -1 line -1 turn -1 wait -1 sympath -1 gmt -1 report -1 natur -1 mix -1 mix -1 mix -1 -2
+mix -1 mix -1 rss1 -1 defend -1 pric -1 pric -1 pric -1 brok -1 brok -1 brok -1 brok -1 futur -1 futur -1 end -1 talk -1 nation -1 narrow -1 narrow -1 buy -1 singapor -1 singapor -1 singapor -1 rose -1 rose -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 -2
+lack -1 fact -1 half -1 toky -1 sell -1 sell -1 sell -1 plan -1 impact -1 wednesday -1 septemb -1 effect -1 rub -1 rub -1 rub -1 japan -1 late -1 morn -1 kobe -1 moderat -1 afternoon -1 featur -1 theseir -1 trad -1 eas -1 surplus -1 -2

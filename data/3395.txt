@@ -1,0 +1,2 @@
+market -1 newsdesk -1 begin -1 construc -1 potent -1 modul -1 upgrad -1 firm -1 ship -1 ship -1 scient -1 pric -1 model -1 custom -1 chicag -1 graph -1 extend -1 mater -1 comput -1 comput -1 research -1 research -1 offer -1 integr -1 chemist -1 chemist -1 chemist -1 biotechn -1 calcul -1 tripo -1 -2
+tripo -1 tripo -1 tripo -1 alchem -1 alchem -1 alchem -1 visual -1 desktop -1 person -1 databas -1 wednesday -1 capabl -1 molecul -1 version -1 version -1 softwar -1 softwar -1 softwar -1 add -1 allow -1 dimens -1 origin -1 -2

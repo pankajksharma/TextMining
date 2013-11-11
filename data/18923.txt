@@ -1,0 +1,2 @@
+hous -1 indic -1 indic -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 municip -1 municip -1 hospit -1 year -1 year -1 year -1 year -1 year -1 year -1 oblig -1 oblig -1 oblig -1 oblig -1 muni -1 gen -1 gen -1 gen -1 gen -1 week -1 week -1 week -1 -2
+rev -1 rev -1 aa -1 kans -1 kans -1 exempt -1 end -1 august -1 compil -1 prev -1 pipe -1 pipe -1 jaffray -1 jaffray -1 bond -1 bond -1 chang -1 desk -1 tax -1 -2

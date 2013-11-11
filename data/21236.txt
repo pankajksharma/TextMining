@@ -1,0 +1,2 @@
+soar -1 rebound -1 privat -1 privat -1 fall -1 system -1 system -1 amount -1 unit -1 unit -1 unit -1 percent -1 percent -1 percent -1 difficult -1 pric -1 pric -1 polish -1 million -1 million -1 warsaw -1 zloty -1 zloty -1 zloty -1 auction -1 auction -1 august -1 continu -1 continu -1 program -1 -2
+turnov -1 explain -1 chang -1 mass -1 mass -1 nfi -1 newsroom -1 singl -1 singl -1 surpr -1 surpr -1 scal -1 surg -1 surg -1 surg -1 surg -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

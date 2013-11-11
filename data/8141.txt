@@ -1,0 +1,4 @@
+market -1 high -1 alert -1 rate -1 rate -1 year -1 year -1 telebr -1 brother -1 bank -1 bank -1 prefer -1 view -1 line -1 firm -1 firm -1 common -1 unit -1 maintain -1 quart -1 gmt -1 report -1 stat -1 percent -1 percent -1 strong -1 local -1 local -1 outlook -1 reit -1 -2
+banc -1 level -1 million -1 million -1 million -1 million -1 million -1 million -1 adjust -1 shar -1 convent -1 increas -1 telecommun -1 time -1 effic -1 rais -1 rais -1 attract -1 buy -1 buy -1 traff -1 cite -1 margin -1 research -1 assoc -1 inflat -1 numb -1 growth -1 growth -1 figur -1 improv -1 -2
+half -1 serv -1 jame -1 telecom -1 brazil -1 estimat -1 patrimonio -1 patrimonio -1 vote -1 paul -1 paul -1 paul -1 earn -1 earn -1 earn -1 result -1 salomon -1 giant -1 sao -1 sao -1 sao -1 bours -1 cellul -1 due -1 recommend -1 newsroom -1 superior -1 reai -1 reai -1 reai -1 reai -1 -2
+craig -1 telesp -1 telesp -1 telesp -1 telesp -1 telesp -1 -2

@@ -1,0 +1,2 @@
+draw -1 attend -1 attend -1 track -1 clos -1 memor -1 record -1 record -1 record -1 gm -1 begin -1 race -1 race -1 seat -1 deal -1 peopl -1 larg -1 michig -1 gene -1 speedway -1 indycar -1 goodwrench -1 nascar -1 hasket -1 sold -1 open -1 weekend -1 august -1 servic -1 event -1 -2
+event -1 crowd -1 book -1 day -1 day -1 includ -1 intern -1 pensk -1 pensk -1 pensk -1 motorsport -1 motorsport -1 motorsport -1 set -1 season -1 season -1 season -1 add -1 add -1 vice -1 presid -1 -2

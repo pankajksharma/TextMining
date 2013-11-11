@@ -1,0 +1,2 @@
+market -1 recent -1 stock -1 gas -1 commenc -1 start -1 week -1 gmt -1 stat -1 drill -1 drill -1 jump -1 pric -1 show -1 test -1 test -1 shar -1 shar -1 shar -1 oil -1 oil -1 made -1 mater -1 tullow -1 tullow -1 tullow -1 tullow -1 tullow -1 explor -1 detect -1 -2
+plc -1 pakist -1 pakist -1 program -1 penc -1 penc -1 day -1 result -1 result -1 announc -1 friday -1 irish -1 irish -1 prompt -1 newsroom -1 activ -1 dublin -1 dublin -1 group -1 -2

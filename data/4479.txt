@@ -1,0 +1,4 @@
+calm -1 incid -1 protest -1 protest -1 omer -1 brief -1 akbel -1 akbel -1 akbel -1 glafco -1 junt -1 year -1 kill -1 kill -1 agree -1 turk -1 turk -1 turk -1 cypriot -1 cypriot -1 cypriot -1 cypriot -1 unrest -1 week -1 meet -1 meet -1 expect -1 lead -1 lead -1 lead -1 -2
+troop -1 quest -1 coup -1 invad -1 show -1 solut -1 greek -1 greek -1 greek -1 greek -1 greek -1 renew -1 cyprus -1 cyprus -1 cyprus -1 cyprus -1 cyprus -1 tension -1 foreign -1 confid -1 told -1 side -1 side -1 side -1 call -1 call -1 provok -1 blam -1 minist -1 dialog -1 dialog -1 -2
+dialog -1 new -1 atmospher -1 greec -1 turkey -1 turkey -1 engineer -1 buff -1 divid -1 divid -1 commun -1 commun -1 milit -1 basic -1 island -1 island -1 island -1 last -1 wednesday -1 spokesm -1 men -1 refus -1 rule -1 cond -1 separat -1 late -1 polic -1 mutual -1 cler -1 rauf -1 denktash -1 -2
+creat -1 zone -1 -2

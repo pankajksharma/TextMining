@@ -1,0 +1,2 @@
+nasdaq -1 nasdaq -1 market -1 tuesday -1 stock -1 stock -1 stock -1 high -1 high -1 year -1 york -1 yield -1 percent -1 expect -1 treasur -1 advanc -1 advanc -1 index -1 index -1 strength -1 open -1 open -1 industr -1 exchang -1 declin -1 declin -1 led -1 wall -1 wall -1 street -1 -2
+street -1 bond -1 bond -1 dow -1 jone -1 aver -1 broad -1 top -1 boost -1 -2

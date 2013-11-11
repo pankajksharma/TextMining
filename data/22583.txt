@@ -1,0 +1,5 @@
+market -1 market -1 publ -1 star -1 stock -1 stock -1 plung -1 interest -1 soar -1 rebound -1 build -1 point -1 point -1 point -1 point -1 point -1 point -1 billion -1 fall -1 poor -1 poor -1 poor -1 poor -1 poor -1 invest -1 firm -1 list -1 week -1 issu -1 devic -1 -2
+meet -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 expect -1 digest -1 level -1 big -1 tonghua -1 gain -1 interim -1 interim -1 interim -1 index -1 index -1 index -1 index -1 index -1 index -1 dongbao -1 rally -1 volum -1 volum -1 volum -1 volum -1 volum -1 brok -1 brok -1 -2
+brok -1 brok -1 brok -1 million -1 million -1 million -1 million -1 million -1 flat -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 overse -1 overse -1 push -1 end -1 end -1 shed -1 current -1 buy -1 mater -1 lose -1 shanghai -1 shanghai -1 shanghai -1 -2
+shanghai -1 shanghai -1 shanghai -1 fact -1 sse -1 heavy -1 sell -1 sell -1 day -1 result -1 result -1 result -1 result -1 result -1 resist -1 vacuum -1 medicin -1 depress -1 worth -1 worth -1 friday -1 negat -1 newsroom -1 yuan -1 yuan -1 yuan -1 activ -1 huil -1 electron -1 sale -1 trad -1 -2
+trad -1 trad -1 -2

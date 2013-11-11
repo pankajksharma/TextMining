@@ -1,0 +1,2 @@
+wait -1 wait -1 wait -1 wait -1 west -1 west -1 ship -1 report -1 east -1 canad -1 canad -1 canad -1 cwb -1 rupert -1 princ -1 vancouv -1 vancouv -1 wheat -1 thund -1 le -1 churchill -1 coast -1 coast -1 coast -1 gilbert -1 gra -1 load -1 load -1 load -1 load -1 -2
+load -1 day -1 wednesday -1 board -1 port -1 due -1 due -1 due -1 bay -1 vessel -1 vessel -1 vessel -1 vessel -1 vessel -1 -2

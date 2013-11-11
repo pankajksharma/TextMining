@@ -1,0 +1,1 @@
+rate -1 rate -1 bank -1 bank -1 standard -1 poor -1 upgrad -1 stat -1 commonwealth -1 outlook -1 outlook -1 outlook -1 sovereign -1 stabl -1 stabl -1 austral -1 austral -1 posit -1 posit -1 south -1 revis -1 revis -1 corp -1 wednesday -1 wal -1 piba -1 piba -1 bankw -1 aidc -1 cba -1 -2

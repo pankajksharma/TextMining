@@ -1,0 +1,2 @@
+early -1 remov -1 attend -1 attend -1 flight -1 flight -1 carry -1 target -1 sery -1 valujet -1 valujet -1 valujet -1 valujet -1 valujet -1 violat -1 union -1 fly -1 month -1 safet -1 review -1 fite -1 fit -1 administ -1 incap -1 feder -1 petit -1 ground -1 cite -1 safe -1 depart -1 -2
+depart -1 judg -1 certif -1 unwill -1 date -1 transport -1 ask -1 wednesday -1 airlin -1 comment -1 comment -1 aviat -1 resum -1 june -1 friday -1 operat -1 operat -1 top -1 offic -1 slow -1 -2

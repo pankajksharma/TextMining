@@ -1,0 +1,1 @@
+rate -1 bank -1 bank -1 amount -1 afric -1 treasur -1 bill -1 bill -1 bill -1 auction -1 auction -1 reserv -1 reserv -1 date -1 date -1 rm -1 detail -1 detail -1 day -1 result -1 tend -1 friday -1 due -1 -2

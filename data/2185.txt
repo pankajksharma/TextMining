@@ -1,0 +1,2 @@
+payment -1 compan -1 publ -1 tuesday -1 clos -1 year -1 year -1 full -1 firm -1 neurosearch -1 neurosearch -1 weizm -1 gmt -1 report -1 percent -1 expect -1 debut -1 mix -1 gain -1 million -1 million -1 million -1 shar -1 copenhagen -1 copenhagen -1 monday -1 crown -1 crown -1 crown -1 crown -1 -2
+danish -1 stood -1 made -1 loss -1 half -1 half -1 buoy -1 period -1 biotech -1 h1 -1 stev -1 simil -1 compar -1 profit -1 result -1 result -1 result -1 announc -1 bours -1 bours -1 june -1 newsroom -1 add -1 pct -1 -2

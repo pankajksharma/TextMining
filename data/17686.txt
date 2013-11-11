@@ -1,0 +1,4 @@
+negot -1 fully -1 urgent -1 awar -1 clear -1 clear -1 hous -1 protest -1 fray -1 rennie -1 situat -1 gas -1 chain -1 month -1 month -1 demonstr -1 demonstr -1 form -1 peninsul -1 remot -1 road -1 peopl -1 peopl -1 mill -1 understand -1 human -1 violent -1 injur -1 requir -1 melee -1 -2
+govern -1 govern -1 home -1 cylind -1 nation -1 haven -1 chin -1 public -1 kowloon -1 box -1 fade -1 forc -1 continu -1 postpon -1 fami -1 move -1 resid -1 thousand -1 shant -1 coast -1 riot -1 scen -1 settl -1 atop -1 develop -1 taiw -1 taiw -1 vanqu -1 commun -1 july -1 fierc -1 -2
+resist -1 resist -1 mound -1 wednesday -1 flut -1 town -1 town -1 town -1 spokesm -1 spokesm -1 flag -1 hong -1 demand -1 kong -1 crew -1 oppos -1 battl -1 takeov -1 enclav -1 polic -1 make -1 fled -1 soldy -1 operat -1 compens -1 compens -1 demol -1 demol -1 demol -1 brac -1 cook -1 -2
+left -1 block -1 -2

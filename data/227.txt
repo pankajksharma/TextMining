@@ -1,0 +1,4 @@
+early -1 sect -1 econom -1 target -1 high -1 high -1 high -1 high -1 body -1 month -1 month -1 month -1 year -1 year -1 year -1 point -1 billion -1 billion -1 billion -1 spain -1 debt -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 -2
+percent -1 expect -1 help -1 help -1 govern -1 govern -1 burd -1 fell -1 fell -1 show -1 span -1 social -1 public -1 financ -1 financ -1 rose -1 rose -1 rose -1 cent -1 cent -1 minist -1 gdp -1 figur -1 figur -1 figur -1 servic -1 trill -1 trill -1 trill -1 trill -1 trill -1 -2
+cost -1 date -1 incom -1 incom -1 incom -1 incom -1 accumul -1 accumul -1 accumul -1 autonom -1 corpor -1 july -1 july -1 person -1 reduc -1 revenu -1 revenu -1 budget -1 budget -1 secur -1 total -1 deficit -1 deficit -1 deficit -1 deficit -1 deficit -1 releas -1 add -1 peset -1 peset -1 peset -1 -2
+peset -1 peset -1 peset -1 region -1 tax -1 tax -1 tax -1 tax -1 surplus -1 -2

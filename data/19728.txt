@@ -1,0 +1,2 @@
+market -1 quiet -1 quiet -1 quiet -1 high -1 interest -1 rate -1 rate -1 rate -1 rate -1 month -1 month -1 month -1 year -1 point -1 line -1 deal -1 deal -1 spot -1 spot -1 spot -1 week -1 fund -1 percent -1 percent -1 percent -1 percent -1 thursday -1 deposit -1 deposit -1 -2
+sum -1 rise -1 rose -1 quot -1 put -1 base -1 saud -1 saud -1 saud -1 riyal -1 riyal -1 riyal -1 riyal -1 riyal -1 riyadh -1 dollar -1 dollar -1 chang -1 holiday -1 unchang -1 interbank -1 trad -1 trad -1 -2

@@ -1,0 +1,4 @@
+early -1 anti -1 congress -1 attend -1 attend -1 target -1 high -1 month -1 march -1 march -1 stag -1 halt -1 exodus -1 countr -1 countr -1 gang -1 form -1 hijack -1 invest -1 invest -1 prison -1 issu -1 afric -1 afric -1 afric -1 afric -1 afric -1 afric -1 represent -1 stat -1 -2
+violent -1 meet -1 meet -1 lead -1 lead -1 lead -1 home -1 level -1 defend -1 busi -1 law -1 shot -1 pull -1 party -1 nation -1 nation -1 monday -1 weekend -1 facilit -1 tourist -1 car -1 foreign -1 foreign -1 spiral -1 cape -1 cape -1 cite -1 warn -1 coordin -1 minist -1 burn -1 -2
+servic -1 scar -1 crim -1 crim -1 crim -1 crim -1 crim -1 crimin -1 moslem -1 organ -1 south -1 south -1 south -1 south -1 aim -1 tackl -1 justic -1 skill -1 commun -1 commun -1 intellig -1 day -1 summit -1 hand -1 anc -1 rob -1 town -1 town -1 secur -1 strategis -1 rule -1 -2
+prompt -1 polic -1 arm -1 wav -1 suspect -1 hold -1 hold -1 death -1 -2

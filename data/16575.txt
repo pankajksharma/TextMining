@@ -1,0 +1,4 @@
+sect -1 credit -1 thai -1 thai -1 thai -1 baht -1 baht -1 clos -1 record -1 high -1 perform -1 perform -1 rate -1 rate -1 rate -1 rate -1 merg -1 divers -1 billion -1 billion -1 manag -1 good -1 firm -1 client -1 capit -1 loan -1 loan -1 assess -1 erod -1 produc -1 -2
+strong -1 expect -1 implic -1 assign -1 big -1 shar -1 thursday -1 exposur -1 control -1 increas -1 pend -1 august -1 off -1 outstand -1 extend -1 financ -1 financ -1 prov -1 debentur -1 volatil -1 margin -1 margin -1 qual -1 qual -1 senior -1 compet -1 servic -1 bangkok -1 plc -1 plc -1 posit -1 -2
+consolid -1 risk -1 develop -1 book -1 offset -1 tri -1 tri -1 tri -1 gave -1 impact -1 asset -1 asset -1 tend -1 caut -1 thamrong -1 inform -1 secur -1 secur -1 secur -1 secur -1 secur -1 secur -1 secur -1 secur -1 secur -1 secur -1 thailand -1 due -1 adequat -1 newsroom -1 substant -1 -2
+activ -1 operat -1 concent -1 asia -1 asia -1 asia -1 reflect -1 subsid -1 -2

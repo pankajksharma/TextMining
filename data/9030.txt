@@ -1,0 +1,2 @@
+mechan -1 limit -1 rate -1 uncond -1 countr -1 year -1 niinist -1 niinist -1 niinist -1 trust -1 join -1 repeat -1 week -1 magazin -1 erm -1 erm -1 erm -1 decid -1 helsink -1 obvi -1 time -1 august -1 financ -1 made -1 suom -1 suom -1 kuvaleht -1 kuvaleht -1 exchang -1 quot -1 -2
+quot -1 minist -1 pape -1 criter -1 criter -1 emu -1 emu -1 emu -1 link -1 link -1 minut -1 particip -1 saul -1 memb -1 demand -1 friday -1 flexibl -1 qualif -1 newsroom -1 interpret -1 -2

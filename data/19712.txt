@@ -1,0 +1,4 @@
+market -1 market -1 market -1 recent -1 gener -1 back -1 stock -1 cbq -1 cbq -1 ahli -1 bank -1 bank -1 bank -1 bank -1 bank -1 point -1 point -1 unoffic -1 firm -1 week -1 week -1 heavyweight -1 ship -1 percent -1 strong -1 lead -1 al -1 pric -1 index -1 index -1 -2
+gain -1 gain -1 gain -1 gain -1 gain -1 gain -1 brok -1 thursday -1 shar -1 shar -1 shar -1 shar -1 nation -1 nation -1 nation -1 stead -1 stead -1 respect -1 extend -1 rose -1 cement -1 navigat -1 insur -1 insur -1 insur -1 insur -1 move -1 move -1 move -1 half -1 half -1 -2
+led -1 transport -1 islam -1 prev -1 intern -1 riyal -1 riyal -1 riyal -1 riyal -1 riyal -1 riyal -1 riyal -1 riyal -1 riyal -1 doha -1 unchang -1 add -1 add -1 khaleej -1 qatar -1 qatar -1 qatar -1 qatar -1 qatar -1 qatar -1 qatar -1 qatar -1 qatar -1 qatar -1 ascend -1 commerc -1 -2
+slow -1 -2

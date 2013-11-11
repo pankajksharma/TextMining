@@ -1,0 +1,2 @@
+disclos -1 touch -1 touch -1 term -1 privat -1 deal -1 complet -1 int -1 telephon -1 intent -1 long -1 party -1 dist -1 tone -1 tone -1 buy -1 buy -1 purchas -1 servic -1 servic -1 telecom -1 telecom -1 resel -1 americ -1 base -1 plan -1 intern -1 miam -1 held -1 subject -1 -2
+due -1 dilig -1 let -1 sign -1 -2

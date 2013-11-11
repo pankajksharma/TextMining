@@ -1,0 +1,5 @@
+acquir -1 alleg -1 alleg -1 tuesday -1 stock -1 stock -1 gas -1 gas -1 gas -1 violat -1 immed -1 union -1 union -1 union -1 union -1 union -1 union -1 union -1 exercis -1 perform -1 month -1 own -1 merg -1 merg -1 middl -1 agree -1 duty -1 duty -1 swap -1 file -1 -2
+file -1 file -1 file -1 deal -1 deal -1 unit -1 unit -1 unit -1 unit -1 unit -1 unit -1 unit -1 unit -1 unit -1 unit -1 unit -1 lawsuit -1 lawsuit -1 seek -1 usual -1 stat -1 percent -1 approv -1 natur -1 entitl -1 shar -1 shar -1 atmo -1 atmo -1 atmo -1 atmo -1 -2
+atmo -1 atmo -1 fiduc -1 fiduc -1 tenness -1 missor -1 privileg -1 august -1 public -1 off -1 commit -1 confid -1 sue -1 provid -1 provid -1 purchas -1 complain -1 complain -1 city -1 city -1 city -1 city -1 city -1 city -1 city -1 city -1 city -1 city -1 city -1 declin -1 servic -1 -2
+court -1 util -1 district -1 district -1 fail -1 direct -1 energ -1 energ -1 energ -1 propos -1 corp -1 regulat -1 comment -1 comment -1 board -1 inform -1 inform -1 takeov -1 make -1 execut -1 southern -1 southern -1 southern -1 southern -1 southern -1 southern -1 southern -1 hold -1 count -1 block -1 block -1 -2
+block -1 -2

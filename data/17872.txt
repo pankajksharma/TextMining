@@ -1,0 +1,5 @@
+payment -1 life -1 accur -1 tuesday -1 stock -1 dustour -1 aswaq -1 progress -1 progress -1 ad -1 promot -1 receiv -1 build -1 rai -1 turk -1 trend -1 tansu -1 amman -1 cill -1 invest -1 lifelin -1 karak -1 hussein -1 hussein -1 hussein -1 list -1 peopl -1 jord -1 jord -1 jord -1 -2
+jord -1 kabarit -1 stat -1 meet -1 decid -1 govern -1 govern -1 govern -1 lead -1 digest -1 path -1 societ -1 al -1 al -1 reut -1 pric -1 modern -1 law -1 law -1 hass -1 million -1 reform -1 thursday -1 shar -1 governor -1 governor -1 prosper -1 princ -1 remain -1 time -1 rais -1 -2
+press -1 press -1 public -1 madab -1 tafil -1 foreign -1 confid -1 commit -1 commit -1 aftermath -1 verif -1 civil -1 vouch -1 focus -1 aiy -1 continu -1 prim -1 iraq -1 minist -1 minist -1 arriv -1 cheer -1 visit -1 visit -1 upward -1 move -1 parlia -1 dialog -1 dialog -1 direct -1 riot -1 -2
+king -1 king -1 king -1 king -1 detain -1 detain -1 propos -1 framework -1 pledg -1 story -1 story -1 justic -1 mat -1 aug -1 institut -1 royal -1 libert -1 impact -1 wednesday -1 instru -1 achief -1 rule -1 schem -1 bread -1 backtrack -1 set -1 set -1 releas -1 releas -1 compens -1 jordan -1 -2
+jordan -1 -2

@@ -1,0 +1,2 @@
+acquir -1 acquir -1 newsdesk -1 stock -1 stock -1 medic -1 medic -1 clos -1 pharmaceut -1 prescrib -1 levoxyl -1 thyroid -1 hypothyroid -1 common -1 treat -1 larg -1 complet -1 complet -1 petersburg -1 produc -1 st -1 shar -1 industr -1 daniel -1 daniel -1 chicag -1 hormon -1 fla -1 synthet -1 pharmaceutic -1 -2
+pharmaceutic -1 friday -1 friday -1 jone -1 jone -1 jone -1 jone -1 manufactur -1 -2

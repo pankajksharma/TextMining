@@ -1,0 +1,3 @@
+market -1 market -1 newsdesk -1 publ -1 flight -1 flight -1 flight -1 carry -1 stop -1 agree -1 agree -1 osak -1 west -1 west -1 st -1 hawaii -1 reut -1 exist -1 code -1 code -1 code -1 code -1 sold -1 shar -1 shar -1 shar -1 thursday -1 chicag -1 daily -1 san -1 -2
+francisc -1 city -1 mahal -1 mahal -1 mahal -1 mahal -1 servic -1 servic -1 servic -1 honolulu -1 honolulu -1 honolulu -1 honolulu -1 honolulu -1 maui -1 maui -1 molokai -1 molokai -1 kapalua -1 fukuok -1 serv -1 toky -1 base -1 paul -1 nagoy -1 coop -1 coop -1 includ -1 includ -1 minneapol -1 septemb -1 -2
+airlin -1 airlin -1 airlin -1 effect -1 air -1 air -1 japan -1 hawai -1 los -1 angel -1 seattl -1 connect -1 pact -1 northw -1 northw -1 northw -1 northw -1 northw -1 valid -1 sign -1 -2

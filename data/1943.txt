@@ -1,0 +1,3 @@
+tough -1 congress -1 econom -1 heav -1 tuesday -1 stock -1 sentenc -1 sentenc -1 interest -1 fair -1 race -1 page -1 page -1 york -1 york -1 york -1 deal -1 dole -1 issu -1 report -1 slic -1 lead -1 lead -1 digest -1 bill -1 grip -1 show -1 stagnat -1 party -1 case -1 -2
+candid -1 jiang -1 chin -1 mao -1 zemin -1 thaw -1 time -1 time -1 polit -1 rais -1 press -1 whitewat -1 mcdoug -1 lady -1 balk -1 women -1 jame -1 crimin -1 front -1 front -1 bob -1 poll -1 story -1 aug -1 hill -1 commun -1 corp -1 plummet -1 estat -1 titl -1 involut -1 -2
+real -1 clinton -1 clinton -1 clinton -1 chairm -1 polic -1 newsroom -1 republ -1 partn -1 resign -1 presid -1 presid -1 presid -1 presid -1 presid -1 ambit -1 delay -1 sign -1 group -1 -2

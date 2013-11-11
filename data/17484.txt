@@ -1,0 +1,2 @@
+grenfel -1 sep -1 sep -1 year -1 year -1 full -1 morg -1 manag -1 borrow -1 list -1 spread -1 germ -1 straight -1 dem -1 pay -1 lead -1 pric -1 law -1 million -1 matur -1 deutsch -1 deutsch -1 deutsch -1 hypo -1 hypothekenbank -1 coupon -1 typ -1 call -1 london -1 hannov -1 -2
+step -1 step -1 note -1 date -1 announc -1 par -1 gov -1 bond -1 bond -1 set -1 newsroom -1 amt -1 iss -1 reoff -1 mark -1 denom -1 fee -1 pct -1 mln -1 -2

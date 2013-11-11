@@ -1,0 +1,3 @@
+metal -1 metal -1 metal -1 mexic -1 mexic -1 mexic -1 sect -1 sect -1 month -1 month -1 month -1 year -1 year -1 year -1 henry -1 april -1 tobacc -1 food -1 employ -1 employ -1 employ -1 produc -1 produc -1 produc -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 -2
+percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 strong -1 trick -1 textil -1 miner -1 index -1 index -1 hour -1 nation -1 industr -1 statist -1 rise -1 machin -1 ineg -1 grow -1 grow -1 rose -1 work -1 city -1 declin -1 man -1 pape -1 drink -1 basic -1 institut -1 compar -1 -2
+chemic -1 wednesday -1 equip -1 june -1 june -1 june -1 consecut -1 newsroom -1 manufactur -1 manufactur -1 manufactur -1 wood -1 wood -1 subst -1 pct -1 -2

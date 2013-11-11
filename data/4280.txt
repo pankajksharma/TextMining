@@ -1,0 +1,4 @@
+deamnd -1 early -1 market -1 tight -1 brisk -1 dlr -1 money -1 high -1 month -1 month -1 low -1 receiv -1 bank -1 bank -1 forward -1 forward -1 forward -1 good -1 deal -1 deal -1 deal -1 deal -1 deal -1 bought -1 domest -1 premia -1 premia -1 premia -1 premia -1 report -1 -2
+stat -1 percent -1 percent -1 percent -1 pay -1 expect -1 lead -1 material -1 level -1 level -1 pais -1 open -1 open -1 push -1 end -1 end -1 end -1 end -1 stead -1 reserv -1 virtual -1 august -1 financ -1 pressur -1 pressur -1 volatil -1 bombay -1 quot -1 india -1 move -1 play -1 -2
+take -1 part -1 outright -1 run -1 institut -1 day -1 day -1 profit -1 rupee -1 rupee -1 rupee -1 rupee -1 wednesday -1 wednesday -1 wednesday -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 suppl -1 cond -1 band -1 unchang -1 newsroom -1 fear -1 indian -1 indian -1 activ -1 trad -1 trad -1 -2
+cross -1 -2

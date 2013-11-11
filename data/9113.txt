@@ -1,0 +1,2 @@
+refer -1 credit -1 credit -1 exercis -1 dec -1 pari -1 war -1 war -1 war -1 war -1 spot -1 list -1 de -1 franc -1 issu -1 local -1 local -1 citibank -1 citibank -1 reut -1 pric -1 million -1 shar -1 min -1 control -1 time -1 time -1 call -1 call -1 call -1 -2
+london -1 strik -1 tranch -1 period -1 frf -1 frf -1 frf -1 frf -1 frf -1 gear -1 equal -1 americ -1 lot -1 paydat -1 aug -1 aug -1 exer -1 prem -1 styl -1 set -1 newsroom -1 iss -1 pct -1 pct -1 -2

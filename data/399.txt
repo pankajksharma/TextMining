@@ -1,0 +1,3 @@
+market -1 emerg -1 tuesday -1 repret -1 drug -1 drug -1 rate -1 begin -1 brous -1 brous -1 surgic -1 surgic -1 howard -1 rosencr -1 rosencr -1 rosencr -1 sunnyval -1 nascend -1 transmyocard -1 cover -1 cover -1 revascul -1 tmr -1 tmr -1 tmr -1 cardiovascul -1 angioplast -1 system -1 bypass -1 bypass -1 -2
+therap -1 adjunct -1 food -1 peopl -1 treat -1 lase -1 approv -1 anal -1 lead -1 administ -1 gain -1 invad -1 million -1 candid -1 techn -1 initiat -1 buy -1 buy -1 eclips -1 eclips -1 eclips -1 eclips -1 procedur -1 procedur -1 diseas -1 altern -1 altern -1 base -1 wrot -1 conduc -1 rapid -1 -2
+recommend -1 surg -1 surg -1 calif -1 trial -1 -2

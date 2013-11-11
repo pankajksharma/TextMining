@@ -1,0 +1,2 @@
+tight -1 market -1 recent -1 tuesday -1 cif -1 cif -1 high -1 high -1 firm -1 assess -1 ipe -1 level -1 jet -1 jet -1 pric -1 pric -1 stead -1 buy -1 buy -1 buy -1 fuel -1 fuel -1 quot -1 london -1 scar -1 mediterranean -1 put -1 persist -1 ton -1 fob -1 -2
+liby -1 med -1 prem -1 prem -1 prem -1 carg -1 carg -1 sept -1 avail -1 nwe -1 nwe -1 nwe -1 newsroom -1 discour -1 trad -1 trad -1 keep -1 -2

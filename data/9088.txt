@@ -1,0 +1,3 @@
+w160 -1 bridg -1 jomo -1 sea -1 sea -1 sea -1 gulf -1 red -1 red -1 gmt -1 fixtur -1 fixtur -1 ulsan -1 sks -1 chas -1 enquir -1 world -1 lg -1 tank -1 mideast -1 mideast -1 mideast -1 mideast -1 singapor -1 london -1 w167 -1 samsung -1 clean -1 tana -1 northsea -1 -2
+sibonin -1 crux -1 fulmar -1 yosu -1 hemin -1 eleus -1 south -1 south -1 rnr -1 cnr -1 cnr -1 cnr -1 w145 -1 w145 -1 med -1 w155 -1 black -1 maruben -1 ukcm -1 neptun -1 japan -1 japan -1 japan -1 japan -1 caltex -1 sietc -1 tenac -1 newsroom -1 asia -1 pacif -1 korea -1 -2
+korea -1 option -1 -2

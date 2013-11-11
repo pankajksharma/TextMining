@@ -1,0 +1,4 @@
+recov -1 stay -1 notch -1 back -1 clos -1 rand -1 onslaught -1 liquid -1 currenc -1 mild -1 bank -1 bank -1 mapenzausw -1 point -1 point -1 point -1 fall -1 regist -1 stand -1 incr -1 firm -1 firm -1 deal -1 deal -1 deal -1 deal -1 unit -1 unit -1 unit -1 unit -1 -2
+unit -1 unit -1 larg -1 week -1 spread -1 spread -1 today -1 key -1 key -1 salar -1 iterat -1 afric -1 loan -1 local -1 govern -1 gain -1 woe -1 thursday -1 thursday -1 support -1 versus -1 monday -1 edg -1 time -1 reserv -1 stabl -1 finish -1 wid -1 zimbabw -1 zimbabw -1 past -1 -2
+pressur -1 civil -1 relent -1 cent -1 import -1 import -1 import -1 quot -1 continu -1 stell -1 improv -1 serv -1 repay -1 south -1 final -1 link -1 thing -1 session -1 compar -1 day -1 watch -1 wednesday -1 prev -1 demand -1 demand -1 demand -1 demand -1 dollar -1 dollar -1 dollar -1 dollar -1 -2
+due -1 aver -1 late -1 depend -1 newsroom -1 add -1 sterl -1 norm -1 mark -1 harar -1 -2

@@ -1,0 +1,2 @@
+market -1 french -1 perform -1 month -1 build -1 glass -1 glass -1 glass -1 billion -1 firm -1 unit -1 produc -1 stat -1 percent -1 percent -1 percent -1 fell -1 flat -1 case -1 industr -1 car -1 rose -1 rose -1 net -1 net -1 net -1 gp -1 pre -1 note -1 consolid -1 -2
+consolid -1 sell -1 h1 -1 differ -1 turnov -1 turnov -1 saint -1 profit -1 profit -1 profit -1 profit -1 result -1 june -1 cristaler -1 cristaler -1 cristaler -1 gobain -1 fibreglass -1 madrid -1 make -1 newsroom -1 peset -1 parent -1 parent -1 sale -1 tax -1 group -1 pct -1 -2

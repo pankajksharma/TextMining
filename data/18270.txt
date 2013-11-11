@@ -1,0 +1,4 @@
+inflam -1 clear -1 gener -1 bronch -1 bronch -1 bronch -1 bronch -1 observ -1 fin -1 medic -1 high -1 high -1 month -1 year -1 year -1 journ -1 data -1 peopl -1 smok -1 report -1 report -1 report -1 percent -1 percent -1 percent -1 local -1 minor -1 helsink -1 blood -1 blood -1 -2
+blood -1 blood -1 nation -1 die -1 increas -1 cholesterol -1 damag -1 conclud -1 public -1 pressur -1 health -1 research -1 assoc -1 diseas -1 diseas -1 detect -1 predict -1 women -1 women -1 women -1 infect -1 infect -1 infect -1 cough -1 cough -1 cough -1 cough -1 risk -1 attack -1 attack -1 attack -1 -2
+attack -1 attack -1 base -1 wrot -1 wrot -1 factor -1 institut -1 dr -1 great -1 wall -1 bad -1 chanc -1 dying -1 fellow -1 chron -1 men -1 men -1 men -1 pekk -1 lancet -1 friday -1 found -1 chang -1 epidem -1 due -1 clot -1 jousilaht -1 jousilaht -1 phlegm -1 coagul -1 pathogen -1 -2
+vessel -1 heart -1 heart -1 heart -1 heart -1 heart -1 heart -1 heart -1 group -1 -2

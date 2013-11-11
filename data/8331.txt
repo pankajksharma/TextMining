@@ -1,0 +1,2 @@
+nasdaq -1 acquir -1 acquir -1 market -1 newsdesk -1 stock -1 sharehold -1 merg -1 receiv -1 brent -1 brent -1 brent -1 brent -1 brent -1 unit -1 complet -1 complet -1 percent -1 approv -1 cash -1 pric -1 varl -1 varl -1 varl -1 varl -1 varl -1 shar -1 shar -1 convert -1 ceas -1 -2
+chicag -1 off -1 right -1 corp -1 tend -1 tend -1 origin -1 trad -1 -2

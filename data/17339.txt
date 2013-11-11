@@ -1,0 +1,3 @@
+recov -1 recov -1 rate -1 start -1 north -1 sea -1 sea -1 billion -1 billion -1 upgrad -1 unit -1 pump -1 rea -1 produc -1 drill -1 drill -1 tailor -1 main -1 tangen -1 techn -1 techn -1 oil -1 oil -1 oil -1 increas -1 increas -1 reserv -1 reserv -1 reserv -1 effic -1 -2
+platform -1 thor -1 met -1 made -1 asa -1 figur -1 improv -1 half -1 bln -1 northern -1 new -1 cost -1 cost -1 bpd -1 bpd -1 develop -1 onstream -1 july -1 day -1 day -1 plan -1 plan -1 includ -1 field -1 wednesday -1 cubic -1 septemb -1 septemb -1 ups -1 barrel -1 barrel -1 -2
+barrel -1 barrel -1 industrial -1 project -1 troll -1 troll -1 troll -1 troll -1 troll -1 troll -1 troll -1 aver -1 norsk -1 hydr -1 hydr -1 allow -1 vice -1 confer -1 confer -1 presid -1 offshor -1 seism -1 funct -1 -2

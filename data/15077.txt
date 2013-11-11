@@ -1,0 +1,3 @@
+market -1 tight -1 back -1 tuesday -1 clos -1 interest -1 simex -1 simex -1 point -1 roll -1 firm -1 decemb -1 decemb -1 deal -1 deal -1 deal -1 bore -1 nikkei -1 nikkei -1 nikkei -1 nikkei -1 nikkei -1 gain -1 volum -1 volum -1 futur -1 futur -1 futur -1 doreen -1 siow -1 -2
+end -1 end -1 end -1 contract -1 contract -1 contract -1 edg -1 stead -1 narrow -1 continu -1 move -1 move -1 rang -1 rang -1 rang -1 settl -1 gave -1 session -1 institut -1 day -1 asian -1 particip -1 septemb -1 septemb -1 prev -1 prev -1 real -1 chang -1 morn -1 scalp -1 don -1 -2
+afternoon -1 activ -1 trad -1 -2

@@ -1,0 +1,4 @@
+compan -1 briton -1 resort -1 resort -1 resort -1 restaur -1 restaur -1 facil -1 own -1 own -1 hotel -1 hotel -1 hotel -1 hotel -1 hotel -1 agent -1 agent -1 agent -1 agent -1 agent -1 data -1 privat -1 privat -1 privat -1 privat -1 sea -1 sea -1 billion -1 firm -1 upgrad -1 -2
+invest -1 invest -1 zlatn -1 deal -1 pyasats -1 list -1 slanchev -1 bryag -1 germ -1 stat -1 stat -1 stat -1 seasid -1 scandinav -1 show -1 million -1 million -1 million -1 million -1 million -1 sold -1 sold -1 sold -1 contract -1 august -1 buy -1 buy -1 sofia -1 tourist -1 foreign -1 visit -1 -2
+bulgar -1 bulgar -1 bulgar -1 russian -1 northern -1 complex -1 complex -1 base -1 sell -1 lev -1 lev -1 lev -1 lev -1 lev -1 lev -1 purpos -1 bulg -1 bulg -1 bulg -1 turnov -1 includ -1 black -1 black -1 revenu -1 town -1 built -1 total -1 madar -1 friday -1 intertour -1 shoum -1 -2
+holiday -1 holiday -1 newsroom -1 rely -1 sole -1 top -1 subsidis -1 offic -1 -2

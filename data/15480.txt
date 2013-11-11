@@ -1,0 +1,4 @@
+early -1 televis -1 emerg -1 back -1 back -1 train -1 train -1 train -1 train -1 train -1 medic -1 occur -1 doct -1 hospit -1 agent -1 avert -1 road -1 peopl -1 peopl -1 treat -1 trap -1 west -1 brak -1 stat -1 southeast -1 report -1 austr -1 austr -1 injur -1 injur -1 -2
+injur -1 wreck -1 km -1 reut -1 main -1 telephon -1 locomot -1 locomot -1 locomot -1 time -1 hurt -1 damag -1 side -1 shunt -1 told -1 told -1 collid -1 collid -1 quick -1 servic -1 linz -1 linz -1 linz -1 linz -1 linz -1 new -1 mile -1 scen -1 apply -1 coll -1 coll -1 -2
+railway -1 railway -1 express -1 minut -1 travel -1 vien -1 driv -1 great -1 wednesday -1 wagon -1 board -1 spokesm -1 spokesm -1 spokesm -1 passeng -1 passeng -1 passeng -1 passeng -1 passeng -1 passeng -1 station -1 station -1 station -1 station -1 hit -1 polic -1 polic -1 polic -1 add -1 steyr -1 apa -1 -2
+staff -1 accid -1 accid -1 -2

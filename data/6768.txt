@@ -1,0 +1,2 @@
+compan -1 market -1 stock -1 clos -1 stg -1 sharehold -1 full -1 regist -1 list -1 capit -1 capit -1 unlist -1 issu -1 issu -1 issu -1 pay -1 transf -1 busi -1 ordin -1 million -1 thursday -1 shar -1 shar -1 shar -1 shar -1 shar -1 reserv -1 exchang -1 london -1 london -1 -2
+move -1 apply -1 propos -1 plan -1 par -1 septemb -1 secur -1 newsroom -1 druck -1 druck -1 druck -1 druck -1 usm -1 conjuc -1 hold -1 offic -1 -2

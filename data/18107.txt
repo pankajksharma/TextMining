@@ -1,0 +1,4 @@
+payment -1 approach -1 ball -1 money -1 illeg -1 baffl -1 fair -1 month -1 game -1 sack -1 sack -1 year -1 term -1 dalgl -1 agent -1 start -1 amount -1 manag -1 manag -1 manag -1 manag -1 good -1 turn -1 turn -1 turn -1 deal -1 graham -1 graham -1 graham -1 franc -1 -2
+complet -1 capit -1 jack -1 stat -1 subsequ -1 mention -1 decid -1 lee -1 transf -1 rioch -1 manchest -1 manchest -1 thursday -1 cold -1 leav -1 monday -1 time -1 charlton -1 current -1 short -1 off -1 off -1 off -1 off -1 socc -1 return -1 made -1 care -1 work -1 offer -1 engl -1 -2
+city -1 city -1 city -1 declin -1 swindon -1 georg -1 job -1 job -1 favourit -1 divid -1 stev -1 ban -1 arsen -1 arsen -1 arsen -1 day -1 person -1 mcmahon -1 chanc -1 bruc -1 accept -1 reject -1 boss -1 dumbfound -1 chairm -1 season -1 don -1 pleas -1 resign -1 surpr -1 surpr -1 -2
+alan -1 thought -1 thought -1 kenny -1 -2

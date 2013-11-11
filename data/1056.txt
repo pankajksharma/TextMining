@@ -1,0 +1,3 @@
+elect -1 accur -1 jail -1 tuesday -1 stag -1 year -1 newspap -1 alban -1 alban -1 alban -1 alban -1 alban -1 alban -1 sourc -1 koha -1 meet -1 local -1 expect -1 lead -1 lead -1 digest -1 reshuffl -1 reut -1 main -1 million -1 party -1 party -1 party -1 nation -1 convent -1 -2
+gazet -1 conv -1 democrat -1 discuss -1 increas -1 polit -1 initiat -1 august -1 social -1 press -1 tourist -1 foreign -1 foreign -1 verif -1 vouch -1 prim -1 minist -1 minist -1 minist -1 numb -1 half -1 upcom -1 story -1 story -1 aug -1 plan -1 includ -1 particip -1 airlin -1 airlin -1 septemb -1 -2
+reduc -1 bankrupt -1 memb -1 shortcom -1 shqiptar -1 fato -1 nano -1 deficit -1 major -1 infrastructur -1 jone -1 rule -1 oppos -1 oppos -1 morn -1 operat -1 -2

@@ -1,0 +1,2 @@
+oilseed -1 soybean -1 soybean -1 grain -1 grain -1 newsdesk -1 bushel -1 receib -1 receib -1 receib -1 ship -1 ship -1 ship -1 oat -1 st -1 st -1 st -1 loui -1 loui -1 loui -1 deliv -1 chicag -1 chicag -1 chicag -1 chicag -1 chicag -1 chicag -1 corn -1 cbot -1 wheat -1 -2
+day -1 minneapol -1 prev -1 board -1 toled -1 toled -1 toled -1 locat -1 trad -1 trad -1 -2

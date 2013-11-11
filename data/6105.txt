@@ -1,0 +1,3 @@
+recov -1 early -1 sect -1 credit -1 credit -1 credit -1 publ -1 back -1 clos -1 year -1 bank -1 bank -1 bank -1 billion -1 billion -1 billion -1 fall -1 cris -1 loan -1 loan -1 stat -1 report -1 report -1 percent -1 percent -1 percent -1 confirm -1 fell -1 level -1 level -1 -2
+level -1 lend -1 volum -1 million -1 million -1 million -1 thursday -1 swed -1 swed -1 swed -1 crown -1 crown -1 crown -1 crown -1 rise -1 prevail -1 rose -1 health -1 crash -1 loss -1 loss -1 loss -1 loss -1 improv -1 leap -1 pre -1 half -1 half -1 half -1 period -1 period -1 -2
+incom -1 h1 -1 except -1 express -1 profit -1 profit -1 profit -1 profit -1 post -1 swedbank -1 swedbank -1 swedbank -1 swedbank -1 total -1 operat -1 norm -1 commerc -1 -2

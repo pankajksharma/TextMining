@@ -1,0 +1,3 @@
+televis -1 televis -1 televis -1 fin -1 fin -1 fin -1 halt -1 stag -1 kill -1 agent -1 agent -1 stt -1 stt -1 stt -1 lake -1 organis -1 stand -1 road -1 finland -1 peopl -1 peopl -1 report -1 report -1 report -1 report -1 injur -1 injur -1 injur -1 injur -1 km -1 -2
+rally -1 rally -1 rally -1 rally -1 rally -1 rally -1 open -1 cordon -1 time -1 area -1 hurt -1 danish -1 cent -1 crash -1 initial -1 initial -1 ole -1 new -1 new -1 crowd -1 crowd -1 spectat -1 spectat -1 skid -1 hap -1 driv -1 driv -1 spokesm -1 friday -1 mitsubish -1 jyvaskyl -1 -2
+escap -1 karst -1 karst -1 richardt -1 spok -1 frederiks -1 trial -1 accid -1 accid -1 accid -1 -2

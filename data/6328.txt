@@ -1,0 +1,2 @@
+sport -1 midweek -1 da -1 socc -1 socc -1 champ -1 champ -1 atletic -1 atletic -1 palmeir -1 match -1 vasc -1 gama -1 cruzeir -1 portugues -1 brazil -1 brazil -1 mineir -1 flameng -1 result -1 result -1 bahia -1 paran -1 paranaens -1 corinth -1 guaran -1 coritib -1 vitor -1 juventud -1 goia -1 -2
+recif -1 gremio -1 bragantin -1 -2

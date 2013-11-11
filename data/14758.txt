@@ -1,0 +1,2 @@
+recov -1 recent -1 stock -1 target -1 clos -1 high -1 high -1 rebound -1 start -1 point -1 point -1 point -1 point -1 atx -1 atx -1 atx -1 atx -1 gmt -1 percent -1 austr -1 austr -1 big -1 gain -1 index -1 index -1 index -1 volum -1 futur -1 shar -1 shar -1 -2
+shar -1 end -1 end -1 renew -1 wak -1 current -1 ats -1 ats -1 weak -1 ams -1 ams -1 loss -1 omv -1 omv -1 omv -1 rang -1 lot -1 vien -1 vien -1 break -1 septemb -1 bours -1 demand -1 unchang -1 newsroom -1 activ -1 trad -1 trad -1 trad -1 pct -1 pct -1 -2

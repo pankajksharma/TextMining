@@ -1,0 +1,5 @@
+night -1 tip -1 market -1 market -1 market -1 market -1 market -1 market -1 market -1 sect -1 pain -1 back -1 stock -1 stock -1 clos -1 clos -1 high -1 bottom -1 low -1 low -1 low -1 low -1 excus -1 beneex -1 ahead -1 bank -1 point -1 point -1 point -1 trend -1 -2
+slim -1 tobacc -1 firm -1 deal -1 deal -1 caught -1 today -1 key -1 fund -1 fund -1 local -1 anal -1 natur -1 expect -1 suff -1 level -1 index -1 index -1 index -1 rally -1 ordin -1 bout -1 brok -1 futur -1 futur -1 thursday -1 shar -1 shar -1 shar -1 support -1 support -1 -2
+trig -1 end -1 long -1 contract -1 samurai -1 buy -1 finish -1 past -1 weak -1 weak -1 worry -1 baromet -1 austral -1 austral -1 austral -1 forc -1 intr -1 inflict -1 insur -1 brisban -1 pre -1 take -1 take -1 take -1 new -1 base -1 sell -1 run -1 session -1 session -1 day -1 -2
+profit -1 profit -1 profit -1 profit -1 inspir -1 post -1 wednesday -1 wall -1 wall -1 wall -1 concern -1 septemb -1 street -1 street -1 street -1 effect -1 ran -1 prem -1 budget -1 budget -1 meltdown -1 dollar -1 bond -1 bond -1 due -1 late -1 steam -1 negat -1 afternoon -1 see -1 fear -1 -2
+transact -1 hold -1 -2

@@ -1,0 +1,3 @@
+small -1 fledgl -1 tuesday -1 sery -1 month -1 journ -1 improp -1 wsj -1 newspap -1 york -1 york -1 nasd -1 nasd -1 nasd -1 firm -1 firm -1 file -1 deal -1 deal -1 peopl -1 stat -1 report -1 name -1 name -1 accus -1 accus -1 brok -1 brok -1 brok -1 brok -1 -2
+brok -1 brok -1 test -1 test -1 test -1 case -1 case -1 nation -1 impost -1 investig -1 call -1 work -1 work -1 assoc -1 assoc -1 fail -1 claim -1 claim -1 lifetim -1 ban -1 examin -1 examin -1 examin -1 regulat -1 wall -1 wall -1 street -1 street -1 pass -1 exam -1 secur -1 -2
+secur -1 familiar -1 enforc -1 dozen -1 action -1 action -1 qualif -1 allegat -1 impos -1 newsroom -1 arm -1 licens -1 licens -1 -2

@@ -1,0 +1,5 @@
+early -1 refer -1 correct -1 tuesday -1 thin -1 funda -1 clos -1 high -1 high -1 high -1 low -1 low -1 low -1 hot -1 midday -1 octob -1 octob -1 york -1 york -1 output -1 natg -1 week -1 west -1 natur -1 expect -1 nymex -1 nymex -1 nymex -1 jump -1 jump -1 -2
+pric -1 pric -1 soft -1 gain -1 volum -1 brok -1 brok -1 futur -1 futur -1 futur -1 futur -1 sold -1 feet -1 thursday -1 strength -1 hour -1 deliv -1 push -1 talk -1 contract -1 contract -1 contract -1 contract -1 expir -1 techn -1 techn -1 area -1 buy -1 pow -1 pressur -1 cent -1 -2
+cent -1 cent -1 cent -1 cent -1 hydroelectr -1 san -1 ongo -1 loss -1 cut -1 quot -1 oregon -1 mwh -1 mwh -1 verd -1 edt -1 pv -1 pv -1 pv -1 pv -1 pv -1 pv -1 pv -1 move -1 juan -1 fact -1 half -1 megawat -1 complex -1 thousand -1 rang -1 houston -1 -2
+lot -1 bord -1 aug -1 palo -1 electr -1 electr -1 break -1 wednesday -1 cubic -1 septemb -1 septemb -1 septemb -1 septemb -1 septemb -1 septemb -1 septemb -1 cob -1 cob -1 cob -1 cob -1 cob -1 cob -1 cob -1 cob -1 cob -1 combin -1 sept -1 hit -1 weather -1 add -1 bull -1 -2
+forecast -1 northw -1 desk -1 houton -1 californ -1 tandem -1 trad -1 trad -1 trad -1 trad -1 -2

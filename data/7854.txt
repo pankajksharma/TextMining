@@ -1,0 +1,5 @@
+stak -1 compan -1 bratislav -1 floor -1 brisk -1 brisk -1 brisk -1 recent -1 correct -1 correct -1 hard -1 stock -1 clos -1 clos -1 clos -1 gas -1 interest -1 interest -1 low -1 low -1 fluctu -1 privat -1 bank -1 point -1 trend -1 fall -1 drag -1 firm -1 invest -1 invest -1 -2
+invest -1 deal -1 week -1 larg -1 issu -1 slight -1 controvers -1 percent -1 percent -1 lost -1 lost -1 mix -1 pric -1 pric -1 pric -1 pric -1 pric -1 wan -1 index -1 index -1 volum -1 futur -1 brok -1 million -1 million -1 thursday -1 shar -1 shar -1 shar -1 shar -1 shar -1 -2
+shar -1 shar -1 shar -1 shar -1 pull -1 oil -1 oil -1 shed -1 increas -1 unspecif -1 crown -1 crown -1 crown -1 crown -1 ground -1 rose -1 libor -1 pack -1 exchang -1 loss -1 loss -1 declin -1 logic -1 bse -1 bse -1 match -1 heavy -1 predict -1 remanin -1 calcul -1 rang -1 -2
+develop -1 led -1 turnov -1 day -1 refin -1 caut -1 blu -1 satisf -1 chip -1 friday -1 dramat -1 major -1 major -1 major -1 sax -1 creditanstalt -1 due -1 aver -1 aver -1 oscill -1 stor -1 slovnaft -1 slovnaft -1 slovnaft -1 naft -1 naft -1 vub -1 vub -1 slovak -1 slovak -1 norm -1 -2
+norm -1 trad -1 trad -1 trad -1 eas -1 -2

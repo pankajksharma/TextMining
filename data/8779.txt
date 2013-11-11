@@ -1,0 +1,3 @@
+market -1 tight -1 tight -1 tight -1 jakart -1 jakart -1 tuesday -1 heard -1 kg -1 kg -1 kg -1 high -1 high -1 high -1 high -1 trend -1 olein -1 olein -1 medan -1 domest -1 upsid -1 pric -1 sold -1 thursday -1 crud -1 crud -1 oil -1 oil -1 oil -1 oil -1 -2
+remain -1 stabl -1 rupiah -1 rupiah -1 rupiah -1 rupiah -1 continu -1 surabay -1 ton -1 compar -1 ready -1 tend -1 tend -1 demand -1 friday -1 friday -1 suppl -1 suppl -1 suppl -1 indones -1 indones -1 late -1 morn -1 palm -1 palm -1 palm -1 palm -1 palm -1 newsroom -1 boost -1 amid -1 -2
+trad -1 trad -1 trad -1 trad -1 trad -1 -2

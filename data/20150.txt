@@ -1,0 +1,3 @@
+mgt -1 intl -1 cncp -1 cncp -1 cncp -1 conc -1 nkbk -1 nkbk -1 nkbk -1 praecip -1 limit -1 deutscheland -1 unsubordin -1 rate -1 bp -1 sep -1 sep -1 year -1 full -1 und -1 standard -1 manag -1 dmk -1 dmk -1 borrow -1 list -1 spread -1 issu -1 bzw -1 pay -1 -2
+unsecur -1 lead -1 home -1 pric -1 guarant -1 law -1 float -1 matur -1 financ -1 financ -1 typ -1 frn -1 frn -1 libor -1 prov -1 engl -1 forc -1 senior -1 london -1 note -1 date -1 base -1 sell -1 ipma -1 announc -1 sa -1 uk -1 intern -1 gov -1 set -1 newsroom -1 -2
+amt -1 iss -1 reoff -1 lux -1 denom -1 fee -1 neg -1 sale -1 plg -1 crs -1 tax -1 deflt -1 maj -1 ctry -1 mln -1 mln -1 -2

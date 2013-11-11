@@ -1,0 +1,4 @@
+market -1 market -1 market -1 market -1 market -1 market -1 market -1 money -1 money -1 money -1 clos -1 clos -1 clos -1 clos -1 high -1 low -1 liquid -1 begin -1 term -1 bank -1 apr -1 tie -1 franc -1 franc -1 franc -1 franc -1 yield -1 yield -1 report -1 strong -1 -2
+euro -1 treasur -1 cash -1 pric -1 pric -1 pric -1 pric -1 support -1 strength -1 comi -1 end -1 nation -1 monday -1 monday -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 tone -1 weak -1 weak -1 crumbl -1 work -1 initial -1 conf -1 medium -1 offset -1 -2
+conduc -1 unusual -1 watch -1 snb -1 snb -1 resum -1 uk -1 zurich -1 editor -1 overvalu -1 dollar -1 friday -1 friday -1 bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 sept -1 sept -1 sept -1 holiday -1 add -1 see -1 operat -1 possibl -1 trad -1 trad -1 trad -1 -2
+pct -1 pct -1 -2

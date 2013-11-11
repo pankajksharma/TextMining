@@ -1,0 +1,3 @@
+shun -1 carry -1 fast -1 fast -1 touch -1 istat -1 tobacc -1 food -1 food -1 peopl -1 smok -1 smok -1 smok -1 produc -1 report -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 populat -1 felt -1 ate -1 home -1 home -1 home -1 italian -1 italian -1 italian -1 -2
+italian -1 main -1 pref -1 pref -1 million -1 million -1 million -1 nation -1 nation -1 age -1 win -1 win -1 win -1 statist -1 barol -1 chiant -1 equival -1 rice -1 return -1 past -1 declin -1 cigaret -1 fami -1 half -1 love -1 poll -1 consum -1 drink -1 drink -1 land -1 institut -1 -2
+day -1 day -1 survey -1 hamburg -1 fruit -1 alcohol -1 lunch -1 excel -1 friday -1 cond -1 bread -1 meal -1 regul -1 fashion -1 cook -1 cook -1 -2

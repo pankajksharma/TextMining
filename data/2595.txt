@@ -1,0 +1,3 @@
+early -1 market -1 tight -1 credit -1 tuesday -1 tuesday -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 month -1 month -1 month -1 month -1 month -1 month -1 month -1 month -1 low -1 low -1 low -1 yen -1 yen -1 yen -1 bank -1 billion -1 billion -1 billion -1 -2
+fall -1 fall -1 cd -1 cd -1 key -1 key -1 issu -1 issu -1 issu -1 issu -1 issu -1 issu -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 fell -1 level -1 level -1 belief -1 brok -1 reced -1 deposit -1 monday -1 rise -1 grow -1 made -1 city -1 -2
+won -1 certif -1 immin -1 worth -1 worth -1 worth -1 june -1 japan -1 japan -1 due -1 late -1 late -1 morn -1 morn -1 morn -1 add -1 fear -1 cds -1 cds -1 cds -1 cds -1 cds -1 trad -1 trad -1 trad -1 trad -1 trad -1 pct -1 -2

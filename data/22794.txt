@@ -1,0 +1,2 @@
+launch -1 lebanon -1 lebanon -1 hous -1 stock -1 repret -1 genev -1 year -1 bank -1 bank -1 bank -1 point -1 invest -1 invest -1 road -1 list -1 sbc -1 warburg -1 issu -1 issu -1 issu -1 stat -1 stat -1 yield -1 treasur -1 pric -1 show -1 million -1 beirut -1 beirut -1 -2
+beirut -1 beirut -1 luxembourg -1 sal -1 leban -1 financ -1 exchang -1 london -1 byblo -1 byblo -1 note -1 note -1 basi -1 kind -1 compar -1 announc -1 septemb -1 septemb -1 septemb -1 editor -1 euronot -1 euronot -1 euronot -1 held -1 friday -1 offic -1 commerc -1 mln -1 -2

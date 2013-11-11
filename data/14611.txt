@@ -1,0 +1,3 @@
+elect -1 jail -1 jail -1 tuesday -1 hard -1 repret -1 sentenc -1 reconv -1 month -1 convict -1 brother -1 north -1 waiv -1 reda -1 sourc -1 name -1 km -1 exempt -1 exempt -1 conscrib -1 immun -1 age -1 call -1 servic -1 servic -1 court -1 court -1 cair -1 evad -1 evad -1 -2
+parlia -1 parlia -1 parlia -1 parlia -1 certif -1 certif -1 wip -1 mile -1 abdel -1 abdel -1 birth -1 birth -1 forg -1 milit -1 milit -1 milit -1 labor -1 mandat -1 wahhab -1 wahhab -1 secur -1 memb -1 memb -1 male -1 toukh -1 egypt -1 egypt -1 egypt -1 mp -1 son -1 annul -1 -2
+qualif -1 constitu -1 -2

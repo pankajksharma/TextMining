@@ -1,0 +1,4 @@
+compan -1 market -1 market -1 clear -1 back -1 sulphur -1 immed -1 high -1 month -1 month -1 term -1 middl -1 middl -1 middl -1 output -1 output -1 fall -1 poor -1 poor -1 spot -1 spot -1 week -1 straight -1 distill -1 distill -1 produc -1 produc -1 percent -1 percent -1 percent -1 -2
+italy -1 italy -1 shaxson -1 requir -1 pric -1 nichol -1 minim -1 contract -1 crud -1 crud -1 crud -1 oil -1 oil -1 oil -1 fuel -1 fuel -1 fuel -1 sici -1 past -1 feedstock -1 margin -1 margin -1 margin -1 cut -1 cut -1 london -1 altern -1 heavy -1 heavy -1 mediterranean -1 sharp -1 -2
+sharp -1 risen -1 bpd -1 ton -1 ton -1 ton -1 sell -1 run -1 run -1 run -1 run -1 day -1 relat -1 isab -1 isab -1 isab -1 isab -1 wednesday -1 refin -1 refin -1 refin -1 refin -1 refin -1 refin -1 refin -1 refin -1 reduc -1 reduc -1 gasolin -1 gasolin -1 barrel -1 -2
+aver -1 due -1 newsroom -1 add -1 operat -1 boost -1 sale -1 sale -1 offic -1 offic -1 offic -1 -2

@@ -1,0 +1,4 @@
+early -1 early -1 mexic -1 mexic -1 mexic -1 back -1 tuesday -1 stock -1 clos -1 clos -1 clos -1 steep -1 rate -1 rate -1 month -1 low -1 start -1 bank -1 bank -1 bank -1 bank -1 point -1 point -1 point -1 dump -1 fall -1 fall -1 stand -1 leery -1 spot -1 -2
+deal -1 deal -1 deal -1 peso -1 peso -1 peso -1 peso -1 peso -1 peso -1 peso -1 peso -1 peopl -1 week -1 today -1 today -1 issu -1 yield -1 percent -1 lost -1 local -1 expect -1 decid -1 squar -1 outlook -1 cete -1 cete -1 cete -1 gain -1 gain -1 gain -1 flat -1 -2
+flat -1 flat -1 hour -1 hour -1 hour -1 talk -1 contract -1 drop -1 auction -1 auction -1 auction -1 auction -1 auction -1 give -1 altogether -1 buy -1 off -1 foreign -1 pressur -1 centav -1 centav -1 centav -1 quion -1 city -1 prim -1 prim -1 appeal -1 posit -1 dip -1 pape -1 basi -1 -2
+basi -1 basi -1 day -1 day -1 day -1 day -1 day -1 demand -1 alex -1 pricey -1 make -1 unchang -1 newsroom -1 trad -1 trad -1 trad -1 -2

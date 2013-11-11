@@ -1,0 +1,4 @@
+mouth -1 elect -1 liber -1 accur -1 alleg -1 fraud -1 month -1 imro -1 year -1 unity -1 bank -1 fall -1 cattl -1 vill -1 germ -1 local -1 local -1 moment -1 govern -1 lead -1 attain -1 digest -1 protect -1 reut -1 slaught -1 preapar -1 unpredep -1 novmeb -1 bork -1 stanoevsk -1 -2
+thursday -1 cejlan -1 governor -1 party -1 party -1 party -1 expir -1 nation -1 nation -1 consid -1 polit -1 stabl -1 current -1 august -1 press -1 press -1 verif -1 vouch -1 forc -1 farm -1 farm -1 diseas -1 move -1 parlia -1 prolong -1 nova -1 skopj -1 skopj -1 skopj -1 skopj -1 macedon -1 -2
+macedon -1 macedon -1 macedon -1 ally -1 story -1 story -1 council -1 resist -1 ask -1 mandat -1 mandat -1 convertibl -1 extern -1 present -1 secur -1 memb -1 due -1 oppos -1 oppos -1 coal -1 dnevnik -1 foot -1 makedonij -1 boycot -1 vece -1 newsroom -1 allow -1 denar -1 denar -1 mark -1 demo -1 -2
+demo -1 -2

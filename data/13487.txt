@@ -1,0 +1,2 @@
+market -1 high -1 ahead -1 boj -1 bank -1 point -1 invest -1 firm -1 today -1 key -1 light -1 report -1 nikkei -1 nikkei -1 busi -1 busi -1 volum -1 shar -1 benchmark -1 rose -1 call -1 london -1 london -1 london -1 toky -1 except -1 tankin -1 survey -1 japan -1 japan -1 -2
+aver -1 aver -1 releas -1 newsroom -1 reluc -1 trad -1 trad -1 trad -1 trad -1 -2

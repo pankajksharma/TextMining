@@ -1,0 +1,4 @@
+usda -1 market -1 market -1 illinoi -1 illinoi -1 tuesday -1 tuesday -1 tuesday -1 tuesday -1 clos -1 saturday -1 high -1 ahead -1 start -1 iowa -1 iowa -1 deal -1 week -1 week -1 light -1 sourc -1 ship -1 produc -1 report -1 strong -1 expect -1 expect -1 expect -1 expect -1 cash -1 -2
+jump -1 hog -1 hog -1 hog -1 hog -1 hog -1 hog -1 pric -1 pric -1 pric -1 pric -1 slaught -1 end -1 monday -1 monday -1 monday -1 monday -1 monday -1 monday -1 industr -1 weekend -1 increas -1 stead -1 stead -1 stead -1 area -1 short -1 pack -1 pack -1 cwt -1 midw -1 -2
+midw -1 spark -1 livestock -1 move -1 match -1 bob -1 direct -1 rang -1 lift -1 offset -1 day -1 day -1 labor -1 labor -1 septemb -1 attempt -1 demand -1 demand -1 demand -1 suppl -1 minnesot -1 minnesot -1 jani -1 holiday -1 indian -1 activ -1 operat -1 top -1 top -1 top -1 top -1 -2
+southern -1 southern -1 left -1 trad -1 prepar -1 -2

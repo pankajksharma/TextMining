@@ -1,0 +1,2 @@
+early -1 gener -1 syndic -1 rate -1 rate -1 month -1 year -1 start -1 bank -1 bank -1 bank -1 bank -1 point -1 mid -1 issu -1 issu -1 decid -1 pric -1 float -1 float -1 million -1 thursday -1 matur -1 arrang -1 arrang -1 frn -1 frn -1 call -1 offer -1 kwangju -1 -2
+kwangju -1 london -1 put -1 note -1 basi -1 final -1 par -1 mandat -1 septemb -1 hong -1 kong -1 set -1 newsroom -1 asia -1 kdb -1 fee -1 interbank -1 group -1 sought -1 option -1 mln -1 -2

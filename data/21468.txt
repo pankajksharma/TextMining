@@ -1,0 +1,4 @@
+market -1 market -1 gener -1 retail -1 retail -1 slip -1 clos -1 clos -1 high -1 interest -1 rate -1 rate -1 rate -1 rate -1 month -1 march -1 low -1 low -1 low -1 year -1 year -1 line -1 firm -1 firm -1 deal -1 deal -1 slight -1 slight -1 slight -1 yield -1 -2
+yield -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 percent -1 local -1 local -1 moment -1 govern -1 govern -1 treasur -1 treasur -1 treasur -1 overnight -1 bill -1 bill -1 bill -1 pric -1 pric -1 volum -1 brok -1 thursday -1 thursday -1 thursday -1 thursday -1 end -1 versus -1 singapor -1 -2
+singapor -1 singapor -1 rose -1 offer -1 take -1 july -1 compar -1 profit -1 hike -1 impact -1 septemb -1 june -1 friday -1 bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 neutr -1 moderat -1 moderat -1 unchang -1 newsroom -1 mark -1 interbank -1 interbank -1 interbank -1 interbank -1 interbank -1 -2
+trad -1 bit -1 -2

@@ -1,0 +1,4 @@
+approach -1 clear -1 fin -1 stop -1 saturday -1 fast -1 stag -1 hospit -1 hospit -1 halt -1 begin -1 race -1 year -1 kill -1 agent -1 stt -1 lake -1 lake -1 woman -1 tie -1 organis -1 organis -1 plough -1 road -1 finland -1 peopl -1 peopl -1 peopl -1 suspend -1 light -1 -2
+light -1 fit -1 lost -1 expect -1 injur -1 injur -1 injur -1 injur -1 lead -1 overnight -1 km -1 world -1 phas -1 rally -1 rally -1 rally -1 rally -1 test -1 open -1 round -1 control -1 remain -1 cordon -1 time -1 time -1 time -1 area -1 danish -1 car -1 car -1 car -1 -2
+champ -1 cent -1 crash -1 undergo -1 ole -1 auxil -1 event -1 event -1 front -1 new -1 crowd -1 spectat -1 spectat -1 skid -1 run -1 driv -1 driv -1 resum -1 classif -1 sixth -1 friday -1 mitsubish -1 cond -1 young -1 need -1 jyvaskyl -1 escap -1 karst -1 richardt -1 richardt -1 richardt -1 -2
+frederiks -1 dusk -1 thought -1 walk -1 surg -1 surg -1 trial -1 trial -1 accid -1 accid -1 -2

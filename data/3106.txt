@@ -1,0 +1,4 @@
+ben -1 early -1 congress -1 recent -1 bolst -1 zulu -1 inkath -1 inkath -1 inkath -1 kwazulu -1 natal -1 year -1 unity -1 provinc -1 provinc -1 full -1 mtshal -1 nguban -1 nguban -1 nguban -1 admirat -1 conserv -1 np -1 seat -1 art -1 art -1 de -1 cultur -1 guid -1 afric -1 -2
+afric -1 afric -1 veter -1 anal -1 decid -1 govern -1 govern -1 lead -1 scient -1 name -1 name -1 interim -1 entitl -1 entitl -1 strength -1 nelson -1 end -1 domin -1 party -1 party -1 party -1 nation -1 nation -1 nation -1 techn -1 techn -1 cabinet -1 time -1 deput -1 replac -1 freedom -1 -2
+minist -1 minist -1 mandel -1 mandel -1 mandel -1 klerk -1 won -1 transfer -1 chief -1 constitut -1 south -1 trans -1 base -1 led -1 portfolio -1 want -1 announc -1 wednesday -1 septemb -1 anc -1 june -1 lionel -1 whit -1 whit -1 coal -1 rule -1 rule -1 rule -1 withdraw -1 mangosuthu -1 buthelez -1 -2
+buthelez -1 presid -1 presid -1 presid -1 demo -1 -2

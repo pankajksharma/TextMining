@@ -1,0 +1,2 @@
+allot -1 market -1 newsdesk -1 credit -1 fingerhut -1 fingerhut -1 fingerhut -1 stock -1 regist -1 common -1 common -1 file -1 unit -1 unit -1 produc -1 stat -1 percent -1 cos -1 cos -1 million -1 shar -1 shar -1 shar -1 shar -1 chicag -1 public -1 off -1 outstand -1 commit -1 met -1 -2
+met -1 met -1 met -1 met -1 provid -1 exchang -1 purchas -1 offer -1 offer -1 initial -1 direct -1 grant -1 underwrit -1 consum -1 day -1 secur -1 add -1 add -1 option -1 -2

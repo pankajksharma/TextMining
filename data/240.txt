@@ -1,0 +1,2 @@
+stak -1 clear -1 tuesday -1 union -1 merg -1 construc -1 klockn -1 klockn -1 arus -1 arus -1 aquir -1 stahl -1 und -1 cover -1 metallhandel -1 industriel -1 ecsc -1 ecsc -1 tube -1 reinforc -1 hollow -1 dealt -1 german -1 bent -1 treat -1 produc -1 stat -1 percent -1 approv -1 approv -1 -2
+decid -1 eu -1 aspect -1 european -1 european -1 european -1 industr -1 gmbh -1 buy -1 commit -1 commit -1 cut -1 section -1 bar -1 commun -1 alumin -1 steel -1 sa -1 essent -1 regulat -1 concern -1 elabor -1 suppl -1 coal -1 separat -1 manufactur -1 distribut -1 -2

@@ -1,0 +1,4 @@
+clos -1 rank -1 ithac -1 high -1 high -1 union -1 municip -1 homeown -1 watervliet -1 watervliet -1 ogdensburg -1 ogdensburg -1 plattsburg -1 oneont -1 data -1 cortland -1 york -1 edition -1 nys -1 list -1 list -1 alban -1 alban -1 alban -1 capit -1 capit -1 fund -1 stat -1 stat -1 stat -1 -2
+stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 lost -1 pay -1 local -1 local -1 parcel -1 mean -1 level -1 busi -1 exempt -1 exempt -1 exempt -1 exempt -1 million -1 thursday -1 time -1 syracus -1 paid -1 cite -1 loss -1 forc -1 -2
+propert -1 propert -1 propert -1 propert -1 propert -1 propert -1 city -1 city -1 city -1 city -1 city -1 city -1 servic -1 half -1 ten -1 pape -1 pape -1 pape -1 base -1 led -1 utic -1 revenu -1 real -1 make -1 releas -1 desk -1 top -1 region -1 offic -1 count -1 count -1 -2
+tax -1 tax -1 tax -1 tax -1 tax -1 tax -1 troy -1 -2

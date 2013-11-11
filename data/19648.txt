@@ -1,0 +1,2 @@
+cop -1 cop -1 cop -1 cop -1 stg -1 stg -1 rtz -1 rtz -1 rtz -1 rtz -1 rtz -1 low -1 year -1 year -1 nerv -1 debr -1 sherm -1 fall -1 deal -1 unit -1 unit -1 peopl -1 mine -1 expect -1 fell -1 tumbl -1 tumbl -1 pric -1 interim -1 million -1 -2
+million -1 shar -1 drop -1 haven -1 bougainvill -1 weak -1 weak -1 london -1 ago -1 half -1 pre -1 period -1 estimat -1 lot -1 profit -1 profit -1 profit -1 profit -1 result -1 corp -1 inspir -1 concern -1 releas -1 newsroom -1 add -1 trad -1 subsid -1 subsid -1 tax -1 -2

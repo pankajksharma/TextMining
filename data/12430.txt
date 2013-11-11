@@ -1,0 +1,4 @@
+limit -1 early -1 early -1 market -1 market -1 market -1 market -1 market -1 market -1 small -1 back -1 back -1 stop -1 stop -1 clos -1 clos -1 high -1 perform -1 rate -1 low -1 low -1 rebound -1 rebound -1 invest -1 invest -1 deal -1 deal -1 deal -1 deal -1 spread -1 -2
+light -1 issu -1 yield -1 percent -1 percent -1 percent -1 govern -1 treasur -1 treasur -1 pric -1 aid -1 contribut -1 contribut -1 sold -1 open -1 sum -1 monday -1 auction -1 auction -1 belgian -1 belgian -1 belgian -1 belgian -1 belgian -1 narrow -1 stabl -1 stabl -1 buy -1 obtain -1 allocat -1 london -1 -2
+olo -1 olo -1 olo -1 olo -1 fact -1 linear -1 sharp -1 selloff -1 widen -1 turnov -1 post -1 post -1 unabl -1 secur -1 demand -1 demand -1 demand -1 friday -1 bond -1 bond -1 bond -1 bond -1 bond -1 bund -1 aver -1 late -1 morn -1 holiday -1 afternoon -1 activ -1 trad -1 -2
+trad -1 trad -1 trad -1 trad -1 -2

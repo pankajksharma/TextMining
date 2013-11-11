@@ -1,0 +1,2 @@
+municip -1 rate -1 bank -1 bank -1 fall -1 amount -1 standard -1 poor -1 invest -1 yield -1 percent -1 aaa -1 aaa -1 pric -1 pric -1 pric -1 moody -1 million -1 million -1 matur -1 coupon -1 coupon -1 wash -1 wash -1 call -1 refund -1 servic -1 insur -1 district -1 date -1 -2
+school -1 fgic -1 corp -1 par -1 par -1 bond -1 bond -1 bond -1 bond -1 due -1 qualif -1 see -1 snohom -1 snohom -1 seafirst -1 desk -1 top -1 scal -1 granit -1 count -1 count -1 pct -1 pct -1 -2

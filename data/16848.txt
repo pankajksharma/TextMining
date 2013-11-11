@@ -1,0 +1,2 @@
+payment -1 payment -1 emtn -1 hfc -1 bsnp -1 lisbor -1 bpsm -1 month -1 month -1 year -1 term -1 lisbon -1 point -1 billion -1 manag -1 portug -1 de -1 issu -1 issu -1 issu -1 lead -1 lead -1 banc -1 banc -1 esc -1 index -1 european -1 negocio -1 escud -1 mayor -1 -2
+sot -1 financ -1 financ -1 pint -1 santand -1 household -1 household -1 household -1 navigat -1 navigat -1 bln -1 medium -1 note -1 part -1 part -1 program -1 date -1 basi -1 corp -1 septemb -1 intern -1 editor -1 joint -1 bond -1 group -1 -2

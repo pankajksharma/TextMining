@@ -1,0 +1,4 @@
+febru -1 febru -1 febru -1 febru -1 union -1 march -1 march -1 march -1 begin -1 april -1 april -1 issu -1 issu -1 represent -1 meet -1 meet -1 meet -1 meet -1 local -1 amsterdam -1 amsterdam -1 amsterdam -1 amsterdam -1 decid -1 govern -1 govern -1 int -1 environ -1 environ -1 janu -1 -2
+janu -1 eu -1 eu -1 rotterdam -1 rotterdam -1 rotterdam -1 netherland -1 european -1 european -1 end -1 dutch -1 dutch -1 social -1 conclud -1 foreign -1 commit -1 city -1 minister -1 agricultur -1 play -1 host -1 host -1 host -1 tentat -1 tentat -1 tentat -1 igc -1 date -1 educat -1 develop -1 develop -1 -2
+agend -1 agend -1 justic -1 council -1 transport -1 transport -1 summit -1 affair -1 affair -1 affair -1 announc -1 prev -1 intern -1 inform -1 inform -1 inform -1 held -1 june -1 ecofin -1 due -1 set -1 add -1 noordwijk -1 noordwijk -1 noordwijk -1 apeldoorn -1 apeldoorn -1 domburg -1 domburg -1 corep -1 confer -1 -2
+presid -1 presid -1 presid -1 perman -1 hope -1 offic -1 -2

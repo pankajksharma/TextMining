@@ -1,0 +1,5 @@
+early -1 early -1 market -1 market -1 outnumb -1 carry -1 ag -1 stock -1 clos -1 high -1 high -1 interest -1 low -1 low -1 point -1 point -1 point -1 point -1 system -1 fall -1 select -1 select -1 select -1 radex -1 heraklith -1 firm -1 firm -1 lenz -1 lenz -1 magnitud -1 -2
+atx -1 atx -1 atx -1 produc -1 report -1 lost -1 percent -1 percent -1 percent -1 percent -1 percent -1 austr -1 austr -1 natur -1 expect -1 lead -1 claw -1 advanc -1 advanc -1 prop -1 gain -1 gain -1 gain -1 albeit -1 index -1 index -1 index -1 index -1 futur -1 thursday -1 shar -1 -2
+support -1 flughaf -1 end -1 contract -1 oil -1 shed -1 remain -1 schill -1 schill -1 schill -1 mikr -1 narrow -1 tone -1 buy -1 lose -1 lose -1 warn -1 loss -1 loss -1 margin -1 omv -1 omv -1 omv -1 omv -1 half -1 half -1 bia -1 posit -1 viscos -1 rang -1 base -1 -2
+fibr -1 turnov -1 turnov -1 day -1 day -1 vien -1 vien -1 chemic -1 septemb -1 blu -1 chip -1 chip -1 bours -1 demand -1 broad -1 unchang -1 add -1 add -1 bull -1 manufactur -1 activ -1 top -1 shad -1 solid -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2
+trad -1 group -1 -2

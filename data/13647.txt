@@ -1,0 +1,5 @@
+stak -1 market -1 brisk -1 recent -1 tuesday -1 stock -1 stock -1 drug -1 broker -1 high -1 interest -1 rate -1 low -1 hotel -1 hotel -1 come -1 cheap -1 fresh -1 climb -1 climb -1 bank -1 bank -1 bank -1 igor -1 fall -1 kos -1 firm -1 firm -1 firm -1 invest -1 -2
+food -1 unit -1 unit -1 week -1 issu -1 percent -1 lost -1 expect -1 confect -1 croat -1 croat -1 fell -1 zagreb -1 pric -1 ordin -1 volum -1 volum -1 volum -1 volum -1 volum -1 million -1 sold -1 sold -1 sold -1 sold -1 flat -1 flat -1 shar -1 shar -1 shar -1 shar -1 -2
+shar -1 shar -1 shar -1 pull -1 sum -1 taurus -1 rais -1 pliv -1 buy -1 tourist -1 zagreback -1 zagreback -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 podravk -1 rose -1 rose -1 rose -1 rose -1 cent -1 jadrantur -1 exchang -1 -2
+lagun -1 rivier -1 arenatur -1 declin -1 upward -1 kolumbin -1 move -1 move -1 bencev -1 predict -1 specul -1 period -1 gent -1 gent -1 suncan -1 hvar -1 sell -1 turnov -1 profit -1 hand -1 asset -1 depress -1 intraday -1 process -1 season -1 holiday -1 unchang -1 newsroom -1 add -1 add -1 activ -1 -2
+kra -1 advant -1 trad -1 trad -1 trad -1 trad -1 -2

@@ -1,0 +1,4 @@
+incid -1 tuesday -1 immed -1 provinc -1 maid -1 paktiy -1 arman -1 jaji -1 sworn -1 lead -1 govern -1 govern -1 govern -1 govern -1 afgh -1 afgh -1 afgh -1 afgh -1 vict -1 taleb -1 taleb -1 taleb -1 taleb -1 taleb -1 taleb -1 rebel -1 oppon -1 grip -1 main -1 invad -1 -2
+instal -1 surrend -1 surrend -1 tank -1 monday -1 press -1 oust -1 import -1 forc -1 quot -1 prim -1 minist -1 move -1 aip -1 kabul -1 pakist -1 district -1 district -1 district -1 afghanist -1 burhanuddin -1 rabban -1 rabban -1 put -1 pakistan -1 hezb -1 hezb -1 hezb -1 hezb -1 claim -1 gulbuddin -1 -2
+consolid -1 hekmatyar -1 rejoin -1 northwestern -1 base -1 weapon -1 contact -1 gave -1 milit -1 peshawar -1 resist -1 purist -1 islam -1 islam -1 islam -1 islam -1 islam -1 islam -1 islam -1 hand -1 town -1 account -1 spokesm -1 pro -1 pro -1 pro -1 held -1 june -1 eastern -1 eastern -1 add -1 -2
+fight -1 fight -1 presid -1 faction -1 command -1 command -1 command -1 ord -1 offic -1 independ -1 -2

@@ -1,0 +1,2 @@
+market -1 rate -1 bank -1 bank -1 mkt -1 deal -1 float -1 float -1 auction -1 foreign -1 cent -1 cent -1 exchang -1 quot -1 brazil -1 brazil -1 cavern -1 alexandr -1 sell -1 sell -1 paul -1 announc -1 announc -1 tend -1 tend -1 sao -1 dollar -1 dollar -1 dollar -1 real -1 -2
+real -1 set -1 newsroom -1 add -1 interbank -1 -2

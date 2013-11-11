@@ -1,0 +1,2 @@
+market -1 sect -1 recent -1 stock -1 clos -1 low -1 low -1 low -1 rebound -1 rebound -1 rebound -1 grand -1 ya -1 tsai -1 usi -1 issu -1 east -1 percent -1 percent -1 percent -1 cathay -1 level -1 level -1 pric -1 gain -1 gain -1 brok -1 shar -1 nan -1 industr -1 -2
+rise -1 rise -1 rose -1 cent -1 pret -1 fifty -1 signif -1 consolid -1 taiw -1 taiw -1 taipei -1 minut -1 mike -1 wednesday -1 secur -1 demand -1 suppl -1 chang -1 plast -1 plast -1 plast -1 plast -1 hit -1 hit -1 late -1 newsroom -1 trad -1 -2

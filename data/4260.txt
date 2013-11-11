@@ -1,0 +1,4 @@
+recov -1 market -1 market -1 tuesday -1 stock -1 stock -1 stock -1 high -1 fortun -1 karach -1 build -1 cover -1 cover -1 bank -1 point -1 deal -1 deal -1 capit -1 slight -1 stat -1 percent -1 anal -1 expect -1 expect -1 fell -1 mix -1 mix -1 sent -1 gain -1 index -1 -2
+index -1 index -1 million -1 million -1 shar -1 shar -1 shar -1 thursday -1 support -1 end -1 end -1 oil -1 remain -1 short -1 short -1 pow -1 finish -1 confid -1 rose -1 rose -1 rose -1 rose -1 lose -1 exchang -1 lack -1 lack -1 insur -1 play -1 play -1 bln -1 bln -1 -2
+pakist -1 posit -1 specul -1 specul -1 new -1 pakistan -1 pakistan -1 led -1 turnov -1 rupee -1 rupee -1 rupee -1 rupee -1 kse -1 kse -1 wednesday -1 wednesday -1 adamj -1 prev -1 secur -1 salm -1 major -1 major -1 rasheed -1 muslim -1 ovai -1 subhan -1 tomorrow -1 activ -1 hub -1 ptcl -1 -2
+amid -1 commerc -1 sidelin -1 trad -1 -2

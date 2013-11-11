@@ -1,0 +1,4 @@
+compan -1 compan -1 compan -1 draw -1 econom -1 carry -1 fin -1 tuesday -1 interest -1 interest -1 own -1 year -1 octob -1 privat -1 privat -1 privat -1 privat -1 privat -1 privat -1 stand -1 firm -1 firm -1 firm -1 firm -1 debat -1 oy -1 germ -1 mine -1 mine -1 report -1 -2
+stat -1 stat -1 stat -1 meet -1 govern -1 govern -1 main -1 intent -1 riga -1 end -1 leav -1 diff -1 oil -1 oil -1 cabinet -1 eston -1 eston -1 eston -1 swed -1 attract -1 pow -1 told -1 vatenfal -1 western -1 western -1 work -1 prim -1 eest -1 eest -1 eest -1 minist -1 -2
+minist -1 minist -1 minist -1 shal -1 shal -1 varul -1 varul -1 varul -1 tiit -1 vaeh -1 nrg -1 imatr -1 voim -1 northern -1 restructur -1 selloff -1 new -1 part -1 part -1 part -1 energ -1 energ -1 energ -1 energ -1 energ -1 energ -1 energ -1 justic -1 paul -1 plan -1 plan -1 -2
+plan -1 preuss -1 includ -1 ready -1 deadlin -1 deadlin -1 rule -1 set -1 set -1 newsroom -1 add -1 confer -1 absent -1 let -1 sign -1 -2

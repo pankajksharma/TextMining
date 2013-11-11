@@ -1,0 +1,1 @@
+clear -1 cop -1 cop -1 clos -1 high -1 york -1 comex -1 comex -1 decreas -1 grad -1 nymex -1 nymex -1 busi -1 lower -1 futur -1 futur -1 contract -1 monday -1 commod -1 margin -1 margin -1 margin -1 cut -1 specul -1 divid -1 memb -1 memb -1 hedg -1 -2

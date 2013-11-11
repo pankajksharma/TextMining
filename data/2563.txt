@@ -1,0 +1,3 @@
+early -1 market -1 jakart -1 jakart -1 jakart -1 tuesday -1 money -1 money -1 money -1 money -1 rate -1 liquid -1 bank -1 bank -1 bank -1 fall -1 swap -1 swap -1 spot -1 deal -1 deal -1 deal -1 week -1 salar -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 -2
+percent -1 percent -1 expect -1 transf -1 overnight -1 overnight -1 fell -1 monday -1 monday -1 unload -1 foreign -1 pressur -1 civil -1 cent -1 call -1 call -1 offer -1 continu -1 loos -1 serv -1 incom -1 compar -1 day -1 tom -1 prem -1 friday -1 suppl -1 suppl -1 neutr -1 aver -1 due -1 -2
+polic -1 newsroom -1 operat -1 operat -1 offshor -1 interbank -1 keep -1 -2

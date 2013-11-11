@@ -1,0 +1,3 @@
+negot -1 negot -1 negot -1 negot -1 stak -1 stak -1 stak -1 stak -1 stak -1 compan -1 acquir -1 acquir -1 goodrich -1 goodrich -1 repret -1 sharehold -1 interest -1 year -1 year -1 potent -1 mace -1 mace -1 mace -1 mace -1 mace -1 mace -1 mace -1 mace -1 privat -1 gould -1 -2
+percent -1 percent -1 requir -1 lead -1 name -1 shar -1 shar -1 shar -1 shar -1 control -1 control -1 talk -1 expir -1 discuss -1 remain -1 purchas -1 purchas -1 purchas -1 initial -1 galt -1 period -1 direct -1 vote -1 wednesday -1 septemb -1 intern -1 secur -1 secur -1 held -1 combin -1 competit -1 -2
+competit -1 competit -1 chairm -1 robert -1 jon -1 execut -1 execut -1 vice -1 presid -1 richard -1 top -1 hold -1 sale -1 sale -1 sale -1 option -1 option -1 option -1 option -1 -2

@@ -1,0 +1,2 @@
+cpc -1 saturday -1 butadi -1 petroleum -1 produc -1 produc -1 grad -1 grad -1 stat -1 pric -1 pric -1 chin -1 august -1 august -1 feedstock -1 propyl -1 propyl -1 ethyl -1 petrochem -1 benz -1 ton -1 paraxyl -1 orthoxyl -1 taiw -1 taiw -1 taipei -1 revis -1 revis -1 run -1 july -1 -2
+corp -1 chemic -1 black -1 polym -1 dollar -1 kilolitr -1 carbon -1 newsroom -1 -2

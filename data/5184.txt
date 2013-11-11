@@ -1,0 +1,2 @@
+market -1 back -1 cap -1 cap -1 high -1 high -1 low -1 pari -1 franc -1 franc -1 gmt -1 percent -1 percent -1 percent -1 shar -1 shar -1 rise -1 gemin -1 gemin -1 comput -1 figur -1 half -1 day -1 hit -1 newsroom -1 consult -1 boost -1 sale -1 sale -1 trad -1 -2
+trad -1 soget -1 group -1 -2

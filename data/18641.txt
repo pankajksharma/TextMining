@@ -1,0 +1,2 @@
+stock -1 firm -1 stat -1 jan -1 jan -1 janu -1 million -1 million -1 mina -1 gerai -1 provid -1 exchang -1 figur -1 figur -1 net -1 net -1 net -1 net -1 bln -1 period -1 telecom -1 note -1 brazil -1 base -1 telemig -1 telemig -1 paul -1 july -1 july -1 july -1 -2
+compar -1 profit -1 result -1 revenu -1 sao -1 fatim -1 cristin -1 worth -1 newsroom -1 reai -1 reai -1 mln -1 -2

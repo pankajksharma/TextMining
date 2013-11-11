@@ -1,0 +1,5 @@
+stak -1 limit -1 track -1 ag -1 ag -1 genev -1 cs -1 union -1 month -1 month -1 low -1 holocaust -1 holocaust -1 stratec -1 bobst -1 year -1 year -1 year -1 year -1 hotel -1 basel -1 journ -1 sunstar -1 piguet -1 cantonal -1 vaudois -1 start -1 bank -1 bank -1 bank -1 -2
+bank -1 bank -1 affect -1 regist -1 appoint -1 manag -1 firm -1 de -1 employ -1 franc -1 franc -1 franc -1 franc -1 week -1 fund -1 switzerland -1 switzerland -1 switzerland -1 meet -1 approv -1 percent -1 percent -1 percent -1 percent -1 neu -1 zuerch -1 digest -1 tage -1 anzeig -1 big -1 million -1 -2
+million -1 million -1 support -1 end -1 banqu -1 banqu -1 techn -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 feder -1 feder -1 rise -1 august -1 press -1 cie -1 commit -1 victim -1 loss -1 cut -1 cut -1 fisc -1 parlia -1 half -1 half -1 direct -1 direct -1 -2
+jelmol -1 sell -1 corpor -1 railway -1 turnov -1 council -1 plan -1 profit -1 profit -1 profit -1 wag -1 wag -1 post -1 post -1 medicin -1 utc -1 board -1 intern -1 memb -1 june -1 major -1 intend -1 zeitung -1 creat -1 boost -1 hold -1 hold -1 hold -1 group -1 group -1 group -1 -2
+group -1 -2

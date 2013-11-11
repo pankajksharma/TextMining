@@ -1,0 +1,3 @@
+compan -1 market -1 credit -1 fin -1 interest -1 month -1 year -1 construc -1 construc -1 billion -1 deprec -1 deprec -1 stat -1 report -1 anal -1 expect -1 minor -1 reut -1 gain -1 million -1 shar -1 swed -1 swed -1 crown -1 crown -1 rise -1 financ -1 financ -1 exchang -1 net -1 -2
+net -1 ago -1 stockholm -1 poll -1 note -1 skansk -1 skansk -1 skansk -1 skansk -1 cost -1 h1 -1 differ -1 compar -1 profit -1 profit -1 profit -1 profit -1 profit -1 result -1 charg -1 charg -1 charg -1 estat -1 estat -1 post -1 post -1 particip -1 item -1 item -1 item -1 item -1 -2
+june -1 ab -1 ab -1 found -1 real -1 real -1 newsroom -1 operat -1 operat -1 ord -1 sale -1 sale -1 tax -1 group -1 intak -1 -2

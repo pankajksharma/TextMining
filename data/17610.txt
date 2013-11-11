@@ -1,0 +1,4 @@
+market -1 tuesday -1 tuesday -1 tuesday -1 tuesday -1 thin -1 rate -1 rate -1 month -1 month -1 month -1 month -1 month -1 ahead -1 term -1 data -1 point -1 point -1 point -1 point -1 deal -1 deal -1 maintain -1 week -1 fund -1 gross -1 slight -1 domest -1 produc -1 percent -1 -2
+percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 local -1 squar -1 fix -1 thursday -1 adjust -1 open -1 end -1 deposit -1 deposit -1 remain -1 short -1 august -1 rise -1 public -1 rose -1 rose -1 rose -1 rose -1 gdp -1 gdp -1 figur -1 figur -1 -2
+posit -1 posit -1 job -1 job -1 claim -1 claim -1 date -1 july -1 compar -1 asian -1 asian -1 wednesday -1 wednesday -1 wednesday -1 dollar -1 dollar -1 friday -1 chang -1 chang -1 twelf -1 due -1 late -1 unchang -1 unchang -1 unchang -1 add -1 forecast -1 forecast -1 sidelin -1 trad -1 trad -1 -2
+trad -1 trad -1 -2

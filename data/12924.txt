@@ -1,0 +1,2 @@
+compan -1 nasdaq -1 early -1 market -1 market -1 market -1 back -1 tuesday -1 stock -1 stock -1 war -1 percent -1 jump -1 gain -1 million -1 shar -1 shar -1 shar -1 shar -1 shar -1 open -1 harding -1 harding -1 harding -1 time -1 time -1 author -1 buy -1 machin -1 outstand -1 -2
+outstand -1 board -1 tool -1 cond -1 set -1 make -1 transact -1 buyback -1 buyback -1 trad -1 pct -1 -2

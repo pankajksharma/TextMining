@@ -1,0 +1,3 @@
+novemb -1 quiet -1 clos -1 clos -1 clos -1 clos -1 currenc -1 pip -1 yen -1 start -1 bank -1 firm -1 firm -1 deal -1 deal -1 franc -1 percent -1 percent -1 percent -1 mix -1 level -1 float -1 float -1 futur -1 futur -1 futur -1 futur -1 open -1 ecu -1 ecu -1 -2
+drop -1 nation -1 monday -1 monday -1 swiss -1 stead -1 stead -1 commod -1 forint -1 forint -1 forint -1 forint -1 forint -1 wid -1 finish -1 weak -1 made -1 exchang -1 basket -1 intervent -1 bid -1 half -1 rang -1 turnov -1 session -1 compar -1 resist -1 nbh -1 nbh -1 bce -1 bce -1 -2
+account -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 morn -1 unchang -1 newsroom -1 budap -1 budap -1 mark -1 mark -1 hung -1 hung -1 hung -1 trad -1 trad -1 trad -1 influ -1 -2

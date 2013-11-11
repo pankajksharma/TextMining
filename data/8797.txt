@@ -1,0 +1,2 @@
+gener -1 french -1 hard -1 saturday -1 saturday -1 saturday -1 receiv -1 shakankir -1 shakankir -1 octob -1 seek -1 red -1 red -1 gmt -1 gmt -1 ship -1 stat -1 local -1 wright -1 reut -1 pric -1 soft -1 soft -1 commod -1 author -1 author -1 august -1 buy -1 buy -1 told -1 -2
+wheat -1 wheat -1 wheat -1 wheat -1 western -1 bid -1 ton -1 compar -1 want -1 want -1 result -1 announc -1 septemb -1 tend -1 deadlin -1 egypt -1 egypt -1 egypt -1 suppl -1 friday -1 whit -1 jonath -1 chairm -1 set -1 vice -1 samir -1 option -1 -2

@@ -1,0 +1,5 @@
+compan -1 market -1 rumor -1 occur -1 broker -1 sharehold -1 high -1 interest -1 interest -1 interest -1 interest -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 beneex -1 beneex -1 ahead -1 term -1 point -1 point -1 point -1 select -1 seng -1 seng -1 invest -1 percy -1 -2
+ng -1 ng -1 list -1 asg -1 haix -1 haix -1 maansh -1 fund -1 debt -1 michael -1 ship -1 percent -1 percent -1 percent -1 percent -1 anal -1 anal -1 anal -1 ratio -1 fell -1 index -1 index -1 rally -1 brok -1 anticip -1 thursday -1 shar -1 shar -1 shar -1 shar -1 shar -1 -2
+shar -1 shar -1 enterpr -1 enterpr -1 enterpr -1 long -1 weekend -1 chin -1 chin -1 chin -1 chin -1 renew -1 hk -1 hk -1 hk -1 hk -1 hk -1 hk -1 hk -1 hk -1 sustain -1 rise -1 buy -1 dbs -1 made -1 rose -1 rose -1 rose -1 au -1 research -1 cut -1 -2
+cut -1 cut -1 cut -1 cut -1 shanghai -1 shanghai -1 shanghai -1 petrochem -1 jilin -1 jilin -1 direct -1 gear -1 earn -1 earn -1 mainland -1 announc -1 announc -1 chemic -1 chemic -1 reduc -1 caut -1 blu -1 secur -1 chip -1 hong -1 hong -1 kong -1 kong -1 expend -1 iron -1 late -1 -2
+morn -1 young -1 newsroom -1 add -1 hope -1 hope -1 trad -1 hang -1 hang -1 -2

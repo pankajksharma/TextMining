@@ -1,0 +1,2 @@
+fire -1 compan -1 capac -1 ag -1 month -1 full -1 frankfurt -1 april -1 stat -1 main -1 pric -1 volum -1 million -1 million -1 drop -1 deutsch -1 reason -1 airport -1 mater -1 lufthans -1 lufthans -1 numb -1 duesseldorf -1 spend -1 gp -1 pre -1 freight -1 note -1 mail -1 ton -1 -2
+h1 -1 profit -1 profit -1 profit -1 pretax -1 airlin -1 slash -1 passeng -1 june -1 competit -1 newsroom -1 mark -1 sale -1 staff -1 tax -1 group -1 group -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 -2

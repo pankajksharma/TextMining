@@ -1,0 +1,3 @@
+compan -1 repret -1 eps -1 high -1 rate -1 month -1 year -1 full -1 data -1 ads -1 ads -1 ads -1 rmb -1 rmb -1 rmb8 -1 usd -1 rev -1 interim -1 ordin -1 oper -1 oper -1 million -1 class -1 shar -1 shar -1 shar -1 end -1 end -1 end -1 mos -1 -2
+mos -1 huaneng -1 huaneng -1 conven -1 equival -1 pow -1 pow -1 outstand -1 outstand -1 exchang -1 numb -1 numb -1 numb -1 net -1 net -1 weight -1 weight -1 transl -1 transl -1 note -1 incom -1 incom -1 earn -1 result -1 post -1 intern -1 hong -1 kong -1 june -1 aver -1 aver -1 -2
+newsroom -1 -2

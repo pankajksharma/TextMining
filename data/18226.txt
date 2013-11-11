@@ -1,0 +1,3 @@
+early -1 acquir -1 back -1 rumor -1 stock -1 broker -1 high -1 merg -1 bank -1 bank -1 toront -1 buyout -1 richardson -1 richardson -1 richardson -1 richardson -1 richardson -1 greenshield -1 greenshield -1 greenshield -1 greenshield -1 greenshield -1 spot -1 deal -1 unit -1 unit -1 sourc -1 strong -1 confirm -1 cash -1 -2
+canad -1 canad -1 canad -1 catapult -1 reut -1 reut -1 brok -1 million -1 thursday -1 thursday -1 domin -1 domin -1 domin -1 bureau -1 buy -1 told -1 work -1 purchas -1 swirl -1 forc -1 move -1 new -1 book -1 day -1 royal -1 royal -1 spokesm -1 intern -1 secur -1 combin -1 releas -1 -2
+top -1 sale -1 rbc -1 rbc -1 rbc -1 -2

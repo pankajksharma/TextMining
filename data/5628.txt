@@ -1,0 +1,4 @@
+limit -1 popul -1 anti -1 anti -1 anti -1 anti -1 nicotin -1 hous -1 slip -1 slip -1 sery -1 find -1 drug -1 drug -1 low -1 sport -1 year -1 endors -1 curb -1 curb -1 pari -1 tobacc -1 tobacc -1 tobacc -1 invest -1 food -1 peopl -1 peopl -1 franc -1 franc -1 -2
+pave -1 smok -1 smok -1 smok -1 smok -1 gmt -1 percent -1 anal -1 expect -1 expect -1 decid -1 bill -1 bill -1 suff -1 administ -1 rest -1 entertain -1 volum -1 thursday -1 shar -1 shar -1 spons -1 long -1 industr -1 machin -1 remind -1 grow -1 financ -1 cigaret -1 cigaret -1 move -1 -2
+event -1 period -1 await -1 rang -1 fda -1 ban -1 vend -1 announc -1 announc -1 wednesday -1 regulat -1 concern -1 favor -1 seit -1 seit -1 seit -1 friday -1 friday -1 clinton -1 clinton -1 clinton -1 clinton -1 whit -1 recommend -1 young -1 young -1 newsroom -1 enter -1 measur -1 measur -1 presid -1 -2
+presid -1 campaign -1 offic -1 restrict -1 group -1 -2

@@ -1,0 +1,2 @@
+market -1 back -1 thin -1 thin -1 stock -1 stock -1 record -1 high -1 reach -1 point -1 point -1 firm -1 firm -1 firm -1 deal -1 slight -1 gmt -1 fts -1 nikkei -1 nikkei -1 volum -1 benchmark -1 rose -1 london -1 london -1 london -1 london -1 bia -1 toky -1 wall -1 -2
+street -1 japan -1 japan -1 aver -1 aver -1 featur -1 newsroom -1 trad -1 trad -1 -2

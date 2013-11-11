@@ -1,0 +1,2 @@
+market -1 tuesday -1 stg -1 stg -1 high -1 high -1 high -1 high -1 interest -1 ballantyn -1 fall -1 mill -1 big -1 pric -1 pric -1 gain -1 protein -1 jim -1 chicag -1 chicag -1 buy -1 buy -1 buy -1 feed -1 feed -1 london -1 soymeal -1 wednesday -1 uk -1 uk -1 -2
+stor -1 meal -1 meal -1 newsroom -1 trad -1 -2

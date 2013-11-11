@@ -1,0 +1,2 @@
+debit -1 debit -1 sharehold -1 interest -1 wellington -1 year -1 cashflow -1 cashflow -1 billion -1 billion -1 invest -1 equit -1 equit -1 stat -1 stat -1 minor -1 balanc -1 sheet -1 million -1 liabl -1 liabl -1 current -1 current -1 rise -1 nz -1 nz -1 net -1 consolid -1 earn -1 turnov -1 -2
+profit -1 profit -1 profit -1 pretax -1 fcl -1 asset -1 asset -1 ebit -1 total -1 total -1 june -1 newsroom -1 activ -1 activ -1 operat -1 tax -1 group -1 mln -1 -2

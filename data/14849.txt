@@ -1,0 +1,4 @@
+tight -1 market -1 market -1 market -1 stop -1 clos -1 rate -1 rate -1 rate -1 low -1 year -1 variabl -1 stuck -1 lisbon -1 bank -1 point -1 drag -1 manag -1 portug -1 portug -1 spain -1 spain -1 spain -1 spain -1 firm -1 deal -1 deal -1 deal -1 spread -1 today -1 -2
+fund -1 domest -1 debt -1 slight -1 slight -1 germ -1 yield -1 report -1 percent -1 expect -1 help -1 help -1 overnight -1 cash -1 cash -1 fix -1 level -1 italian -1 easy -1 gain -1 futur -1 futur -1 europ -1 flat -1 support -1 european -1 span -1 undaunt -1 remain -1 stead -1 stead -1 -2
+edg -1 portugu -1 portugu -1 bureau -1 escud -1 tone -1 rise -1 buy -1 buy -1 weak -1 import -1 loss -1 loss -1 spree -1 fact -1 signif -1 consolid -1 rang -1 persist -1 basi -1 compar -1 demand -1 bono -1 dollar -1 bond -1 bond -1 bond -1 bond -1 tomorrow -1 repo -1 mark -1 -2
+bit -1 -2

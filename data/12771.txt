@@ -1,0 +1,2 @@
+market -1 immed -1 downgrad -1 alert -1 rate -1 rate -1 rate -1 month -1 point -1 system -1 key -1 issu -1 sourc -1 grad -1 percent -1 nikkei -1 assign -1 shar -1 monday -1 aronkasei -1 aronkasei -1 cut -1 research -1 research -1 research -1 move -1 direct -1 valu -1 institut -1 institut -1 -2
+prev -1 comment -1 aver -1 nomur -1 nomur -1 see -1 offic -1 -2

@@ -1,0 +1,2 @@
+compan -1 credit -1 carry -1 interest -1 rate -1 mauricio -1 enriqu -1 year -1 year -1 variabl -1 javy -1 bank -1 agree -1 loan -1 loan -1 loan -1 stat -1 stat -1 stat -1 percent -1 approv -1 govern -1 int -1 million -1 support -1 open -1 colomb -1 colomb -1 colomb -1 foreign -1 -2
+priv -1 priv -1 effort -1 embass -1 washington -1 compet -1 initial -1 iadb -1 iadb -1 iadb -1 period -1 program -1 americ -1 bogot -1 develop -1 mozz -1 run -1 grac -1 affair -1 charg -1 igles -1 echever -1 set -1 newsroom -1 presid -1 sign -1 mln -1 -2

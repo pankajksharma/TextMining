@@ -1,0 +1,2 @@
+draw -1 supe -1 supe -1 silkeborg -1 silkeborg -1 lyngb -1 lyngb -1 point -1 stand -1 stand -1 lost -1 copenhagen -1 copenhagen -1 weekend -1 leagu -1 leagu -1 danish -1 danish -1 socc -1 socc -1 brondb -1 brondb -1 won -1 match -1 play -1 fc -1 fc -1 aalborg -1 aalborg -1 herfoelg -1 -2
+herfoelg -1 hvidovr -1 hvidovr -1 result -1 result -1 vejl -1 vejl -1 viborg -1 viborg -1 goal -1 tabulat -1 ab -1 ab -1 odens -1 odens -1 aarhus -1 aarhus -1 -2

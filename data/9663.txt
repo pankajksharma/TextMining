@@ -1,0 +1,3 @@
+stay -1 market -1 retail -1 high -1 low -1 low -1 octob -1 invest -1 invest -1 invest -1 key -1 key -1 expect -1 fell -1 mix -1 mix -1 level -1 level -1 futur -1 futur -1 support -1 open -1 end -1 end -1 end -1 contract -1 contract -1 weekend -1 buy -1 rice -1 -2
+rice -1 rice -1 intr -1 shanghai -1 shanghai -1 lack -1 move -1 new -1 consolid -1 ton -1 ton -1 institut -1 day -1 day -1 septemb -1 septemb -1 friday -1 hit -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 sidelin -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2
+slow -1 slow -1 -2

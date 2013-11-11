@@ -1,0 +1,2 @@
+market -1 market -1 thin -1 clos -1 interest -1 low -1 low -1 low -1 liquid -1 damp -1 term -1 receiv -1 firm -1 deal -1 deal -1 debt -1 report -1 britain -1 forex -1 govern -1 govern -1 pric -1 volum -1 span -1 end -1 monday -1 public -1 freez -1 cut -1 peripher -1 -2
+lack -1 spend -1 move -1 move -1 new -1 simil -1 session -1 caut -1 budget -1 real -1 bond -1 lacklustr -1 holiday -1 peset -1 peset -1 activ -1 mark -1 interbank -1 trad -1 trad -1 trad -1 trad -1 -2

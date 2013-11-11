@@ -1,0 +1,2 @@
+compan -1 shield -1 texa -1 stock -1 stock -1 interest -1 rate -1 year -1 term -1 receiv -1 receiv -1 form -1 manag -1 manag -1 manag -1 manag -1 war -1 invest -1 invest -1 common -1 common -1 loan -1 loan -1 percent -1 payabl -1 million -1 solut -1 shar -1 shar -1 intent -1 -2
+end -1 care -1 care -1 care -1 care -1 purchas -1 initial -1 propos -1 convertibl -1 convertibl -1 blu -1 blu -1 blu -1 blu -1 let -1 sign -1 cross -1 cross -1 cross -1 -2

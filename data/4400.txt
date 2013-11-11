@@ -1,0 +1,2 @@
+limit -1 jersey -1 ag -1 bank -1 morg -1 morg -1 morg -1 morg -1 stanley -1 stanley -1 stanley -1 stanley -1 manag -1 war -1 war -1 list -1 issu -1 issu -1 dem -1 lead -1 reut -1 pric -1 pric -1 index -1 index -1 shar -1 shar -1 matur -1 min -1 call -1 -2
+london -1 strik -1 jse -1 jse -1 gear -1 date -1 americ -1 lot -1 paydat -1 aug -1 aug -1 exer -1 prem -1 intern -1 joint -1 styl -1 set -1 newsroom -1 top -1 lux -1 pct -1 pct -1 -2

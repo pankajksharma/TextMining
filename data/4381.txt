@@ -1,0 +1,3 @@
+market -1 market -1 lpc -1 lpc -1 lpc -1 credit -1 credit -1 gener -1 syndic -1 stg -1 stg -1 year -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 del -1 point -1 scotland -1 capit -1 loan -1 bzw -1 bps -1 debut -1 nazional -1 banc -1 pric -1 -2
+million -1 matur -1 arrang -1 short -1 august -1 hodg -1 hodg -1 hodg -1 lavor -1 shipley -1 libor -1 lloyd -1 lloyd -1 subscrib -1 london -1 yamaich -1 brown -1 tranch -1 tranch -1 equal -1 basi -1 purpos -1 divid -1 corpor -1 revolut -1 royal -1 announc -1 newsroom -1 mark -1 julian -1 julian -1 -2
+julian -1 sign -1 sign -1 mln -1 -2

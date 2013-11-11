@@ -1,0 +1,4 @@
+submit -1 train -1 inspect -1 illeg -1 illeg -1 illeg -1 clos -1 clos -1 facil -1 month -1 peac -1 dayton -1 dayton -1 captain -1 agree -1 dump -1 site -1 site -1 site -1 site -1 site -1 site -1 war -1 remot -1 list -1 mine -1 report -1 requir -1 van -1 decid -1 -2
+decid -1 blow -1 blow -1 seiz -1 infur -1 alli -1 volunt -1 ammun -1 ammun -1 ammun -1 ammun -1 area -1 august -1 identif -1 identif -1 margetic -1 sokolac -1 confisc -1 munit -1 told -1 illicit -1 bosnia -1 forc -1 serb -1 serb -1 serb -1 serb -1 serb -1 serb -1 move -1 move -1 -2
+ago -1 discov -1 thousand -1 school -1 school -1 ton -1 ton -1 weapon -1 nato -1 nato -1 nato -1 nato -1 nato -1 nato -1 nato -1 dyk -1 commun -1 thing -1 milit -1 milit -1 day -1 includ -1 includ -1 logist -1 spokesm -1 army -1 army -1 destroy -1 order -1 total -1 friday -1 -2
+stor -1 stor -1 stor -1 stor -1 stor -1 arm -1 bosnian -1 bosnian -1 operat -1 faction -1 mark -1 locat -1 locat -1 ord -1 offic -1 -2

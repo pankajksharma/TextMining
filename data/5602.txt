@@ -1,0 +1,4 @@
+stak -1 target -1 bag -1 year -1 year -1 year -1 fresh -1 privat -1 privat -1 privat -1 privat -1 privat -1 privat -1 privat -1 lisbon -1 cimpor -1 billion -1 billion -1 tobacc -1 portug -1 portug -1 portug -1 de -1 de -1 franc -1 franc -1 stat -1 stat -1 percent -1 govern -1 -2
+investiment -1 finmin -1 banc -1 banc -1 escudo -1 escudo -1 pric -1 pric -1 pric -1 float -1 tabaqueir -1 million -1 shar -1 shar -1 end -1 control -1 portugu -1 bureau -1 contest -1 rais -1 off -1 wid -1 speak -1 financ -1 foment -1 margin -1 suffic -1 exterior -1 bfe -1 bfe -1 bfe -1 -2
+comfort -1 cement -1 minist -1 initial -1 won -1 telecom -1 new -1 final -1 fernand -1 base -1 sell -1 gave -1 plan -1 announc -1 announc -1 concern -1 goal -1 goal -1 pargan -1 exceed -1 exceed -1 exceed -1 major -1 major -1 set -1 forecast -1 forecast -1 confer -1 sous -1 sous -1 antonio -1 -2
+sale -1 group -1 prepar -1 -2

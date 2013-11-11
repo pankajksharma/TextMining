@@ -1,0 +1,2 @@
+gilt -1 outnumb -1 tuesday -1 clos -1 clos -1 low -1 low -1 bank -1 lid -1 point -1 point -1 regist -1 manag -1 light -1 gmt -1 fts -1 fts -1 fts -1 fts -1 lead -1 advanc -1 level -1 level -1 index -1 index -1 volum -1 million -1 bskyb -1 shar -1 shar -1 -2
+shar -1 end -1 dividend -1 dividend -1 oil -1 narrow -1 asda -1 skim -1 payout -1 weak -1 loss -1 declin -1 watch -1 railtrack -1 intern -1 brit -1 brit -1 reed -1 hold -1 hold -1 group -1 -2

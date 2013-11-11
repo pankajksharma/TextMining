@@ -1,0 +1,4 @@
+pesc -1 mexic -1 mexic -1 mexic -1 emerg -1 track -1 la -1 saturday -1 saturday -1 high -1 reach -1 even -1 landfal -1 inch -1 rain -1 north -1 form -1 system -1 wsc -1 west -1 mudsl -1 ship -1 ship -1 ship -1 tampic -1 atlant -1 expect -1 expect -1 expect -1 expect -1 -2
+expect -1 expect -1 storm -1 storm -1 storm -1 storm -1 storm -1 storm -1 moke -1 wat -1 hurracan -1 veracrus -1 open -1 orsom -1 strength -1 strength -1 hour -1 hour -1 hour -1 conitnu -1 orson -1 flash -1 time -1 flood -1 pack -1 pack -1 warn -1 western -1 typhoon -1 continu -1 continu -1 -2
+move -1 heavy -1 coast -1 coast -1 intensif -1 churn -1 aug -1 threat -1 threat -1 threat -1 effect -1 pipe -1 edouard -1 cond -1 morn -1 hurrican -1 hurrican -1 moderat -1 dolly -1 dolly -1 weather -1 mph -1 mph -1 mph -1 mph -1 mph -1 wind -1 wind -1 wind -1 wind -1 wind -1 -2
+tropic -1 tropic -1 tropic -1 possibl -1 pacif -1 pacif -1 locat -1 locat -1 drift -1 drift -1 slow -1 -2

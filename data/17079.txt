@@ -1,0 +1,4 @@
+early -1 tuesday -1 tuesday -1 tuesday -1 money -1 money -1 money -1 money -1 clos -1 clos -1 clos -1 clos -1 rate -1 rate -1 rate -1 march -1 march -1 lira -1 lira -1 lira -1 lira -1 lira -1 lira -1 fluctu -1 midday -1 bank -1 bank -1 bank -1 bank -1 point -1 -2
+point -1 turk -1 turk -1 decemb -1 deal -1 bought -1 yield -1 yield -1 yield -1 report -1 percent -1 percent -1 percent -1 percent -1 percent -1 forex -1 treasur -1 treasur -1 bill -1 bill -1 overnight -1 overnight -1 overnight -1 overnight -1 cash -1 cash -1 cash -1 fell -1 lower -1 sold -1 matur -1 -2
+auction -1 auction -1 rise -1 weak -1 paid -1 cent -1 cent -1 continu -1 trill -1 trill -1 trill -1 trill -1 trill -1 excess -1 excess -1 pape -1 pape -1 pape -1 istanbul -1 day -1 wednesday -1 reduc -1 drain -1 drain -1 dollar -1 dollar -1 total -1 total -1 bond -1 aver -1 repo -1 -2
+newsroom -1 add -1 activ -1 activ -1 yesterday -1 mark -1 sale -1 trad -1 eas -1 option -1 surplus -1 -2

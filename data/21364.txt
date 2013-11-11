@@ -1,0 +1,2 @@
+payment -1 repret -1 sharehold -1 franc -1 franc -1 correspons -1 percent -1 percent -1 meet -1 cash -1 banc -1 banc -1 million -1 million -1 shar -1 end -1 dividend -1 dividend -1 dividend -1 period -1 argentin -1 argentin -1 bueno -1 propos -1 detail -1 plan -1 board -1 air -1 june -1 friday -1 -2
+newsroom -1 mln -1 -2

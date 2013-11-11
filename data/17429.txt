@@ -1,0 +1,4 @@
+market -1 market -1 tough -1 econom -1 corsic -1 union -1 high -1 reach -1 even -1 page -1 page -1 shak -1 pari -1 appoint -1 franc -1 franc -1 franc -1 franc -1 today -1 capit -1 immigr -1 afric -1 meet -1 approv -1 govern -1 lead -1 lead -1 digest -1 level -1 pric -1 -2
+busi -1 deflat -1 deflat -1 reform -1 europ -1 face -1 ultimatum -1 oil -1 cabinet -1 aom -1 stabl -1 august -1 press -1 unemploy -1 foreign -1 daily -1 pressur -1 exchang -1 work -1 work -1 minist -1 inflat -1 compet -1 structur -1 le -1 le -1 front -1 dip -1 pape -1 date -1 educat -1 -2
+alexandr -1 jean -1 jean -1 problem -1 tackl -1 story -1 justic -1 aug -1 aug -1 institut -1 threat -1 labor -1 wednesday -1 wednesday -1 mond -1 mond -1 airlin -1 courcol -1 bomb -1 pier -1 budget -1 air -1 air -1 major -1 glob -1 due -1 due -1 chairm -1 chairm -1 chairm -1 afternoon -1 -2
+newsroom -1 resign -1 fitouss -1 ofc -1 couvelair -1 trad -1 disput -1 -2

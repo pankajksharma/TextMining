@@ -1,0 +1,4 @@
+compan -1 compan -1 geriatr -1 geriatr -1 newsdesk -1 medic -1 medic -1 medic -1 record -1 interest -1 interest -1 month -1 month -1 month -1 month -1 beneex -1 year -1 receiv -1 receiv -1 full -1 york -1 agree -1 shr -1 suit -1 amount -1 discount -1 common -1 deprec -1 q4 -1 quart -1 -2
+quart -1 debt -1 stat -1 requir -1 cos -1 provis -1 provis -1 provis -1 class -1 shar -1 shar -1 shar -1 end -1 end -1 end -1 end -1 outstand -1 loss -1 net -1 net -1 net -1 net -1 thousand -1 note -1 note -1 cost -1 consolid -1 settl -1 incom -1 incom -1 incom -1 -2
+incom -1 incom -1 earn -1 charg -1 asset -1 bad -1 revenu -1 item -1 effect -1 account -1 expend -1 expend -1 expend -1 expend -1 total -1 twelf -1 prepay -1 aver -1 action -1 add -1 add -1 recogn -1 mortg -1 operat -1 operat -1 operat -1 pertain -1 fourth -1 fourth -1 reflect -1 sale -1 -2
+amort -1 defer -1 tax -1 tax -1 tax -1 tax -1 -2

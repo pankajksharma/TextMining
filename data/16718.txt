@@ -1,0 +1,4 @@
+market -1 market -1 usda -1 usda -1 low -1 low -1 low -1 octob -1 data -1 york -1 point -1 spot -1 decemb -1 deal -1 week -1 fund -1 fund -1 produc -1 report -1 expect -1 expect -1 expect -1 surpass -1 sizeabl -1 appear -1 lower -1 frank -1 million -1 million -1 thursday -1 -2
+end -1 end -1 johnson -1 johnson -1 long -1 bale -1 sharon -1 chin -1 increas -1 commod -1 avoid -1 area -1 short -1 buy -1 huw -1 grow -1 weak -1 commit -1 cent -1 cent -1 cent -1 cent -1 cent -1 prim -1 figur -1 move -1 net -1 pound -1 technic -1 specul -1 specul -1 -2
+await -1 await -1 settl -1 basi -1 ton -1 ton -1 base -1 sell -1 export -1 export -1 threat -1 impact -1 nyc -1 nyc -1 cotton -1 cotton -1 cotton -1 cotton -1 cotton -1 cotton -1 cotton -1 intern -1 schneid -1 major -1 edouard -1 jone -1 hurrican -1 advis -1 bull -1 forecast -1 northw -1 -2
+surpr -1 trad -1 trad -1 trad -1 -2

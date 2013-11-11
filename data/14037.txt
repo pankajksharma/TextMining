@@ -1,0 +1,4 @@
+early -1 ball -1 tight -1 market -1 novemb -1 recent -1 clos -1 high -1 high -1 high -1 high -1 high -1 high -1 high -1 bottom -1 reach -1 month -1 march -1 sep -1 low -1 low -1 low -1 year -1 climb -1 april -1 point -1 spread -1 sourc -1 east -1 atlant -1 -2
+strong -1 strong -1 jerry -1 elrod -1 cash -1 cash -1 cash -1 level -1 pric -1 pric -1 pric -1 futur -1 futur -1 end -1 end -1 contract -1 contract -1 jim -1 area -1 area -1 tone -1 finish -1 lumb -1 lumb -1 lumb -1 lumb -1 quot -1 cme -1 cme -1 take -1 technic -1 -2
+doubl -1 doubl -1 put -1 coast -1 july -1 chart -1 stack -1 profit -1 concern -1 septemb -1 septemb -1 septemb -1 bowl -1 friday -1 suppl -1 hit -1 set -1 set -1 hurrican -1 hurrican -1 add -1 bull -1 hight -1 tbf -1 tbf -1 tbf -1 spruc -1 pacif -1 bieszk -1 mark -1 boost -1 -2
+offic -1 trad -1 trad -1 trad -1 -2

@@ -1,0 +1,2 @@
+market -1 market -1 thin -1 thin -1 stock -1 plung -1 clos -1 clos -1 broker -1 interest -1 low -1 low -1 year -1 bovesp -1 point -1 point -1 invest -1 invest -1 percent -1 apath -1 local -1 pric -1 index -1 volum -1 volum -1 brok -1 million -1 shar -1 shar -1 end -1 -2
+cariob -1 indusv -1 daily -1 foreign -1 foreign -1 lack -1 move -1 sharp -1 sharp -1 new -1 brazil -1 brazil -1 simpl -1 paul -1 dead -1 sao -1 john -1 depress -1 bours -1 friday -1 combin -1 reai -1 trad -1 trad -1 -2

@@ -1,0 +1,3 @@
+stak -1 instut -1 motor -1 engag -1 clos -1 term -1 sliv -1 shr -1 discount -1 invest -1 invest -1 invest -1 deal -1 capit -1 gross -1 stat -1 percent -1 percent -1 rest -1 pric -1 pric -1 qingl -1 qingl -1 qingl -1 qingl -1 million -1 million -1 million -1 sold -1 thursday -1 -2
+shar -1 shar -1 shar -1 shar -1 long -1 leas -1 chin -1 industr -1 hk -1 hk -1 hk -1 hk -1 rais -1 deriv -1 work -1 propert -1 net -1 grant -1 grant -1 grant -1 grant -1 grant -1 sell -1 sell -1 purpos -1 july -1 mainland -1 assembl -1 truck -1 dispos -1 proceed -1 -2
+proceed -1 intern -1 silf -1 silf -1 silf -1 silf -1 hong -1 kong -1 held -1 expend -1 friday -1 intend -1 newsroom -1 add -1 hold -1 sale -1 surplus -1 mln -1 -2

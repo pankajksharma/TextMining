@@ -1,0 +1,2 @@
+clear -1 bound -1 counterpart -1 flight -1 flight -1 flight -1 flight -1 saturday -1 lahor -1 lahor -1 lahor -1 begin -1 receiv -1 expert -1 gmt -1 jet -1 pia -1 telephon -1 copenhagen -1 copenhagen -1 copenhagen -1 control -1 jumb -1 airport -1 airport -1 airport -1 made -1 warn -1 warn -1 warn -1 -2
+call -1 pk -1 london -1 search -1 pakist -1 islamabad -1 new -1 pakistan -1 organ -1 plan -1 threat -1 dispos -1 airlin -1 bomb -1 bomb -1 bomb -1 bomb -1 board -1 passeng -1 intern -1 intern -1 boe -1 found -1 relay -1 origin -1 offic -1 offic -1 delay -1 -2

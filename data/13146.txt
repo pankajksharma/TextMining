@@ -1,0 +1,4 @@
+grain -1 grain -1 market -1 market -1 market -1 market -1 market -1 market -1 slip -1 tuesday -1 tuesday -1 money -1 money -1 money -1 rate -1 rate -1 liquid -1 liquid -1 liquid -1 term -1 term -1 term -1 undermin -1 bank -1 mapenzausw -1 system -1 incr -1 invest -1 flush -1 deal -1 -2
+deal -1 deal -1 indicat -1 today -1 bought -1 salar -1 percent -1 percent -1 percent -1 percent -1 percent -1 repercuss -1 expect -1 govern -1 govern -1 bill -1 bill -1 bill -1 bill -1 soft -1 soft -1 million -1 sold -1 open -1 matur -1 matur -1 matur -1 long -1 long -1 renew -1 stabl -1 -2
+short -1 zimbabw -1 zimbabw -1 confid -1 civil -1 civil -1 loss -1 margin -1 call -1 quot -1 continu -1 mugab -1 numb -1 stell -1 strik -1 strik -1 serv -1 serv -1 wrangl -1 ncd -1 hasn -1 day -1 day -1 impact -1 effect -1 accept -1 comment -1 comment -1 shrug -1 rule -1 robert -1 -2
+action -1 negat -1 newsroom -1 add -1 substant -1 presid -1 boost -1 harar -1 trad -1 surplus -1 establ -1 -2

@@ -1,0 +1,5 @@
+fire -1 fire -1 early -1 early -1 draw -1 clear -1 keen -1 money -1 money -1 clos -1 shoot -1 record -1 record -1 briton -1 briton -1 year -1 year -1 year -1 spain -1 colin -1 list -1 list -1 scotland -1 sink -1 ill -1 knock -1 germ -1 lead -1 lead -1 vict -1 -2
+ian -1 ian -1 thursday -1 priz -1 shot -1 european -1 european -1 european -1 european -1 open -1 open -1 round -1 roge -1 secret -1 weekend -1 win -1 win -1 time -1 swed -1 finish -1 extend -1 past -1 made -1 made -1 green -1 golf -1 cut -1 sequenc -1 pyman -1 success -1 bogey -1 -2
+numb -1 numb -1 london -1 halfway -1 halfway -1 tour -1 roca -1 roca -1 move -1 fact -1 play -1 pound -1 pound -1 front -1 front -1 karlsson -1 karlsson -1 karlsson -1 montgomerie -1 montgomerie -1 montgomerie -1 put -1 woosnam -1 woosnam -1 woosnam -1 woosnam -1 woosnam -1 equal -1 equal -1 equal -1 final -1 -2
+catal -1 base -1 fernand -1 birdy -1 welshm -1 merit -1 par -1 birdie -1 chapm -1 plac -1 joint -1 total -1 friday -1 cond -1 foot -1 hole -1 robert -1 set -1 set -1 set -1 season -1 perfect -1 broadhurst -1 sterl -1 absent -1 perman -1 top -1 top -1 top -1 ord -1 father -1 -2
+left -1 -2

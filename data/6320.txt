@@ -1,0 +1,5 @@
+omit -1 bring -1 knight -1 draw -1 elect -1 back -1 toss -1 toss -1 chri -1 chri -1 year -1 team -1 ahead -1 ata -1 disappoint -1 captain -1 captain -1 captain -1 alec -1 prefer -1 retain -1 suggest -1 croft -1 croft -1 andy -1 graham -1 glamorg -1 michael -1 michael -1 injur -1 -2
+injur -1 opt -1 ian -1 debut -1 suff -1 mull -1 england -1 england -1 england -1 england -1 hussain -1 nick -1 moin -1 moin -1 test -1 test -1 test -1 test -1 thursday -1 open -1 ensur -1 domin -1 win -1 glov -1 stewart -1 made -1 latif -1 reprief -1 seam -1 seam -1 cricket -1 -2
+surpris -1 saeed -1 salisbur -1 spin -1 won -1 lewi -1 lewi -1 pakist -1 pakist -1 pakist -1 malik -1 rashid -1 mohammad -1 mohammad -1 wicket -1 final -1 rehm -1 headingley -1 trail -1 akram -1 akram -1 akram -1 gave -1 anwar -1 oval -1 atherton -1 atherton -1 plac -1 youn -1 wasim -1 john -1 -2
+cork -1 mushtaq -1 thorp -1 crawley -1 caddick -1 caddick -1 aamir -1 aamir -1 sohail -1 sohail -1 bat -1 bat -1 ijaz -1 inzamam -1 ul -1 salim -1 haq -1 asif -1 mujtab -1 robert -1 robert -1 shadab -1 kabir -1 waqar -1 ur -1 khan -1 khan -1 nass -1 absent -1 alan -1 ahm -1 -2
+ahm -1 keep -1 -2

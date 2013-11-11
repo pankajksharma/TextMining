@@ -1,0 +1,3 @@
+recov -1 limit -1 market -1 hous -1 econom -1 econom -1 high -1 reach -1 liquid -1 begin -1 year -1 year -1 agent -1 fall -1 fall -1 quart -1 quart -1 quart -1 quart -1 quart -1 quart -1 quart -1 gross -1 domest -1 produc -1 percent -1 percent -1 percent -1 percent -1 percent -1 -2
+canad -1 canad -1 canad -1 canad -1 q2 -1 reut -1 reut -1 reut -1 reut -1 pric -1 pric -1 pric -1 gain -1 busi -1 index -1 deflat -1 contribut -1 statist -1 bureau -1 momentum -1 rise -1 rise -1 rise -1 rise -1 rose -1 ottaw -1 gdp -1 growth -1 calcul -1 base -1 survey -1 -2
+survey -1 implicit -1 invent -1 prev -1 undertook -1 demand -1 friday -1 forecast -1 forecast -1 substant -1 trad -1 surplus -1 -2

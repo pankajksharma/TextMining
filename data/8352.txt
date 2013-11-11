@@ -1,0 +1,4 @@
+tight -1 tight -1 market -1 market -1 market -1 sect -1 spec -1 lebanon -1 back -1 edp -1 thin -1 heard -1 funda -1 sulphur -1 sulphur -1 sulphur -1 sulphur -1 sulphur -1 sulphur -1 high -1 high -1 high -1 high -1 high -1 interest -1 interest -1 low -1 low -1 blend -1 plateau -1 -2
+cargoe -1 cargoe -1 cargoe -1 firm -1 firm -1 firm -1 deal -1 percent -1 balanc -1 enquir -1 shift -1 pric -1 gain -1 crack -1 crack -1 crack -1 crack -1 support -1 support -1 crud -1 oil -1 ve -1 remain -1 stead -1 narrow -1 rise -1 buy -1 buy -1 fuel -1 fuel -1 mater -1 -2
+mater -1 mater -1 suffic -1 cove -1 london -1 bid -1 bid -1 bid -1 ton -1 evaport -1 sell -1 sell -1 fob -1 fob -1 fob -1 med -1 falt -1 driv -1 demand -1 suppl -1 suppl -1 prompt -1 prompt -1 don -1 afternoon -1 nwe -1 nwe -1 nwe -1 nwe -1 newsroom -1 ara -1 -2
+barg -1 barg -1 hold -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

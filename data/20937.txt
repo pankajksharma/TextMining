@@ -1,0 +1,3 @@
+market -1 inherit -1 econom -1 track -1 record -1 entit -1 beneex -1 bank -1 bank -1 bank -1 bank -1 bank -1 point -1 difficult -1 trick -1 kans -1 england -1 reut -1 pric -1 pric -1 gain -1 status -1 europ -1 face -1 european -1 challeng -1 challeng -1 wyo -1 feder -1 reserv -1 -2
+stabl -1 stabl -1 sympos -1 sympos -1 speak -1 financ -1 made -1 cent -1 cent -1 cent -1 city -1 lack -1 chief -1 direct -1 king -1 king -1 king -1 king -1 king -1 credibl -1 sponsor -1 aug -1 thing -1 conduc -1 abil -1 plan -1 express -1 jackson -1 hand -1 mervyn -1 climat -1 -2
+titl -1 concern -1 account -1 intern -1 friday -1 boe -1 achief -1 hole -1 polic -1 make -1 add -1 see -1 address -1 execut -1 -2

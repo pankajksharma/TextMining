@@ -1,0 +1,4 @@
+protest -1 econom -1 high -1 month -1 own -1 lien -1 year -1 chan -1 agent -1 privat -1 start -1 newspap -1 newspap -1 manag -1 manag -1 headlin -1 firm -1 unit -1 ukrain -1 complet -1 ship -1 ship -1 ship -1 ship -1 dragon -1 percent -1 pay -1 digest -1 level -1 societ -1 -2
+underground -1 defend -1 missil -1 crackdown -1 chin -1 chin -1 chin -1 chin -1 chin -1 chin -1 chin -1 time -1 time -1 widespread -1 rise -1 press -1 foreign -1 daily -1 daily -1 network -1 growth -1 visit -1 visit -1 ago -1 new -1 new -1 direct -1 export -1 taiw -1 taiw -1 taiw -1 -2
+taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taipei -1 link -1 exclud -1 strait -1 aug -1 july -1 announc -1 announc -1 whol -1 cancel -1 carg -1 carg -1 carg -1 army -1 rule -1 rule -1 polic -1 worst -1 newsroom -1 vice -1 presid -1 asia -1 ord -1 offic -1 commerc -1 trad -1 -2
+trad -1 cross -1 -2

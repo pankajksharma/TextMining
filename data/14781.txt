@@ -1,0 +1,4 @@
+recov -1 calm -1 tip -1 early -1 market -1 quiet -1 quiet -1 tuesday -1 clos -1 clos -1 clos -1 high -1 high -1 month -1 chri -1 year -1 topdanmark -1 topdanmark -1 ahead -1 rebound -1 point -1 point -1 point -1 fall -1 modest -1 deal -1 deal -1 asiat -1 quart -1 east -1 -2
+expect -1 expect -1 pric -1 interim -1 index -1 gain -1 gain -1 gain -1 volum -1 futur -1 million -1 thursday -1 shar -1 shar -1 shar -1 shar -1 copenhagen -1 end -1 danmark -1 contract -1 crown -1 crown -1 crown -1 crown -1 crown -1 rise -1 danish -1 danish -1 finish -1 rose -1 focus -1 -2
+kfx -1 kfx -1 kfx -1 foresee -1 rsult -1 insur -1 improv -1 pre -1 half -1 put -1 turnov -1 profit -1 result -1 result -1 announc -1 great -1 wednesday -1 septemb -1 bours -1 worth -1 due -1 cond -1 stor -1 stor -1 morn -1 follet -1 tomorrow -1 unchang -1 unchang -1 newsroom -1 possibl -1 -2
+top -1 tele -1 trad -1 trad -1 tax -1 -2

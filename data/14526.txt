@@ -1,0 +1,4 @@
+limit -1 early -1 tight -1 tight -1 market -1 small -1 launch -1 stock -1 illeg -1 sulphur -1 union -1 high -1 fair -1 durb -1 fall -1 spain -1 deal -1 spot -1 franc -1 sympath -1 afric -1 slight -1 report -1 bunk -1 bunk -1 bunk -1 cst -1 enquir -1 enquir -1 sent -1 -2
+level -1 level -1 level -1 pric -1 pric -1 pric -1 pric -1 gain -1 whilst -1 rotterdam -1 rotterdam -1 rotterdam -1 european -1 talk -1 oil -1 oil -1 oil -1 oil -1 monday -1 industr -1 stead -1 stead -1 increas -1 stabl -1 fuel -1 fuel -1 fuel -1 fuel -1 fuel -1 off -1 antwerp -1 -2
+bear -1 weak -1 weak -1 weak -1 side -1 work -1 london -1 bid -1 bid -1 strik -1 mediterranean -1 mediterranean -1 stir -1 disappear -1 dip -1 south -1 lift -1 ton -1 ton -1 ton -1 sell -1 sell -1 fob -1 fob -1 day -1 unsur -1 chemic -1 includ -1 hamburg -1 effect -1 prem -1 -2
+prem -1 memb -1 held -1 suppl -1 suppl -1 nwe -1 newsroom -1 ara -1 barg -1 mark -1 southern -1 hold -1 hold -1 amid -1 trad -1 trad -1 eas -1 -2

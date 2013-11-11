@@ -1,0 +1,2 @@
+early -1 early -1 stock -1 stock -1 cap -1 rate -1 rate -1 low -1 low -1 ahead -1 start -1 point -1 point -1 ifo -1 tobacc -1 deal -1 slam -1 germ -1 germ -1 germ -1 strong -1 fts -1 expect -1 expect -1 treasur -1 mix -1 mix -1 busi -1 thursday -1 shar -1 -2
+shar -1 shar -1 trig -1 open -1 open -1 push -1 weak -1 confid -1 cut -1 cut -1 spark -1 london -1 take -1 uncertain -1 new -1 new -1 sell -1 profit -1 survey -1 survey -1 wednesday -1 bad -1 uk -1 bond -1 dow -1 repo -1 prospect -1 yesterday -1 blunt -1 trad -1 -2

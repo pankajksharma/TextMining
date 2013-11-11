@@ -1,0 +1,4 @@
+early -1 market -1 recent -1 vda -1 vda -1 vda -1 vda -1 segment -1 vehicl -1 vehicl -1 rate -1 month -1 month -1 low -1 year -1 year -1 year -1 german -1 firm -1 employ -1 employ -1 peopl -1 peopl -1 cutback -1 domest -1 domest -1 produc -1 germ -1 germ -1 germ -1 -2
+germ -1 percent -1 percent -1 percent -1 percent -1 percent -1 expect -1 expect -1 expect -1 expect -1 fell -1 level -1 level -1 level -1 level -1 slowdown -1 thursday -1 industr -1 industr -1 industr -1 industr -1 industr -1 industr -1 current -1 rise -1 car -1 car -1 car -1 car -1 loss -1 cut -1 -2
+cut -1 emmerich -1 emmerich -1 emmerich -1 emmerich -1 assoc -1 satisfact -1 growth -1 ago -1 half -1 half -1 half -1 sharp -1 job -1 job -1 job -1 direct -1 develop -1 consum -1 result -1 workforc -1 automobil -1 involut -1 reduc -1 demand -1 favor -1 aver -1 see -1 presid -1 erik -1 sale -1 -2
+slow -1 -2

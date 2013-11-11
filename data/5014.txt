@@ -1,0 +1,2 @@
+market -1 novemb -1 econom -1 econom -1 thin -1 hard -1 stock -1 specif -1 clos -1 clos -1 seoul -1 month -1 month -1 low -1 low -1 low -1 composit -1 point -1 drag -1 turn -1 cycl -1 downturn -1 light -1 joo -1 soo -1 fell -1 index -1 index -1 volum -1 provis -1 -2
+brok -1 brok -1 million -1 shar -1 shar -1 end -1 end -1 end -1 worry -1 health -1 korean -1 south -1 hand -1 wednesday -1 secur -1 bours -1 sang -1 angst -1 hanyang -1 chang -1 trad -1 -2

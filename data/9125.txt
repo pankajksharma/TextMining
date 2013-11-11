@@ -1,0 +1,2 @@
+temper -1 sunny -1 sunny -1 sunny -1 sunny -1 sunny -1 high -1 high -1 high -1 albert -1 manitob -1 slight -1 celsius -1 celsius -1 celsius -1 canad -1 canad -1 canad -1 environ -1 le -1 warm -1 warm -1 sky -1 sky -1 sky -1 sky -1 sky -1 prair -1 prair -1 gilbert -1 -2
+gra -1 friday -1 saskatchew -1 weather -1 forecast -1 norm -1 -2

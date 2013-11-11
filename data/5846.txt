@@ -1,0 +1,3 @@
+repair -1 saturday -1 saturday -1 demonstr -1 undertak -1 year -1 year -1 year -1 build -1 start -1 start -1 start -1 karak -1 troubl -1 vill -1 week -1 jord -1 jord -1 govern -1 govern -1 decid -1 decid -1 precaut -1 reut -1 pric -1 academ -1 million -1 thursday -1 thursday -1 weekend -1 -2
+area -1 damag -1 damag -1 august -1 august -1 told -1 head -1 city -1 minist -1 minist -1 minist -1 minist -1 move -1 doubl -1 thousand -1 riot -1 riot -1 riot -1 school -1 school -1 school -1 school -1 school -1 educat -1 educat -1 educat -1 surround -1 announc -1 child -1 student -1 kingdom -1 -2
+kingdom -1 mainten -1 bread -1 bread -1 southern -1 offic -1 offic -1 offic -1 offic -1 offic -1 delay -1 delay -1 delay -1 -2

@@ -1,0 +1,3 @@
+payment -1 life -1 tru -1 tru -1 cap -1 supe -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 month -1 year -1 variabl -1 variabl -1 melb -1 fai -1 bank -1 bank -1 syd -1 nab -1 sydney -1 invest -1 guid -1 sourc -1 loan -1 loan -1 endeavor -1 -2
+stat -1 stat -1 austr -1 introduc -1 st -1 advanc -1 fix -1 home -1 citibank -1 lend -1 reut -1 ram -1 gio -1 prior -1 rtr -1 august -1 macquarie -1 austral -1 mlc -1 intr -1 bnz -1 premy -1 initial -1 adelaid -1 take -1 georg -1 aussie -1 period -1 updat -1 base -1 imb -1 -2
+cannex -1 homeloan -1 bsoc -1 bsoc -1 anz -1 suncorp -1 bmc -1 nsw -1 sa -1 great -1 typic -1 account -1 total -1 bankw -1 aidc -1 aver -1 westpac -1 cba -1 newsroom -1 mortg -1 mortg -1 mortg -1 newcastl -1 fee -1 metway -1 chs -1 -2

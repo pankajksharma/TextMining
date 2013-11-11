@@ -1,0 +1,3 @@
+compan -1 repair -1 own -1 own -1 begin -1 begin -1 northeast -1 york -1 system -1 system -1 system -1 system -1 mid -1 upgrad -1 upgrad -1 contain -1 outag -1 outag -1 complet -1 stat -1 stat -1 percent -1 percent -1 percent -1 requir -1 cool -1 cool -1 england -1 england -1 main -1 -2
+main -1 main -1 main -1 test -1 test -1 thursday -1 wat -1 insid -1 wiscasset -1 august -1 pow -1 pow -1 pow -1 return -1 cent -1 cut -1 circuit -1 continu -1 cabl -1 servic -1 util -1 util -1 fail -1 megawat -1 mw -1 shut -1 nuclear -1 nuclear -1 electr -1 electr -1 electr -1 -2
+electr -1 july -1 day -1 includ -1 plant -1 plant -1 plant -1 plant -1 plant -1 major -1 restart -1 restart -1 due -1 due -1 consort -1 wir -1 desk -1 yankee -1 yankee -1 -2

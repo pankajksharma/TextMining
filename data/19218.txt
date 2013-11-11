@@ -1,0 +1,4 @@
+gilt -1 market -1 market -1 clear -1 stock -1 stock -1 money -1 money -1 clos -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 ahead -1 inch -1 bank -1 fall -1 fall -1 borrow -1 deal -1 deal -1 deal -1 deal -1 deal -1 deal -1 indicat -1 larg -1 -2
+fund -1 report -1 report -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 expect -1 govern -1 govern -1 treasur -1 bill -1 thursday -1 thursday -1 deposit -1 deposit -1 matur -1 push -1 remain -1 stead -1 -2
+edg -1 august -1 buy -1 call -1 call -1 call -1 call -1 bombay -1 continu -1 india -1 move -1 certif -1 dull -1 uncertain -1 pape -1 particip -1 wednesday -1 wednesday -1 fortnight -1 septemb -1 secur -1 demand -1 fortnoght -1 friday -1 intercorpor -1 late -1 repo -1 newsroom -1 indian -1 indian -1 top -1 -2
+transact -1 commerc -1 trad -1 trad -1 trad -1 trad -1 trad -1 pct -1 -2

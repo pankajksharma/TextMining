@@ -1,0 +1,2 @@
+pain -1 pain -1 back -1 medic -1 medic -1 saturday -1 fly -1 doct -1 low -1 low -1 hospit -1 longtim -1 unit -1 repeat -1 wilson -1 treat -1 stat -1 govern -1 suff -1 check -1 osteoporos -1 univers -1 sam -1 weak -1 care -1 flow -1 complain -1 forc -1 washington -1 diseas -1 -2
+trip -1 spin -1 nicaragu -1 nicaragu -1 violet -1 chamor -1 chamor -1 chamor -1 part -1 bone -1 taiw -1 taipei -1 examin -1 determin -1 friday -1 due -1 column -1 need -1 presid -1 presid -1 surg -1 -2

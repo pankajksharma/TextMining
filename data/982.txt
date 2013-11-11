@@ -1,0 +1,4 @@
+stay -1 hbor -1 midrat -1 payment -1 market -1 market -1 laur -1 tuesday -1 tuesday -1 money -1 money -1 high -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 low -1 bank -1 bank -1 bank -1 bank -1 shortfal -1 point -1 roll -1 roll -1 invest -1 firm -1 deal -1 -2
+maintain -1 fund -1 bought -1 slight -1 loan -1 germ -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 squar -1 overnight -1 croat -1 croat -1 croat -1 zagreb -1 zagreb -1 lend -1 lend -1 million -1 million -1 million -1 million -1 nation -1 monday -1 reserv -1 rise -1 foreign -1 kuna -1 -2
+kuna -1 kuna -1 kuna -1 weak -1 side -1 rose -1 rose -1 rose -1 exchang -1 call -1 insur -1 move -1 posit -1 settl -1 basi -1 day -1 wednesday -1 prev -1 plac -1 dollar -1 total -1 suppl -1 suppl -1 aver -1 newsroom -1 lui -1 mark -1 interbank -1 boost -1 commerc -1 left -1 -2
+trad -1 surplus -1 pct -1 -2

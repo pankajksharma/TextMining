@@ -1,0 +1,3 @@
+soybean -1 soybean -1 yellow -1 usda -1 usda -1 grain -1 grain -1 newsdesk -1 texa -1 bushel -1 hrw -1 hrw -1 sep -1 point -1 gulf -1 gulf -1 gulf -1 gulf -1 gulf -1 ship -1 pric -1 deliv -1 chicag -1 srw -1 srw -1 elevat -1 corn -1 corn -1 corn -1 cbot -1 -2
+cbot -1 cbot -1 cbot -1 cent -1 cwt -1 wheat -1 wheat -1 bid -1 bid -1 rail -1 rail -1 basi -1 basi -1 export -1 export -1 export -1 louisian -1 aug -1 day -1 sorghum -1 sorghum -1 sorghum -1 dollar -1 dn -1 dn -1 chang -1 chang -1 sept -1 sept -1 sept -1 prompt -1 -2
+barg -1 barg -1 kcbt -1 -2

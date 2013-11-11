@@ -1,0 +1,4 @@
+early -1 early -1 early -1 market -1 market -1 quiet -1 quiet -1 thai -1 thai -1 baht -1 baht -1 baht -1 baht -1 high -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 month -1 low -1 begin -1 currenc -1 bank -1 bank -1 bank -1 swap -1 mid -1 -2
+borrow -1 deal -1 deal -1 deal -1 deal -1 deal -1 indicat -1 today -1 today -1 today -1 fund -1 meet -1 percent -1 percent -1 requir -1 overnight -1 fix -1 round -1 remain -1 stead -1 stead -1 stead -1 reserv -1 narrow -1 foreign -1 made -1 rose -1 cent -1 london -1 rang -1 compar -1 -2
+septemb -1 prem -1 satang -1 hong -1 kong -1 dollar -1 dollar -1 dollar -1 dollar -1 tang -1 nguy -1 friday -1 friday -1 friday -1 due -1 late -1 late -1 late -1 late -1 late -1 tomorrow -1 afternoon -1 unchang -1 closur -1 interbank -1 interbank -1 interbank -1 interbank -1 interbank -1 trad -1 trad -1 -2
+trad -1 trad -1 trad -1 -2

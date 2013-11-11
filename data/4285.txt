@@ -1,0 +1,2 @@
+market -1 money -1 clos -1 clos -1 clos -1 high -1 high -1 high -1 rate -1 low -1 firm -1 deal -1 deal -1 deal -1 percent -1 percent -1 percent -1 gain -1 open -1 end -1 bangladesh -1 bangladesh -1 remit -1 call -1 lack -1 taka -1 taka -1 taka -1 compar -1 wednesday -1 -2
+prev -1 prev -1 demand -1 dollar -1 dollar -1 dollar -1 dollar -1 suppl -1 suppl -1 adequat -1 inflow -1 interbank -1 interbank -1 trad -1 -2

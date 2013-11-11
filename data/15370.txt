@@ -1,0 +1,4 @@
+neav -1 neav -1 market -1 market -1 market -1 market -1 quiet -1 situat -1 rumor -1 rumor -1 target -1 stock -1 stock -1 stock -1 stock -1 cerebo -1 cerebo -1 clos -1 broker -1 low -1 year -1 hotel -1 fras -1 fras -1 point -1 fall -1 modest -1 deal -1 deal -1 light -1 -2
+key -1 key -1 percent -1 local -1 dock -1 keppel -1 mix -1 mix -1 interim -1 gain -1 gain -1 gain -1 index -1 index -1 index -1 index -1 volum -1 volum -1 volum -1 brok -1 million -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 open -1 push -1 -2
+end -1 end -1 drop -1 drop -1 shed -1 industr -1 time -1 narrow -1 rise -1 singapor -1 singapor -1 singapor -1 rose -1 rose -1 cent -1 lose -1 bid -1 play -1 jurong -1 jurong -1 led -1 corpor -1 strait -1 earn -1 ana -1 corp -1 corp -1 announc -1 dry -1 sembawang -1 sembawang -1 -2
+wednesday -1 takeov -1 takeov -1 ipc -1 make -1 activ -1 top -1 shipyard -1 shipyard -1 shipyard -1 trad -1 -2

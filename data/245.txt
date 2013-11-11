@@ -1,0 +1,5 @@
+early -1 early -1 popul -1 market -1 market -1 clear -1 sect -1 gener -1 ag -1 ag -1 ag -1 ag -1 thin -1 tuesday -1 tuesday -1 stock -1 stock -1 money -1 money -1 interest -1 rate -1 rate -1 rate -1 month -1 month -1 frankfurt -1 data -1 data -1 data -1 generat -1 -2
+point -1 point -1 view -1 german -1 invest -1 deal -1 deal -1 deal -1 week -1 week -1 impuls -1 rwe -1 basf -1 gmt -1 germ -1 percent -1 percent -1 expect -1 expect -1 shift -1 mix -1 level -1 big -1 pric -1 slowdown -1 index -1 show -1 volum -1 shar -1 shar -1 shar -1 -2
+support -1 support -1 open -1 open -1 push -1 case -1 case -1 give -1 win -1 stead -1 stead -1 momentum -1 stabl -1 provid -1 fade -1 cut -1 cut -1 cut -1 growth -1 figur -1 viag -1 util -1 util -1 util -1 diversif -1 fail -1 fail -1 posit -1 note -1 earn -1 july -1 -2
+day -1 day -1 chemic -1 chemic -1 blu -1 blu -1 secur -1 chip -1 chip -1 dollar -1 dax -1 dax -1 suppl -1 suppl -1 m3 -1 m3 -1 repurchas -1 morn -1 repo -1 repo -1 pfennig -1 pfennig -1 pfennig -1 bay -1 releas -1 releas -1 mark -1 mark -1 mark -1 mark -1 mark -1 -2
+ord -1 hold -1 boost -1 boost -1 trad -1 -2

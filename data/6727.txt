@@ -1,0 +1,2 @@
+naphth -1 naphth -1 tight -1 market -1 back -1 slip -1 gas -1 fair -1 cheap -1 full -1 cargoe -1 firm -1 firm -1 firm -1 light -1 produc -1 produc -1 strong -1 futur -1 futur -1 thursday -1 crud -1 oil -1 oil -1 oil -1 oil -1 time -1 fuel -1 mater -1 london -1 -2
+heavy -1 russian -1 take -1 brazil -1 rang -1 ton -1 ton -1 fob -1 fob -1 prem -1 gasolin -1 carg -1 demand -1 nwe -1 nwe -1 newsroom -1 ara -1 ara -1 barg -1 barg -1 peak -1 trad -1 trad -1 -2

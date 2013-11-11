@@ -1,0 +1,4 @@
+early -1 early -1 market -1 emerg -1 outnumb -1 slip -1 star -1 sery -1 stock -1 stock -1 stock -1 clos -1 clos -1 record -1 gas -1 high -1 high -1 perform -1 low -1 low -1 year -1 mild -1 full -1 sydney -1 point -1 point -1 point -1 fall -1 suggest -1 invest -1 -2
+individual -1 peopl -1 today -1 report -1 percent -1 percent -1 strong -1 expect -1 lead -1 lead -1 ratio -1 index -1 index -1 index -1 ordin -1 brok -1 brok -1 brok -1 futur -1 million -1 thursday -1 shar -1 shar -1 shar -1 agl -1 open -1 open -1 push -1 expir -1 expir -1 remain -1 -2
+stead -1 rise -1 august -1 austral -1 austral -1 ing -1 ing -1 lack -1 util -1 net -1 take -1 take -1 dip -1 direct -1 aim -1 run -1 profit -1 profit -1 profit -1 inspir -1 inspir -1 wednesday -1 septemb -1 prem -1 real -1 don -1 afternoon -1 surpr -1 yesterday -1 offshor -1 surg -1 -2
+drift -1 drift -1 trad -1 trad -1 bit -1 fro -1 option -1 option -1 option -1 -2

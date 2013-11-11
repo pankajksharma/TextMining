@@ -1,0 +1,2 @@
+stay -1 tight -1 market -1 market -1 back -1 french -1 clos -1 high -1 currenc -1 data -1 line -1 invest -1 invest -1 deal -1 franc -1 debt -1 germ -1 report -1 anal -1 expect -1 help -1 claw -1 pric -1 gain -1 anticip -1 thursday -1 span -1 versus -1 return -1 underpin -1 -2
+loss -1 gradual -1 move -1 dull -1 budget -1 dollar -1 bono -1 friday -1 due -1 late -1 season -1 holiday -1 madrid -1 newsroom -1 peset -1 peset -1 peset -1 prospect -1 mark -1 animat -1 interbank -1 origin -1 sign -1 trad -1 -2

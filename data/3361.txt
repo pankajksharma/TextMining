@@ -1,0 +1,1 @@
+market -1 stock -1 stock -1 high -1 point -1 dian -1 dian -1 dian -1 reit -1 volum -1 shar -1 shar -1 declin -1 declin -1 corp -1 corp -1 comment -1 comment -1 comment -1 polic -1 activ -1 activ -1 activ -1 trad -1 -2

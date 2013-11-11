@@ -1,0 +1,5 @@
+recov -1 recov -1 early -1 market -1 market -1 market -1 high -1 rate -1 low -1 low -1 lira -1 lira -1 begin -1 year -1 year -1 variabl -1 btp -1 btp -1 currenc -1 fresh -1 data -1 data -1 data -1 data -1 start -1 manag -1 manag -1 good -1 good -1 deal -1 -2
+deal -1 deal -1 annual -1 today -1 germ -1 attent -1 italy -1 percent -1 percent -1 percent -1 strong -1 help -1 treasur -1 treasur -1 overnight -1 jump -1 jump -1 home -1 home -1 world -1 q2 -1 q2 -1 level -1 italian -1 italian -1 italian -1 easy -1 outperform -1 show -1 show -1 volum -1 -2
+futur -1 futur -1 futur -1 support -1 push -1 round -1 auction -1 area -1 lire -1 lire -1 avoid -1 tone -1 weak -1 focus -1 resil -1 loss -1 declin -1 inflat -1 inflat -1 gdp -1 gdp -1 gdp -1 autumn -1 growth -1 london -1 upward -1 upward -1 trill -1 trill -1 certif -1 pape -1 -2
+settl -1 basi -1 revis -1 revis -1 july -1 july -1 day -1 wag -1 wag -1 wag -1 includ -1 cct -1 demand -1 held -1 june -1 bond -1 bond -1 bond -1 bond -1 bond -1 liff -1 late -1 moderat -1 weather -1 afternoon -1 newsroom -1 add -1 surpr -1 milan -1 mark -1 sale -1 -2
+sale -1 sign -1 trad -1 -2

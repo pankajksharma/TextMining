@@ -1,0 +1,4 @@
+tuesday -1 medic -1 medic -1 syrian -1 even -1 come -1 come -1 inquir -1 woman -1 hijack -1 hijack -1 hijack -1 manag -1 amman -1 amman -1 amman -1 list -1 peopl -1 treat -1 treat -1 treat -1 treat -1 capit -1 jord -1 jord -1 ill -1 help -1 appear -1 fate -1 reut -1 -2
+rest -1 seiz -1 belief -1 monday -1 abroad -1 baba -1 baba -1 baba -1 airport -1 airport -1 told -1 aircraft -1 phon -1 head -1 head -1 airway -1 airway -1 iraq -1 iraq -1 iraq -1 numb -1 london -1 london -1 doorway -1 step -1 collaps -1 anxi -1 elder -1 sudan -1 sudan -1 sudan -1 -2
+sudan -1 sudan -1 sudan -1 land -1 land -1 plan -1 plan -1 plan -1 plan -1 relat -1 relat -1 includ -1 just -1 airlin -1 airlin -1 ambul -1 board -1 saud -1 passeng -1 passeng -1 passeng -1 passeng -1 passeng -1 passeng -1 passeng -1 memb -1 crew -1 crew -1 station -1 palestin -1 polic -1 -2
+releas -1 arm -1 stanst -1 jordan -1 jordan -1 walk -1 khartoum -1 offic -1 offic -1 offic -1 left -1 pick -1 sick -1 -2

@@ -1,0 +1,4 @@
+elect -1 norodom -1 norodom -1 sihanouk -1 peac -1 month -1 low -1 atroc -1 convict -1 declar -1 brut -1 further -1 peopl -1 debat -1 treat -1 report -1 special -1 expect -1 lead -1 decid -1 govern -1 govern -1 govern -1 rebel -1 level -1 law -1 law -1 million -1 thursday -1 nation -1 -2
+nation -1 nation -1 nation -1 princ -1 princ -1 die -1 wak -1 guerrill -1 guerrill -1 outlaw -1 pow -1 told -1 sen -1 amnest -1 prim -1 prim -1 minist -1 minist -1 diseas -1 scrap -1 scrap -1 move -1 khm -1 khm -1 khm -1 khm -1 roug -1 roug -1 roug -1 roug -1 poll -1 -2
+grant -1 king -1 aim -1 propos -1 propos -1 ban -1 ban -1 run -1 session -1 july -1 wag -1 maoist -1 insurg -1 reconcil -1 assembl -1 assembl -1 assembl -1 assembl -1 hun -1 ranariddh -1 ranariddh -1 pass -1 plac -1 legisl -1 cancel -1 major -1 rule -1 coal -1 reneg -1 brought -1 boycot -1 -2
+cambod -1 cambod -1 execut -1 pact -1 absent -1 sole -1 faction -1 hung -1 hold -1 sign -1 sign -1 split -1 group -1 -2

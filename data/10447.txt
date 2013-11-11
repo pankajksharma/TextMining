@@ -1,0 +1,2 @@
+draw -1 start -1 start -1 point -1 stand -1 stand -1 norway -1 lost -1 kongsving -1 kongsving -1 valereng -1 valereng -1 skeid -1 skeid -1 stabaek -1 stabaek -1 stromsgodset -1 stromsgodset -1 lillestrom -1 lillestrom -1 weekend -1 weekend -1 norweg -1 socc -1 socc -1 rosenborg -1 rosenborg -1 won -1 match -1 match -1 -2
+play -1 elit -1 elit -1 bran -1 bran -1 divid -1 divid -1 bodo -1 bodo -1 glimt -1 glimt -1 result -1 result -1 mold -1 mold -1 goal -1 tabulat -1 moss -1 moss -1 vike -1 vike -1 troms -1 troms -1 -2

@@ -1,0 +1,1 @@
+temper -1 tuesday -1 privat -1 today -1 expect -1 expect -1 cold -1 cold -1 coffee -1 coffee -1 area -1 damag -1 damag -1 servic -1 brazil -1 brazil -1 corpor -1 wednesday -1 foreseen -1 weather -1 forecast -1 norm -1 region -1 -2

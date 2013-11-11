@@ -1,0 +1,2 @@
+ag -1 month -1 full -1 stat -1 percent -1 percent -1 percent -1 cash -1 million -1 swiss -1 rise -1 flow -1 net -1 net -1 clari -1 clari -1 note -1 h1 -1 sfr -1 profit -1 profit -1 profit -1 chemic -1 intern -1 june -1 operat -1 sale -1 sale -1 sale -1 sale -1 -2
+group -1 group -1 pct -1 pct -1 -2

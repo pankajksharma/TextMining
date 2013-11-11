@@ -1,0 +1,3 @@
+market -1 stop -1 clos -1 clos -1 clos -1 high -1 low -1 rebound -1 yen -1 fall -1 trend -1 mid -1 invest -1 deal -1 deal -1 deal -1 larg -1 today -1 slight -1 expect -1 thursday -1 open -1 push -1 drop -1 chin -1 stabl -1 foreign -1 exchang -1 loss -1 intr -1 -2
+intr -1 shanghai -1 shanghai -1 move -1 dull -1 consolid -1 base -1 sell -1 session -1 session -1 day -1 day -1 wednesday -1 hong -1 kong -1 dollar -1 dollar -1 dollar -1 japan -1 friday -1 hesitat -1 hit -1 newsroom -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yesterday -1 -2
+yesterday -1 unclear -1 thought -1 interbank -1 trad -1 trad -1 -2

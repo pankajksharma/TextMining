@@ -1,0 +1,2 @@
+neb -1 cain -1 cain -1 cain -1 cain -1 godfather -1 hoenig -1 bank -1 bank -1 bank -1 bank -1 individual -1 stat -1 strong -1 lead -1 kans -1 kans -1 support -1 party -1 nation -1 feder -1 feder -1 reserv -1 reserv -1 reserv -1 polit -1 outstand -1 omah -1 city -1 city -1 -2
+miss -1 chief -1 direct -1 direct -1 base -1 herm -1 herm -1 plan -1 announc -1 pizz -1 wednesday -1 involut -1 board -1 board -1 fed -1 fed -1 chairm -1 chairm -1 chairm -1 chairm -1 republ -1 thom -1 resign -1 resign -1 resign -1 execut -1 presid -1 activ -1 campaign -1 offic -1 -2

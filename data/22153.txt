@@ -1,0 +1,2 @@
+usda -1 market -1 market -1 newsdesk -1 joseph -1 fall -1 sioux -1 sioux -1 trend -1 firm -1 cattl -1 west -1 oklahom -1 st -1 st -1 dodg -1 loui -1 bill -1 mix -1 mix -1 pric -1 test -1 test -1 test -1 test -1 stead -1 stead -1 stead -1 stead -1 stead -1 -2
+stead -1 chicag -1 louisvill -1 feed -1 cwt -1 san -1 city -1 city -1 city -1 lrg -1 rang -1 date -1 amarill -1 med -1 farg -1 lexington -1 dollar -1 lb -1 fram -1 steer -1 antonio -1 -2

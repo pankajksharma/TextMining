@@ -1,0 +1,3 @@
+negot -1 mechan -1 bratislav -1 econom -1 money -1 year -1 year -1 agent -1 bank -1 bank -1 bank -1 bank -1 bank -1 form -1 billion -1 billion -1 comprom -1 fund -1 fund -1 fund -1 loan -1 domest -1 debt -1 debt -1 debt -1 report -1 meet -1 pay -1 pay -1 expect -1 -2
+expect -1 govern -1 govern -1 govern -1 laca -1 provis -1 solut -1 end -1 end -1 sum -1 weekend -1 cabinet -1 reserv -1 crown -1 crown -1 cent -1 meciar -1 meciar -1 meciar -1 extraodin -1 quot -1 trenciansk -1 teplic -1 prim -1 minist -1 minist -1 tasr -1 tasr -1 tasr -1 pm -1 new -1 -2
+purpos -1 plan -1 bad -1 bad -1 bad -1 memb -1 present -1 elabor -1 releas -1 releas -1 releas -1 releas -1 releas -1 newsroom -1 add -1 slovak -1 slovak -1 slovak -1 slovak -1 see -1 pete -1 vladimir -1 hold -1 offic -1 -2

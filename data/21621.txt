@@ -1,0 +1,4 @@
+bound -1 back -1 businessm -1 alleg -1 french -1 french -1 illeg -1 year -1 convict -1 citiz -1 agent -1 agent -1 agent -1 agent -1 unit -1 prison -1 week -1 week -1 west -1 afric -1 afric -1 stat -1 helicopt -1 helicopt -1 helicopt -1 helicopt -1 helicopt -1 helicopt -1 seiz -1 seiz -1 -2
+seiz -1 custom -1 custom -1 custom -1 custom -1 custom -1 thursday -1 face -1 nation -1 give -1 august -1 airport -1 aircraft -1 aircraft -1 arna -1 comming -1 comming -1 comming -1 comming -1 foutang -1 call -1 baban -1 work -1 offer -1 offer -1 sissok -1 bell -1 man -1 servic -1 servic -1 unawar -1 -2
+ago -1 brib -1 brib -1 brib -1 brib -1 fine -1 wealth -1 export -1 gambian -1 milit -1 milit -1 dit -1 day -1 charg -1 charg -1 darboe -1 darboe -1 darboe -1 airlin -1 gambia -1 gambia -1 gambia -1 gambia -1 intern -1 arrest -1 arrest -1 arrest -1 arrest -1 attempt -1 miam -1 miam -1 -2
+friday -1 mari -1 schem -1 releas -1 releas -1 releas -1 creat -1 serg -1 offic -1 -2

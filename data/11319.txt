@@ -1,0 +1,4 @@
+newsdesk -1 retail -1 applic -1 applic -1 tariff -1 midamer -1 midamer -1 midamer -1 midamer -1 midamer -1 midamer -1 midamer -1 midamer -1 low -1 low -1 ies -1 ies -1 ies -1 ies -1 ies -1 ies -1 ferc -1 ferc -1 ferc -1 wpl -1 merg -1 merg -1 merg -1 merg -1 year -1 -2
+year -1 agree -1 unsolicit -1 point -1 point -1 wholesal -1 iowa -1 file -1 file -1 file -1 seek -1 transmit -1 transmit -1 transmit -1 transmit -1 transmit -1 complet -1 stat -1 percent -1 approv -1 reut -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 custom -1 custom -1 custom -1 custom -1 -2
+open -1 monday -1 industr -1 feder -1 chicag -1 current -1 pow -1 commit -1 freez -1 freez -1 freez -1 interst -1 bid -1 util -1 energ -1 energ -1 propos -1 propos -1 propos -1 electr -1 electr -1 electr -1 electr -1 plan -1 plan -1 regulat -1 reduc -1 prev -1 board -1 reject -1 access -1 -2
+advant -1 hold -1 -2

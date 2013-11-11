@@ -1,0 +1,2 @@
+early -1 market -1 market -1 market -1 small -1 stock -1 stock -1 stock -1 high -1 data -1 york -1 point -1 lust -1 unoffic -1 light -1 issu -1 slight -1 advanc -1 jump -1 busi -1 gain -1 volum -1 million -1 shar -1 shar -1 end -1 end -1 end -1 industr -1 machin -1 -2
+provid -1 exchang -1 declin -1 dull -1 ibm -1 base -1 corp -1 wednesday -1 intern -1 blu -1 chip -1 dow -1 jone -1 aver -1 broad -1 shor -1 beat -1 -2

@@ -1,0 +1,2 @@
+early -1 small -1 ocean -1 vehicl -1 vehicl -1 mazd -1 compact -1 jama -1 year -1 jul -1 middl -1 yr -1 yr -1 yr -1 yr -1 north -1 niss -1 unit -1 larg -1 larg -1 afric -1 stat -1 east -1 percent -1 eu -1 europ -1 hond -1 rise -1 car -1 rose -1 -2
+assoc -1 destin -1 americ -1 americ -1 export -1 export -1 export -1 export -1 export -1 july -1 july -1 latin -1 truck -1 automobil -1 total -1 mini -1 mini -1 friday -1 japan -1 japan -1 japan -1 major -1 chang -1 mitsubish -1 manufactur -1 manufactur -1 buse -1 toyot -1 asia -1 -2

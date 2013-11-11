@@ -1,0 +1,5 @@
+market -1 market -1 market -1 market -1 market -1 market -1 market -1 market -1 market -1 elect -1 recent -1 retail -1 econom -1 econom -1 slip -1 stock -1 high -1 high -1 high -1 interest -1 rate -1 rate -1 wellington -1 month -1 march -1 monet -1 year -1 ahead -1 conserv -1 data -1 -2
+point -1 point -1 point -1 point -1 fall -1 view -1 invest -1 invest -1 invest -1 equit -1 wait -1 wait -1 hiatus -1 week -1 week -1 week -1 quart -1 percent -1 percent -1 percent -1 strong -1 strong -1 lead -1 govern -1 world -1 big -1 index -1 show -1 brok -1 shar -1 shar -1 -2
+support -1 push -1 long -1 party -1 nation -1 benchmark -1 jb -1 time -1 time -1 rise -1 rose -1 rose -1 cent -1 cent -1 austral -1 purchas -1 nz -1 forest -1 forest -1 zealand -1 zealand -1 forestr -1 forestr -1 fletch -1 fletch -1 fletch -1 fact -1 brierley -1 weight -1 posit -1 posit -1 -2
+telecom -1 new -1 period -1 poll -1 cart -1 holt -1 harvey -1 run -1 result -1 corp -1 impact -1 reduc -1 fellow -1 budget -1 john -1 power -1 cob -1 cob -1 cob -1 friday -1 bond -1 shrug -1 rule -1 consort -1 polic -1 wind -1 newsroom -1 offshor -1 nzs -1 sale -1 sale -1 -2
+eas -1 eas -1 -2

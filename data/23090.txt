@@ -1,0 +1,4 @@
+bali -1 market -1 market -1 sect -1 back -1 saturday -1 high -1 construc -1 sulawes -1 octob -1 middl -1 newspap -1 april -1 plywood -1 plywood -1 plywood -1 plywood -1 week -1 key -1 issu -1 sourc -1 produc -1 produc -1 produc -1 kalimant -1 report -1 east -1 percent -1 strong -1 decid -1 -2
+timb -1 timb -1 pric -1 pric -1 pric -1 exist -1 industr -1 sumatr -1 increas -1 increas -1 increas -1 increas -1 rais -1 rais -1 jungl -1 met -1 met -1 rupiah -1 rupiah -1 rupiah -1 rupiah -1 rupiah -1 qual -1 quot -1 minist -1 forest -1 forest -1 forest -1 minister -1 forestr -1 levy -1 -2
+levy -1 levy -1 levy -1 tree -1 specy -1 bisn -1 pape -1 djamaludin -1 djamaludin -1 suryohadikusum -1 ihh -1 maluku -1 nusa -1 woodchip -1 tenggar -1 jaya -1 plan -1 cubic -1 cubic -1 septemb -1 effect -1 intern -1 demand -1 june -1 japan -1 japan -1 indones -1 indones -1 indones -1 timor -1 sawn -1 -2
+impos -1 possibl -1 wood -1 irian -1 pct -1 -2

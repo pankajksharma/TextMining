@@ -1,0 +1,2 @@
+market -1 usda -1 usda -1 quiet -1 clos -1 record -1 roundup -1 year -1 inquir -1 select -1 cattl -1 cattl -1 cattl -1 week -1 week -1 week -1 light -1 percent -1 confirm -1 confirm -1 confirm -1 confirm -1 kans -1 slaught -1 test -1 deliv -1 contract -1 salught -1 head -1 head -1 -2
+feedlot -1 cme -1 heif -1 heif -1 heif -1 includ -1 formul -1 prev -1 demand -1 friday -1 friday -1 lbs -1 late -1 steer -1 sale -1 sale -1 sale -1 trad -1 choic -1 -2

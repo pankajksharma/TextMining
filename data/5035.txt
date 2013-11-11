@@ -1,0 +1,2 @@
+eps -1 month -1 yen -1 yen -1 yen -1 yen -1 yen -1 div -1 billion -1 produc -1 interim -1 million -1 million -1 shar -1 mth -1 current -1 net -1 note -1 result -1 june -1 major -1 parent -1 parent -1 riken -1 riken -1 corundum -1 corundum -1 sandpap -1 operat -1 sale -1 -2
+mln -1 mln -1 mln -1 mln -1 mln -1 mln -1 -2

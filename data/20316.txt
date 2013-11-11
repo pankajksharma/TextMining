@@ -1,0 +1,2 @@
+thin -1 thin -1 gas -1 high -1 high -1 high -1 high -1 low -1 damp -1 pay -1 strong -1 bunk -1 bunk -1 bunk -1 cst -1 cst -1 cst -1 level -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 push -1 wharf -1 mdo -1 oil -1 remain -1 stead -1 -2
+edg -1 buy -1 singapor -1 singapor -1 singapor -1 quot -1 quot -1 quot -1 forc -1 unwill -1 sell -1 sell -1 wednesday -1 carg -1 carg -1 carg -1 demand -1 demand -1 demand -1 dollar -1 major -1 newsroom -1 trad -1 trad -1 trad -1 independ -1 -2

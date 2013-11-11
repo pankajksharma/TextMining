@@ -1,0 +1,4 @@
+ooz -1 allr -1 allr -1 fire -1 compan -1 veget -1 veget -1 veget -1 anderson -1 anderson -1 anderson -1 violat -1 violat -1 violat -1 encour -1 chain -1 municip -1 fast -1 agent -1 agent -1 ads -1 writ -1 file -1 food -1 lawsuit -1 free -1 employ -1 week -1 issu -1 stat -1 -2
+strong -1 belief -1 sauc -1 open -1 sandwich -1 lawy -1 lawy -1 give -1 consid -1 feder -1 author -1 author -1 discrimin -1 coupon -1 coupon -1 commit -1 commit -1 commit -1 civil -1 civil -1 civil -1 gloria -1 right -1 right -1 right -1 declin -1 court -1 bus -1 bus -1 bus -1 weight -1 -2
+orang -1 equal -1 settl -1 wond -1 run -1 day -1 charg -1 charg -1 hamburg -1 driv -1 driv -1 driv -1 hand -1 comment -1 transit -1 transit -1 bruc -1 passeng -1 moral -1 refus -1 held -1 determin -1 june -1 friday -1 rule -1 rule -1 rule -1 dismit -1 featur -1 add -1 chos -1 -2
+californ -1 opportun -1 count -1 ethic -1 -2

@@ -1,0 +1,4 @@
+stay -1 daught -1 accur -1 tuesday -1 tuesday -1 stock -1 union -1 reach -1 mafia -1 year -1 rome -1 repubbl -1 newspap -1 club -1 headlin -1 list -1 join -1 seek -1 today -1 fund -1 fund -1 cemet -1 berluscon -1 meet -1 italy -1 carl -1 mob -1 govern -1 govern -1 govern -1 -2
+lead -1 pension -1 pension -1 treasur -1 digest -1 italian -1 italian -1 reut -1 law -1 busi -1 busi -1 million -1 european -1 shot -1 il -1 il -1 broadcast -1 long -1 discuss -1 bureau -1 polit -1 short -1 august -1 press -1 socc -1 unemploy -1 verif -1 vouch -1 exchang -1 network -1 cut -1 -2
+work -1 nephew -1 minist -1 figur -1 parlia -1 decree -1 draft -1 vendet -1 silvio -1 story -1 story -1 story -1 azeglio -1 ciamp -1 dead -1 wednesday -1 scilian -1 ania -1 legisl -1 boss -1 air -1 late -1 polic -1 corrier -1 presid -1 antonio -1 sole -1 sole -1 top -1 top -1 top -1 -2
+enact -1 -2

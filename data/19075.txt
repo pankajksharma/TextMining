@@ -1,0 +1,2 @@
+soybean -1 soybean -1 soybean -1 early -1 usda -1 usda -1 newsdesk -1 bushel -1 bushel -1 bushel -1 month -1 year -1 year -1 output -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 iowa -1 produc -1 produc -1 produc -1 crop -1 crop -1 crop -1 chicag -1 corn -1 corn -1 -2
+corn -1 corn -1 bu -1 agricultur -1 depart -1 bln -1 estimat -1 estimat -1 revis -1 corp -1 corp -1 septemb -1 secur -1 secur -1 total -1 due -1 sci -1 sci -1 see -1 forecast -1 forecast -1 forecast -1 -2

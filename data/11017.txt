@@ -1,0 +1,3 @@
+oj -1 veget -1 veget -1 veget -1 bound -1 carry -1 french -1 relev -1 applic -1 revers -1 journ -1 journ -1 standard -1 good -1 franc -1 issu -1 issu -1 produc -1 display -1 requir -1 decid -1 advanc -1 fix -1 pric -1 end -1 minim -1 print -1 leav -1 danger -1 august -1 -2
+august -1 august -1 august -1 articl -1 commit -1 commit -1 commit -1 commit -1 import -1 text -1 text -1 refund -1 entry -1 ec -1 ec -1 ec -1 ec -1 eea -1 note -1 direct -1 export -1 export -1 valu -1 pollut -1 commun -1 council -1 july -1 regulat -1 regulat -1 regulat -1 fruit -1 -2
+fruit -1 fruit -1 eec -1 determin -1 port -1 authent -1 request -1 process -1 licent -1 licent -1 vessel -1 content -1 content -1 ord -1 offic -1 docu -1 establ -1 -2

@@ -1,0 +1,2 @@
+discharg -1 gener -1 namib -1 receiv -1 privat -1 cargoe -1 cargoe -1 contain -1 ship -1 ship -1 report -1 report -1 report -1 ro -1 ro -1 minor -1 collect -1 crud -1 termin -1 lobit -1 cabind -1 soyo -1 kwand -1 lloyd -1 lloyd -1 anchor -1 servic -1 exper -1 updat -1 luand -1 -2
+program -1 load -1 base -1 aug -1 berth -1 berth -1 berth -1 berth -1 berth -1 intellig -1 transport -1 reduc -1 angol -1 carg -1 quay -1 port -1 port -1 port -1 due -1 cond -1 cond -1 operat -1 delay -1 delay -1 delay -1 delay -1 -2

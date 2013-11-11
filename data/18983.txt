@@ -1,0 +1,2 @@
+early -1 market -1 stock -1 stock -1 stock -1 interest -1 rate -1 low -1 low -1 term -1 nerv -1 data -1 york -1 point -1 point -1 unoffic -1 issu -1 percent -1 advanc -1 rally -1 volum -1 million -1 shar -1 thursday -1 end -1 end -1 end -1 long -1 industr -1 increas -1 -2
+exchang -1 declin -1 sharp -1 sharp -1 base -1 wall -1 street -1 blu -1 chip -1 dow -1 jone -1 aver -1 broad -1 moderat -1 beat -1 -2

@@ -1,0 +1,4 @@
+recov -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 market -1 market -1 econom -1 econom -1 carry -1 carry -1 stock -1 stock -1 stock -1 stock -1 stock -1 high -1 high -1 month -1 begin -1 year -1 midday -1 nascend -1 april -1 -2
+york -1 york -1 mind -1 invest -1 invest -1 decemb -1 peso -1 de -1 peopl -1 caught -1 week -1 quart -1 quart -1 luhnow -1 percent -1 percent -1 local -1 expect -1 defend -1 janu -1 gain -1 gain -1 rally -1 rally -1 david -1 telephon -1 shar -1 shar -1 shar -1 remain -1 bellwether -1 -2
+short -1 august -1 rise -1 turf -1 grow -1 worry -1 worry -1 crash -1 city -1 city -1 compet -1 compet -1 numb -1 cheer -1 cheer -1 sharp -1 upcom -1 new -1 mile -1 base -1 story -1 earn -1 run -1 optim -1 wednesday -1 giant -1 board -1 weigh -1 set -1 newsroom -1 telefono -1 -2
+wav -1 left -1 adr -1 trad -1 trad -1 trad -1 telmex -1 telmex -1 telmex -1 telmex -1 telmex -1 telmex -1 lag -1 -2

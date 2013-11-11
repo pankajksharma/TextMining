@@ -1,0 +1,4 @@
+acquir -1 market -1 life -1 look -1 stock -1 pari -1 billion -1 billion -1 pictur -1 cac -1 cac -1 good -1 mid -1 firm -1 tenth -1 franc -1 franc -1 franc -1 franc -1 franc -1 gmt -1 sound -1 report -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 -2
+percent -1 strong -1 special -1 index -1 index -1 index -1 volum -1 brok -1 brok -1 europ -1 shar -1 shar -1 shar -1 shar -1 assur -1 nation -1 increas -1 increas -1 grow -1 weak -1 made -1 austral -1 prim -1 growth -1 figur -1 insur -1 insur -1 insur -1 fact -1 fact -1 weight -1 -2
+half -1 half -1 fail -1 period -1 axa -1 axa -1 axa -1 axa -1 axa -1 axa -1 consolid -1 consolid -1 underl -1 basi -1 sami -1 gotran -1 eifb -1 h1 -1 natmut -1 session -1 turnov -1 turnov -1 turnov -1 compar -1 surround -1 relat -1 board -1 bours -1 uap -1 mutual -1 surpr -1 -2
+activ -1 pace -1 reflect -1 sale -1 lag -1 group -1 -2

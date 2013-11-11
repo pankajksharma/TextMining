@@ -1,0 +1,4 @@
+compan -1 liber -1 liber -1 situat -1 tuesday -1 medic -1 fly -1 alert -1 doct -1 doct -1 doct -1 hospit -1 hospit -1 own -1 doesn -1 regist -1 line -1 food -1 food -1 food -1 rush -1 peopl -1 treat -1 treat -1 treat -1 ill -1 ship -1 ship -1 ship -1 report -1 -2
+italy -1 local -1 dock -1 dock -1 govern -1 reut -1 brok -1 european -1 cret -1 cret -1 cret -1 round -1 genoa -1 garyfalak -1 governor -1 grocier -1 control -1 corfu -1 nation -1 case -1 greek -1 greek -1 greek -1 isl -1 give -1 tourist -1 told -1 told -1 rivier -1 boat -1 voyag -1 -2
+cruis -1 cruis -1 yan -1 put -1 cost -1 cost -1 coast -1 coast -1 ton -1 island -1 island -1 island -1 irakl -1 irakl -1 bad -1 flag -1 guard -1 guard -1 passeng -1 passeng -1 passeng -1 suppl -1 port -1 hit -1 poison -1 poison -1 poison -1 need -1 add -1 vessel -1 operat -1 -2
+offic -1 offic -1 offic -1 offic -1 -2

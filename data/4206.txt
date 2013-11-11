@@ -1,0 +1,4 @@
+limit -1 early -1 market -1 small -1 small -1 thin -1 gas -1 high -1 high -1 durb -1 north -1 insubstant -1 fall -1 biggy -1 firm -1 firm -1 fax -1 deal -1 deal -1 deal -1 deal -1 larg -1 slight -1 fixtur -1 bunk -1 bunk -1 bunk -1 bunk -1 bunk -1 amsterdam -1 -2
+expect -1 cst -1 lead -1 suff -1 enquir -1 enquir -1 enquir -1 enquir -1 pric -1 pric -1 pric -1 pric -1 pric -1 busi -1 volum -1 volum -1 futur -1 rotterdam -1 rotterdam -1 thursday -1 strength -1 long -1 talk -1 oil -1 oil -1 oil -1 oil -1 remain -1 increas -1 stead -1 august -1 -2
+short -1 fuel -1 fuel -1 fuel -1 buy -1 buy -1 buy -1 prevail -1 loss -1 purchas -1 numb -1 postpon -1 mediterranean -1 settl -1 ton -1 fob -1 sell -1 hamburg -1 wednesday -1 essent -1 diesel -1 suppl -1 hit -1 aver -1 late -1 prompt -1 newsroom -1 ara -1 ara -1 substant -1 activ -1 -2
+barg -1 barg -1 discour -1 numer -1 trad -1 trad -1 -2

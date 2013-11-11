@@ -1,0 +1,5 @@
+metal -1 metal -1 compan -1 compan -1 early -1 disclos -1 stock -1 high -1 high -1 interest -1 interest -1 mt -1 mt -1 mt -1 mt -1 mt -1 mt -1 mt -1 mt -1 mt -1 mt -1 year -1 year -1 full -1 nl -1 nl -1 north -1 sydney -1 adjoin -1 nickel -1 -2
+nickel -1 expenditur -1 deal -1 fund -1 swan -1 gmt -1 mine -1 stat -1 stat -1 anoma -1 percent -1 east -1 requir -1 km -1 jv -1 pric -1 contribut -1 million -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 deposit -1 monday -1 gold -1 gold -1 gold -1 prior -1 rtr -1 -2
+august -1 august -1 asx -1 off -1 identif -1 princip -1 financ -1 cent -1 cent -1 exchang -1 spent -1 loss -1 austral -1 austral -1 western -1 work -1 numb -1 search -1 explor -1 explor -1 kalgoorlie -1 draft -1 risen -1 kersey -1 kersey -1 kersey -1 kersey -1 kersey -1 kersey -1 kersey -1 kersey -1 -2
+kersey -1 kersey -1 gindalbie -1 gindalbie -1 gindalbie -1 gindalbie -1 gindalbie -1 gindalbie -1 base -1 earn -1 announc -1 includ -1 item -1 query -1 prev -1 unaudit -1 silf -1 project -1 joint -1 june -1 ventur -1 ventur -1 abnorm -1 respons -1 tene -1 tene -1 explan -1 newsroom -1 enter -1 operat -1 sole -1 -2
+region -1 tax -1 -2

@@ -1,0 +1,2 @@
+market -1 ag -1 interest -1 april -1 point -1 german -1 invest -1 annual -1 correspons -1 issu -1 issu -1 issu -1 germ -1 percent -1 percent -1 pay -1 level -1 pric -1 pric -1 million -1 shar -1 shar -1 shar -1 commerzbank -1 commerzbank -1 commerzbank -1 commerzbank -1 expir -1 nomin -1 nomin -1 -2
+offer -1 certif -1 certif -1 certif -1 basi -1 basi -1 july -1 plan -1 profit -1 profit -1 septemb -1 septemb -1 septemb -1 worth -1 bund -1 set -1 mark -1 mark -1 mark -1 -2

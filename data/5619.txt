@@ -1,0 +1,4 @@
+market -1 market -1 market -1 market -1 market -1 back -1 back -1 money -1 money -1 clos -1 clos -1 clos -1 high -1 high -1 high -1 high -1 high -1 reach -1 interest -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 low -1 build -1 bank -1 point -1 -2
+point -1 point -1 line -1 deal -1 deal -1 deal -1 deal -1 caught -1 key -1 aex -1 aex -1 germ -1 germ -1 germ -1 percent -1 percent -1 percent -1 buba -1 special -1 advanc -1 sent -1 big -1 index -1 index -1 index -1 index -1 futur -1 futur -1 thursday -1 shar -1 shar -1 -2
+shar -1 shar -1 open -1 push -1 push -1 dutch -1 dutch -1 dutch -1 give -1 time -1 time -1 momentum -1 rise -1 cent -1 head -1 cut -1 cut -1 cut -1 cut -1 cut -1 flur -1 move -1 new -1 new -1 put -1 direct -1 basi -1 run -1 caus -1 septemb -1 attempt -1 -2
+june -1 june -1 bund -1 bund -1 respons -1 bundesbank -1 bundesbank -1 bundesbank -1 late -1 pois -1 repo -1 repo -1 repo -1 incent -1 need -1 add -1 surpr -1 boost -1 -2

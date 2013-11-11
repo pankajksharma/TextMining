@@ -1,0 +1,2 @@
+market -1 gener -1 back -1 clos -1 clos -1 high -1 point -1 point -1 point -1 billion -1 good -1 deal -1 deal -1 franc -1 franc -1 smi -1 gmt -1 percent -1 percent -1 percent -1 britain -1 advanc -1 fell -1 index -1 index -1 shar -1 shar -1 shar -1 end -1 end -1 -2
+end -1 monday -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 consid -1 virtual -1 virtual -1 mercantil -1 purchas -1 performac -1 spi -1 roch -1 session -1 day -1 prudent -1 corp -1 limelight -1 blu -1 chip -1 unchang -1 unchang -1 add -1 -2

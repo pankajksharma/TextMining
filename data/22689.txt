@@ -1,0 +1,4 @@
+capac -1 capac -1 econom -1 tuesday -1 insist -1 year -1 provinc -1 privat -1 privat -1 newspap -1 tie -1 view -1 invest -1 unit -1 join -1 suspend -1 stat -1 stat -1 report -1 lead -1 lead -1 lee -1 teng -1 rebel -1 hui -1 busi -1 busi -1 entitl -1 talk -1 talk -1 -2
+chin -1 chin -1 chin -1 chin -1 cabinet -1 polit -1 polit -1 urg -1 invitat -1 invitat -1 confid -1 commit -1 lose -1 head -1 offer -1 arriv -1 visit -1 visit -1 visit -1 invit -1 delegat -1 delegat -1 direct -1 deny -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 link -1 -2
+kao -1 kao -1 kao -1 kao -1 kao -1 ching -1 island -1 island -1 island -1 wang -1 wang -1 policymak -1 policymak -1 affair -1 affair -1 beij -1 beij -1 beij -1 beij -1 ask -1 definit -1 wednesday -1 taiwan -1 taiwan -1 taiwan -1 taiwan -1 accept -1 accept -1 resum -1 spokesm -1 spokesm -1 -2
+friday -1 imped -1 yuan -1 presid -1 frict -1 top -1 zhaoguo -1 offic -1 offic -1 offic -1 offic -1 offic -1 -2

@@ -1,0 +1,4 @@
+react -1 study -1 french -1 french -1 french -1 stock -1 low -1 merg -1 year -1 build -1 point -1 point -1 point -1 billion -1 cac -1 cac -1 good -1 poor -1 deal -1 franc -1 franc -1 franc -1 week -1 week -1 stat -1 percent -1 percent -1 britain -1 expect -1 outlook -1 -2
+sent -1 mood -1 index -1 index -1 soft -1 volum -1 futur -1 futur -1 shar -1 alsthom -1 alsthom -1 end -1 end -1 end -1 long -1 control -1 control -1 contract -1 expir -1 finish -1 finish -1 bear -1 bear -1 ground -1 weak -1 weak -1 rose -1 continu -1 inflat -1 alcatel -1 alcatel -1 -2
+gec -1 gec -1 won -1 heavy -1 half -1 nuclear -1 corpor -1 corpor -1 earn -1 result -1 result -1 relat -1 optim -1 labor -1 labor -1 great -1 climat -1 budget -1 sbf -1 blu -1 chip -1 ventur -1 friday -1 friday -1 framatom -1 framatom -1 regain -1 broad -1 unchang -1 amid -1 trad -1 -2
+sought -1 option -1 -2

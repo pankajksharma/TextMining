@@ -1,0 +1,2 @@
+stak -1 market -1 repret -1 generat -1 franc -1 franc -1 franc -1 capit -1 capit -1 gmt -1 percent -1 percent -1 gain -1 volum -1 million -1 sold -1 shar -1 shar -1 shar -1 net -1 insur -1 scor -1 scor -1 scor -1 scor -1 axa -1 reinsur -1 friday -1 friday -1 morn -1 -2
+operat -1 trad -1 trad -1 group -1 pct -1 block -1 block -1 -2

@@ -1,0 +1,2 @@
+novemb -1 retail -1 stg -1 interest -1 year -1 octob -1 shr -1 div -1 div -1 regist -1 firm -1 firm -1 firm -1 decemb -1 stat -1 pay -1 environ -1 payabl -1 gain -1 million -1 dividend -1 loss -1 loss -1 loss -1 london -1 net -1 move -1 plc -1 half -1 note -1 -2
+date -1 date -1 date -1 penc -1 penc -1 h1 -1 turnov -1 july -1 profit -1 profit -1 profit -1 pretax -1 black -1 jewel -1 goldsmith -1 goldsmith -1 uk -1 fragil -1 newsroom -1 trad -1 trad -1 trad -1 tax -1 tax -1 group -1 -2

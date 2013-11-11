@@ -1,0 +1,2 @@
+compan -1 acquir -1 market -1 disclos -1 medic -1 medic -1 medic -1 facil -1 facil -1 facil -1 facil -1 own -1 agree -1 manag -1 unit -1 unit -1 incin -1 stat -1 special -1 special -1 hampton -1 pric -1 custom -1 buy -1 wast -1 wast -1 wast -1 wast -1 wast -1 wast -1 -2
+wast -1 wast -1 wast -1 purchas -1 prim -1 servic -1 servic -1 energ -1 ton -1 hazard -1 med -1 med -1 med -1 day -1 dispos -1 capabl -1 eastern -1 friday -1 process -1 usa -1 usa -1 locat -1 chamb -1 -2

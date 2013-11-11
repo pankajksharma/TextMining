@@ -1,0 +1,4 @@
+contrast -1 popul -1 study -1 elect -1 rival -1 arnold -1 interest -1 langu -1 langu -1 newspap -1 view -1 seek -1 impress -1 week -1 anal -1 lead -1 lead -1 lead -1 wit -1 charm -1 mix -1 defend -1 paevaleht -1 lennart -1 meri -1 circl -1 party -1 party -1 saaremaa -1 nation -1 -2
+candid -1 chancellor -1 eston -1 eston -1 eston -1 eston -1 eston -1 eston -1 eston -1 eston -1 polit -1 deput -1 underdog -1 pow -1 speak -1 speak -1 speak -1 daily -1 past -1 commit -1 cent -1 head -1 eventual -1 born -1 farm -1 eest -1 lack -1 agricultur -1 agricultur -1 fami -1 parlia -1 -2
+parlia -1 russian -1 russian -1 moscow -1 moscow -1 stark -1 old -1 interview -1 commun -1 commun -1 commun -1 commun -1 commun -1 commun -1 council -1 abil -1 island -1 ask -1 ruutel -1 ruutel -1 ruutel -1 ruutel -1 driv -1 answ -1 intern -1 intern -1 pro -1 rural -1 memb -1 colleg -1 role -1 -2
+rule -1 suprem -1 presid -1 presid -1 presid -1 presid -1 doubt -1 incumb -1 easi -1 independ -1 -2

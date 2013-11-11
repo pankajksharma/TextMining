@@ -1,0 +1,2 @@
+clos -1 stg -1 stg -1 ct -1 own -1 own -1 bank -1 unit -1 unit -1 deal -1 bought -1 loan -1 stat -1 percent -1 percent -1 expect -1 pric -1 gain -1 gain -1 million -1 million -1 million -1 million -1 million -1 compr -1 midland -1 dividend -1 industr -1 feder -1 feder -1 -2
+feder -1 feder -1 financ -1 assoc -1 london -1 servic -1 pre -1 pre -1 plc -1 hsbc -1 save -1 save -1 save -1 sell -1 profit -1 imasc -1 imasc -1 imasc -1 imasc -1 marin -1 make -1 make -1 newsroom -1 see -1 hold -1 sale -1 sale -1 sale -1 subsid -1 tax -1 mln -1 -2

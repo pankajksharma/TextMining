@@ -1,0 +1,3 @@
+market -1 bound -1 clos -1 kg -1 kg -1 kg -1 high -1 high -1 high -1 march -1 march -1 fresh -1 rss3 -1 tsr20 -1 slight -1 gmt -1 local -1 mix -1 rss1 -1 janu -1 janu -1 pric -1 pric -1 brok -1 brok -1 futur -1 futur -1 thursday -1 adjust -1 adjust -1 -2
+end -1 stead -1 stead -1 stead -1 narrow -1 singapor -1 singapor -1 singapor -1 rose -1 cent -1 cent -1 cent -1 cent -1 half -1 posit -1 posit -1 toky -1 direct -1 rang -1 settl -1 settl -1 session -1 wednesday -1 wednesday -1 septemb -1 rub -1 rub -1 due -1 late -1 late -1 morn -1 -2
+kobe -1 incent -1 moderat -1 afternoon -1 unchang -1 unchang -1 activ -1 untrad -1 absent -1 theseir -1 trad -1 trad -1 -2

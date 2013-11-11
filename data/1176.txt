@@ -1,0 +1,2 @@
+oilseed -1 soybean -1 snapshot -1 nov -1 grain -1 dec -1 dec -1 year -1 year -1 mar -1 mar -1 mar -1 apr -1 feb -1 feb -1 week -1 week -1 ship -1 ship -1 jan -1 crop -1 crop -1 august -1 commit -1 commit -1 maiz -1 wheat -1 purchas -1 purchas -1 agricultur -1 -2
+argentin -1 thousand -1 estimat -1 bueno -1 ton -1 export -1 export -1 export -1 export -1 sorghum -1 sunseed -1 sunseed -1 air -1 bread -1 secretariat -1 newsroom -1 -2

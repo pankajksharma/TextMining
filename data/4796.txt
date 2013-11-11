@@ -1,0 +1,2 @@
+credit -1 interest -1 month -1 month -1 year -1 currenc -1 full -1 full -1 climb -1 billion -1 nykredit -1 nykredit -1 dkk -1 stat -1 stat -1 forex -1 balanc -1 extraordin -1 big -1 million -1 end -1 end -1 crown -1 danish -1 danish -1 net -1 net -1 pre -1 note -1 incom -1 -2
+portfolio -1 profit -1 profit -1 result -1 result -1 result -1 result -1 item -1 secur -1 june -1 june -1 june -1 forecast -1 mortg -1 operat -1 fee -1 tax -1 tax -1 group -1 group -1 group -1 -2

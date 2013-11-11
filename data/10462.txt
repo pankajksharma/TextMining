@@ -1,0 +1,4 @@
+forfeit -1 sery -1 money -1 sunday -1 month -1 month -1 cup -1 cup -1 sack -1 begin -1 begin -1 year -1 team -1 schedul -1 octob -1 octob -1 agent -1 start -1 captain -1 trust -1 tendulkar -1 unit -1 free -1 domest -1 trafford -1 delh -1 sahar -1 canad -1 abandon -1 england -1 -2
+england -1 manchest -1 sing -1 test -1 test -1 open -1 end -1 control -1 nation -1 consid -1 consid -1 press -1 replac -1 disciplin -1 met -1 commit -1 sidhu -1 sidhu -1 sidhu -1 sidhu -1 sidhu -1 navjot -1 cite -1 mohal -1 chandigarh -1 cricket -1 cricket -1 cricket -1 cricket -1 austral -1 azharuddin -1 -2
+azharuddin -1 sachin -1 city -1 moham -1 tour -1 tour -1 tour -1 india -1 india -1 india -1 india -1 india -1 match -1 play -1 play -1 half -1 pakist -1 northern -1 new -1 new -1 singh -1 earn -1 ban -1 ban -1 ban -1 differ -1 day -1 day -1 day -1 hand -1 sri -1 -2
+lank -1 batsm -1 board -1 intern -1 intern -1 due -1 set -1 indian -1 indian -1 quit -1 -2

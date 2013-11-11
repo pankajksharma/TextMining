@@ -1,0 +1,4 @@
+night -1 night -1 small -1 sanchez -1 sanchez -1 sanchez -1 sery -1 saturday -1 varg -1 varg -1 varg -1 leftist -1 countr -1 begin -1 kill -1 kill -1 kill -1 kill -1 provinc -1 gen -1 mid -1 assault -1 peopl -1 larg -1 capit -1 capit -1 sourc -1 violent -1 cundinamarc -1 cundinamarc -1 -2
+govern -1 rebel -1 rebel -1 rebel -1 toppl -1 eucl -1 class -1 author -1 polit -1 guerrill -1 guerrill -1 guerrill -1 libertador -1 colomb -1 colomb -1 colomb -1 cent -1 wound -1 work -1 forc -1 blam -1 coinc -1 policem -1 policem -1 policem -1 neighbor -1 attack -1 attack -1 attack -1 attack -1 attack -1 -2
+attack -1 old -1 bogot -1 bogot -1 bogot -1 milit -1 revolut -1 run -1 includ -1 includ -1 town -1 town -1 army -1 station -1 friday -1 friday -1 friday -1 los -1 hit -1 outskirt -1 polic -1 fight -1 arm -1 command -1 brigad -1 southern -1 surg -1 farc -1 farc -1 farc -1 farc -1 -2
+group -1 -2

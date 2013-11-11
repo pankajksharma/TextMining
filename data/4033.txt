@@ -1,0 +1,3 @@
+conc -1 preston -1 econom -1 elli -1 portland -1 portland -1 year -1 mgr -1 agent -1 bank -1 bank -1 bank -1 bank -1 amount -1 dtp -1 fund -1 issu -1 issu -1 rev -1 yield -1 stat -1 pay -1 special -1 govern -1 st -1 st -1 avg -1 well -1 pric -1 exempt -1 -2
+dtd -1 sr -1 cpn -1 sp -1 deliv -1 mos -1 bbi -1 win -1 time -1 public -1 coupon -1 call -1 qual -1 work -1 entry -1 oregon -1 oregon -1 oregon -1 tic -1 tic -1 approx -1 bid -1 bid -1 gate -1 note -1 note -1 nr -1 date -1 yrs -1 cusip -1 develop -1 -2
+book -1 purpos -1 farg -1 ser -1 dept -1 paineweb -1 paineweb -1 nyc -1 enhanc -1 dollar -1 bond -1 bond -1 due -1 amt -1 scal -1 ord -1 sale -1 hrs -1 tax -1 -2

@@ -1,0 +1,2 @@
+stay -1 stay -1 allot -1 compan -1 compan -1 compan -1 nasdaq -1 market -1 gener -1 stock -1 high -1 hospit -1 hospit -1 hotel -1 hotel -1 data -1 shr -1 shr -1 select -1 file -1 unit -1 stat -1 lead -1 pric -1 busi -1 shar -1 nation -1 outstand -1 extend -1 extend -1 -2
+bear -1 stearn -1 financ -1 financ -1 provid -1 qual -1 offer -1 offer -1 homegat -1 homegat -1 hmgt -1 net -1 estimat -1 rang -1 underwrit -1 underwrit -1 incom -1 develop -1 purpos -1 corpor -1 revenu -1 goal -1 proceed -1 total -1 strateg -1 symbol -1 add -1 ipo -1 ipo -1 locat -1 -2

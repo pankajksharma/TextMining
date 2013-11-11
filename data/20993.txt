@@ -1,0 +1,3 @@
+market -1 small -1 retail -1 texa -1 clos -1 term -1 phoenix -1 bank -1 agree -1 arizon -1 mid -1 deal -1 unit -1 unit -1 unit -1 mesa -1 quart -1 key -1 bancorp -1 approv -1 expect -1 home -1 home -1 florid -1 hawaii -1 defin -1 busi -1 busi -1 million -1 nation -1 -2
+nation -1 ahmanson -1 ahmanson -1 area -1 tucson -1 green -1 honolulu -1 valley -1 serv -1 size -1 prescot -1 part -1 save -1 save -1 americ -1 americ -1 base -1 sell -1 sell -1 detail -1 regulat -1 yuma -1 subject -1 ariz -1 friday -1 strateg -1 concent -1 transact -1 californ -1 branch -1 branch -1 -2
+branch -1 branch -1 locat -1 sale -1 offic -1 sign -1 mln -1 -2

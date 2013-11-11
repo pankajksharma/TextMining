@@ -1,0 +1,3 @@
+payment -1 early -1 early -1 early -1 market -1 thai -1 thai -1 baht -1 baht -1 baht -1 high -1 high -1 rate -1 rate -1 rate -1 rate -1 month -1 low -1 liquid -1 liquid -1 currenc -1 full -1 bank -1 bank -1 swap -1 mid -1 firm -1 deal -1 deal -1 deal -1 -2
+deal -1 today -1 fund -1 fund -1 slight -1 percent -1 percent -1 percent -1 overnight -1 fix -1 fell -1 thursday -1 european -1 edg -1 foreign -1 paid -1 offer -1 lot -1 corpor -1 compar -1 wednesday -1 wednesday -1 prem -1 satang -1 dollar -1 dollar -1 dollar -1 dollar -1 tang -1 nguy -1 late -1 -2
+late -1 late -1 late -1 late -1 morn -1 bimonth -1 inflow -1 inflow -1 interbank -1 interbank -1 interbank -1 trad -1 trad -1 tax -1 eas -1 eas -1 surplus -1 -2

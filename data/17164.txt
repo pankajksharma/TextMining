@@ -1,0 +1,4 @@
+gener -1 sery -1 sery -1 fitch -1 fitch -1 term -1 york -1 york -1 baa1 -1 regist -1 system -1 system -1 system -1 amount -1 amount -1 deal -1 dormit -1 dormit -1 dtp -1 dtp -1 yield -1 stat -1 stat -1 stat -1 percent -1 dorm -1 aaa -1 aaa -1 aaa -1 pric -1 -2
+pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 moody -1 moody -1 million -1 matur -1 matur -1 univers -1 univers -1 univers -1 author -1 author -1 smith -1 barney -1 coupon -1 coupon -1 coupon -1 coupon -1 -2
+call -1 call -1 city -1 city -1 city -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 serial -1 insur -1 insur -1 fsa -1 tentat -1 consolid -1 consolid -1 consolid -1 date -1 date -1 bbb -1 prelimin -1 resolut -1 wednesday -1 -2
+revenu -1 revenu -1 revenu -1 bond -1 bond -1 bond -1 bond -1 mbia -1 due -1 due -1 featur -1 featur -1 top -1 pct -1 mln -1 -2

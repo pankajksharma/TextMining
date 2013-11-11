@@ -1,0 +1,2 @@
+compan -1 launch -1 sect -1 sect -1 rumor -1 stock -1 record -1 high -1 month -1 year -1 debr -1 climb -1 sherm -1 favorit -1 week -1 week -1 gmt -1 percent -1 percent -1 lead -1 internet -1 shar -1 shar -1 shar -1 bskyb -1 bskyb -1 bskyb -1 bskyb -1 satel -1 longstand -1 -2
+digit -1 august -1 short -1 rise -1 rise -1 rise -1 pearson -1 pearson -1 pearson -1 pearson -1 media -1 media -1 media -1 provid -1 rose -1 continu -1 london -1 bid -1 servic -1 plc -1 risen -1 new -1 led -1 led -1 plan -1 brit -1 access -1 newsroom -1 amid -1 trad -1 -2

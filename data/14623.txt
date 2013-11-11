@@ -1,0 +1,2 @@
+payment -1 tuesday -1 low -1 low -1 march -1 lira -1 lira -1 ata -1 turk -1 amount -1 amount -1 produc -1 yield -1 yield -1 yield -1 yield -1 treasur -1 bill -1 bill -1 avg -1 trln -1 trln -1 pric -1 pric -1 minim -1 matur -1 maxim -1 auction -1 august -1 rise -1 -2
+coupon -1 cove -1 allocat -1 bid -1 date -1 turkey -1 istanbul -1 day -1 day -1 result -1 na -1 accept -1 aver -1 newsroom -1 pct -1 pct -1 -2

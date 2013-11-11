@@ -1,0 +1,2 @@
+attend -1 saturday -1 halftim -1 cup -1 cup -1 world -1 world -1 jan -1 european -1 allan -1 socc -1 socc -1 match -1 scor -1 dubovsk -1 faroe -1 faroe -1 faroe -1 island -1 island -1 minut -1 lubomir -1 moravcik -1 qualif -1 qualif -1 slovak -1 slovak -1 slovak -1 pete -1 muell -1 -2
+beat -1 beat -1 group -1 -2

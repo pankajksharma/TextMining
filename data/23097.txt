@@ -1,0 +1,4 @@
+limit -1 limit -1 market -1 market -1 econom -1 econom -1 slip -1 sery -1 stock -1 stock -1 stock -1 stock -1 stock -1 saturday -1 clos -1 clos -1 steep -1 interest -1 seoul -1 seoul -1 low -1 low -1 soar -1 composit -1 point -1 tier -1 tier -1 kepc -1 fall -1 invest -1 -2
+food -1 today -1 slight -1 strong -1 govern -1 outlook -1 advanc -1 second -1 fell -1 index -1 index -1 gain -1 gain -1 gain -1 brok -1 brok -1 brok -1 shar -1 shar -1 cory -1 end -1 gloom -1 shed -1 shed -1 statist -1 buy -1 attract -1 past -1 past -1 margin -1 continu -1 -2
+quick -1 samsung -1 won -1 won -1 won -1 won -1 fact -1 unbalanc -1 half -1 take -1 yoon -1 telecom -1 toll -1 yeom -1 jeong -1 settl -1 led -1 session -1 day -1 day -1 day -1 surround -1 profit -1 profit -1 septemb -1 blu -1 chip -1 secur -1 demand -1 highlight -1 suppl -1 -2
+hit -1 negat -1 negat -1 manufactur -1 hansol -1 electron -1 trad -1 -2

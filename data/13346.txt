@@ -1,0 +1,2 @@
+limit -1 draw -1 small -1 api -1 api -1 tuesday -1 stock -1 stock -1 stock -1 stock -1 rate -1 low -1 disappoint -1 build -1 build -1 build -1 data -1 petroleum -1 trend -1 slim -1 fall -1 view -1 week -1 distill -1 report -1 report -1 expect -1 expect -1 pric -1 show -1 -2
+show -1 show -1 show -1 crud -1 crud -1 crud -1 oil -1 sum -1 remain -1 stead -1 bear -1 bear -1 continu -1 util -1 americ -1 institut -1 refin -1 gasolin -1 gasolin -1 heat -1 histor -1 demand -1 due -1 late -1 bull -1 bull -1 forecast -1 trad -1 -2

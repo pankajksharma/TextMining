@@ -1,0 +1,2 @@
+month -1 full -1 data -1 shr -1 shr -1 shr -1 shr -1 turn -1 rev -1 rev -1 avg -1 avg -1 q2 -1 q2 -1 shar -1 shar -1 goodwill -1 loss -1 loss -1 loss -1 loss -1 numb -1 net -1 net -1 note -1 profit -1 profit -1 profit -1 profit -1 profit -1 -2
+corp -1 includ -1 anntaylor -1 anntaylor -1 deduc -1 stor -1 amort -1 -2

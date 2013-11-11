@@ -1,0 +1,4 @@
+limit -1 market -1 tight -1 tight -1 bound -1 dlr -1 unwound -1 look -1 tuesday -1 thin -1 kual -1 clos -1 lumpur -1 high -1 interest -1 rate -1 month -1 month -1 fresh -1 fresh -1 fresh -1 bank -1 bank -1 unwind -1 deal -1 deal -1 deal -1 deal -1 deal -1 wait -1 -2
+percept -1 huge -1 slight -1 slight -1 slight -1 gmt -1 confin -1 local -1 expect -1 lead -1 lead -1 madhav -1 sing -1 sing -1 sing -1 gain -1 gain -1 european -1 push -1 end -1 long -1 buy -1 singapor -1 singapor -1 singapor -1 singapor -1 weak -1 continu -1 figur -1 lack -1 fact -1 -2
+play -1 posit -1 posit -1 rang -1 rang -1 rang -1 base -1 malays -1 malays -1 announc -1 reddy -1 wednesday -1 bad -1 built -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 deficit -1 fear -1 activ -1 ringgit -1 ringgit -1 ringgit -1 ringgit -1 ringgit -1 ringgit -1 ringgit -1 ringgit -1 ringgit -1 -2
+advant -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

@@ -1,0 +1,2 @@
+hous -1 warehous -1 warehous -1 stock -1 stock -1 kg -1 bag -1 bag -1 york -1 york -1 york -1 amount -1 week -1 orlean -1 orlean -1 cocoa -1 futur -1 deliv -1 contract -1 coffee -1 coffee -1 coffee -1 coffee -1 commod -1 pend -1 august -1 exchang -1 san -1 san -1 francisc -1 -2
+francisc -1 sugar -1 certif -1 certif -1 brazil -1 brazil -1 differ -1 differ -1 prev -1 classif -1 csc -1 stor -1 unchang -1 unchang -1 sole -1 desk -1 -2

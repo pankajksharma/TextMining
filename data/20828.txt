@@ -1,0 +1,2 @@
+compan -1 compan -1 acquir -1 attach -1 adopt -1 adopt -1 stock -1 stock -1 clos -1 record -1 sharehold -1 sharehold -1 sharehold -1 sharehold -1 amount -1 common -1 common -1 issu -1 contempl -1 percent -1 requir -1 protect -1 busi -1 shar -1 dividend -1 unfair -1 pend -1 buy -1 off -1 technitrol -1 -2
+technitrol -1 technitrol -1 technitrol -1 enabl -1 right -1 right -1 right -1 right -1 right -1 right -1 direct -1 date -1 plan -1 announc -1 person -1 plant -1 septemb -1 tend -1 effect -1 friday -1 takeov -1 transact -1 hold -1 tactic -1 group -1 -2

@@ -1,0 +1,2 @@
+metal -1 metal -1 stock -1 downgrad -1 alert -1 rate -1 rate -1 rate -1 month -1 point -1 system -1 hitach -1 hitach -1 issu -1 grad -1 percent -1 expect -1 assign -1 index -1 brok -1 thursday -1 exchang -1 cut -1 research -1 research -1 research -1 section -1 topix -1 toky -1 valu -1 -2
+institut -1 institut -1 daiw -1 daiw -1 prev -1 secur -1 underperform -1 -2

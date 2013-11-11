@@ -1,0 +1,2 @@
+metal -1 metal -1 fully -1 market -1 attach -1 broker -1 broker -1 notif -1 downturn -1 decid -1 futur -1 futur -1 commod -1 commod -1 author -1 public -1 told -1 london -1 retrench -1 part -1 organ -1 final -1 sfa -1 sfa -1 sfa -1 sfa -1 plan -1 regulat -1 regulat -1 spokesm -1 -2
+spokesm -1 spokesm -1 winchest -1 winchest -1 winchest -1 winchest -1 winchest -1 winchest -1 winchest -1 uk -1 uk -1 inform -1 inform -1 secur -1 intend -1 negat -1 newsroom -1 activ -1 operat -1 operat -1 thought -1 scal -1 scal -1 scal -1 staff -1 trad -1 group -1 -2

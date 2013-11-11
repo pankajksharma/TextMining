@@ -1,0 +1,4 @@
+samoa -1 back -1 back -1 inga -1 foul -1 find -1 union -1 union -1 union -1 union -1 union -1 union -1 encour -1 rugby -1 rugby -1 rugby -1 rugby -1 rugby -1 rugby -1 month -1 year -1 team -1 review -1 talent -1 grandpar -1 agree -1 fall -1 club -1 turn -1 employ -1 -2
+stat -1 govern -1 home -1 world -1 irrat -1 big -1 footbal -1 test -1 legal -1 legal -1 thursday -1 support -1 overse -1 leav -1 time -1 consid -1 leagu -1 leagu -1 row -1 extend -1 return -1 return -1 import -1 champ -1 western -1 deep -1 work -1 work -1 work -1 work -1 man -1 -2
+depart -1 play -1 play -1 play -1 play -1 play -1 wigan -1 put -1 permit -1 permit -1 permit -1 permit -1 grant -1 deny -1 apply -1 wing -1 charl -1 threat -1 threat -1 black -1 chanc -1 comment -1 refus -1 brit -1 brit -1 judic -1 faith -1 action -1 advis -1 add -1 samoan -1 -2
+tuigamal -1 tuigamal -1 tuigamal -1 tuigamal -1 wasp -1 wasp -1 wasp -1 aiga -1 doubt -1 sign -1 sign -1 va -1 relig -1 levenson -1 ineligibl -1 -2

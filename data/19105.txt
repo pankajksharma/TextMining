@@ -1,0 +1,4 @@
+compan -1 small -1 econom -1 ag -1 perform -1 perform -1 perform -1 perform -1 month -1 low -1 year -1 year -1 year -1 year -1 year -1 year -1 strabag -1 strabag -1 strabag -1 strabag -1 strabag -1 construc -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 german -1 -2
+unit -1 germ -1 report -1 report -1 percent -1 percent -1 expect -1 balanc -1 sheet -1 suff -1 unsatisfact -1 busi -1 million -1 million -1 thursday -1 end -1 drop -1 drop -1 drop -1 give -1 industr -1 time -1 consid -1 stood -1 made -1 plagu -1 loss -1 comapn -1 declin -1 numb -1 net -1 -2
+ago -1 improv -1 improv -1 half -1 half -1 half -1 realis -1 incom -1 incom -1 earn -1 compar -1 compar -1 profit -1 profit -1 result -1 result -1 includ -1 post -1 impact -1 prev -1 account -1 project -1 make -1 forecast -1 operat -1 operat -1 operat -1 operat -1 mark -1 mark -1 mark -1 -2
+mark -1 mark -1 mark -1 mark -1 mark -1 ord -1 slug -1 slug -1 group -1 group -1 group -1 -2

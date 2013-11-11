@@ -1,0 +1,5 @@
+market -1 market -1 gas -1 gas -1 interest -1 month -1 billion -1 decemb -1 deprec -1 stat -1 anal -1 balanc -1 balanc -1 sheet -1 sheet -1 cash -1 personnel -1 million -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 schill -1 schill -1 ats -1 ats -1 -2
+ats -1 ats -1 ats -1 ats -1 ats -1 ats -1 ats -1 ats -1 ats -1 ats -1 excl -1 excl -1 excl -1 excl -1 excl -1 excl -1 excl -1 flow -1 figur -1 net -1 omv -1 half -1 bln -1 bln -1 bln -1 bln -1 bln -1 bln -1 bln -1 bln -1 bln -1 -2
+bln -1 bln -1 bln -1 bln -1 bln -1 bln -1 bln -1 pre -1 pre -1 note -1 note -1 cost -1 janet -1 h1 -1 earn -1 compar -1 vien -1 chemic -1 chemic -1 refin -1 refin -1 workforc -1 workforc -1 ebit -1 ebit -1 ebit -1 ebit -1 ebit -1 ebit -1 ebit -1 ebit -1 -2
+total -1 total -1 june -1 plast -1 plast -1 incl -1 newsroom -1 forecast -1 mcbr -1 sale -1 sale -1 sale -1 sale -1 sale -1 sale -1 sale -1 tax -1 tax -1 tax -1 tax -1 tax -1 tax -1 tax -1 tax -1 tax -1 tax -1 tax -1 group -1 group -1 group -1 group -1 -2
+group -1 group -1 group -1 group -1 group -1 group -1 pct -1 -2

@@ -1,0 +1,2 @@
+market -1 draw -1 mario -1 spokeswom -1 spokeswom -1 agree -1 de -1 debat -1 debat -1 debat -1 debat -1 issu -1 issu -1 meet -1 meet -1 expect -1 decid -1 shar -1 european -1 monday -1 sum -1 sum -1 discuss -1 mont -1 cabinet -1 time -1 media -1 media -1 media -1 commit -1 -2
+commit -1 commit -1 commit -1 commit -1 postpon -1 orient -1 orient -1 orient -1 chef -1 stress -1 complex -1 draft -1 draft -1 permit -1 direct -1 final -1 ban -1 audienc -1 wednesday -1 plac -1 intern -1 subject -1 friday -1 achief -1 ripe -1 set -1 set -1 concent -1 concent -1 concent -1 -2

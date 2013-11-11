@@ -1,0 +1,4 @@
+recov -1 early -1 market -1 market -1 market -1 back -1 clos -1 clos -1 rand -1 rand -1 interest -1 rate -1 low -1 damp -1 ahead -1 fresh -1 start -1 point -1 point -1 drag -1 deal -1 deal -1 deal -1 deal -1 deal -1 week -1 larg -1 afric -1 afric -1 strong -1 -2
+local -1 downward -1 expect -1 st -1 fell -1 index -1 soft -1 futur -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 support -1 open -1 open -1 open -1 pull -1 monday -1 gold -1 industr -1 win -1 public -1 finish -1 foreign -1 ground -1 pressur -1 pressur -1 weak -1 weak -1 -2
+loss -1 loss -1 fact -1 slid -1 south -1 lot -1 led -1 struggl -1 day -1 day -1 day -1 day -1 relat -1 labor -1 hand -1 wall -1 wall -1 wall -1 street -1 street -1 depress -1 bond -1 chang -1 dow -1 jone -1 morn -1 holiday -1 busy -1 activ -1 absent -1 thought -1 -2
+trad -1 trad -1 trad -1 trad -1 -2

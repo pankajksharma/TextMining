@@ -1,0 +1,4 @@
+negot -1 nationw -1 acquir -1 accur -1 jail -1 pilot -1 pilot -1 send -1 high -1 high -1 reach -1 disobed -1 applic -1 privat -1 bank -1 standard -1 trust -1 pubic -1 file -1 food -1 avert -1 employ -1 seek -1 peopl -1 week -1 shill -1 shill -1 debt -1 afric -1 stat -1 -2
+east -1 lead -1 lead -1 digest -1 tell -1 reut -1 aid -1 surrend -1 sold -1 thursday -1 ensur -1 ultimatum -1 nation -1 keny -1 keny -1 keny -1 keny -1 keny -1 daniel -1 time -1 press -1 press -1 pow -1 daily -1 commit -1 commit -1 verif -1 reinst -1 civil -1 civil -1 civil -1 -2
+vouch -1 head -1 airway -1 assoc -1 provok -1 servic -1 court -1 court -1 strik -1 ago -1 district -1 rail -1 claim -1 grant -1 arap -1 story -1 story -1 moi -1 moi -1 aug -1 land -1 land -1 day -1 plan -1 airlin -1 oding -1 rule -1 oppos -1 oppos -1 dismit -1 dismit -1 -2
+parliament -1 intend -1 presid -1 presid -1 presid -1 hold -1 -2

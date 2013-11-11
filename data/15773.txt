@@ -1,0 +1,4 @@
+recov -1 recent -1 scop -1 counterpart -1 tech -1 track -1 tuesday -1 stock -1 clos -1 clos -1 clos -1 high -1 high -1 high -1 high -1 sport -1 year -1 year -1 octob -1 hoist -1 start -1 fall -1 trend -1 good -1 invest -1 firm -1 calendar -1 amer -1 amer -1 nokia -1 -2
+nokia -1 nokia -1 hex -1 issu -1 percent -1 percent -1 strong -1 helsink -1 overnight -1 markk -1 markk -1 markk -1 markk -1 pric -1 gain -1 index -1 rally -1 volum -1 volum -1 volum -1 volum -1 brok -1 brok -1 million -1 shar -1 end -1 stead -1 swed -1 rais -1 rise -1 extr -1 -2
+weak -1 made -1 warn -1 forestr -1 forestr -1 forestr -1 insur -1 improv -1 improv -1 new -1 fine -1 upm -1 kym -1 pape -1 samp -1 base -1 incom -1 h1 -1 plan -1 profit -1 profit -1 wednesday -1 resum -1 power -1 total -1 broad -1 moderat -1 make -1 add -1 add -1 activ -1 -2
+solid -1 boost -1 offic -1 trad -1 trad -1 group -1 -2

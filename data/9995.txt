@@ -1,0 +1,5 @@
+compan -1 televis -1 correct -1 correct -1 hdtv -1 lany -1 repret -1 record -1 record -1 record -1 record -1 sharehold -1 sharehold -1 high -1 high -1 reach -1 reach -1 perform -1 rate -1 year -1 year -1 year -1 year -1 year -1 year -1 billion -1 wire -1 firm -1 annual -1 annual -1 -2
+quart -1 quart -1 produc -1 produc -1 straight -1 gmt -1 report -1 report -1 percent -1 percent -1 percent -1 percent -1 level -1 florid -1 defend -1 payabl -1 million -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 end -1 dividend -1 dividend -1 dividend -1 dividend -1 dividend -1 increas -1 increas -1 -2
+increas -1 increas -1 digit -1 digit -1 payout -1 past -1 health -1 rose -1 rose -1 care -1 cent -1 farm -1 continu -1 fisc -1 fisc -1 growth -1 har -1 har -1 har -1 har -1 har -1 har -1 net -1 net -1 doubl -1 direct -1 incom -1 incom -1 corpor -1 earn -1 earn -1 -2
+earn -1 commun -1 commun -1 transport -1 compar -1 corp -1 announc -1 hike -1 person -1 enhanc -1 goal -1 prev -1 board -1 inform -1 june -1 automot -1 sept -1 sept -1 chairm -1 make -1 make -1 pleas -1 phillip -1 fourth -1 ord -1 offic -1 sale -1 sale -1 electron -1 electron -1 keep -1 -2
+pct -1 -2

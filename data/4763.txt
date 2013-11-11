@@ -1,0 +1,2 @@
+market -1 market -1 market -1 money -1 money -1 money -1 liquid -1 currenc -1 bank -1 bank -1 agree -1 fax -1 franc -1 week -1 week -1 week -1 loan -1 unch -1 stat -1 bill -1 advanc -1 compr -1 brussel -1 circl -1 circl -1 nation -1 increas -1 belgian -1 belgian -1 reserv -1 -2
+rais -1 august -1 foreign -1 intervent -1 numb -1 figur -1 bln -1 note -1 note -1 pledg -1 offset -1 portfolio -1 secur -1 secur -1 suppl -1 repurchas -1 newsroom -1 add -1 interbank -1 commerc -1 -2

@@ -1,0 +1,4 @@
+market -1 market -1 market -1 market -1 tuesday -1 thin -1 money -1 clos -1 clos -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 month -1 begin -1 unit -1 deal -1 deal -1 deal -1 deal -1 deal -1 deal -1 wait -1 today -1 key -1 key -1 gmt -1 stat -1 -2
+yield -1 yield -1 attent -1 percent -1 percent -1 percent -1 percent -1 meet -1 meet -1 meet -1 govern -1 level -1 level -1 main -1 fomc -1 fomc -1 fomc -1 fomc -1 fomc -1 fomc -1 thursday -1 support -1 hour -1 open -1 open -1 leav -1 monday -1 remain -1 feder -1 rais -1 rais -1 -2
+august -1 rise -1 commit -1 told -1 rose -1 focus -1 focus -1 focus -1 bare -1 bare -1 bid -1 move -1 move -1 new -1 new -1 await -1 penc -1 penc -1 thing -1 compar -1 day -1 crucial -1 crucial -1 dami -1 dollar -1 lynch -1 irish -1 irish -1 bond -1 bond -1 bond -1 -2
+bond -1 chang -1 bundesbank -1 bundesbank -1 bundesbank -1 due -1 due -1 late -1 depend -1 unchang -1 newsroom -1 add -1 dublin -1 trad -1 eas -1 -2

@@ -1,0 +1,2 @@
+healthcar -1 fin -1 mt -1 rate -1 rate -1 rate -1 york -1 hosp -1 amount -1 invest -1 issu -1 rev -1 stat -1 expect -1 proj -1 moody -1 moody -1 aa3 -1 aa3 -1 pa -1 pa -1 servic -1 auth -1 macrin -1 manor -1 date -1 aug -1 ser -1 announc -1 project -1 -2
+fayet -1 fayet -1 sale -1 sale -1 count -1 -2

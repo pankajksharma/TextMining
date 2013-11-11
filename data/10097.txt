@@ -1,0 +1,2 @@
+incid -1 unconfirm -1 pilot -1 pilot -1 pilot -1 train -1 carry -1 saturday -1 exercis -1 hospit -1 germ -1 germ -1 germ -1 stat -1 injur -1 canad -1 canad -1 canad -1 status -1 labrador -1 identif -1 aircraft -1 cent -1 crash -1 crash -1 forc -1 forc -1 search -1 tornado -1 rescu -1 -2
+unknow -1 unknow -1 plan -1 plan -1 involut -1 memb -1 crew -1 eastern -1 morn -1 halifax -1 fight -1 fight -1 arm -1 arm -1 fourth -1 fourth -1 exact -1 locat -1 locat -1 routin -1 -2

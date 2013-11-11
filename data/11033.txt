@@ -1,0 +1,2 @@
+draw -1 bonus -1 bonus -1 point -1 point -1 point -1 stand -1 stand -1 surrey -1 derbyshir -1 glamorg -1 yorkshir -1 lancashir -1 lost -1 leicestershir -1 warwickshir -1 worcestershir -1 monday -1 hampshir -1 champ -1 champ -1 cricket -1 cricket -1 engl -1 engl -1 won -1 match -1 play -1 gloucestershir -1 durham -1 -2
+somerset -1 middlesex -1 essex -1 kent -1 northamptonshir -1 nottinghamshir -1 sussex -1 bowl -1 total -1 tabulat -1 bat -1 count -1 count -1 -2

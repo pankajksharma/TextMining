@@ -1,0 +1,2 @@
+dlr -1 money -1 clos -1 clos -1 rate -1 deal -1 percent -1 percent -1 raw -1 chas -1 open -1 end -1 industr -1 bangladesh -1 bangladesh -1 thjey -1 weak -1 weak -1 import -1 import -1 mater -1 call -1 taka -1 taka -1 taka -1 compar -1 prev -1 prev -1 demand -1 dollar -1 -2
+dollar -1 interbank -1 eas -1 -2

@@ -1,0 +1,2 @@
+market -1 money -1 interest -1 rate -1 rate -1 variabl -1 lisbon -1 bank -1 bank -1 billion -1 portug -1 portug -1 fund -1 fund -1 fund -1 percent -1 escudo -1 off -1 inject -1 inject -1 weight -1 day -1 tend -1 prev -1 secur -1 demand -1 demand -1 aver -1 repurchas -1 repo -1 -2
+newsroom -1 -2

@@ -1,0 +1,4 @@
+anti -1 hous -1 flight -1 massiv -1 saturday -1 record -1 record -1 fly -1 kill -1 agent -1 potent -1 data -1 system -1 system -1 sophist -1 file -1 individual -1 peopl -1 profil -1 profil -1 issu -1 issu -1 report -1 tran -1 pay -1 requir -1 requir -1 govern -1 govern -1 bill -1 -2
+bill -1 world -1 mull -1 legal -1 delib -1 feder -1 feder -1 identif -1 airport -1 commit -1 commit -1 commit -1 comput -1 comput -1 comput -1 comput -1 quot -1 senior -1 washington -1 suspic -1 suspic -1 detect -1 crimin -1 chief -1 pape -1 july -1 plan -1 plan -1 plan -1 plan -1 includ -1 -2
+resolut -1 post -1 post -1 examin -1 scrutin -1 explos -1 explos -1 airlin -1 airlin -1 airlin -1 airlin -1 involut -1 bomb -1 aviat -1 passeng -1 passeng -1 inform -1 present -1 equip -1 habit -1 secur -1 clinton -1 combin -1 whit -1 access -1 presid -1 presid -1 terror -1 creat -1 creat -1 numer -1 -2
+offic -1 enact -1 staff -1 option -1 -2

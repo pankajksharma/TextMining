@@ -1,0 +1,2 @@
+stock -1 stock -1 review -1 york -1 york -1 york -1 issu -1 futur -1 deliv -1 bale -1 bale -1 bale -1 bale -1 contract -1 commod -1 august -1 exchang -1 margin -1 certif -1 certif -1 dip -1 await -1 session -1 decertif -1 prev -1 cancel -1 cotton -1 cotton -1 cotton -1 cotton -1 -2
+total -1 desk -1 ord -1 -2

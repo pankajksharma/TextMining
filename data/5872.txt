@@ -1,0 +1,3 @@
+attend -1 accur -1 hid -1 year -1 construc -1 receiv -1 citiz -1 ayam -1 octob -1 build -1 bank -1 start -1 billion -1 billion -1 causeway -1 interior -1 gulf -1 key -1 gross -1 domest -1 produc -1 lead -1 digest -1 al -1 al -1 reut -1 instal -1 million -1 thursday -1 social -1 -2
+press -1 press -1 urg -1 daily -1 mina -1 verif -1 health -1 health -1 provid -1 rose -1 vouch -1 cent -1 care -1 care -1 effort -1 minist -1 minist -1 sheikh -1 insur -1 fami -1 half -1 new -1 mohammad -1 cost -1 propos -1 develop -1 elder -1 story -1 story -1 link -1 aug -1 -2
+plan -1 era -1 secur -1 dinar -1 salm -1 port -1 bahrain -1 bahrain -1 bahrain -1 bahrain -1 bahrain -1 set -1 akhbar -1 confer -1 khaleej -1 -2

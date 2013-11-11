@@ -1,0 +1,4 @@
+compan -1 hous -1 credit -1 credit -1 tuesday -1 tuesday -1 kun -1 kun -1 kun -1 kun -1 kun -1 kun -1 kun -1 kun -1 stock -1 slump -1 applic -1 applic -1 applic -1 bankruptc -1 froz -1 construc -1 construc -1 construc -1 receiv -1 receiv -1 receiv -1 default -1 agree -1 billion -1 -2
+billion -1 billion -1 writ -1 amount -1 manag -1 firm -1 troubl -1 file -1 deal -1 dongsung -1 dongsung -1 unlist -1 debt -1 debt -1 debt -1 debt -1 promit -1 approv -1 approv -1 approv -1 pay -1 seoulbank -1 seoulbank -1 expect -1 protect -1 liabl -1 monday -1 monday -1 avoid -1 narrow -1 current -1 -2
+buy -1 financ -1 rid -1 exchang -1 exchang -1 prim -1 court -1 court -1 court -1 won -1 won -1 won -1 debthold -1 korean -1 note -1 south -1 led -1 run -1 abil -1 day -1 asset -1 asset -1 reject -1 worth -1 found -1 cast -1 consort -1 takeov -1 young -1 young -1 young -1 -2
+young -1 young -1 young -1 young -1 young -1 stem -1 doubt -1 korea -1 offic -1 sought -1 -2

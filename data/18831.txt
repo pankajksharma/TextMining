@@ -1,0 +1,2 @@
+refer -1 war -1 war -1 war -1 spot -1 list -1 issu -1 issu -1 pile -1 int -1 pric -1 pric -1 million -1 shar -1 min -1 control -1 luxembourg -1 expirat -1 hk -1 foundat -1 call -1 propert -1 strik -1 plc -1 ten -1 note -1 gear -1 americ -1 lot -1 paydat -1 -2
+aug -1 exer -1 concern -1 prem -1 intern -1 hong -1 kong -1 styl -1 sept -1 set -1 nomur -1 nomur -1 newsroom -1 tysan -1 tysan -1 hold -1 -2

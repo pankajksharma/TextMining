@@ -1,0 +1,3 @@
+market -1 market -1 market -1 market -1 quiet -1 tuesday -1 money -1 money -1 money -1 isn -1 rate -1 rate -1 rate -1 fair -1 liquid -1 fluctu -1 term -1 bank -1 bank -1 mapenzausw -1 deal -1 deal -1 bought -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 -2
+moment -1 treasur -1 bill -1 bill -1 bill -1 million -1 million -1 sold -1 sold -1 open -1 matur -1 stabl -1 stabl -1 short -1 zimbabw -1 zimbabw -1 cent -1 call -1 purchas -1 quot -1 quot -1 stell -1 rang -1 ncd -1 day -1 wednesday -1 wednesday -1 accept -1 morn -1 newsroom -1 activ -1 -2
+harar -1 trad -1 trad -1 trad -1 surplus -1 -2

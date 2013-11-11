@@ -1,0 +1,2 @@
+compan -1 clear -1 stock -1 repret -1 privat -1 bank -1 manag -1 list -1 list -1 capit -1 issu -1 issu -1 stat -1 percent -1 approv -1 approv -1 second -1 principl -1 principl -1 million -1 shar -1 shar -1 yee -1 chin -1 public -1 off -1 singapor -1 singapor -1 singapor -1 exchang -1 -2
+exchang -1 offer -1 size -1 direct -1 easyknit -1 easyknit -1 allicat -1 wing -1 koon -1 oversea -1 propos -1 export -1 cloth -1 corp -1 actual -1 plac -1 intern -1 hong -1 kong -1 determin -1 friday -1 newsroom -1 hurdl -1 presid -1 hold -1 -2

@@ -1,0 +1,2 @@
+submit -1 rate -1 rate -1 rate -1 currenc -1 frankfurt -1 bank -1 bank -1 bank -1 usd -1 issu -1 germ -1 dem -1 local -1 fix -1 fix -1 fix -1 nation -1 nation -1 time -1 sofia -1 ats -1 work -1 chf -1 calcul -1 macedon -1 macedon -1 basi -1 wednesday -1 wednesday -1 -2
+inform -1 morn -1 nbm -1 nbm -1 newsroom -1 denar -1 denar -1 mark -1 -2

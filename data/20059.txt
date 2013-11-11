@@ -1,0 +1,4 @@
+capac -1 market -1 market -1 market -1 bilbao -1 bilbao -1 small -1 a320 -1 launch -1 carry -1 observ -1 mcdonnel -1 dougl -1 kg -1 kg -1 fly -1 rate -1 rate -1 low -1 md -1 alicant -1 alicant -1 frankfurt -1 frankfurt -1 point -1 select -1 german -1 german -1 manag -1 spain -1 -2
+fax -1 de -1 week -1 week -1 austr -1 special -1 special -1 airbus -1 dm -1 big -1 reut -1 iberia -1 iberia -1 iberia -1 iberia -1 mallorc -1 scandinav -1 span -1 span -1 win -1 win -1 time -1 time -1 off -1 off -1 daily -1 tourist -1 tourist -1 told -1 ltu -1 destin -1 -2
+destin -1 destin -1 destin -1 servic -1 part -1 hert -1 zaragoz -1 zaragoz -1 chart -1 chart -1 charg -1 airlin -1 airlin -1 airlin -1 septemb -1 tend -1 effect -1 carg -1 carg -1 carg -1 carg -1 carg -1 air -1 miguel -1 demand -1 malag -1 malag -1 palm -1 palm -1 newsroom -1 substant -1 -2
+reflect -1 mark -1 tel -1 valent -1 valent -1 -2

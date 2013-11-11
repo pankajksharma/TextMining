@@ -1,0 +1,4 @@
+temper -1 pennsylvan -1 maryland -1 pjm -1 pjm -1 pjm -1 pjm -1 market -1 market -1 fahrenheit -1 unconfirm -1 unconfirm -1 unconfirm -1 jersey -1 tuesday -1 tuesday -1 tuesday -1 pool -1 low -1 chri -1 hot -1 term -1 term -1 octob -1 york -1 mid -1 mid -1 firm -1 spot -1 spot -1 -2
+week -1 week -1 assess -1 sourc -1 sourc -1 sourc -1 sourc -1 report -1 report -1 report -1 atlant -1 atlant -1 expect -1 expect -1 pric -1 pric -1 busi -1 brok -1 thursday -1 deliv -1 deliv -1 deliv -1 talk -1 talk -1 discuss -1 industr -1 stead -1 stead -1 stead -1 stead -1 time -1 -2
+short -1 pow -1 pow -1 pow -1 pow -1 pow -1 pow -1 pow -1 rose -1 rees -1 rang -1 rang -1 rang -1 rang -1 houston -1 base -1 simil -1 except -1 electr -1 electr -1 day -1 day -1 day -1 day -1 day -1 degree -1 wednesday -1 septemb -1 held -1 june -1 friday -1 -2
+hit -1 weather -1 desk -1 peak -1 peak -1 trad -1 trad -1 trad -1 trad -1 eas -1 -2

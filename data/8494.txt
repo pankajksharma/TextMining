@@ -1,0 +1,2 @@
+market -1 bank -1 billion -1 billion -1 int -1 pric -1 million -1 nation -1 gold -1 gold -1 reserv -1 reserv -1 reserv -1 reserv -1 rise -1 foreign -1 rose -1 london -1 bln -1 note -1 valu -1 nbh -1 asset -1 intern -1 intern -1 june -1 june -1 june -1 friday -1 newsroom -1 -2
+budap -1 hung -1 hung -1 hung -1 hung -1 -2

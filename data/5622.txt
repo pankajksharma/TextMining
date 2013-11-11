@@ -1,0 +1,5 @@
+limit -1 market -1 market -1 emerg -1 gener -1 econom -1 merrill -1 french -1 money -1 union -1 rate -1 rate -1 rate -1 rate -1 rate -1 monet -1 year -1 year -1 year -1 room -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 point -1 point -1 point -1 -2
+billion -1 good -1 tobacc -1 concret -1 spain -1 spain -1 spain -1 spain -1 spain -1 spain -1 franc -1 spread -1 spread -1 larg -1 key -1 gmt -1 yield -1 percent -1 percent -1 buba -1 anal -1 anal -1 anal -1 anal -1 anal -1 anal -1 expect -1 expect -1 decid -1 opt -1 principl -1 -2
+big -1 rest -1 thursday -1 thursday -1 european -1 support -1 open -1 span -1 span -1 end -1 give -1 caution -1 cent -1 margin -1 margin -1 cut -1 cut -1 cut -1 cut -1 cut -1 cut -1 cut -1 cut -1 quot -1 move -1 move -1 new -1 put -1 gestur -1 rang -1 basi -1 -2
+basi -1 basi -1 link -1 revis -1 detail -1 hike -1 septemb -1 tend -1 leapt -1 alcohol -1 budget -1 budget -1 budget -1 budget -1 lynch -1 bond -1 bond -1 bundesbank -1 bundesbank -1 bundesbank -1 hole -1 morn -1 tomorrow -1 repo -1 repo -1 don -1 peset -1 peset -1 peset -1 peset -1 antonio -1 -2
+mark -1 mark -1 villarroy -1 hold -1 villaroy -1 trad -1 tax -1 -2

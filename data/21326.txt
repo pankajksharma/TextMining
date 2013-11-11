@@ -1,0 +1,4 @@
+calm -1 calm -1 early -1 market -1 market -1 market -1 illeg -1 rate -1 greenback -1 bank -1 bank -1 bank -1 bank -1 deal -1 maintain -1 today -1 percent -1 percent -1 percent -1 forex -1 confirm -1 confirm -1 level -1 reut -1 float -1 show -1 million -1 thursday -1 end -1 end -1 -2
+end -1 contract -1 drop -1 drop -1 drop -1 auction -1 increas -1 buy -1 buy -1 foreign -1 foreign -1 financ -1 rose -1 told -1 cent -1 cent -1 cent -1 exchang -1 exchang -1 figur -1 brazil -1 brazil -1 cavern -1 alexandr -1 sell -1 sell -1 prelimin -1 paul -1 tend -1 sao -1 spokesm -1 -2
+dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 suppl -1 friday -1 friday -1 mini -1 mini -1 real -1 real -1 real -1 real -1 real -1 real -1 due -1 late -1 band -1 band -1 set -1 parallel -1 intend -1 unchang -1 newsroom -1 reai -1 reai -1 interbank -1 commerc -1 commerc -1 -2
+trad -1 trad -1 trad -1 trad -1 surplus -1 pct -1 -2

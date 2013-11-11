@@ -1,0 +1,3 @@
+fire -1 diplom -1 early -1 utom -1 utom -1 antar -1 incid -1 incid -1 jakart -1 hous -1 evident -1 gener -1 tuesday -1 agent -1 agent -1 consul -1 consul -1 consul -1 larg -1 treat -1 week -1 west -1 slight -1 east -1 injur -1 km -1 exag -1 act -1 act -1 ordin -1 -2
+thursday -1 java -1 polit -1 polit -1 damag -1 patrol -1 investig -1 investig -1 call -1 city -1 quot -1 embass -1 quick -1 surabay -1 surabay -1 surabay -1 play -1 play -1 step -1 crimin -1 crimin -1 new -1 new -1 mile -1 attack -1 attack -1 attack -1 milit -1 hap -1 extingu -1 caus -1 -2
+wednesday -1 molotov -1 bomb -1 bomb -1 cocktail -1 spokesm -1 guard -1 major -1 indones -1 indones -1 indones -1 morn -1 motivat -1 polic -1 polic -1 command -1 offic -1 offic -1 sought -1 -2

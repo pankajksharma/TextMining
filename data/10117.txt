@@ -1,0 +1,4 @@
+diplom -1 train -1 saturday -1 vehicl -1 own -1 undertak -1 smuggl -1 smuggl -1 smuggl -1 smuggl -1 newspap -1 tie -1 watan -1 good -1 headquart -1 peopl -1 caught -1 capit -1 exil -1 stat -1 report -1 steal -1 govern -1 rebel -1 accus -1 accus -1 al -1 al -1 eritrean -1 eritrean -1 -2
+alli -1 alli -1 support -1 subvers -1 nation -1 author -1 author -1 machin -1 machin -1 provid -1 cut -1 call -1 forc -1 forc -1 embass -1 lay -1 landmin -1 sew -1 sew -1 bord -1 bord -1 bord -1 umbrel -1 base -1 base -1 cloth -1 raid -1 sudan -1 sudan -1 sudan -1 sudan -1 -2
+sudan -1 sudan -1 sudan -1 sudan -1 element -1 army -1 arrest -1 arrest -1 eastern -1 eastern -1 ingaz -1 banat -1 kassal -1 kassal -1 asmar -1 oppos -1 oppos -1 oppos -1 oppos -1 oppos -1 polic -1 make -1 operat -1 confess -1 eritrea -1 eritrea -1 eritrea -1 eritrea -1 eritrea -1 eritrea -1 eritrea -1 -2
+demo -1 offic -1 group -1 group -1 -2

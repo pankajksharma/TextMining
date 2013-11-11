@@ -1,0 +1,1 @@
+usda -1 newsdesk -1 credit -1 seek -1 ship -1 soft -1 commod -1 chicag -1 ccc -1 ethiop -1 ethiop -1 wheat -1 wheat -1 pakist -1 pakist -1 ton -1 corp -1 septemb -1 tend -1 donat -1 oct -1 sept -1 whit -1 -2

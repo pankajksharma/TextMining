@@ -1,0 +1,4 @@
+anti -1 anti -1 anti -1 illeg -1 idea -1 drug -1 drug -1 drug -1 drug -1 drug -1 drug -1 drug -1 chain -1 traffick -1 traffick -1 countr -1 countr -1 smuggl -1 agent -1 sea -1 point -1 form -1 unit -1 accord -1 accord -1 carlo -1 domest -1 produc -1 produc -1 produc -1 -2
+stat -1 boliv -1 boliv -1 boliv -1 boliv -1 anal -1 raw -1 raw -1 world -1 astr -1 big -1 law -1 coca -1 europ -1 strength -1 ain -1 leav -1 talk -1 nation -1 discuss -1 discuss -1 bilater -1 cuban -1 cuban -1 weak -1 blattman -1 blattman -1 lie -1 mater -1 mater -1 quot -1 -2
+minist -1 minist -1 minist -1 visit -1 new -1 part -1 energ -1 equal -1 americ -1 americ -1 consum -1 consum -1 justic -1 justic -1 link -1 link -1 latin -1 latin -1 amat -1 amat -1 wag -1 coop -1 coop -1 includ -1 wednesday -1 transit -1 cocain -1 air -1 held -1 major -1 rout -1 -2
+battl -1 rene -1 fight -1 cuba -1 cuba -1 cuba -1 cuba -1 offic -1 prepar -1 -2

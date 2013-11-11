@@ -1,0 +1,1 @@
+nasdaq -1 nasdaq -1 stock -1 amgen -1 cisc -1 system -1 intel -1 robot -1 issu -1 corp -1 corp -1 corp -1 wednesday -1 activ -1 activ -1 iomeg -1 vike -1 lm -1 eric -1 tel -1 ascend -1 com -1 com -1 offic -1 oracl -1 tele -1 trad -1 trad -1 -2

@@ -1,0 +1,2 @@
+market -1 market -1 midpoint -1 corridor -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 currenc -1 currenc -1 bank -1 bank -1 bank -1 thursday -1 thursday -1 off -1 off -1 off -1 daily -1 daily -1 cent -1 cent -1 cent -1 bid -1 bid -1 bid -1 -2
+roubl -1 roubl -1 roubl -1 roubl -1 roubl -1 russian -1 moscow -1 day -1 announc -1 wednesday -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 friday -1 set -1 newsroom -1 operat -1 operat -1 interbank -1 offic -1 offic -1 offic -1 -2

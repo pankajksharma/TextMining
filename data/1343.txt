@@ -1,0 +1,4 @@
+back -1 back -1 rate -1 rate -1 month -1 facil -1 own -1 own -1 year -1 year -1 construc -1 construc -1 construc -1 construc -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 point -1 point -1 schrod -1 manag -1 borrow -1 -2
+borrow -1 deal -1 issu -1 issu -1 issu -1 issu -1 stat -1 percent -1 percent -1 percent -1 percent -1 level -1 pric -1 float -1 float -1 sing -1 sing -1 sing -1 sing -1 sing -1 sing -1 sing -1 million -1 shar -1 matur -1 deposit -1 jian -1 jian -1 jian -1 jian -1 jian -1 -2
+dah -1 dah -1 arrang -1 ceas -1 chin -1 chin -1 chin -1 chin -1 chin -1 increas -1 time -1 financ -1 financ -1 offer -1 london -1 certif -1 certif -1 put -1 put -1 pape -1 basi -1 basi -1 exclud -1 par -1 hong -1 kong -1 held -1 held -1 jardin -1 flem -1 set -1 -2
+set -1 newsroom -1 asia -1 frcd -1 fee -1 interbank -1 hold -1 hold -1 hold -1 hold -1 hold -1 option -1 mln -1 -2

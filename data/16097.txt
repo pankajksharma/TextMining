@@ -1,0 +1,4 @@
+market -1 look -1 french -1 clos -1 sulphur -1 gas -1 gas -1 cif -1 cif -1 high -1 high -1 low -1 low -1 revers -1 goodfellow -1 octob -1 octob -1 cargoe -1 cargoe -1 firm -1 wait -1 germ -1 convers -1 ipe -1 ipe -1 rally -1 futur -1 futur -1 turnaround -1 strength -1 -2
+deliv -1 deliv -1 talk -1 contract -1 contract -1 dist -1 benchmark -1 oil -1 oil -1 oil -1 buy -1 off -1 past -1 cent -1 cent -1 mater -1 loss -1 offer -1 continu -1 numb -1 numb -1 london -1 half -1 half -1 russian -1 judg -1 ll -1 put -1 put -1 note -1 settl -1 -2
+ton -1 ton -1 sell -1 sell -1 topic -1 day -1 day -1 hamburg -1 wednesday -1 refin -1 septemb -1 septemb -1 prem -1 prem -1 prem -1 prem -1 heat -1 carg -1 snap -1 major -1 oct -1 sept -1 sept -1 sept -1 sept -1 sept -1 sept -1 prompt -1 late -1 nwe -1 nwe -1 -2
+nwe -1 newsroom -1 melanie -1 hold -1 surg -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

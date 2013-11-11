@@ -1,0 +1,4 @@
+seminar -1 early -1 thai -1 shown -1 ring -1 ring -1 ring -1 quant -1 screen -1 spokeswom -1 start -1 start -1 vendor -1 rss3 -1 system -1 system -1 system -1 tsr20 -1 gmt -1 gmt -1 rss1 -1 reut -1 pric -1 pric -1 pric -1 pric -1 futur -1 end -1 contract -1 contract -1 -2
+monday -1 weekend -1 time -1 time -1 commod -1 off -1 singapor -1 singapor -1 daily -1 daily -1 exchang -1 exchang -1 comput -1 comput -1 comput -1 entry -1 assoc -1 bid -1 noon -1 new -1 organ -1 basi -1 settl -1 session -1 session -1 session -1 session -1 session -1 session -1 july -1 announc -1 -2
+driv -1 driv -1 accept -1 plac -1 fed -1 determin -1 held -1 rub -1 rub -1 rub -1 friday -1 real -1 thailand -1 morn -1 hatyai -1 sicom -1 sicom -1 sicom -1 sicom -1 sicom -1 sicom -1 afternoon -1 afternoon -1 newsroom -1 add -1 execut -1 conjuc -1 southern -1 ord -1 ord -1 ord -1 -2
+ord -1 offic -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

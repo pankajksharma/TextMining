@@ -1,0 +1,4 @@
+payment -1 payment -1 payment -1 payment -1 payment -1 draw -1 clear -1 sect -1 emerg -1 randal -1 countr -1 year -1 review -1 review -1 review -1 review -1 privat -1 bank -1 bank -1 bank -1 billion -1 system -1 system -1 system -1 system -1 unit -1 deal -1 seek -1 issu -1 method -1 -2
+represent -1 stat -1 stat -1 introduc -1 govern -1 canad -1 canad -1 canad -1 canad -1 canad -1 canad -1 reut -1 act -1 intent -1 deposit -1 secret -1 monday -1 increas -1 feder -1 bureau -1 reserv -1 effic -1 financ -1 financ -1 financ -1 commit -1 commit -1 commit -1 doug -1 work -1 ottaw -1 -2
+assoc -1 senior -1 compet -1 structur -1 insur -1 depart -1 trill -1 trill -1 improv -1 pape -1 pape -1 chequ -1 detail -1 institut -1 institut -1 chair -1 corp -1 announc -1 announc -1 announc -1 includ -1 person -1 regulat -1 item -1 item -1 prev -1 superintend -1 present -1 secur -1 june -1 whit -1 -2
+set -1 palm -1 advis -1 pete -1 pete -1 offic -1 offic -1 electron -1 -2

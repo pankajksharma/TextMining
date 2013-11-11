@@ -1,0 +1,3 @@
+sect -1 sect -1 french -1 french -1 french -1 french -1 immed -1 reach -1 countr -1 declar -1 declar -1 declar -1 agroindustr -1 agroindustr -1 agroindustr -1 invest -1 food -1 alexand -1 franc -1 issu -1 philip -1 dmitr -1 zaveryukh -1 intent -1 end -1 monday -1 monday -1 solovyov -1 industr -1 russia -1 -2
+russia -1 deput -1 commit -1 commit -1 commit -1 embass -1 prim -1 minist -1 minist -1 minist -1 minist -1 minist -1 stimul -1 visit -1 forestr -1 agricultur -1 agricultur -1 agricultur -1 agricultur -1 agricultur -1 russian -1 russian -1 russian -1 russian -1 moscow -1 tackl -1 vasseur -1 vasseur -1 commun -1 day -1 coop -1 -2
+comment -1 joint -1 set -1 set -1 newsroom -1 boost -1 offic -1 sign -1 sign -1 -2

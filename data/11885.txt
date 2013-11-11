@@ -1,0 +1,4 @@
+compan -1 texa -1 texa -1 sery -1 municip -1 fitch -1 fitch -1 receiv -1 bank -1 system -1 system -1 writ -1 amount -1 amount -1 firm -1 deal -1 aaa -1 aaa -1 aaa -1 aaa -1 aaa -1 aaa -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 -2
+pric -1 pric -1 pric -1 pric -1 moody -1 moody -1 deliv -1 matur -1 matur -1 ambac -1 ambac -1 waterwork -1 coupon -1 coupon -1 coupon -1 coupon -1 call -1 call -1 city -1 refund -1 refund -1 southw -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 -2
+award -1 award -1 initial -1 baa -1 baa -1 insur -1 insur -1 sew -1 underl -1 underl -1 underl -1 underl -1 underl -1 underl -1 date -1 date -1 final -1 bbb -1 web -1 revenu -1 revenu -1 bond -1 bond -1 due -1 due -1 rausch -1 pierc -1 refsn -1 qualif -1 featur -1 featur -1 -2
+lared -1 lared -1 desk -1 count -1 trad -1 mln -1 -2

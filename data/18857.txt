@@ -1,0 +1,5 @@
+bring -1 market -1 small -1 publ -1 publ -1 dlr -1 correct -1 correct -1 slip -1 repret -1 reach -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 aviv -1 low -1 low -1 fluctu -1 fluctu -1 year -1 currenc -1 currenc -1 currenc -1 currenc -1 -2
+bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 amount -1 discount -1 devalu -1 unit -1 deal -1 deal -1 deal -1 deal -1 bought -1 bought -1 slight -1 gmt -1 gmt -1 gmt -1 represent -1 represent -1 percent -1 percent -1 percent -1 percent -1 interv -1 interv -1 -2
+interv -1 confirm -1 slop -1 slop -1 slop -1 design -1 main -1 million -1 support -1 support -1 end -1 end -1 mizrah -1 buy -1 buy -1 buy -1 buy -1 foreign -1 diagon -1 cent -1 cent -1 cent -1 cent -1 exchang -1 basket -1 basket -1 basket -1 basket -1 basket -1 purchas -1 prevent -1 -2
+intervent -1 intervent -1 wednesday -1 comment -1 dollar -1 dollar -1 band -1 band -1 band -1 israel -1 israel -1 israel -1 israel -1 israel -1 israel -1 newsroom -1 allow -1 partn -1 mintu -1 tel -1 scal -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 shekel -1 shekel -1 shekel -1 shekel -1 -2
+shekel -1 shekel -1 -2

@@ -1,0 +1,2 @@
+limit -1 limit -1 tuesday -1 prohibit -1 fund -1 sourc -1 stat -1 stat -1 stat -1 percent -1 requir -1 bill -1 administ -1 administ -1 administ -1 secret -1 secret -1 initiat -1 initiat -1 initiat -1 initiat -1 initiat -1 initiat -1 call -1 spend -1 spend -1 spend -1 spend -1 district -1 district -1 -2
+fail -1 fine -1 cost -1 school -1 school -1 school -1 school -1 educat -1 board -1 compl -1 june -1 june -1 jone -1 set -1 qualif -1 qualif -1 ballot -1 ballot -1 ballot -1 californ -1 calif -1 -2

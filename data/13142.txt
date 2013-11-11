@@ -1,0 +1,4 @@
+market -1 market -1 market -1 ignor -1 slip -1 tuesday -1 tuesday -1 hard -1 clos -1 clos -1 rand -1 high -1 rate -1 low -1 countr -1 currenc -1 currenc -1 currenc -1 receib -1 bank -1 bank -1 bank -1 mapenzausw -1 point -1 stand -1 deal -1 deal -1 deal -1 today -1 salar -1 -2
+afric -1 local -1 local -1 protect -1 fell -1 sent -1 woe -1 end -1 case -1 versus -1 monday -1 reserv -1 reserv -1 reserv -1 press -1 foreign -1 foreign -1 zimbabw -1 zimbabw -1 zimbabw -1 zimbabw -1 pressur -1 pressur -1 weak -1 made -1 civil -1 cent -1 cent -1 import -1 import -1 exchang -1 -2
+quot -1 continu -1 continu -1 quick -1 stell -1 strik -1 assu -1 play -1 serv -1 posit -1 direct -1 south -1 bord -1 rescu -1 sell -1 export -1 thing -1 profit -1 hike -1 sens -1 emphas -1 impact -1 bad -1 comment -1 cry -1 present -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 -2
+dollar -1 action -1 make -1 newsroom -1 sterl -1 mark -1 hold -1 harar -1 sidelin -1 sign -1 trad -1 -2

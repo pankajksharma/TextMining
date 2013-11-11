@@ -1,0 +1,3 @@
+hous -1 publ -1 econom -1 econom -1 econom -1 rate -1 rate -1 year -1 year -1 year -1 year -1 pvs -1 consensus -1 data -1 yr -1 yr -1 bank -1 bank -1 meespierson -1 fax -1 annual -1 indicat -1 gmt -1 gmt -1 percent -1 percent -1 percent -1 amsterdam -1 expect -1 main -1 -2
+reut -1 pric -1 pric -1 pric -1 index -1 contribut -1 abn -1 mth -1 mth -1 rent -1 sum -1 dutch -1 dutch -1 increas -1 edg -1 rise -1 rise -1 ing -1 cpi -1 cpi -1 inflat -1 inflat -1 inflat -1 fact -1 amro -1 period -1 poll -1 rang -1 date -1 rabobank -1 consum -1 -2
+consum -1 consum -1 july -1 july -1 july -1 july -1 july -1 july -1 july -1 general -1 june -1 june -1 friday -1 newsroom -1 forecast -1 forecast -1 forecast -1 pct -1 pct -1 pct -1 -2

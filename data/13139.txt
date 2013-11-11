@@ -1,0 +1,4 @@
+der -1 armstrong -1 jero -1 tuesday -1 kilomet -1 stag -1 stag -1 stag -1 german -1 stand -1 stand -1 cycl -1 motorol -1 motorol -1 michael -1 italy -1 italy -1 italy -1 gianluc -1 van -1 lead -1 lead -1 second -1 second -1 haarlem -1 jan -1 leon -1 netherland -1 netherland -1 netherland -1 -2
+hour -1 hour -1 min -1 min -1 win -1 time -1 time -1 time -1 time -1 sven -1 den -1 robbie -1 goud -1 mapei -1 mapei -1 koert -1 koert -1 teutenberg -1 teutenberg -1 endrio -1 capiot -1 collstrop -1 collstrop -1 collstrop -1 brab -1 austral -1 mcew -1 mcew -1 federic -1 neth -1 neth -1 -2
+neth -1 neth -1 neth -1 blijlev -1 tvm -1 tvm -1 foreldorad -1 foreldorad -1 omloop -1 trist -1 hincapie -1 talen -1 wim -1 tour -1 tour -1 georg -1 wolf -1 rabobank -1 hoffm -1 aki -1 aki -1 colon -1 colon -1 colon -1 steel -1 result -1 tom -1 post -1 john -1 john -1 sec -1 -2
+johan -1 corin -1 lanc -1 palm -1 usa -1 usa -1 belg -1 belg -1 belg -1 -2

@@ -1,0 +1,4 @@
+tuesday -1 high -1 march -1 portland -1 own -1 year -1 phoenix -1 york -1 york -1 billion -1 newark -1 amount -1 invest -1 invest -1 tamp -1 atlant -1 local -1 local -1 local -1 expect -1 advanc -1 name -1 detroit -1 orland -1 mci -1 mci -1 mci -1 mci -1 boston -1 environ -1 -2
+busi -1 hartford -1 telephon -1 telephon -1 nick -1 end -1 dieg -1 chicag -1 initiat -1 off -1 met -1 san -1 san -1 network -1 network -1 network -1 margin -1 francisc -1 offer -1 bell -1 city -1 city -1 city -1 city -1 circuit -1 compet -1 servic -1 servic -1 servic -1 servic -1 servic -1 -2
+memph -1 part -1 resel -1 raleigh -1 pittsburgh -1 commun -1 detail -1 run -1 plan -1 plan -1 profit -1 corp -1 minneapol -1 miam -1 favor -1 total -1 baltimor -1 cleveland -1 twelf -1 los -1 milwauk -1 angel -1 seattl -1 philadelph -1 newsroom -1 louth -1 rely -1 switch -1 switch -1 add -1 operat -1 -2
+region -1 denv -1 -2

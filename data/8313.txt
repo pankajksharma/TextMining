@@ -1,0 +1,2 @@
+newsdesk -1 month -1 full -1 sg -1 sg -1 york -1 standard -1 common -1 common -1 common -1 common -1 deprec -1 deprec -1 quart -1 gross -1 gross -1 q3 -1 shar -1 shar -1 shar -1 shar -1 end -1 end -1 outstand -1 outstand -1 loss -1 loss -1 loss -1 loss -1 continu -1 -2
+continu -1 cost -1 cost -1 profit -1 profit -1 result -1 revenu -1 revenu -1 revenu -1 revenu -1 intern -1 june -1 june -1 aver -1 aver -1 operat -1 operat -1 amort -1 amort -1 -2

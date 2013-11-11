@@ -1,0 +1,2 @@
+market -1 stock -1 clos -1 clos -1 gmt -1 index -1 index -1 volum -1 million -1 million -1 shar -1 shar -1 stead -1 crown -1 ground -1 czech -1 pse -1 lose -1 exchang -1 pragu -1 pragu -1 px50 -1 px50 -1 heavy -1 turnov -1 session -1 session -1 wednesday -1 total -1 unchang -1 -2
+newsroom -1 hold -1 trad -1 -2

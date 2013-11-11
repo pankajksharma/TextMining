@@ -1,0 +1,2 @@
+month -1 year -1 distribuidor -1 distribuidor -1 firm -1 gross -1 stat -1 percent -1 percent -1 jan -1 jan -1 jan -1 janu -1 br -1 br -1 million -1 million -1 versus -1 fuel -1 figur -1 figur -1 net -1 net -1 net -1 net -1 bln -1 bln -1 jame -1 period -1 period -1 -2
+note -1 brazil -1 brazil -1 paul -1 july -1 july -1 july -1 july -1 profit -1 petrobr -1 sao -1 worth -1 worth -1 dollar -1 releas -1 newsroom -1 craig -1 sale -1 distribut -1 -2

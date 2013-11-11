@@ -1,0 +1,3 @@
+market -1 tuesday -1 clos -1 clos -1 low -1 low -1 simex -1 simex -1 simex -1 octob -1 octob -1 octob -1 brent -1 brent -1 brent -1 brent -1 brent -1 brent -1 york -1 system -1 indicat -1 light -1 nymex -1 nymex -1 nymex -1 level -1 pric -1 volum -1 brok -1 futur -1 -2
+hour -1 arbitr -1 arbitr -1 arbitr -1 crud -1 nation -1 monday -1 monday -1 narrow -1 narrow -1 singapor -1 cent -1 london -1 london -1 london -1 london -1 settl -1 settl -1 lot -1 compar -1 compar -1 compar -1 barrel -1 friday -1 friday -1 friday -1 major -1 holiday -1 access -1 newsroom -1 mark -1 -2
+left -1 trad -1 trad -1 trad -1 trad -1 -2

@@ -1,0 +1,1 @@
+market -1 stock -1 stock -1 sery -1 sery -1 rate -1 fpn -1 fpn -1 privat -1 prefer -1 prefer -1 prefer -1 common -1 common -1 complet -1 convers -1 convers -1 percent -1 pric -1 shar -1 time -1 network -1 network -1 purchas -1 sell -1 convertibl -1 plac -1 friday -1 pacif -1 pacif -1 -2

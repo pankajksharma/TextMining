@@ -1,0 +1,2 @@
+compan -1 newsdesk -1 gener -1 year -1 year -1 qtr -1 qtr -1 york -1 writ -1 q4 -1 capit -1 quart -1 debt -1 adjust -1 shar -1 shar -1 end -1 end -1 end -1 end -1 increas -1 time -1 reserv -1 current -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 -2
+loss -1 loss -1 fisc -1 fisc -1 net -1 net -1 net -1 net -1 net -1 net -1 note -1 kinet -1 profit -1 profit -1 profit -1 includ -1 audit -1 audit -1 invent -1 bad -1 revenu -1 revenu -1 unaudit -1 unaudit -1 softwar -1 operat -1 operat -1 fourth -1 -2

@@ -1,0 +1,2 @@
+metal -1 tight -1 market -1 small -1 cop -1 cop -1 cop -1 clos -1 high -1 high -1 facil -1 month -1 month -1 month -1 namib -1 declar -1 lme -1 lme -1 week -1 key -1 disrupt -1 futur -1 thursday -1 techn -1 rose -1 rose -1 exchang -1 london -1 nearb -1 fact -1 -2
+chil -1 ton -1 includ -1 septemb -1 suppl -1 suppl -1 friday -1 combin -1 hit -1 afternoon -1 afternoon -1 bull -1 trad -1 trad -1 option -1 -2

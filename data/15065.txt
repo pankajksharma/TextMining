@@ -1,0 +1,2 @@
+nov -1 exercis -1 exercis -1 sep -1 sep -1 sep -1 sep -1 sep -1 mgr -1 mar -1 yen -1 yen -1 yen -1 war -1 war -1 borrow -1 issu -1 issu -1 pay -1 pay -1 frm -1 lead -1 kankaku -1 pric -1 nis -1 moody -1 million -1 matur -1 industr -1 coupon -1 -2
+typ -1 date -1 date -1 date -1 electr -1 jcr -1 jbri -1 secur -1 amt -1 iss -1 sign -1 nt -1 takasag -1 takasag -1 mln -1 -2

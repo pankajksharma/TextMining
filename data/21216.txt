@@ -1,0 +1,5 @@
+metal -1 negot -1 negot -1 negot -1 almaz -1 rossii -1 sakh -1 repret -1 gem -1 body -1 stockpil -1 own -1 year -1 agent -1 ars -1 ars -1 agree -1 duty -1 duty -1 affect -1 affect -1 appoint -1 de -1 de -1 de -1 de -1 de -1 prec -1 ston -1 larg -1 -2
+larg -1 bought -1 produc -1 mine -1 stat -1 approv -1 decid -1 govern -1 govern -1 act -1 diamons -1 diamons -1 diamons -1 face -1 case -1 industr -1 industr -1 russia -1 russia -1 feder -1 clark -1 clark -1 clark -1 clark -1 august -1 pow -1 komdragmet -1 komdragmet -1 financ -1 financ -1 financ -1 -2
+financ -1 financ -1 commit -1 commit -1 head -1 ongo -1 ongo -1 call -1 work -1 minist -1 minist -1 minist -1 minist -1 minist -1 minist -1 minist -1 numb -1 numb -1 honest -1 normat -1 move -1 move -1 decree -1 decree -1 russian -1 russian -1 russian -1 moscow -1 responsibl -1 part -1 clarif -1 -2
+consolid -1 final -1 export -1 divid -1 divid -1 raymons -1 conduc -1 conduc -1 result -1 relat -1 includ -1 includ -1 scrutin -1 septemb -1 effect -1 effect -1 resum -1 spokesm -1 spokesm -1 subject -1 friday -1 set -1 broad -1 don -1 presid -1 sole -1 beer -1 beer -1 beer -1 beer -1 beer -1 -2
+offic -1 -2

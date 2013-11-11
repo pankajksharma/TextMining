@@ -1,0 +1,4 @@
+lull -1 market -1 market -1 market -1 market -1 market -1 econom -1 outnumb -1 bolst -1 tuesday -1 stock -1 stock -1 clos -1 clos -1 manil -1 manil -1 low -1 low -1 ahead -1 term -1 build -1 point -1 point -1 point -1 point -1 resourc -1 invest -1 invest -1 invest -1 fax -1 -2
+peso -1 peso -1 week -1 week -1 week -1 quart -1 issu -1 straight -1 garcia -1 garcia -1 garcia -1 advanc -1 fell -1 main -1 index -1 index -1 gain -1 belief -1 phas -1 rally -1 telephon -1 brok -1 shar -1 shar -1 long -1 dist -1 monday -1 remain -1 remain -1 current -1 public -1 -2
+fuel -1 shav -1 confid -1 offer -1 continu -1 doldrum -1 declin -1 lilian -1 karunung -1 growth -1 figur -1 initial -1 slid -1 sharp -1 posit -1 new -1 shop -1 base -1 develop -1 aug -1 philippin -1 day -1 wednesday -1 gotesc -1 gilpatrick -1 releas -1 unchang -1 add -1 mall -1 hold -1 sidelin -1 -2
+sidelin -1 trad -1 trad -1 -2

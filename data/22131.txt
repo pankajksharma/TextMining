@@ -1,0 +1,5 @@
+night -1 memorandum -1 econom -1 econom -1 gas -1 year -1 year -1 year -1 year -1 promot -1 promot -1 ali -1 potent -1 agent -1 saba -1 saba -1 activat -1 agree -1 sea -1 tie -1 tie -1 invest -1 cris -1 cris -1 accord -1 rich -1 hundred -1 gulf -1 understand -1 larg -1 -2
+report -1 stat -1 stat -1 appear -1 home -1 sour -1 defend -1 aid -1 thursday -1 thursday -1 impover -1 end -1 end -1 end -1 end -1 talk -1 abdullah -1 oil -1 techn -1 princ -1 princ -1 princ -1 time -1 decad -1 area -1 bilater -1 tension -1 financ -1 commit -1 met -1 airport -1 -2
+side -1 occupat -1 flow -1 cut -1 work -1 work -1 expel -1 landmark -1 landmark -1 iraq -1 minist -1 minist -1 visit -1 visit -1 visit -1 mistrust -1 clash -1 demarc -1 new -1 thousand -1 put -1 neighbor -1 aim -1 aim -1 aim -1 bord -1 bord -1 land -1 hast -1 day -1 coop -1 -2
+coop -1 resolut -1 charg -1 arabia -1 arabia -1 field -1 kuwait -1 saud -1 saud -1 saud -1 saud -1 arabian -1 joint -1 riyadh -1 sult -1 sult -1 sult -1 friday -1 set -1 presid -1 southern -1 yemen -1 yemen -1 yemen -1 yemen -1 yemen -1 yemen -1 yemen -1 offic -1 saleh -1 commerc -1 -2
+sign -1 sign -1 sign -1 disput -1 disput -1 -2

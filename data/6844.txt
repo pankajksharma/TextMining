@@ -1,0 +1,4 @@
+market -1 syndic -1 syndic -1 syndic -1 hard -1 ocean -1 chung -1 rate -1 rate -1 month -1 countr -1 term -1 currenc -1 bank -1 bank -1 bank -1 bank -1 trend -1 amount -1 line -1 firm -1 firm -1 deal -1 deal -1 larg -1 maurit -1 report -1 percent -1 expect -1 forex -1 -2
+forex -1 forex -1 forex -1 govern -1 loui -1 fix -1 fix -1 thursday -1 thursday -1 thursday -1 versus -1 stabl -1 stabl -1 equival -1 harvest -1 paid -1 made -1 cent -1 cent -1 net -1 pound -1 pound -1 pound -1 pound -1 sugar -1 sugar -1 sugar -1 sugar -1 direct -1 export -1 sell -1 -2
+earn -1 earn -1 island -1 result -1 mike -1 rupee -1 rupee -1 rupee -1 rupee -1 rupee -1 wednesday -1 wednesday -1 tend -1 proceed -1 mauritius -1 mauritius -1 mauritius -1 intern -1 dollar -1 dollar -1 dollar -1 dollar -1 port -1 morn -1 season -1 unchang -1 allow -1 add -1 add -1 indian -1 interbank -1 -2
+sale -1 commerc -1 commerc -1 -2

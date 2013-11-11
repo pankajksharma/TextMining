@@ -1,0 +1,4 @@
+rightw -1 compan -1 cgtp -1 cgtp -1 mateus -1 mateus -1 popul -1 econom -1 union -1 low -1 journ -1 privat -1 lisbon -1 middl -1 newspap -1 stand -1 portug -1 de -1 de -1 domest -1 meet -1 percent -1 difficult -1 anal -1 expect -1 minor -1 decid -1 govern -1 lead -1 lead -1 -2
+digest -1 name -1 banc -1 escudo -1 pric -1 aid -1 diario -1 diario -1 end -1 party -1 candid -1 win -1 cabinet -1 portugu -1 bureau -1 author -1 august -1 rise -1 press -1 public -1 respect -1 tourist -1 financ -1 confid -1 foment -1 exterior -1 call -1 work -1 right -1 prim -1 notic -1 -2
+minist -1 minist -1 numb -1 autumn -1 bid -1 parlia -1 parlia -1 wing -1 ton -1 incom -1 story -1 pulp -1 pp -1 paul -1 aug -1 hardwood -1 plan -1 plan -1 pass -1 reject -1 budget -1 present -1 economic -1 port -1 oppos -1 due -1 tomorrow -1 antonio -1 boost -1 left -1 trad -1 -2
+group -1 group -1 guter -1 -2

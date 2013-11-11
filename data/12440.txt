@@ -1,0 +1,3 @@
+market -1 money -1 money -1 rate -1 rate -1 rate -1 month -1 month -1 month -1 month -1 month -1 month -1 bank -1 bank -1 bank -1 bank -1 bank -1 swap -1 deal -1 deal -1 week -1 week -1 week -1 today -1 fund -1 domest -1 stat -1 percent -1 percent -1 forex -1 -2
+forex -1 overnight -1 overnight -1 overnight -1 cash -1 fix -1 fix -1 level -1 big -1 sold -1 million -1 ecu -1 nation -1 greek -1 greek -1 drachm -1 drachm -1 drachm -1 monday -1 virtual -1 foreign -1 cent -1 cent -1 quot -1 quot -1 move -1 dimitr -1 play -1 dull -1 greec -1 kontogian -1 -2
+athen -1 soak -1 drain -1 dollar -1 chang -1 twelf -1 late -1 late -1 late -1 morn -1 unmov -1 unexcit -1 unchang -1 newsroom -1 mark -1 depo -1 ecus -1 hold -1 trad -1 trad -1 trad -1 trad -1 -2

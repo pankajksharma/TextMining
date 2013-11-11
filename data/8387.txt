@@ -1,0 +1,2 @@
+clos -1 yr -1 yr -1 yr -1 yr -1 forward -1 loan -1 yield -1 dem -1 bill -1 canad -1 canad -1 canad -1 mth -1 mth -1 mth -1 exchang -1 call -1 gbp -1 chf -1 jpy -1 aug -1 dollar -1 dollar -1 bond -1 wi -1 wi -1 wi -1 cad -1 cad -1 -2
+cad -1 cad -1 -2

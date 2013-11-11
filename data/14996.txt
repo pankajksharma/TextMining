@@ -1,0 +1,4 @@
+econom -1 econom -1 econom -1 publ -1 tuesday -1 tuesday -1 opinion -1 opinion -1 mcnair -1 fair -1 fair -1 fair -1 fair -1 fair -1 fair -1 fair -1 howard -1 howard -1 howard -1 newspap -1 sydney -1 billion -1 good -1 good -1 good -1 euphor -1 peopl -1 spread -1 understand -1 week -1 -2
+week -1 report -1 percent -1 percent -1 percent -1 percent -1 difficult -1 strong -1 strong -1 strong -1 decid -1 decid -1 belief -1 belief -1 belief -1 show -1 deliv -1 weekend -1 bureau -1 rtr -1 told -1 austral -1 austral -1 austral -1 austral -1 austral -1 austral -1 austral -1 cut -1 prim -1 herald -1 -2
+minist -1 section -1 canber -1 put -1 poll -1 poll -1 poll -1 poll -1 agb -1 vote -1 vote -1 commun -1 describ -1 want -1 survey -1 survey -1 ask -1 bad -1 accept -1 john -1 budget -1 budget -1 budget -1 budget -1 budget -1 budget -1 budget -1 total -1 deficit -1 found -1 found -1 -2
+found -1 respons -1 morn -1 don -1 argu -1 know -1 -2

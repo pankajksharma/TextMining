@@ -1,0 +1,2 @@
+rapemeal -1 market -1 stg -1 stg -1 stg -1 high -1 high -1 high -1 ballantyn -1 forward -1 firm -1 fetch -1 spot -1 report -1 pric -1 pric -1 futur -1 protein -1 trig -1 push -1 jim -1 area -1 chicag -1 buy -1 buy -1 feed -1 london -1 nearb -1 scar -1 soymeal -1 -2
+posit -1 ton -1 sell -1 liverpool -1 wednesday -1 uk -1 uk -1 meal -1 meal -1 newsroom -1 trad -1 trad -1 fright -1 -2

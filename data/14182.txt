@@ -1,0 +1,2 @@
+dlr -1 dlr -1 tuesday -1 inland -1 inland -1 gas -1 gas -1 low -1 karlsruh -1 frankfurt -1 line -1 germ -1 germ -1 dm -1 dm -1 dm -1 pric -1 pric -1 soft -1 soft -1 futur -1 end -1 benchmark -1 oil -1 oil -1 ltr -1 ltr -1 ingolstadt -1 weak -1 weak -1 -2
+weak -1 london -1 lack -1 brem -1 day -1 hamburg -1 demand -1 demand -1 demand -1 newsroom -1 duisburg -1 amid -1 trad -1 use -1 -2

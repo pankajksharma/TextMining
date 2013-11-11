@@ -1,0 +1,2 @@
+compan -1 newsdesk -1 way -1 agree -1 agree -1 agree -1 agree -1 system -1 system -1 techn -1 telecommun -1 telecommun -1 chicag -1 digit -1 provid -1 network -1 network -1 network -1 cove -1 servic -1 develop -1 develop -1 tellab -1 tellab -1 tellab -1 tellab -1 lucent -1 lucent -1 lucent -1 lucent -1 -2
+sonet -1 lightwav -1 multiplex -1 wednesday -1 equip -1 flexibl -1 infrastructur -1 connect -1 sign -1 sign -1 cross -1 -2

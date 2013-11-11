@@ -1,0 +1,4 @@
+tee -1 mexic -1 bound -1 sect -1 fosn -1 quiet -1 immingham -1 ulcc -1 vlcc -1 vlcc -1 w65 -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 w60 -1 w105 -1 w100 -1 w100 -1 w130 -1 middl -1 blouk -1 petroleum -1 poor -1 firm -1 -2
+gulf -1 west -1 slight -1 afric -1 assess -1 ship -1 fixtur -1 east -1 kentuck -1 int -1 level -1 level -1 brok -1 brok -1 brok -1 tank -1 tank -1 tank -1 europ -1 thursday -1 mideast -1 crud -1 crud -1 stead -1 stead -1 stead -1 stead -1 transatl -1 singapor -1 london -1 hunt -1 -2
+mediterranean -1 take -1 freight -1 put -1 consolid -1 coast -1 estimat -1 estimat -1 rang -1 settl -1 lift -1 ton -1 ton -1 ton -1 taiw -1 w86 -1 med -1 suezmax -1 chart -1 chart -1 chart -1 chart -1 day -1 travel -1 travel -1 mike -1 ukc -1 prev -1 carib -1 held -1 total -1 -2
+japan -1 w55 -1 unmov -1 unchang -1 newsroom -1 caribbean -1 asia -1 region -1 hold -1 amid -1 w135 -1 slow -1 slow -1 cross -1 -2

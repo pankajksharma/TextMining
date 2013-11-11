@@ -1,0 +1,2 @@
+compan -1 market -1 market -1 newsdesk -1 publ -1 tech -1 tech -1 tech -1 hardwar -1 microcomput -1 high -1 joel -1 art -1 retain -1 join -1 squar -1 squar -1 squar -1 name -1 busi -1 thursday -1 end -1 nation -1 industr -1 chicag -1 press -1 graph -1 weidt -1 peripher -1 rees -1 -2
+rees -1 rees -1 pre -1 chief -1 chief -1 direct -1 desktop -1 coo -1 ron -1 titl -1 prev -1 chuck -1 chairm -1 softwar -1 execut -1 vice -1 presid -1 presid -1 presid -1 operat -1 distribut -1 sale -1 offic -1 offic -1 group -1 -2

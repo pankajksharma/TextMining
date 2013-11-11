@@ -1,0 +1,3 @@
+naphth -1 breakdown -1 sulphur -1 high -1 month -1 month -1 year -1 year -1 output -1 domest -1 produc -1 produc -1 produc -1 produc -1 stat -1 percent -1 percent -1 jan -1 slowdown -1 million -1 million -1 million -1 million -1 thursday -1 nation -1 oil -1 oil -1 oil -1 oil -1 give -1 -2
+industr -1 increas -1 rise -1 rise -1 fuel -1 grow -1 typ -1 rose -1 import -1 minist -1 minist -1 minist -1 growth -1 growth -1 ago -1 responsibl -1 energ -1 south -1 export -1 export -1 export -1 led -1 july -1 diesel -1 barrel -1 barrel -1 barrel -1 demand -1 korea -1 korea -1 trad -1 -2
+pct -1 -2

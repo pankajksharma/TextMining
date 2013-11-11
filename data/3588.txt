@@ -1,0 +1,4 @@
+capac -1 market -1 popul -1 novemb -1 novemb -1 scop -1 flight -1 flight -1 flight -1 carry -1 ocean -1 potent -1 potent -1 annual -1 week -1 week -1 week -1 week -1 week -1 west -1 west -1 afric -1 afric -1 afric -1 afric -1 afric -1 afric -1 afric -1 afric -1 afric -1 -2
+afric -1 stat -1 percent -1 percent -1 introduc -1 introduc -1 lead -1 underestim -1 mean -1 anticip -1 strength -1 increas -1 increas -1 off -1 identif -1 contin -1 contin -1 traff -1 cape -1 network -1 network -1 airway -1 continu -1 growth -1 growth -1 destin -1 servic -1 servic -1 predict -1 saa -1 saa -1 -2
+saa -1 saa -1 saa -1 saa -1 accr -1 myburgh -1 inbound -1 chief -1 south -1 south -1 south -1 island -1 plan -1 plan -1 travel -1 mike -1 wednesday -1 expand -1 expand -1 town -1 departur -1 demand -1 rout -1 rout -1 rout -1 rout -1 rout -1 windhoek -1 due -1 johannesburg -1 johannesburg -1 -2
+abidj -1 abidj -1 newsroom -1 add -1 add -1 add -1 indian -1 execut -1 substant -1 -2

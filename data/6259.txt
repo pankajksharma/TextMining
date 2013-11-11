@@ -1,0 +1,4 @@
+market -1 back -1 fin -1 rate -1 low -1 soar -1 year -1 year -1 year -1 year -1 trend -1 writ -1 view -1 line -1 poor -1 poor -1 invest -1 invest -1 invest -1 oy -1 domest -1 stat -1 expect -1 helsink -1 outlook -1 level -1 markk -1 markk -1 markk -1 markk -1 -2
+markk -1 pric -1 janu -1 million -1 million -1 million -1 million -1 million -1 million -1 thursday -1 dividend -1 increas -1 rose -1 exchang -1 loss -1 loss -1 net -1 insur -1 insur -1 solvent -1 half -1 half -1 half -1 half -1 note -1 claim -1 bulk -1 direct -1 incur -1 underwrit -1 underwrit -1 -2
+underwrit -1 underwrit -1 incom -1 incom -1 incom -1 develop -1 develop -1 gave -1 profit -1 profit -1 result -1 result -1 result -1 result -1 estat -1 impact -1 prem -1 secur -1 june -1 real -1 newsroom -1 add -1 see -1 forecast -1 forecast -1 accru -1 operat -1 operat -1 slow -1 slow -1 pohjol -1 -2
+pohjol -1 pohjol -1 pohjol -1 pohjol -1 pohjol -1 group -1 pick -1 -2

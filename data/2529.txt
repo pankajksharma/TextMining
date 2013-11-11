@@ -1,0 +1,3 @@
+payment -1 compan -1 market -1 tuesday -1 broker -1 high -1 sharehold -1 encour -1 own -1 midday -1 yaoh -1 yaoh -1 yaoh -1 yaoh -1 privat -1 privat -1 privat -1 hongkong -1 hongkong -1 manag -1 firm -1 unit -1 percent -1 percent -1 anal -1 local -1 expect -1 int -1 cash -1 burd -1 -2
+fix -1 pric -1 aid -1 volum -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 hk -1 hk -1 hk -1 hk -1 financ -1 rose -1 exchang -1 loss -1 offer -1 depart -1 depart -1 plan -1 plan -1 corp -1 announc -1 relief -1 yih -1 yih -1 yih -1 -2
+yih -1 yih -1 intern -1 hong -1 kong -1 demand -1 hit -1 stor -1 stor -1 morn -1 make -1 make -1 newsroom -1 operat -1 boost -1 surg -1 hold -1 sale -1 -2

@@ -1,0 +1,4 @@
+anti -1 anti -1 elect -1 elect -1 juvenil -1 gener -1 attend -1 drug -1 drug -1 drug -1 drug -1 drug -1 reno -1 reno -1 reno -1 reno -1 reno -1 year -1 good -1 war -1 war -1 dole -1 peopl -1 week -1 week -1 week -1 issu -1 issu -1 issu -1 partis -1 -2
+partis -1 partis -1 partis -1 stat -1 report -1 violent -1 attorney -1 natur -1 local -1 sit -1 level -1 footbal -1 thursday -1 talk -1 youth -1 youth -1 convent -1 democrat -1 democrat -1 increas -1 chicag -1 polit -1 polit -1 polit -1 aisl -1 side -1 focus -1 nomin -1 bipartis -1 effort -1 effort -1 -2
+work -1 continu -1 continu -1 depart -1 crim -1 crim -1 sharp -1 bob -1 new -1 part -1 program -1 attack -1 janet -1 justic -1 day -1 hap -1 announc -1 child -1 child -1 reduc -1 reduc -1 clinton -1 clinton -1 respons -1 season -1 add -1 teen -1 republ -1 republ -1 republ -1 republ -1 -2
+partn -1 address -1 confer -1 presid -1 presid -1 presid -1 campaign -1 hope -1 hope -1 demo -1 -2

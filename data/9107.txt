@@ -1,0 +1,2 @@
+ag -1 ag -1 ag -1 stock -1 sep -1 bank -1 morg -1 morg -1 morg -1 stanley -1 stanley -1 stanley -1 manag -1 war -1 war -1 war -1 lind -1 list -1 issu -1 germ -1 dem -1 dem -1 dem -1 dem -1 lead -1 reut -1 pric -1 million -1 compr -1 european -1 -2
+matur -1 min -1 gmbh -1 fft -1 basket -1 call -1 call -1 call -1 london -1 preussag -1 man -1 strik -1 weight -1 tranch -1 wertpap -1 gear -1 equal -1 equal -1 lot -1 aug -1 aug -1 paydat -1 exer -1 prem -1 styl -1 newsroom -1 thyss -1 iss -1 pct -1 pct -1 -2

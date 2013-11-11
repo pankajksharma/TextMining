@@ -1,0 +1,2 @@
+popul -1 clal -1 stock -1 stock -1 koor -1 koor -1 high -1 rate -1 aviv -1 inv -1 manag -1 invest -1 invest -1 invest -1 discount -1 discount -1 fund -1 fund -1 fund -1 fund -1 fund -1 produc -1 report -1 report -1 percent -1 big -1 shar -1 techn -1 meitav -1 bezeq -1 -2
+mofet -1 industr -1 industr -1 telecom -1 favourit -1 develop -1 consum -1 electr -1 portfolio -1 corp -1 survey -1 secur -1 total -1 israel -1 israel -1 israel -1 israel -1 mutual -1 mutual -1 mutual -1 mutual -1 newsroom -1 top -1 tel -1 hold -1 electron -1 -2

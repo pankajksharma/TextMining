@@ -1,0 +1,4 @@
+night -1 incid -1 incid -1 incid -1 regret -1 occur -1 brother -1 remot -1 vill -1 free -1 peopl -1 nairob -1 week -1 capit -1 issu -1 issu -1 stat -1 stat -1 stat -1 report -1 local -1 mapourdit -1 mapourdit -1 wit -1 rebel -1 rebel -1 italian -1 italian -1 futur -1 assur -1 -2
+talk -1 keny -1 keny -1 remain -1 loot -1 august -1 cathol -1 austral -1 austral -1 deep -1 liberat -1 declin -1 arriv -1 arriv -1 part -1 detain -1 americ -1 americ -1 apologis -1 sudan -1 sudan -1 sudan -1 sudan -1 sudan -1 sudan -1 commun -1 surround -1 includ -1 includ -1 includ -1 unfortun -1 -2
+wednesday -1 priest -1 priest -1 priest -1 priest -1 nun -1 nun -1 intern -1 men -1 army -1 held -1 friday -1 friday -1 spla -1 spla -1 spla -1 spla -1 colleagu -1 church -1 releas -1 mission -1 mission -1 mission -1 mission -1 mission -1 mission -1 chos -1 command -1 roman -1 southern -1 southern -1 -2
+offic -1 compound -1 group -1 -2

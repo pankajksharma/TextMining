@@ -1,0 +1,4 @@
+fire -1 early -1 elect -1 sect -1 econom -1 econom -1 rate -1 month -1 year -1 term -1 term -1 conserv -1 cover -1 start -1 third -1 fall -1 blast -1 treat -1 report -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 govern -1 bill -1 -2
+avg -1 main -1 administ -1 min -1 party -1 party -1 nation -1 greek -1 greek -1 dist -1 maastricht -1 polit -1 social -1 social -1 conclud -1 public -1 rose -1 told -1 nomin -1 exchang -1 work -1 success -1 minist -1 inflat -1 inflat -1 cpi -1 cpi -1 gdp -1 gdp -1 structur -1 growth -1 -2
+dimitr -1 period -1 period -1 greec -1 greec -1 criter -1 kontogian -1 athen -1 converg -1 yanno -1 papandoniou -1 papandoniou -1 papandoniou -1 papandoniou -1 wag -1 septemb -1 slash -1 budget -1 accel -1 deficit -1 real -1 real -1 aver -1 aver -1 aver -1 separat -1 newsroom -1 add -1 measur -1 mark -1 hold -1 -2
+disput -1 pct -1 -2

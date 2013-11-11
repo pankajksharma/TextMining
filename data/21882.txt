@@ -1,0 +1,4 @@
+approach -1 econom -1 breadth -1 read -1 high -1 march -1 rebound -1 mgr -1 octob -1 octob -1 april -1 regist -1 cpmi -1 manag -1 manag -1 suggest -1 employ -1 employ -1 employ -1 produc -1 produc -1 backlog -1 backlog -1 jump -1 fell -1 level -1 level -1 reut -1 pric -1 pric -1 -2
+adj -1 busi -1 index -1 index -1 index -1 index -1 index -1 index -1 adjust -1 shrink -1 end -1 deliv -1 contract -1 increas -1 chicag -1 chicag -1 chicag -1 chicag -1 august -1 august -1 august -1 august -1 rise -1 pmac -1 paid -1 paid -1 rose -1 rose -1 rose -1 fantast -1 baromet -1 -2
+baromet -1 call -1 purchas -1 purchas -1 purchas -1 assoc -1 assoc -1 declin -1 compon -1 compon -1 inflat -1 mail -1 calcul -1 aug -1 aug -1 july -1 july -1 july -1 july -1 invent -1 derivat -1 derivat -1 expand -1 june -1 suppl -1 friday -1 major -1 neutr -1 season -1 season -1 add -1 -2
+manufactur -1 chicagoland -1 swing -1 desk -1 ord -1 ord -1 ord -1 sign -1 slow -1 slow -1 group -1 pct -1 -2

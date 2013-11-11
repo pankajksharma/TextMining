@@ -1,0 +1,2 @@
+data -1 shr -1 shr -1 shr -1 writ -1 rev -1 discontinu -1 gain -1 million -1 million -1 oper -1 oper -1 oper -1 oper -1 shar -1 shar -1 end -1 excldu -1 meca -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 continu -1 numb -1 net -1 net -1 -2
+net -1 net -1 period -1 note -1 widen -1 impair -1 exclud -1 july -1 profit -1 profit -1 result -1 includ -1 asset -1 item -1 q1 -1 q1 -1 softwar -1 operat -1 operat -1 sale -1 block -1 -2

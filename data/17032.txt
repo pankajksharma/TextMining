@@ -1,0 +1,2 @@
+compan -1 sect -1 sect -1 martin -1 lendr -1 lendr -1 reay -1 reay -1 varley -1 varley -1 chri -1 barclay -1 barclay -1 pitch -1 pitch -1 bank -1 bank -1 bank -1 bank -1 manag -1 appoint -1 join -1 bzw -1 stat -1 busi -1 smith -1 smith -1 taylor -1 commit -1 commit -1 -2
+commit -1 made -1 network -1 london -1 servic -1 servic -1 servic -1 plc -1 chief -1 responsibl -1 chair -1 mike -1 person -1 wednesday -1 septemb -1 asset -1 uk -1 uk -1 uk -1 john -1 newsroom -1 add -1 execut -1 execut -1 execut -1 operat -1 richard -1 richard -1 group -1 -2

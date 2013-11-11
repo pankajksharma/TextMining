@@ -1,0 +1,2 @@
+train -1 high -1 month -1 month -1 consist -1 year -1 year -1 lisbon -1 yr -1 yr -1 regist -1 regist -1 portug -1 portug -1 employ -1 peopl -1 percent -1 percent -1 percent -1 percent -1 profess -1 govern -1 yardstick -1 fell -1 fell -1 ine -1 nation -1 statist -1 unemploy -1 unemploy -1 -2
+unemploy -1 unemploy -1 work -1 forc -1 numb -1 numb -1 numb -1 figur -1 ifep -1 ifep -1 ifep -1 job -1 note -1 institut -1 institut -1 july -1 july -1 july -1 july -1 express -1 labor -1 total -1 june -1 chang -1 newsroom -1 offic -1 pct -1 -2

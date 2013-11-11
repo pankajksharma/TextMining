@@ -1,0 +1,3 @@
+clos -1 clos -1 clos -1 zolt -1 currenc -1 pip -1 bank -1 bank -1 firm -1 firm -1 deal -1 gmt -1 level -1 futur -1 futur -1 open -1 matur -1 ecu -1 drop -1 nation -1 stead -1 commod -1 narrow -1 narrow -1 forint -1 forint -1 forint -1 forint -1 hypo -1 weak -1 -2
+exchang -1 bid -1 bid -1 move -1 move -1 move -1 kalm -1 kalm -1 rang -1 rang -1 compar -1 resist -1 nbh -1 nbh -1 bce -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 friday -1 friday -1 unchang -1 newsroom -1 activ -1 budap -1 budap -1 mark -1 mark -1 -2
+mark -1 mark -1 hung -1 hung -1 hung -1 hung -1 trad -1 trad -1 trad -1 trad -1 slow -1 eas -1 eas -1 cross -1 -2

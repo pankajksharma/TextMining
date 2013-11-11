@@ -1,0 +1,4 @@
+limit -1 tr -1 tr -1 fray -1 kepit -1 kepit -1 kepit -1 kepit -1 kepit -1 kepit -1 kleinwort -1 specif -1 stg -1 sharehold -1 inaccur -1 hostil -1 privat -1 forward -1 fitm -1 fitm -1 fitm -1 manag -1 trust -1 trust -1 trust -1 trust -1 trust -1 suggest -1 invest -1 invest -1 -2
+invest -1 alexand -1 fund -1 report -1 stat -1 percent -1 natur -1 confirm -1 cash -1 treg -1 treg -1 million -1 european -1 european -1 european -1 open -1 smith -1 press -1 press -1 off -1 off -1 financ -1 made -1 made -1 told -1 compet -1 compet -1 london -1 growth -1 growth -1 bid -1 -2
+bid -1 net -1 plc -1 excess -1 put -1 ent -1 propos -1 propos -1 propos -1 propos -1 propos -1 run -1 announc -1 relat -1 field -1 wednesday -1 mandat -1 asset -1 involut -1 effect -1 comment -1 reject -1 board -1 board -1 inform -1 subject -1 subject -1 friday -1 due -1 flem -1 flem -1 -2
+takeov -1 recommend -1 newsroom -1 rely -1 com -1 group -1 -2

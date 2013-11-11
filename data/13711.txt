@@ -1,0 +1,3 @@
+congress -1 hous -1 hous -1 tuesday -1 low -1 good -1 good -1 annual -1 pave -1 treat -1 produc -1 percent -1 approv -1 approv -1 approv -1 anal -1 lead -1 govern -1 bill -1 bill -1 bill -1 bill -1 bill -1 exempt -1 exempt -1 shot -1 push -1 give -1 prior -1 commod -1 -2
+deput -1 machin -1 abstent -1 provid -1 call -1 cut -1 purchas -1 prim -1 servic -1 agricultur -1 jame -1 senat -1 direct -1 brazil -1 brazil -1 brazil -1 energ -1 rang -1 propos -1 export -1 export -1 export -1 export -1 link -1 vote -1 vote -1 paul -1 electr -1 semi -1 wednesday -1 reduc -1 -2
+sao -1 motion -1 equip -1 suppl -1 make -1 newsroom -1 measur -1 manufactur -1 arm -1 craig -1 boost -1 offic -1 offic -1 offic -1 icm -1 icm -1 tax -1 tax -1 tax -1 tax -1 -2

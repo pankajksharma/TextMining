@@ -1,0 +1,2 @@
+soybean -1 grain -1 sep -1 jul -1 jul -1 mar -1 mar -1 apr -1 apr -1 apr -1 jan -1 pric -1 pric -1 august -1 off -1 cbot -1 maiz -1 maiz -1 wheat -1 bid -1 argentin -1 bueno -1 basi -1 ton -1 fob -1 export -1 export -1 aug -1 bahia -1 blanc -1 -2
+upriv -1 upriv -1 upriv -1 sorghum -1 paran -1 paran -1 sunseed -1 air -1 dollar -1 newsroom -1 option -1 -2

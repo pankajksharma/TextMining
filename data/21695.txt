@@ -1,0 +1,4 @@
+react -1 market -1 market -1 recent -1 gener -1 econom -1 stock -1 stock -1 clos -1 clos -1 clos -1 clos -1 clos -1 high -1 high -1 interest -1 rate -1 low -1 low -1 low -1 receiv -1 climb -1 fresh -1 batch -1 data -1 data -1 data -1 start -1 point -1 drag -1 -2
+food -1 lost -1 lost -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 strong -1 italian -1 italian -1 ras -1 gain -1 index -1 index -1 show -1 shar -1 shar -1 shar -1 dive -1 open -1 end -1 end -1 drop -1 sai -1 industr -1 lire -1 lire -1 lire -1 -2
+lire -1 lire -1 stockbrok -1 fuel -1 finish -1 finish -1 pressur -1 lose -1 parmalat -1 continu -1 figur -1 insur -1 depart -1 fact -1 sharp -1 take -1 direct -1 led -1 july -1 sportswear -1 general -1 macr -1 friday -1 friday -1 dow -1 hit -1 jone -1 aver -1 set -1 make -1 fear -1 -2
+milan -1 milan -1 mib30 -1 ord -1 commerc -1 benetton -1 group -1 casual -1 -2

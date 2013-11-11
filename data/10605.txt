@@ -1,0 +1,2 @@
+early -1 territ -1 sunday -1 sunday -1 hospit -1 year -1 year -1 kill -1 rush -1 injur -1 suff -1 chas -1 neck -1 european -1 portugu -1 portugu -1 murd -1 patrol -1 identif -1 victim -1 cent -1 head -1 born -1 declin -1 arriv -1 man -1 filipin -1 filipin -1 filipin -1 hunt -1 -2
+district -1 certif -1 dead -1 stab -1 stab -1 spokesm -1 arrest -1 arrest -1 refus -1 male -1 hong -1 hong -1 hong -1 kong -1 kong -1 kong -1 morn -1 connect -1 polic -1 polic -1 polic -1 polic -1 lane -1 offic -1 death -1 -2

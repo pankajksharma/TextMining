@@ -1,0 +1,3 @@
+market -1 tight -1 understood -1 back -1 thin -1 sulphur -1 sulphur -1 sulphur -1 sulphur -1 gas -1 high -1 high -1 high -1 high -1 interest -1 bp -1 havr -1 low -1 matthew -1 midweek -1 texac -1 cargoe -1 firm -1 firm -1 parcel -1 pric -1 pric -1 act -1 sold -1 thursday -1 -2
+support -1 arb -1 european -1 european -1 open -1 crud -1 crud -1 oil -1 remain -1 remain -1 stead -1 vgo -1 tone -1 buy -1 buy -1 nerefc -1 mater -1 head -1 london -1 le -1 bid -1 bid -1 put -1 put -1 fob -1 fob -1 fob -1 hike -1 vacuum -1 refin -1 prev -1 -2
+carg -1 demand -1 mainten -1 friday -1 jone -1 israel -1 nwe -1 newsroom -1 ara -1 barg -1 trad -1 trad -1 slow -1 -2

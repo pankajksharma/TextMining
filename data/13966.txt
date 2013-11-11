@@ -1,0 +1,2 @@
+api -1 stock -1 stock -1 stock -1 clos -1 week -1 week -1 week -1 distill -1 anal -1 nymex -1 reut -1 million -1 million -1 million -1 end -1 end -1 end -1 crud -1 crud -1 pts -1 pts -1 august -1 bid -1 util -1 thousand -1 estimat -1 survey -1 gasolin -1 dn -1 -2
+dn -1 dn -1 oct -1 chang -1 bbl -1 bbl -1 bbl -1 bbl -1 bbl -1 bbl -1 pct -1 pct -1 mln -1 mln -1 mln -1 mln -1 -2

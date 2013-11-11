@@ -1,0 +1,4 @@
+compan -1 early -1 acquir -1 market -1 market -1 market -1 market -1 market -1 life -1 life -1 life -1 gener -1 tuesday -1 stock -1 stock -1 month -1 munich -1 potent -1 build -1 amount -1 good -1 bought -1 fund -1 gmt -1 anal -1 anal -1 help -1 opt -1 pension -1 cash -1 -2
+sent -1 societ -1 pric -1 float -1 volum -1 volum -1 million -1 million -1 million -1 thursday -1 thursday -1 shar -1 shar -1 shar -1 assur -1 assur -1 talk -1 talk -1 swiss -1 mercantil -1 buy -1 buy -1 rose -1 cite -1 lose -1 call -1 propert -1 substitut -1 london -1 casualt -1 heavy -1 -2
+note -1 part -1 americ -1 americ -1 americ -1 penc -1 reinsur -1 reinsur -1 reinsur -1 day -1 plan -1 prudent -1 prudent -1 prudent -1 prudent -1 corp -1 wednesday -1 hand -1 dispos -1 giant -1 proceed -1 uk -1 demand -1 june -1 adam -1 christoph -1 chang -1 battl -1 moderat -1 make -1 newsroom -1 -2
+arm -1 operat -1 amid -1 sale -1 sale -1 trad -1 trad -1 trad -1 group -1 option -1 -2

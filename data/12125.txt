@@ -1,0 +1,2 @@
+limit -1 gener -1 sunday -1 year -1 year -1 nil -1 decemb -1 annual -1 gross -1 gross -1 stat -1 meet -1 percent -1 million -1 shar -1 shar -1 end -1 premioum -1 dividend -1 monday -1 weekend -1 bangladesh -1 bangladesh -1 public -1 offer -1 net -1 insur -1 insur -1 note -1 claim -1 -2
+moslem -1 reli -1 reli -1 underwrit -1 incom -1 incom -1 taka -1 taka -1 taka -1 profit -1 profit -1 profit -1 includ -1 prem -1 prem -1 held -1 friday -1 trad -1 tax -1 -2

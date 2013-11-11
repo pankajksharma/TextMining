@@ -1,0 +1,2 @@
+down -1 credit -1 fin -1 perform -1 month -1 bank -1 bank -1 bank -1 writ -1 deprec -1 capit -1 loan -1 loan -1 stat -1 percent -1 helsink -1 fim -1 markk -1 guarant -1 million -1 mth -1 aktia -1 financ -1 loss -1 loss -1 figur -1 net -1 note -1 cost -1 cost -1 -2
+cost -1 save -1 save -1 incom -1 incom -1 incom -1 adequ -1 profit -1 profit -1 includ -1 includ -1 total -1 total -1 june -1 newsroom -1 op -1 operat -1 operat -1 staff -1 mln -1 -2

@@ -1,0 +1,3 @@
+compan -1 thai -1 stock -1 stock -1 stock -1 baht -1 baht -1 baht -1 baht -1 baht -1 baht -1 sharehold -1 sharehold -1 bank -1 petroleum -1 shr -1 fall -1 list -1 fertil -1 fertil -1 fertil -1 gmt -1 gmt -1 stat -1 stat -1 anal -1 govern -1 debut -1 pric -1 shar -1 -2
+shar -1 enterpr -1 enterpr -1 nation -1 nation -1 nation -1 industr -1 bureau -1 author -1 crown -1 attract -1 public -1 financ -1 financ -1 made -1 exchang -1 exchang -1 offer -1 propert -1 minist -1 initial -1 plc -1 save -1 corp -1 includ -1 thailand -1 thailand -1 major -1 major -1 activ -1 count -1 -2
+trad -1 eas -1 -2

@@ -1,0 +1,2 @@
+compan -1 acquir -1 draw -1 immed -1 sharehold -1 dec -1 begin -1 york -1 agree -1 agree -1 agree -1 system -1 capit -1 fund -1 fund -1 loan -1 loan -1 design -1 environ -1 million -1 control -1 industr -1 effic -1 pow -1 extend -1 financ -1 work -1 servic -1 util -1 petrochem -1 -2
+wahlc -1 wahlc -1 wahlc -1 pollut -1 electr -1 cogen -1 corp -1 relat -1 plant -1 refin -1 wes -1 equip -1 air -1 friday -1 major -1 newsroom -1 add -1 manufactur -1 manufactur -1 execut -1 mln -1 -2

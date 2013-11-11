@@ -1,0 +1,2 @@
+floor -1 emerg -1 situat -1 gas -1 gas -1 hospit -1 kill -1 kill -1 build -1 agent -1 blast -1 expert -1 peopl -1 peopl -1 treat -1 injur -1 injur -1 home -1 home -1 interfax -1 russia -1 canist -1 investig -1 explod -1 quot -1 minist -1 moscow -1 moscow -1 new -1 storey -1 -2
+detain -1 wednesday -1 explos -1 sixth -1 eastern -1 releas -1 -2

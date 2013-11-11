@@ -1,0 +1,2 @@
+market -1 sect -1 stock -1 record -1 karach -1 petroleum -1 midsess -1 deal -1 deal -1 produc -1 produc -1 stat -1 stat -1 percent -1 percent -1 percent -1 govern -1 pric -1 pric -1 pric -1 pric -1 shar -1 oil -1 oil -1 increas -1 increas -1 increas -1 increas -1 increas -1 rose -1 -2
+margin -1 bare -1 move -1 pakist -1 pakist -1 new -1 turnov -1 profit -1 result -1 rupee -1 intern -1 blu -1 secur -1 chip -1 newsroom -1 -2

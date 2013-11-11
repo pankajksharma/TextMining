@@ -1,0 +1,2 @@
+tuesday -1 stock -1 clos -1 tobacc -1 deal -1 suspend -1 suspend -1 stat -1 jump -1 volum -1 million -1 shar -1 shar -1 shar -1 shar -1 shar -1 transmarc -1 transmarc -1 transmarc -1 tycoon -1 puter -1 sampoern -1 monday -1 telecommun -1 pend -1 pend -1 rais -1 singapor -1 singapor -1 bid -1 -2
+noon -1 sharp -1 announc -1 indones -1 request -1 afternoon -1 newsroom -1 trad -1 trad -1 -2

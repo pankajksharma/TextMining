@@ -1,0 +1,2 @@
+bullion -1 market -1 market -1 tuesday -1 clos -1 clos -1 high -1 firm -1 local -1 end -1 end -1 tael -1 monday -1 gold -1 gold -1 gold -1 hk -1 hk -1 public -1 resum -1 ounc -1 hong -1 hong -1 hong -1 kong -1 kong -1 kong -1 friday -1 holiday -1 holiday -1 -2
+newsroom -1 trad -1 -2

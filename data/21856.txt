@@ -1,0 +1,3 @@
+retail -1 cfo -1 perform -1 promot -1 shak -1 manag -1 appoint -1 lind -1 merchandis -1 merchandis -1 cato -1 cato -1 cato -1 cato -1 cato -1 cato -1 issu -1 name -1 administ -1 administ -1 busi -1 restor -1 remain -1 hurt -1 derham -1 wiley -1 wiley -1 mcfarland -1 financ -1 financ -1 -2
+senior -1 numb -1 growth -1 move -1 posit -1 chief -1 chief -1 chief -1 chief -1 chief -1 jenkin -1 profit -1 corp -1 corp -1 corp -1 includ -1 titl -1 revenu -1 prev -1 john -1 held -1 friday -1 chairm -1 chairm -1 address -1 execut -1 execut -1 vice -1 vice -1 vice -1 vice -1 -2
+presid -1 presid -1 presid -1 operat -1 operat -1 alan -1 offic -1 offic -1 offic -1 offic -1 offic -1 -2

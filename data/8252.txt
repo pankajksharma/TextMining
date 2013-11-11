@@ -1,0 +1,2 @@
+compan -1 newsdesk -1 month -1 data -1 york -1 shr -1 shr -1 shr -1 shr -1 trust -1 deprec -1 q4 -1 capit -1 fund -1 fund -1 fund -1 extraordin -1 avg -1 avg -1 defin -1 gain -1 oper -1 oper -1 adjust -1 shar -1 unconsolid -1 loss -1 loss -1 loss -1 loss -1 -2
+propert -1 propert -1 numb -1 net -1 net -1 net -1 note -1 incom -1 exclud -1 profit -1 profit -1 profit -1 profit -1 profit -1 profit -1 profit -1 item -1 joint -1 ventur -1 partn -1 operat -1 sale -1 amort -1 -2

@@ -1,0 +1,4 @@
+credit -1 merrill -1 card -1 back -1 back -1 bp -1 bp -1 bp -1 bp -1 sep -1 sep -1 sep -1 sep -1 full -1 full -1 mast -1 manag -1 manag -1 trust -1 decemb -1 decemb -1 deal -1 unit -1 spread -1 spread -1 issu -1 pay -1 pay -1 expect -1 lead -1 -2
+lead -1 aaa -1 aaa -1 citibank -1 citibank -1 citibank -1 pric -1 pric -1 moody -1 moody -1 legal -1 legal -1 million -1 million -1 million -1 million -1 class -1 class -1 class -1 class -1 class -1 matur -1 long -1 long -1 coupon -1 coupon -1 coupon -1 coupon -1 typ -1 typ -1 frn -1 -2
+frn -1 libor -1 libor -1 london -1 tranch -1 note -1 note -1 note -1 note -1 note -1 date -1 date -1 a2 -1 base -1 base -1 exp -1 exp -1 aug -1 aug -1 mat -1 mat -1 mat -1 mat -1 septemb -1 asset -1 asset -1 lynch -1 total -1 total -1 bond -1 bond -1 -2
+glob -1 set -1 newsroom -1 amt -1 amt -1 iss -1 iss -1 denom -1 denom -1 fee -1 fee -1 mln -1 mln -1 -2

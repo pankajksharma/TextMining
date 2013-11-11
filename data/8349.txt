@@ -1,0 +1,4 @@
+limit -1 early -1 market -1 emerg -1 sulphur -1 gas -1 gas -1 cif -1 cif -1 high -1 high -1 high -1 interest -1 interest -1 low -1 octob -1 screen -1 fall -1 cargoe -1 firm -1 firm -1 deal -1 franc -1 franc -1 week -1 germ -1 germ -1 strong -1 ipe -1 ipe -1 -2
+ipe -1 ipe -1 ipe -1 ipe -1 ipe -1 expect -1 subdu -1 din -1 pric -1 gain -1 gain -1 futur -1 futur -1 futur -1 thursday -1 thursday -1 end -1 contract -1 fod -1 benchmark -1 benchmark -1 oil -1 oil -1 oil -1 sum -1 remain -1 remain -1 stead -1 buy -1 buy -1 cent -1 -2
+cent -1 qual -1 award -1 bid -1 scar -1 russian -1 front -1 put -1 put -1 estimat -1 ton -1 ton -1 ton -1 ton -1 ton -1 fob -1 detail -1 day -1 hamburg -1 refin -1 diesel -1 septemb -1 tend -1 prem -1 prem -1 prem -1 prem -1 prem -1 prem -1 heat -1 carg -1 -2
+carg -1 friday -1 friday -1 ioc -1 sept -1 sept -1 sept -1 sept -1 sept -1 sept -1 hit -1 nwe -1 nwe -1 nwe -1 add -1 ara -1 barg -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

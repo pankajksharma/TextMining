@@ -1,0 +1,4 @@
+tight -1 market -1 recent -1 outnumb -1 tuesday -1 stock -1 stock -1 high -1 interest -1 interest -1 month -1 climb -1 bank -1 start -1 mayn -1 sydney -1 point -1 point -1 point -1 fall -1 firm -1 occup -1 spill -1 peopl -1 week -1 today -1 costel -1 costel -1 percent -1 expect -1 -2
+expect -1 treasur -1 jump -1 ratio -1 level -1 level -1 level -1 big -1 index -1 index -1 index -1 ordin -1 volum -1 brok -1 brok -1 brok -1 futur -1 nick -1 shar -1 shar -1 shar -1 shar -1 open -1 open -1 open -1 push -1 push -1 monday -1 remain -1 remain -1 stead -1 -2
+feder -1 rise -1 fuel -1 buy -1 buy -1 buy -1 buy -1 rose -1 rose -1 austral -1 austral -1 continu -1 buoy -1 cylic -1 brambl -1 underl -1 transport -1 septemb -1 prem -1 budget -1 budget -1 budget -1 bours -1 favor -1 fenc -1 afternoon -1 pete -1 yesterday -1 solid -1 hope -1 boost -1 -2
+trad -1 bit -1 -2

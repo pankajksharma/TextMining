@@ -1,0 +1,3 @@
+carry -1 interest -1 rate -1 liquid -1 monet -1 monet -1 declar -1 bank -1 bank -1 bank -1 bank -1 bank -1 billion -1 billion -1 billion -1 week -1 week -1 week -1 void -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 percent -1 bill -1 bill -1 bill -1 bill -1 -2
+bill -1 bill -1 reut -1 pric -1 sold -1 sold -1 sold -1 benchmark -1 auction -1 auction -1 stabl -1 off -1 wid -1 venezuel -1 venezuel -1 princip -1 coupon -1 cent -1 cent -1 cent -1 bln -1 sharp -1 note -1 note -1 calcul -1 sell -1 prelimin -1 bolivar -1 bolivar -1 bolivar -1 bolivar -1 -2
+carac -1 day -1 day -1 day -1 day -1 day -1 day -1 day -1 tem -1 tem -1 tem -1 tem -1 formul -1 worth -1 worth -1 tool -1 polic -1 newsroom -1 restrict -1 establ -1 pct -1 -2

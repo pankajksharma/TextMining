@@ -1,0 +1,4 @@
+early -1 market -1 demel -1 demel -1 demel -1 demel -1 demel -1 volkswagen -1 ag -1 ag -1 reach -1 reach -1 rate -1 month -1 fast -1 year -1 year -1 year -1 term -1 climb -1 climb -1 frankfurt -1 billion -1 billion -1 trend -1 manag -1 carmak -1 carmak -1 herbert -1 unit -1 -2
+seek -1 germ -1 report -1 percent -1 percent -1 percent -1 percent -1 expect -1 expect -1 expect -1 outlook -1 level -1 level -1 reut -1 million -1 million -1 thursday -1 long -1 audi -1 audi -1 audi -1 audi -1 audi -1 audi -1 return -1 return -1 return -1 grow -1 rose -1 rose -1 told -1 -2
+declin -1 net -1 ago -1 predict -1 half -1 half -1 pre -1 period -1 gilard -1 interview -1 simil -1 luxur -1 profit -1 profit -1 goal -1 goal -1 board -1 john -1 chairm -1 newsroom -1 top -1 top -1 mark -1 mark -1 mark -1 mark -1 sale -1 sale -1 sale -1 sale -1 sale -1 -2
+sale -1 sale -1 sale -1 tax -1 pct -1 -2

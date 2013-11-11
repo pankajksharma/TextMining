@@ -1,0 +1,2 @@
+credit -1 credit -1 credit -1 agent -1 bank -1 bank -1 bank -1 agree -1 good -1 good -1 capit -1 capit -1 million -1 support -1 keny -1 keny -1 keny -1 industr -1 chin -1 chin -1 chin -1 chin -1 machin -1 machin -1 financ -1 made -1 provid -1 import -1 import -1 eximbank -1 -2
+eximbank -1 new -1 grant -1 develop -1 export -1 export -1 export -1 export -1 includ -1 wednesday -1 xinhua -1 equip -1 equip -1 set -1 electron -1 electron -1 sign -1 mln -1 -2

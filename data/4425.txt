@@ -1,0 +1,2 @@
+recov -1 market -1 market -1 nat -1 hous -1 hous -1 retail -1 high -1 high -1 stag -1 bank -1 larg -1 loan -1 gmt -1 britain -1 britain -1 home -1 lend -1 shar -1 nation -1 rise -1 plc -1 penc -1 penc -1 wednesday -1 abbey -1 abbey -1 abbey -1 enthusiasm -1 brit -1 -2
+reviv -1 sign -1 trad -1 trad -1 group -1 -2

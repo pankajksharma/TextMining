@@ -1,0 +1,4 @@
+soybean -1 early -1 tight -1 market -1 market -1 usda -1 small -1 cdt -1 illinoi -1 stock -1 pod -1 bushel -1 bushel -1 bushel -1 high -1 high -1 high -1 month -1 low -1 low -1 potent -1 potent -1 data -1 iowa -1 iowa -1 good -1 firm -1 firm -1 turn -1 turn -1 -2
+deal -1 yield -1 benefic -1 profess -1 cash -1 overnight -1 outlook -1 slowdown -1 futur -1 crop -1 crop -1 crop -1 crop -1 crop -1 nelson -1 sam -1 august -1 harvest -1 pressur -1 corn -1 corn -1 corn -1 corn -1 corn -1 corn -1 corn -1 cent -1 cbot -1 cbot -1 input -1 midw -1 -2
+farm -1 man -1 tour -1 tour -1 tour -1 nearb -1 improv -1 northeastern -1 ear -1 acr -1 acr -1 south -1 basi -1 americ -1 peg -1 stev -1 relat -1 concern -1 septemb -1 septemb -1 bruc -1 intern -1 eastern -1 weigh -1 late -1 late -1 weather -1 weather -1 bull -1 bull -1 scout -1 -2
+scout -1 count -1 trad -1 -2

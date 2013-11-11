@@ -1,0 +1,4 @@
+compan -1 compan -1 calm -1 sect -1 sect -1 recent -1 quiet -1 back -1 bow -1 funda -1 stock -1 clos -1 clos -1 rate -1 perform -1 entir -1 low -1 fresh -1 data -1 point -1 point -1 fall -1 good -1 good -1 firm -1 invest -1 invest -1 unit -1 deal -1 deal -1 -2
+deal -1 deal -1 list -1 wait -1 today -1 heavyweight -1 ship -1 ship -1 ship -1 drill -1 stat -1 percent -1 percent -1 strong -1 downward -1 expect -1 moment -1 level -1 big -1 pric -1 gain -1 gain -1 index -1 index -1 million -1 shar -1 shar -1 shar -1 oslo -1 oslo -1 drop -1 -2
+oil -1 industr -1 crown -1 crown -1 crown -1 rise -1 norweg -1 reason -1 pressur -1 pressur -1 bounc -1 exchang -1 figur -1 move -1 take -1 take -1 dip -1 await -1 guess -1 earn -1 attribut -1 turnov -1 session -1 session -1 profit -1 profit -1 remark -1 worth -1 dollar -1 total -1 friday -1 -2
+norsk -1 norsk -1 norsk -1 hydr -1 hydr -1 hydr -1 hydr -1 moderat -1 newsroom -1 hold -1 trad -1 -2

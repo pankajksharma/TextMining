@@ -1,0 +1,2 @@
+credit -1 municip -1 rate -1 rate -1 rate -1 facil -1 variabl -1 term -1 bank -1 point -1 baa1 -1 baa1 -1 invest -1 loc -1 issu -1 stat -1 dem -1 moody -1 moody -1 long -1 author -1 nazar -1 nazar -1 ca -1 servic -1 educat -1 vmig -1 vmig -1 announc -1 loma -1 -2
+loma -1 revenu -1 colleg -1 colleg -1 japan -1 desk -1 californ -1 calif -1 -2

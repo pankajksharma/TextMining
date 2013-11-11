@@ -1,0 +1,2 @@
+capac -1 interest -1 year -1 start -1 shr -1 nil -1 nil -1 div -1 expenditur -1 decemb -1 deprec -1 produc -1 stat -1 million -1 million -1 million -1 bombay -1 cement -1 cement -1 india -1 net -1 net -1 net -1 gujarat -1 gujarat -1 gujarat -1 ambuj -1 ambuj -1 wealth -1 note -1 -2
+cost -1 ton -1 ton -1 incom -1 incom -1 profit -1 plant -1 rupee -1 rupee -1 rupee -1 total -1 june -1 newsroom -1 sale -1 tax -1 tax -1 pct -1 -2

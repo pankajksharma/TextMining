@@ -1,0 +1,2 @@
+shoe -1 newsdesk -1 gener -1 interest -1 jul -1 jul -1 occup -1 week -1 week -1 gross -1 q2 -1 administ -1 shar -1 shar -1 shar -1 end -1 end -1 chicag -1 rise -1 buy -1 net -1 net -1 net -1 net -1 thousand -1 cost -1 cost -1 incom -1 incom -1 incom -1 -2
+incom -1 incom -1 sell -1 aug -1 aug -1 aug -1 profit -1 includ -1 expend -1 expend -1 aver -1 carniv -1 operat -1 distribut -1 sale -1 sale -1 tax -1 tax -1 -2

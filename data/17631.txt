@@ -1,0 +1,3 @@
+tight -1 market -1 market -1 money -1 clos -1 rate -1 rate -1 low -1 liquid -1 fluctu -1 greenback -1 bank -1 bank -1 bank -1 bank -1 fall -1 mid -1 mid -1 unit -1 deal -1 deal -1 deal -1 deal -1 deal -1 today -1 today -1 slight -1 strong -1 interv -1 interv -1 -2
+thursday -1 thursday -1 support -1 european -1 european -1 open -1 end -1 versus -1 remain -1 short -1 short -1 stood -1 finish -1 weak -1 cent -1 cent -1 cent -1 sever -1 bell -1 intervent -1 intervent -1 move -1 won -1 won -1 won -1 won -1 won -1 won -1 won -1 yoon -1 put -1 -2
+rang -1 rang -1 jean -1 sell -1 wednesday -1 caut -1 demand -1 dollar -1 dollar -1 dollar -1 dollar -1 due -1 set -1 tomorrow -1 fear -1 fear -1 fear -1 korea -1 amid -1 trad -1 -2

@@ -1,0 +1,2 @@
+du -1 market -1 retail -1 tuesday -1 tuni -1 tuni -1 stock -1 clos -1 clos -1 clos -1 bank -1 firm -1 monoprix -1 sourc -1 index -1 volum -1 shar -1 shar -1 banqu -1 monday -1 sfbt -1 ubci -1 exchang -1 exchang -1 mono -1 sud -1 tn -1 dinar -1 dinar -1 dinar -1 -2
+dinar -1 dinar -1 dinar -1 dinar -1 dinar -1 dinar -1 dinar -1 dinar -1 bours -1 bours -1 bever -1 stor -1 unchang -1 unchang -1 trad -1 -2

@@ -1,0 +1,4 @@
+early -1 mexic -1 mexic -1 mexic -1 market -1 floor -1 retail -1 stock -1 stock -1 stock -1 stock -1 stock -1 clos -1 clos -1 record -1 high -1 bottom -1 low -1 low -1 palacio -1 rebound -1 point -1 fall -1 fall -1 good -1 list -1 de -1 peso -1 peso -1 peso -1 -2
+peso -1 peopl -1 larg -1 week -1 issu -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 lead -1 fell -1 fell -1 fell -1 fell -1 fell -1 level -1 level -1 big -1 pric -1 gain -1 index -1 volum -1 million -1 shar -1 shar -1 shar -1 shar -1 support -1 benchmark -1 -2
+outpac -1 pl -1 rise -1 grup -1 grup -1 ground -1 weak -1 paid -1 made -1 lose -1 lose -1 fact -1 take -1 bols -1 consolid -1 roch -1 mx -1 gave -1 session -1 gigant -1 profit -1 resist -1 friday -1 hit -1 hier -1 ipc -1 peter -1 salin -1 top -1 transact -1 adr -1 -2
+sign -1 telmex -1 telmex -1 telmex -1 trad -1 trad -1 trad -1 centavo -1 centavo -1 centavo -1 centavo -1 centavo -1 centavo -1 prepar -1 -2

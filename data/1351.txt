@@ -1,0 +1,3 @@
+compan -1 engag -1 clos -1 month -1 bonus -1 hotel -1 april -1 shr -1 nil -1 manag -1 manag -1 issu -1 stat -1 payabl -1 gain -1 gain -1 interim -1 interim -1 million -1 shar -1 adjust -1 adjust -1 adjust -1 deposit -1 end -1 dividend -1 dividend -1 dividend -1 hk -1 cent -1 -2
+cent -1 propert -1 propert -1 pearl -1 pearl -1 pearl -1 forfeitur -1 servic -1 net -1 net -1 net -1 orient -1 orient -1 orient -1 pre -1 note -1 develop -1 book -1 except -1 except -1 earn -1 turnov -1 compar -1 septemb -1 septemb -1 item -1 hong -1 project -1 kong -1 june -1 newsroom -1 -2
+consult -1 hold -1 sale -1 commerc -1 trad -1 pct -1 -2

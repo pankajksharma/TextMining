@@ -1,0 +1,2 @@
+early -1 capac -1 pilgrim -1 immed -1 full -1 york -1 nuke -1 output -1 output -1 output -1 nrc -1 nrc -1 unit -1 unit -1 massachuset -1 report -1 percent -1 boston -1 boston -1 boston -1 status -1 test -1 test -1 plymouth -1 monday -1 monday -1 pow -1 pow -1 pow -1 pow -1 -2
+pow -1 return -1 daily -1 commit -1 suppress -1 megawat -1 nuclear -1 nuclear -1 electr -1 plant -1 plant -1 regulat -1 reduc -1 reduc -1 reduc -1 reduc -1 edison -1 edison -1 edison -1 comment -1 mass -1 operat -1 operat -1 desk -1 offic -1 -2

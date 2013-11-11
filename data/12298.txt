@@ -1,0 +1,2 @@
+interest -1 interest -1 rate -1 rate -1 month -1 month -1 month -1 month -1 year -1 bracket -1 term -1 bank -1 discount -1 week -1 week -1 issu -1 issu -1 yield -1 yield -1 yield -1 percent -1 percent -1 treasur -1 treasur -1 bill -1 bill -1 payabl -1 beirut -1 monday -1 august -1 -2
+leban -1 leban -1 cent -1 announc -1 prev -1 editor -1 unchang -1 unchang -1 -2

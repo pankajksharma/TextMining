@@ -1,0 +1,2 @@
+market -1 market -1 money -1 money -1 month -1 month -1 bank -1 annual -1 franc -1 issu -1 issu -1 issu -1 issu -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 govern -1 pric -1 pric -1 million -1 million -1 nation -1 swiss -1 swiss -1 swiss -1 swiss -1 feder -1 -2
+rais -1 rais -1 august -1 august -1 paid -1 paid -1 claim -1 claim -1 prev -1 prev -1 zurich -1 editor -1 late -1 late -1 pct -1 -2

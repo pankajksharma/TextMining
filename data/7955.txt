@@ -1,0 +1,1 @@
+nasdaq -1 market -1 stock -1 stock -1 low -1 low -1 data -1 good -1 strong -1 fell -1 index -1 open -1 open -1 industr -1 durabl -1 pressur -1 pressur -1 weak -1 surpris -1 july -1 wall -1 street -1 friday -1 bond -1 bond -1 dow -1 -2

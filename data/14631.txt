@@ -1,0 +1,5 @@
+stak -1 stak -1 stak -1 compan -1 compan -1 compan -1 compan -1 novemb -1 econom -1 gener -1 idea -1 interest -1 hapoalim -1 body -1 reach -1 entir -1 month -1 brief -1 year -1 journ -1 come -1 octob -1 stuck -1 privat -1 privat -1 privat -1 privat -1 privat -1 privat -1 bank -1 -2
+bank -1 mosh -1 deter -1 forward -1 invest -1 claridg -1 method -1 difficult -1 expect -1 decid -1 govern -1 govern -1 govern -1 govern -1 albeit -1 push -1 pull -1 pull -1 minsit -1 nation -1 abroad -1 give -1 consid -1 author -1 deput -1 timet -1 public -1 public -1 foreign -1 lion -1 lion -1 -2
+lion -1 lion -1 offer -1 offer -1 prim -1 prim -1 prim -1 prim -1 senior -1 senior -1 minist -1 minist -1 minist -1 move -1 fact -1 fact -1 take -1 restructur -1 put -1 put -1 direct -1 program -1 program -1 aim -1 aim -1 aim -1 kind -1 sell -1 sell -1 led -1 corpor -1 -2
+detail -1 detail -1 plan -1 plan -1 plan -1 includ -1 ask -1 aris -1 hand -1 ready -1 tend -1 tend -1 comment -1 account -1 secur -1 refus -1 process -1 israel -1 israel -1 israel -1 israel -1 add -1 concent -1 hope -1 sale -1 sale -1 sale -1 offic -1 offic -1 offic -1 offic -1 -2
+reveal -1 group -1 prepar -1 -2

@@ -1,0 +1,2 @@
+month -1 romin -1 nicaret -1 year -1 bank -1 unit -1 banc -1 million -1 million -1 million -1 million -1 adjust -1 seguro -1 seguro -1 itau -1 itau -1 itau -1 inflat -1 figur -1 figur -1 figur -1 insur -1 net -1 net -1 net -1 bln -1 bln -1 half -1 half -1 note -1 -2
+brazil -1 brazil -1 brazil -1 h1 -1 h1 -1 h1 -1 paul -1 post -1 sao -1 prem -1 worth -1 real -1 releas -1 newsroom -1 reai -1 mln -1 -2

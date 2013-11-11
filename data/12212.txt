@@ -1,0 +1,2 @@
+acquir -1 market -1 adopt -1 adopt -1 stock -1 stock -1 system -1 automat -1 issu -1 test -1 million -1 shar -1 shar -1 shar -1 open -1 monday -1 industr -1 telecommun -1 program -1 program -1 program -1 offset -1 plan -1 equip -1 teradyn -1 teradyn -1 teradyn -1 connect -1 repurchas -1 repurchas -1 -2
+make -1 electron -1 option -1 -2

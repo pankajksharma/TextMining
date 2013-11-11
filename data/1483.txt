@@ -1,0 +1,2 @@
+grain -1 newsdesk -1 hard -1 stock -1 stock -1 stock -1 stock -1 stock -1 stock -1 mge -1 mge -1 duluth -1 bushel -1 year -1 week -1 red -1 red -1 grad -1 report -1 approv -1 st -1 futur -1 deliv -1 deliv -1 deliv -1 deliv -1 deliv -1 deliv -1 deliv -1 deliv -1 -2
+deliv -1 area -1 area -1 chicag -1 ccc -1 ccc -1 ccc -1 elevat -1 exchang -1 exchang -1 wheat -1 wheat -1 ago -1 ago -1 posit -1 note -1 wing -1 exclud -1 paul -1 aug -1 aug -1 includ -1 minneapol -1 minneapol -1 minneapol -1 minneapol -1 total -1 total -1 spring -1 superior -1 hrs -1 -2

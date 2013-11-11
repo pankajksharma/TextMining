@@ -1,0 +1,4 @@
+payment -1 nationw -1 novemb -1 launch -1 gener -1 gener -1 thin -1 inspect -1 inspect -1 gas -1 month -1 year -1 review -1 agent -1 agent -1 agent -1 potent -1 billion -1 manag -1 interior -1 interior -1 week -1 complet -1 produc -1 produc -1 produc -1 report -1 govern -1 collect -1 pric -1 -2
+pric -1 miner -1 miner -1 belief -1 crud -1 crud -1 oil -1 oil -1 oil -1 time -1 feder -1 feder -1 paid -1 mms -1 mms -1 effort -1 obtain -1 servic -1 hunt -1 move -1 depart -1 depart -1 ago -1 critic -1 fail -1 draft -1 oversight -1 pape -1 settl -1 settl -1 base -1 -2
+sell -1 trail -1 simil -1 bar -1 land -1 land -1 royal -1 royal -1 royal -1 royal -1 royal -1 royal -1 profit -1 announc -1 post -1 post -1 underpay -1 underpay -1 underpay -1 audit -1 prem -1 explain -1 project -1 pogo -1 watchdog -1 respons -1 due -1 late -1 process -1 californ -1 clamp -1 -2
+left -1 disput -1 group -1 group -1 -2

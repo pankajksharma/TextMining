@@ -1,0 +1,2 @@
+medal -1 medal -1 train -1 game -1 game -1 sport -1 year -1 matthew -1 sydney -1 sydney -1 mind -1 seek -1 atlant -1 britain -1 endur -1 athlet -1 athlet -1 vict -1 pair -1 shar -1 shot -1 gold -1 gold -1 gold -1 time -1 row -1 row -1 olymp -1 olymp -1 olymp -1 -2
+success -1 won -1 ll -1 cox -1 stev -1 redgrav -1 redgrav -1 redgrav -1 pinsent -1 wednesday -1 enthusiasm -1 chang -1 consecut -1 thought -1 -2

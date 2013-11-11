@@ -1,0 +1,2 @@
+thin -1 gas -1 gas -1 high -1 indicat -1 report -1 bunk -1 bunk -1 bunk -1 bunk -1 cst -1 cst -1 cst -1 cst -1 enquir -1 parcel -1 pric -1 pric -1 pric -1 thursday -1 deliv -1 mdo -1 mdo -1 unq -1 oil -1 oil -1 stead -1 stead -1 time -1 consid -1 -2
+buy -1 singapor -1 singapor -1 singapor -1 singapor -1 singapor -1 cove -1 quot -1 forc -1 final -1 ton -1 ton -1 aug -1 wednesday -1 ran -1 shipown -1 comment -1 carg -1 suppl -1 newsroom -1 trad -1 -2

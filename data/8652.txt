@@ -1,0 +1,4 @@
+early -1 mexic -1 mexic -1 mexic -1 mexic -1 market -1 martin -1 sect -1 sect -1 gas -1 restaur -1 tabl -1 year -1 year -1 hotel -1 construc -1 term -1 amount -1 annual -1 peso -1 peso -1 peso -1 peso -1 week -1 quart -1 quart -1 quart -1 quart -1 quart -1 quart -1 -2
+gross -1 domest -1 mine -1 produc -1 stat -1 percent -1 percent -1 percent -1 percent -1 langfield -1 govern -1 q2 -1 pric -1 pric -1 pric -1 deflat -1 wat -1 end -1 end -1 industr -1 statist -1 current -1 current -1 grow -1 ineg -1 ineg -1 nomin -1 nomin -1 nomin -1 nomin -1 nomin -1 -2
+city -1 gdp -1 gdp -1 gdp -1 gdp -1 gdp -1 gdp -1 gdp -1 growth -1 fish -1 figur -1 servic -1 forestr -1 agricultur -1 trill -1 trill -1 trill -1 ago -1 bln -1 electr -1 detail -1 institut -1 compar -1 express -1 announc -1 implicit -1 friday -1 real -1 newsroom -1 manufactur -1 commerc -1 -2
+pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 -2

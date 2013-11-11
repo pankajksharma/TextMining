@@ -1,0 +1,5 @@
+pennsylvan -1 maryland -1 novemb -1 novemb -1 pjm -1 pjm -1 pjm -1 pjm -1 pjm -1 pjm -1 pjm -1 pjm -1 pjm -1 market -1 jersey -1 pool -1 tuesday -1 tuesday -1 tuesday -1 heard -1 octob -1 york -1 mid -1 mid -1 firm -1 firm -1 firm -1 firm -1 firm -1 firm -1 -2
+decemb -1 decemb -1 deal -1 spot -1 spot -1 week -1 week -1 week -1 quart -1 quart -1 assess -1 report -1 east -1 atlant -1 atlant -1 interconnect -1 pric -1 pric -1 pric -1 pric -1 busi -1 brok -1 brok -1 flat -1 flat -1 hour -1 deliv -1 deliv -1 deliv -1 deliv -1 deliv -1 -2
+deliv -1 talk -1 monday -1 monday -1 monday -1 monday -1 monday -1 monday -1 monday -1 discuss -1 pow -1 pow -1 pow -1 pow -1 pow -1 pow -1 pow -1 pow -1 notion -1 quot -1 quot -1 quot -1 mwh -1 warm -1 warm -1 warm -1 megawat -1 ll -1 coast -1 valu -1 valu -1 -2
+peg -1 peg -1 electr -1 electr -1 electr -1 electr -1 day -1 day -1 day -1 compar -1 compar -1 compar -1 wednesday -1 septemb -1 leong -1 cond -1 weather -1 weather -1 unchang -1 unchang -1 forecast -1 desk -1 fourth -1 norm -1 region -1 transact -1 peak -1 peak -1 peak -1 peak -1 peak -1 -2
+sale -1 trad -1 trad -1 -2

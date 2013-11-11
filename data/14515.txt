@@ -1,0 +1,2 @@
+grain -1 grain -1 grain -1 sep -1 sep -1 sep -1 sep -1 dec -1 dec -1 dec -1 mill -1 southampton -1 gmt -1 report -1 report -1 east -1 brok -1 deliv -1 deliv -1 feed -1 feed -1 asa -1 asa -1 asa -1 wheat -1 wheat -1 barley -1 anglia -1 avon -1 rang -1 -2
+ton -1 aug -1 norfolk -1 norfolk -1 suffolk -1 suffolk -1 uk -1 uk -1 oct -1 oct -1 oct -1 sterl -1 trad -1 trad -1 trad -1 -2

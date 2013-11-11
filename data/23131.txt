@@ -1,0 +1,4 @@
+rival -1 back -1 stronghold -1 saturday -1 union -1 fall -1 armor -1 peopl -1 sourc -1 gmt -1 lead -1 confirm -1 troop -1 troop -1 troop -1 troop -1 troop -1 rebel -1 rebel -1 name -1 storm -1 main -1 aid -1 leav -1 control -1 control -1 control -1 party -1 fought -1 nation -1 -2
+time -1 massoud -1 barzan -1 area -1 jalal -1 talaban -1 rais -1 rais -1 rais -1 patrol -1 ground -1 kurd -1 kurdist -1 kurdist -1 kdp -1 kdp -1 kdp -1 kdp -1 puk -1 puk -1 puk -1 forc -1 city -1 city -1 city -1 arbil -1 arbil -1 arbil -1 arbil -1 arbil -1 arbil -1 -2
+arbil -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 artill -1 heavy -1 heavy -1 patriot -1 half -1 northern -1 mat -1 fierc -1 relief -1 hand -1 guard -1 flag -1 flag -1 flag -1 refus -1 regain -1 battl -1 fight -1 enter -1 demo -1 offic -1 offic -1 -2
+offic -1 offic -1 offic -1 -2

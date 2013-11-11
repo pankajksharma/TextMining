@@ -1,0 +1,2 @@
+acquir -1 market -1 market -1 small -1 clear -1 clear -1 gener -1 gener -1 ag -1 tuesday -1 union -1 german -1 german -1 german -1 compunet -1 compunet -1 compunet -1 compunet -1 ge -1 overlap -1 capit -1 capit -1 stat -1 law -1 exist -1 eu -1 eu -1 shar -1 european -1 european -1 -2
+techn -1 buy -1 commit -1 commit -1 made -1 comput -1 compet -1 geograph -1 exclud -1 corpor -1 electr -1 electr -1 plan -1 accept -1 inform -1 ventur -1 operat -1 operat -1 operat -1 -2

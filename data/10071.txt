@@ -1,0 +1,2 @@
+attend -1 saturday -1 halftim -1 karlsruh -1 fortun -1 balakow -1 munich -1 votav -1 schwabl -1 heinrich -1 seelig -1 zey -1 gaissmay -1 polst -1 dundee -1 jack -1 germ -1 germ -1 st -1 bobic -1 stuttgart -1 mole -1 sum -1 sum -1 armin -1 bielefeld -1 cologn -1 pen -1 socc -1 freiburg -1 -2
+werd -1 andersson -1 boruss -1 boruss -1 moenchengladbach -1 haessl -1 duesseldorf -1 moell -1 match -1 match -1 play -1 leverkus -1 divid -1 divid -1 brem -1 minut -1 bay -1 zorc -1 bochum -1 dortmund -1 kell -1 -2

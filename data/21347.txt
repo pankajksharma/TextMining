@@ -1,0 +1,3 @@
+recov -1 recov -1 early -1 early -1 early -1 early -1 mexic -1 mexic -1 mexic -1 market -1 stock -1 clos -1 clos -1 clos -1 steep -1 low -1 begin -1 rebound -1 currenc -1 fall -1 unit -1 spot -1 spot -1 peso -1 peso -1 peso -1 peso -1 peso -1 stat -1 yield -1 -2
+open -1 strength -1 hour -1 hour -1 hour -1 hour -1 end -1 contract -1 contract -1 rise -1 shav -1 weak -1 weak -1 weak -1 weak -1 weak -1 weak -1 loss -1 declin -1 declin -1 sharp -1 bols -1 session -1 day -1 day -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 friday -1 -2
+bond -1 regain -1 amid -1 centavo -1 centavo -1 centavo -1 centavo -1 centavo -1 -2

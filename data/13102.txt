@@ -1,0 +1,5 @@
+ealham -1 ealham -1 knight -1 sery -1 high -1 chri -1 ata -1 ata -1 maid -1 alec -1 andy -1 croft -1 croft -1 graham -1 jack -1 ian -1 mull -1 mull -1 england -1 england -1 england -1 hussain -1 moin -1 nick -1 test -1 test -1 domin -1 end -1 monday -1 stewart -1 -2
+inn -1 latif -1 cricket -1 saeed -1 graem -1 salisbur -1 salisbur -1 match -1 match -1 lewi -1 lewi -1 brown -1 brown -1 russel -1 pakist -1 pakist -1 pakist -1 scor -1 simon -1 out -1 rashid -1 malik -1 malik -1 mohammad -1 mohammad -1 wicket -1 rehm -1 rehm -1 akram -1 akram -1 akram -1 -2
+akram -1 run -1 run -1 anwar -1 mike -1 atherton -1 atherton -1 youn -1 youn -1 wasim -1 wasim -1 john -1 cork -1 cork -1 mushtaq -1 mushtaq -1 bowl -1 bowl -1 thorp -1 thorp -1 crawley -1 caddick -1 caddick -1 tabulat -1 tabulat -1 aamir -1 aamir -1 sohail -1 sohail -1 bat -1 bat -1 -2
+ijaz -1 hick -1 hick -1 inzamam -1 ul -1 haq -1 salim -1 salim -1 aver -1 aver -1 aver -1 aver -1 asif -1 asif -1 mujtab -1 mujtab -1 robert -1 shadab -1 shadab -1 kabir -1 kabir -1 waqar -1 waqar -1 ur -1 ur -1 khan -1 nass -1 alan -1 ahm -1 ahm -1 ahm -1 -2
+mark -1 over -1 -2

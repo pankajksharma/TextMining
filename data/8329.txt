@@ -1,0 +1,2 @@
+acquir -1 newsdesk -1 stock -1 interest -1 interest -1 interest -1 month -1 month -1 month -1 declar -1 york -1 shr -1 common -1 bancorp -1 bancorp -1 loan -1 noninter -1 noninter -1 q2 -1 q2 -1 twenti -1 provis -1 provis -1 shar -1 end -1 end -1 dividend -1 edg -1 loss -1 horizon -1 -2
+net -1 net -1 net -1 note -1 incur -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 result -1 result -1 relat -1 includ -1 q1 -1 recur -1 expend -1 expend -1 expend -1 june -1 june -1 operat -1 tax -1 -2

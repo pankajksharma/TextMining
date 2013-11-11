@@ -1,0 +1,2 @@
+compan -1 compan -1 market -1 stock -1 stock -1 stock -1 clos -1 clos -1 york -1 extrem -1 nys -1 today -1 today -1 light -1 light -1 slight -1 slight -1 busi -1 volum -1 volum -1 volum -1 volum -1 volum -1 shar -1 shar -1 shar -1 thursday -1 hour -1 hour -1 rose -1 -2
+exchang -1 exchang -1 comput -1 semiconduc -1 bell -1 modem -1 americ -1 sell -1 session -1 session -1 compar -1 compar -1 corp -1 wednesday -1 wednesday -1 wednesday -1 wednesday -1 sier -1 sier -1 sier -1 activ -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

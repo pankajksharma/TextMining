@@ -1,0 +1,2 @@
+stak -1 tuesday -1 martensson -1 bank -1 bank -1 bank -1 stat -1 percent -1 handelsbank -1 handelsbank -1 handelsbank -1 swed -1 swed -1 told -1 bid -1 bid -1 bid -1 stockholm -1 new -1 sell -1 exclud -1 exclud -1 institut -1 arn -1 stadshypotek -1 stadshypotek -1 stadshypotek -1 svensk -1 chairm -1 newsroom -1 -2
+mortg -1 confer -1 commerc -1 -2

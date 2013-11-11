@@ -1,0 +1,2 @@
+vet -1 vet -1 acquir -1 clear -1 clear -1 scop -1 ag -1 ag -1 union -1 month -1 month -1 scher -1 scher -1 gehe -1 gehe -1 jenapharm -1 merg -1 merg -1 journ -1 review -1 review -1 start -1 start -1 german -1 firm -1 deal -1 deal -1 deal -1 fell -1 eu -1 -2
+eu -1 european -1 european -1 brussel -1 appar -1 control -1 case -1 gmbh -1 buy -1 investig -1 commit -1 initial -1 harm -1 corpor -1 detail -1 plan -1 pharmaceutic -1 wednesday -1 regulat -1 joint -1 competit -1 newsroom -1 execut -1 routin -1 offic -1 -2

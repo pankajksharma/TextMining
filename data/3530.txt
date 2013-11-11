@@ -1,0 +1,2 @@
+credit -1 desir -1 interest -1 rate -1 rate -1 rate -1 rate -1 seneg -1 bank -1 bank -1 bank -1 bank -1 burkin -1 faso -1 point -1 fall -1 fall -1 fall -1 discount -1 discount -1 togo -1 quart -1 west -1 domest -1 afric -1 afric -1 stat -1 stat -1 stat -1 percent -1 -2
+lower -1 nige -1 drop -1 abroad -1 monday -1 mali -1 cent -1 cent -1 inflat -1 bceao -1 ivory -1 cost -1 coast -1 apply -1 justif -1 refin -1 effect -1 memb -1 add -1 benin -1 eas -1 pct -1 -2

@@ -1,0 +1,2 @@
+follow -1 market -1 penny -1 track -1 high -1 york -1 york -1 firm -1 spot -1 gulf -1 sourc -1 grad -1 grad -1 report -1 harbor -1 nymex -1 nymex -1 nymex -1 jet -1 jet -1 jet -1 pric -1 pric -1 gain -1 gain -1 futur -1 futur -1 print -1 talk -1 oil -1 -2
+industr -1 stabl -1 fuel -1 fuel -1 fuel -1 cent -1 cent -1 qual -1 offer -1 energ -1 paul -1 differ -1 wednesday -1 septemb -1 concern -1 invent -1 gallon -1 aviat -1 heat -1 chang -1 afternoon -1 add -1 desk -1 franklin -1 -2

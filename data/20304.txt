@@ -1,0 +1,4 @@
+compan -1 residu -1 residu -1 market -1 market -1 market -1 track -1 stock -1 stock -1 stock -1 shutdown -1 sulphur -1 high -1 high -1 low -1 fall -1 fall -1 firm -1 firm -1 spot -1 week -1 week -1 expect -1 expect -1 cash -1 sent -1 level -1 reut -1 pric -1 pric -1 -2
+show -1 million -1 thursday -1 trig -1 end -1 drop -1 oil -1 oil -1 remain -1 chin -1 edg -1 edg -1 august -1 fuel -1 fuel -1 pocket -1 singapor -1 singapor -1 singapor -1 singapor -1 commit -1 told -1 quot -1 quot -1 quot -1 figur -1 figur -1 bid -1 signif -1 pape -1 pape -1 -2
+pape -1 bpd -1 ton -1 desulphuris -1 sell -1 develop -1 day -1 hsfo -1 wednesday -1 wednesday -1 refin -1 septemb -1 septemb -1 septemb -1 board -1 barrel -1 barrel -1 barrel -1 demand -1 dollar -1 late -1 avail -1 newsroom -1 add -1 bull -1 bull -1 yukong -1 amid -1 trad -1 trad -1 trad -1 -2
+trad -1 trad -1 -2

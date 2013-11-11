@@ -1,0 +1,2 @@
+month -1 year -1 yen -1 yen -1 yen -1 nil -1 div -1 billion -1 sourc -1 interim -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 mth -1 current -1 pow -1 net -1 ago -1 note -1 electr -1 electr -1 actual -1 septemb -1 prev -1 late -1 manufactur -1 -2
+parent -1 parent -1 forecast -1 forecast -1 forecast -1 operat -1 sale -1 origin -1 origin -1 -2

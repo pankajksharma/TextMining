@@ -1,0 +1,4 @@
+negot -1 fire -1 econom -1 tuesday -1 tuesday -1 breakdown -1 peac -1 sack -1 sack -1 halt -1 begin -1 agent -1 agent -1 agree -1 system -1 prison -1 interior -1 complet -1 key -1 key -1 report -1 pract -1 kovac -1 troop -1 rebel -1 name -1 act -1 futur -1 chechny -1 grozn -1 -2
+grozn -1 task -1 chech -1 end -1 pull -1 talk -1 maskhadov -1 weekend -1 lebe -1 provoc -1 august -1 patrol -1 replac -1 foreign -1 ground -1 side -1 offend -1 exchang -1 call -1 work -1 tikhomirov -1 tikhomirov -1 tikhomirov -1 meciar -1 continu -1 prim -1 minist -1 minist -1 minist -1 minist -1 premy -1 -2
+mich -1 imple -1 russian -1 district -1 new -1 final -1 final -1 weapon -1 word -1 gave -1 plan -1 day -1 affair -1 ctk -1 hand -1 wednesday -1 accept -1 resum -1 army -1 joint -1 subject -1 withdraw -1 withdraw -1 obstacl -1 polic -1 add -1 slovak -1 slovak -1 slovak -1 soldy -1 presid -1 -2
+creat -1 vladimir -1 region -1 southern -1 group -1 -2

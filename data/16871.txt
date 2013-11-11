@@ -1,0 +1,2 @@
+ag -1 month -1 receiv -1 full -1 invest -1 turn -1 employ -1 gross -1 debt -1 stat -1 cash -1 fix -1 million -1 shar -1 end -1 oerlikon -1 oerlikon -1 financ -1 financ -1 flow -1 loss -1 loss -1 loss -1 loss -1 net -1 net -1 net -1 pre -1 buehrl -1 note -1 -2
+incom -1 incom -1 incom -1 h1 -1 sfr -1 sfr -1 profit -1 profit -1 result -1 asset -1 zurich -1 editor -1 expend -1 june -1 june -1 operat -1 ord -1 hold -1 sale -1 tax -1 tax -1 group -1 -2

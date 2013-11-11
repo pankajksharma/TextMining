@@ -1,0 +1,3 @@
+iii -1 draw -1 bank -1 point -1 te -1 stand -1 stand -1 stand -1 lost -1 videoton -1 videoton -1 videoton -1 vac -1 vac -1 kisp -1 kisp -1 ftc -1 pec -1 pec -1 siofok -1 siofok -1 bekescsab -1 bekescsab -1 gyor -1 weekend -1 ker -1 tve -1 halad -1 halad -1 csepel -1 -2
+csepel -1 ujp -1 ujp -1 socc -1 socc -1 bvsc -1 bvsc -1 stadl -1 stadl -1 mtk -1 mtk -1 vasa -1 vasa -1 parmalat -1 fehervar -1 ferencvaro -1 won -1 play -1 fc -1 fc -1 debrec -1 debrec -1 divid -1 divid -1 result -1 result -1 goal -1 goal -1 tabulat -1 chang -1 holiday -1 -2
+zte -1 zte -1 newsroom -1 budap -1 hung -1 hung -1 -2

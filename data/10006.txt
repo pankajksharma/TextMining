@@ -1,0 +1,4 @@
+bring -1 congress -1 small -1 refer -1 clear -1 vagu -1 renovat -1 illeg -1 saturday -1 low -1 begin -1 own -1 own -1 safet -1 curb -1 newspap -1 newspap -1 stand -1 stand -1 standard -1 manag -1 resourc -1 resourc -1 resourc -1 poor -1 peopl -1 guid -1 confus -1 week -1 mine -1 -2
+mine -1 mine -1 stat -1 stat -1 stat -1 stat -1 stat -1 local -1 expect -1 expect -1 govern -1 bill -1 bill -1 suff -1 accus -1 law -1 law -1 law -1 miner -1 miner -1 miner -1 miner -1 end -1 control -1 nation -1 chin -1 chin -1 chin -1 chin -1 chin -1 chin -1 -2
+chin -1 cabinet -1 author -1 current -1 daily -1 media -1 commit -1 commit -1 commit -1 commit -1 frequ -1 right -1 right -1 belong -1 parlia -1 parlia -1 parlia -1 parlia -1 develop -1 session -1 council -1 council -1 day -1 bad -1 pass -1 pass -1 town -1 legisl -1 legisl -1 secur -1 friday -1 -2
+coal -1 coal -1 prompt -1 make -1 assum -1 ord -1 offic -1 accid -1 -2

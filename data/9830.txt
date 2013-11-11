@@ -1,0 +1,2 @@
+early -1 market -1 tight -1 slip -1 slip -1 money -1 money -1 manil -1 manil -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 low -1 liquid -1 year -1 term -1 term -1 bank -1 bank -1 week -1 lock -1 domest -1 expect -1 fix -1 phibor -1 -2
+phibor -1 phibor -1 phibor -1 val -1 matur -1 mirror -1 short -1 rose -1 offer -1 quot -1 declin -1 declin -1 inflat -1 half -1 aug -1 aug -1 aug -1 aug -1 philippin -1 secur -1 friday -1 aver -1 due -1 unchang -1 newsroom -1 interbank -1 trad -1 eas -1 eas -1 -2

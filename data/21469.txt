@@ -1,0 +1,4 @@
+recov -1 payment -1 econom -1 econom -1 econom -1 econom -1 thai -1 thai -1 thai -1 territ -1 slip -1 thin -1 baht -1 baht -1 stock -1 stock -1 stock -1 slack -1 month -1 low -1 disappoint -1 disappoint -1 data -1 bank -1 bank -1 rare -1 point -1 billion -1 fall -1 fall -1 -2
+poor -1 invest -1 invest -1 list -1 indicat -1 today -1 issu -1 slight -1 suthep -1 chawl -1 balanc -1 overnight -1 overnight -1 mood -1 gain -1 index -1 show -1 brok -1 sold -1 thursday -1 thursday -1 end -1 end -1 end -1 financ -1 financ -1 ground -1 worry -1 cent -1 farm -1 declin -1 -2
+declin -1 declin -1 growth -1 figur -1 move -1 tpi -1 export -1 led -1 july -1 day -1 wall -1 wall -1 wall -1 street -1 street -1 street -1 blu -1 pole -1 secur -1 chip -1 deficit -1 friday -1 due -1 late -1 set -1 afternoon -1 negat -1 releas -1 releas -1 releas -1 unchang -1 -2
+thaneit -1 thaneit -1 khantigaroon -1 ekachart -1 activ -1 top -1 trad -1 trad -1 -2

@@ -1,0 +1,2 @@
+televis -1 televis -1 televis -1 econom -1 mr -1 sery -1 conserv -1 peopl -1 debat -1 debat -1 debat -1 debat -1 debat -1 issu -1 stat -1 lead -1 modern -1 party -1 party -1 nation -1 greek -1 area -1 social -1 social -1 remind -1 reason -1 respect -1 foreign -1 monolog -1 prim -1 -2
+minist -1 simit -1 dialog -1 georg -1 georgiopoulo -1 posit -1 evert -1 evert -1 cost -1 athen -1 propos -1 propos -1 propos -1 institut -1 crucial -1 ask -1 miltiad -1 inform -1 polic -1 polic -1 newsroom -1 demo -1 demo -1 demo -1 demo -1 demo -1 -2

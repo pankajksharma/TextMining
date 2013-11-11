@@ -1,0 +1,2 @@
+econom -1 french -1 french -1 year -1 full -1 pari -1 arthui -1 arthui -1 arthui -1 radio -1 repeat -1 franc -1 week -1 week -1 percent -1 percent -1 percent -1 percent -1 percent -1 expect -1 decid -1 int -1 quest -1 thursday -1 time -1 public -1 financ -1 financ -1 made -1 told -1 -2
+call -1 cut -1 inflat -1 minist -1 minist -1 gdp -1 growth -1 growth -1 growth -1 growth -1 program -1 base -1 jean -1 prev -1 budget -1 budget -1 present -1 newsroom -1 forecast -1 doubt -1 assum -1 assum -1 opportun -1 -2

@@ -1,0 +1,3 @@
+payment -1 compan -1 retail -1 build -1 bank -1 north -1 invest -1 invest -1 firm -1 firm -1 societ -1 contribut -1 telephon -1 million -1 million -1 ireland -1 ireland -1 ireland -1 nation -1 nation -1 industr -1 provid -1 provid -1 cent -1 cent -1 cent -1 call -1 call -1 insur -1 pound -1 -2
+pound -1 northern -1 northern -1 telecom -1 telecom -1 job -1 job -1 job -1 job -1 enlarg -1 develop -1 engineer -1 prudent -1 prudent -1 wednesday -1 abbey -1 abbey -1 involut -1 board -1 project -1 project -1 brit -1 brit -1 brit -1 brit -1 total -1 softwar -1 newsroom -1 sterl -1 sterl -1 creat -1 -2
+creat -1 dublin -1 staff -1 -2

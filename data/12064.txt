@@ -1,0 +1,2 @@
+recov -1 limit -1 month -1 low -1 low -1 year -1 year -1 year -1 full -1 full -1 yr -1 billion -1 fall -1 fall -1 fax -1 franc -1 slight -1 stat -1 stat -1 stat -1 percent -1 expect -1 expect -1 expect -1 brussel -1 monday -1 belgian -1 nv -1 half -1 half -1 -2
+half -1 half -1 posit -1 earn -1 profit -1 profit -1 profit -1 result -1 chemic -1 impact -1 depend -1 newsroom -1 see -1 tessenderl -1 tessenderl -1 tessenderl -1 mvc -1 activ -1 pvc -1 group -1 group -1 group -1 -2

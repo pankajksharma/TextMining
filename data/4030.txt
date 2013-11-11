@@ -1,0 +1,2 @@
+market -1 life -1 life -1 low -1 low -1 contain -1 week -1 week -1 debt -1 debt -1 gmt -1 germ -1 overnight -1 reut -1 futur -1 futur -1 thursday -1 support -1 versus -1 prior -1 tone -1 rise -1 finish -1 finish -1 weak -1 loss -1 declin -1 edt -1 job -1 mail -1 -2
+claim -1 aug -1 attribut -1 derivat -1 derivat -1 bond -1 bund -1 sept -1 desk -1 trad -1 trad -1 trad -1 -2

@@ -1,0 +1,1 @@
+compan -1 record -1 low -1 full -1 trust -1 amount -1 unit -1 torch -1 torch -1 quart -1 pay -1 prior -1 note -1 energ -1 royal -1 sept -1 sept -1 late -1 distribut -1 qtly -1 -2

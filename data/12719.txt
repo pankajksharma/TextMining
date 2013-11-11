@@ -1,0 +1,3 @@
+money -1 high -1 high -1 manil -1 manil -1 rate -1 rate -1 rate -1 rate -1 rate -1 liquid -1 ahead -1 ahead -1 term -1 term -1 term -1 bank -1 bank -1 bank -1 fall -1 fax -1 treasur -1 overnight -1 bill -1 bill -1 mix -1 mix -1 big -1 volum -1 volum -1 -2
+phibor -1 phibor -1 phibor -1 val -1 long -1 auction -1 auction -1 auction -1 auction -1 rise -1 short -1 short -1 off -1 commit -1 offer -1 quot -1 direct -1 grop -1 divid -1 aug -1 aug -1 aug -1 aug -1 philippin -1 temp -1 day -1 secur -1 chang -1 aver -1 due -1 newsroom -1 -2
+interbank -1 trad -1 trad -1 -2

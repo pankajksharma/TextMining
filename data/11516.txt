@@ -1,0 +1,4 @@
+stock -1 cs -1 privat -1 skod -1 bank -1 bank -1 list -1 equit -1 equit -1 czk -1 czk -1 czk -1 issu -1 sporit -1 plavb -1 labsk -1 masokomb -1 ol -1 pric -1 pric -1 bohatstv -1 kristalov -1 kvant -1 volum -1 ipf -1 leciv -1 potravinarsk -1 shar -1 rentiersk -1 vseobecn -1 -2
+spolek -1 thesaurus -1 min -1 kladn -1 barum -1 deza -1 fatr -1 aero -1 spif -1 spif -1 cesky -1 czech -1 spt -1 made -1 pse -1 exchang -1 pragu -1 pragu -1 komercn -1 komercn -1 chem -1 cesk -1 cesk -1 sporiteln -1 alph -1 cez -1 cez -1 ckd -1 prah -1 prah -1 prah -1 -2
+chemopetrol -1 telecom -1 vodn -1 stavb -1 direct -1 direct -1 prvn -1 elektrarn -1 sevzap -1 han -1 opatov -1 tepl -1 selik -1 kabl -1 pojistovn -1 severoc -1 sokolovsk -1 uheln -1 plzen -1 tabak -1 plynar -1 aug -1 turnov -1 vitkovic -1 rif -1 effect -1 doly -1 stredoc -1 newsroom -1 hut -1 max -1 -2
+hold -1 hold -1 trad -1 trad -1 group -1 -2

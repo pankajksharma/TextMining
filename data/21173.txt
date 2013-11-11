@@ -1,0 +1,4 @@
+nationw -1 early -1 early -1 tight -1 novemb -1 liber -1 elect -1 elect -1 elect -1 elect -1 sect -1 econom -1 gener -1 christ -1 back -1 sery -1 high -1 monet -1 yugoslav -1 year -1 declar -1 consensus -1 decemb -1 decemb -1 bick -1 stat -1 pay -1 pay -1 govern -1 govern -1 -2
+govern -1 lead -1 pref -1 europ -1 end -1 end -1 insid -1 party -1 party -1 industr -1 democrat -1 polit -1 sloven -1 sloven -1 sloven -1 sloven -1 public -1 told -1 cent -1 call -1 right -1 forc -1 success -1 senior -1 prim -1 prim -1 minist -1 minist -1 numb -1 strik -1 pm -1 -2
+ago -1 parlia -1 new -1 put -1 poll -1 date -1 date -1 problem -1 commun -1 conced -1 demand -1 held -1 held -1 friday -1 major -1 hit -1 rule -1 coal -1 coal -1 coal -1 due -1 action -1 polic -1 mount -1 partn -1 janez -1 drnovsek -1 drnovsek -1 drnovsek -1 drnovsek -1 confer -1 -2
+presid -1 strain -1 demo -1 left -1 disput -1 independ -1 -2

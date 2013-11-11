@@ -1,0 +1,3 @@
+stop -1 clos -1 high -1 low -1 octob -1 amount -1 good -1 spot -1 squeez -1 squeez -1 squeez -1 larg -1 key -1 slight -1 volum -1 futur -1 trig -1 open -1 deliv -1 end -1 end -1 contract -1 drop -1 panic -1 rise -1 rise -1 short -1 short -1 short -1 buy -1 -2
+buy -1 rice -1 rice -1 rice -1 rose -1 exchang -1 loss -1 continu -1 intr -1 shanghai -1 shanghai -1 shanghai -1 ton -1 ton -1 ton -1 sell -1 session -1 institut -1 day -1 day -1 caus -1 invent -1 septemb -1 friday -1 combin -1 newsroom -1 yuan -1 yuan -1 yuan -1 yuan -1 activ -1 -2
+trad -1 trad -1 trad -1 trad -1 trad -1 -2

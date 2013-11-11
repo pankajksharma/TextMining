@@ -1,0 +1,4 @@
+naphth -1 market -1 market -1 market -1 small -1 recent -1 sect -1 quiet -1 slip -1 carry -1 thin -1 hard -1 find -1 kg -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 touch -1 middl -1 middl -1 blouk -1 suit -1 cargoe -1 hamp -1 employ -1 week -1 -2
+larg -1 slight -1 w240 -1 ship -1 ship -1 produc -1 east -1 east -1 w195 -1 expect -1 fix -1 fix -1 level -1 soft -1 brok -1 brok -1 brok -1 brok -1 brok -1 tank -1 tank -1 mideast -1 support -1 strength -1 strength -1 w170 -1 drop -1 ve -1 remain -1 remain -1 stead -1 -2
+stead -1 transatl -1 contin -1 london -1 lack -1 lack -1 w167 -1 trip -1 mediterranean -1 clean -1 clean -1 take -1 coast -1 underl -1 settl -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 chart -1 chart -1 mike -1 carg -1 uk -1 perceiv -1 japan -1 japan -1 -2
+friday -1 friday -1 lacklustr -1 pet -1 panag -1 newsroom -1 caribbean -1 activ -1 activ -1 activ -1 command -1 w140 -1 slow -1 slow -1 -2

@@ -1,0 +1,2 @@
+money -1 clos -1 clos -1 high -1 rate -1 kodagod -1 cover -1 cover -1 bank -1 bank -1 standard -1 deal -1 deal -1 deal -1 unit -1 percent -1 local -1 overnight -1 overse -1 open -1 push -1 end -1 end -1 end -1 monday -1 buy -1 pressur -1 weak -1 cent -1 cent -1 -2
+import -1 import -1 prith -1 call -1 lack -1 lack -1 lack -1 sell -1 chart -1 rupee -1 rupee -1 rupee -1 rupee -1 sri -1 sri -1 lank -1 lank -1 demand -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 friday -1 set -1 commerc -1 -2

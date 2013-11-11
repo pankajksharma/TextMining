@@ -1,0 +1,5 @@
+ampl -1 early -1 novemb -1 syria -1 syria -1 market -1 market -1 quiet -1 high -1 march -1 year -1 year -1 sow -1 ahead -1 ahead -1 ahead -1 term -1 octob -1 octob -1 octob -1 octob -1 octob -1 octob -1 york -1 york -1 form -1 roll -1 line -1 firm -1 decemb -1 -2
+week -1 beet -1 slight -1 slight -1 report -1 report -1 percent -1 percent -1 govern -1 raw -1 raw -1 world -1 world -1 futur -1 crop -1 european -1 support -1 support -1 deliv -1 end -1 end -1 end -1 long -1 contract -1 expir -1 techn -1 monday -1 increas -1 commod -1 narrow -1 august -1 -2
+buy -1 buy -1 cuban -1 provid -1 focus -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 london -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 uncertain -1 acr -1 acr -1 shut -1 rang -1 basi -1 ton -1 ton -1 ton -1 ton -1 july -1 july -1 plan -1 -2
+plan -1 plan -1 day -1 announc -1 resist -1 plant -1 labor -1 septemb -1 septemb -1 tend -1 tend -1 tend -1 tend -1 flag -1 csc -1 csc -1 csc -1 project -1 egypt -1 egypt -1 suppl -1 friday -1 cliv -1 mckeef -1 whit -1 whit -1 whit -1 whit -1 holiday -1 bull -1 desk -1 -2
+trad -1 trad -1 trad -1 trad -1 trad -1 -2

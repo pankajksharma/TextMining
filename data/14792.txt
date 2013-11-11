@@ -1,0 +1,2 @@
+study -1 market -1 publ -1 tuesday -1 french -1 stock -1 broker -1 come -1 pari -1 cac -1 manag -1 manag -1 firm -1 list -1 list -1 de -1 franc -1 franc -1 fund -1 fund -1 gmt -1 percent -1 percent -1 lead -1 confirm -1 confirm -1 confirm -1 reut -1 index -1 gain -1 -2
+gain -1 shar -1 shar -1 shar -1 shar -1 buy -1 buy -1 buy -1 import -1 research -1 carrefour -1 carrefour -1 carrefour -1 aug -1 day -1 supermarket -1 cheuvreux -1 cheuvreux -1 virieu -1 group -1 -2

@@ -1,0 +1,2 @@
+market -1 retail -1 retail -1 retail -1 warehous -1 pharmaceut -1 vehicl -1 march -1 march -1 year -1 construc -1 lisbon -1 yr -1 yr -1 yr -1 yr -1 april -1 april -1 april -1 april -1 april -1 portug -1 portug -1 food -1 percent -1 percent -1 textil -1 fell -1 fell -1 ine -1 -2
+ine -1 index -1 index -1 furnitur -1 nation -1 statist -1 fuel -1 rose -1 rose -1 mater -1 compon -1 figur -1 footwear -1 base -1 cloth -1 drink -1 gave -1 institut -1 chemic -1 chang -1 newsroom -1 sale -1 sale -1 sale -1 sale -1 pct -1 -2

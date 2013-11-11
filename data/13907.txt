@@ -1,0 +1,2 @@
+compan -1 clos -1 month -1 shr -1 nil -1 nil -1 nil -1 wholesal -1 asiat -1 asiat -1 dipos -1 ship -1 stat -1 east -1 east -1 payabl -1 gain -1 gain -1 million -1 million -1 million -1 end -1 dividend -1 dividend -1 hk -1 hk -1 hk -1 hk -1 cent -1 cent -1 -2
+loss -1 loss -1 loss -1 loss -1 loss -1 propert -1 net -1 net -1 net -1 note -1 book -1 h1 -1 except -1 except -1 turnov -1 item -1 hong -1 hong -1 kong -1 kong -1 leasehold -1 june -1 newsroom -1 group -1 mln -1 -2

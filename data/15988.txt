@@ -1,0 +1,2 @@
+limit -1 market -1 market -1 launch -1 stock -1 stock -1 stock -1 stock -1 alert -1 applic -1 applic -1 data -1 file -1 tick -1 fund -1 produc -1 display -1 stockvu -1 stockvu -1 easy -1 pric -1 volum -1 end -1 facilit -1 microsystem -1 microsystem -1 quot -1 alph -1 alph -1 alph -1 -2
+alph -1 tape -1 shelf -1 new -1 valuat -1 portfolio -1 includ -1 septemb -1 item -1 sec -1 retrief -1 late -1 featur -1 mutual -1 animat -1 trad -1 use -1 -2

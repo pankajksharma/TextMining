@@ -1,0 +1,3 @@
+early -1 publ -1 archiv -1 langu -1 langu -1 libr -1 libr -1 rome -1 newspap -1 writ -1 writ -1 grat -1 alban -1 alban -1 alban -1 alban -1 alban -1 complet -1 tiran -1 vatic -1 vatic -1 vatic -1 belief -1 nation -1 gazet -1 gazet -1 civil -1 told -1 loss -1 discov -1 -2
+disappear -1 disappear -1 pape -1 date -1 old -1 lament -1 book -1 book -1 book -1 schol -1 musa -1 gjon -1 buzuku -1 buzuku -1 semin -1 centur -1 hamit -1 photocop -1 invent -1 shqiptar -1 shqiptar -1 copy -1 friday -1 major -1 son -1 mass -1 mass -1 left -1 relig -1 docu -1 docu -1 -2
+docu -1 -2

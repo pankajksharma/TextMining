@@ -1,0 +1,1 @@
+elect -1 econom -1 gener -1 submit -1 pasok -1 stat -1 party -1 candid -1 nation -1 secret -1 secret -1 social -1 focus -1 minist -1 minist -1 minist -1 parlia -1 dimitr -1 district -1 kontogian -1 athen -1 athen -1 run -1 miltiad -1 newsroom -1 resign -1 resign -1 econ -1 papaioannou -1 papaioannou -1 -2

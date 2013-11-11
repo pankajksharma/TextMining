@@ -1,0 +1,3 @@
+compan -1 retail -1 retail -1 clos -1 outlet -1 march -1 bonus -1 year -1 year -1 year -1 shr -1 nil -1 nil -1 nil -1 nil -1 food -1 issu -1 debt -1 stat -1 fix -1 payabl -1 gain -1 provis -1 million -1 shar -1 shar -1 adjust -1 adjust -1 end -1 dividend -1 -2
+dividend -1 dividend -1 chin -1 chin -1 hk -1 hk -1 august -1 diminut -1 health -1 cent -1 cent -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 net -1 net -1 net -1 note -1 book -1 except -1 except -1 earn -1 turnov -1 compar -1 profit -1 medicin -1 dispos -1 invent -1 -2
+asset -1 item -1 hong -1 hong -1 hong -1 kong -1 joint -1 total -1 ventur -1 newsroom -1 manufactur -1 pei -1 pei -1 doubt -1 closur -1 hold -1 nam -1 nam -1 mln -1 -2

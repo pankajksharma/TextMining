@@ -1,0 +1,5 @@
+recent -1 emerg -1 hous -1 facil -1 promot -1 year -1 year -1 year -1 year -1 year -1 year -1 receiv -1 receiv -1 build -1 build -1 bank -1 bank -1 bank -1 bank -1 bank -1 agree -1 cameroon -1 alban -1 loan -1 loan -1 loan -1 loan -1 loan -1 loan -1 loan -1 -2
+stat -1 stat -1 stat -1 alger -1 approv -1 approv -1 seaport -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 wat -1 wat -1 damag -1 pow -1 flood -1 extend -1 extend -1 foreign -1 financ -1 financ -1 financ -1 -2
+financ -1 financ -1 financ -1 financ -1 health -1 cent -1 import -1 import -1 import -1 exchang -1 jeddah -1 repaid -1 repaid -1 agricultur -1 repay -1 complex -1 period -1 period -1 period -1 part -1 grant -1 school -1 turkey -1 base -1 develop -1 develop -1 liby -1 sudan -1 grac -1 grac -1 grac -1 -2
+relief -1 includ -1 includ -1 includ -1 islam -1 islam -1 islam -1 wednesday -1 spar -1 idb -1 idb -1 idb -1 morocc -1 rebuild -1 memb -1 project -1 project -1 project -1 project -1 worth -1 worth -1 indones -1 coal -1 iron -1 set -1 wir -1 operat -1 qatar -1 yemen -1 trad -1 trad -1 -2
+mln -1 -2

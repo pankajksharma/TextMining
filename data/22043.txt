@@ -1,0 +1,1 @@
+grain -1 forecast96 -1 forecast96 -1 baltic -1 produc -1 stat -1 oat -1 rye -1 maiz -1 wheat -1 coars -1 coars -1 grn -1 est -1 est -1 russian -1 russian -1 russian -1 igc -1 barley -1 ussr -1 cis -1 cis -1 cis -1 cis -1 sorghum -1 fed -1 fed -1 fed -1 total -1 -2

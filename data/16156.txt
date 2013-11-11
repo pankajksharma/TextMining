@@ -1,0 +1,4 @@
+repair -1 niger -1 niger -1 niger -1 gener -1 money -1 money -1 drug -1 mt -1 hospit -1 beneex -1 begin -1 agent -1 petroleum -1 billion -1 trust -1 pump -1 road -1 fund -1 fund -1 fund -1 fund -1 report -1 litr -1 nair -1 nair -1 nair -1 pay -1 pay -1 pay -1 -2
+stipul -1 ptf -1 ptf -1 ptf -1 ptf -1 ptf -1 lago -1 reut -1 collect -1 amass -1 pric -1 pric -1 pric -1 blow -1 law -1 exempt -1 contract -1 contract -1 contract -1 contract -1 nation -1 nation -1 nan -1 social -1 rise -1 rise -1 fuel -1 public -1 paid -1 provid -1 forc -1 -2
+fold -1 quot -1 continu -1 award -1 award -1 award -1 spend -1 depart -1 depart -1 petrol -1 petrol -1 petrol -1 new -1 new -1 claim -1 consum -1 sani -1 wrot -1 abach -1 milit -1 plan -1 wednesday -1 vat -1 vat -1 vat -1 vat -1 vat -1 proceed -1 deduc -1 deduc -1 suppl -1 -2
+request -1 rule -1 cushion -1 set -1 set -1 unnam -1 ei -1 newsroom -1 add -1 arm -1 offic -1 offic -1 tax -1 tax -1 tax -1 -2

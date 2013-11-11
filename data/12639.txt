@@ -1,0 +1,4 @@
+econom -1 econom -1 tuesday -1 stock -1 stock -1 saturday -1 clos -1 clos -1 clos -1 indic -1 high -1 revers -1 rebound -1 start -1 morg -1 bank -1 bank -1 stanley -1 fall -1 trend -1 modest -1 deprec -1 unit -1 unit -1 deal -1 deal -1 deal -1 deal -1 deal -1 equit -1 -2
+week -1 fund -1 fund -1 fund -1 fund -1 fund -1 slight -1 slight -1 downward -1 local -1 local -1 expect -1 requir -1 index -1 busi -1 show -1 test -1 million -1 push -1 end -1 end -1 monday -1 time -1 reserv -1 stabl -1 short -1 foreign -1 foreign -1 foreign -1 foreign -1 pressur -1 -2
+cent -1 flow -1 cut -1 growth -1 move -1 jame -1 period -1 put -1 rang -1 rang -1 export -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 turnov -1 includ -1 septemb -1 tend -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 friday -1 -2
+glob -1 peng -1 inflow -1 inflow -1 inflow -1 inflow -1 boost -1 boost -1 amid -1 slug -1 prepar -1 -2

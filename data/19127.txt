@@ -1,0 +1,2 @@
+early -1 grain -1 grain -1 grain -1 union -1 pari -1 franc -1 germ -1 germ -1 germ -1 stat -1 report -1 confirm -1 pric -1 pric -1 eu -1 eu -1 eu -1 sold -1 sold -1 thursday -1 european -1 panel -1 minim -1 minim -1 rye -1 rye -1 industr -1 intervent -1 intervent -1 -2
+intervent -1 barley -1 ton -1 ton -1 ton -1 ton -1 export -1 sell -1 newsroom -1 ecus -1 ecus -1 offic -1 onic -1 onic -1 -2

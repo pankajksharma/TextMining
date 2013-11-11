@@ -1,0 +1,2 @@
+market -1 clos -1 clos -1 clos -1 high -1 high -1 low -1 low -1 low -1 low -1 countr -1 currenc -1 bank -1 bank -1 deal -1 deal -1 peso -1 peso -1 peso -1 peso -1 slight -1 report -1 squar -1 million -1 end -1 end -1 stead -1 short -1 short -1 buy -1 -2
+colomb -1 colomb -1 cove -1 forc -1 london -1 juan -1 posit -1 posit -1 tap -1 bogot -1 session -1 day -1 day -1 held -1 dollar -1 total -1 intraday -1 late -1 newsroom -1 guillerm -1 interbank -1 trad -1 trad -1 -2

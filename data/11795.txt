@@ -1,0 +1,4 @@
+market -1 market -1 market -1 recent -1 money -1 money -1 money -1 clos -1 repret -1 broker -1 interest -1 rate -1 rate -1 rate -1 rate -1 term -1 term -1 provinc -1 agent -1 bank -1 bank -1 bank -1 bank -1 bank -1 redeem -1 amount -1 annual -1 peopl -1 larg -1 larg -1 -2
+fund -1 fund -1 issu -1 percent -1 chibor -1 chibor -1 treasur -1 felt -1 pric -1 volum -1 behalf -1 monday -1 monday -1 chin -1 chin -1 chin -1 short -1 short -1 financ -1 financ -1 past -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 flow -1 western -1 cut -1 offer -1 -2
+city -1 city -1 allocat -1 shanghai -1 shanghai -1 shanghai -1 figur -1 weight -1 new -1 run -1 institut -1 day -1 day -1 day -1 day -1 day -1 day -1 day -1 day -1 post -1 impact -1 prev -1 xinhua -1 memb -1 friday -1 bond -1 major -1 aver -1 negat -1 newsroom -1 activ -1 -2
+interbank -1 interbank -1 offic -1 trad -1 trad -1 surplus -1 -2

@@ -1,0 +1,4 @@
+capac -1 flight -1 carry -1 carry -1 french -1 corsic -1 corsic -1 month -1 fokk -1 marseill -1 year -1 year -1 schedul -1 pari -1 pari -1 pari -1 fax -1 de -1 franc -1 franc -1 ship -1 ship -1 percent -1 percent -1 brittan -1 overnight -1 reut -1 main -1 janu -1 janu -1 -2
+brest -1 brest -1 brest -1 brest -1 brest -1 brest -1 guipav -1 europ -1 gaull -1 increas -1 aeropostal -1 author -1 traff -1 traff -1 traff -1 airport -1 airport -1 airport -1 airport -1 told -1 aircraft -1 continu -1 continu -1 nice -1 growth -1 fish -1 fish -1 fish -1 fact -1 buoy -1 period -1 -2
+mail -1 south -1 basi -1 ton -1 ton -1 ton -1 export -1 charl -1 july -1 july -1 seafood -1 post -1 airlin -1 airlin -1 carg -1 carg -1 carg -1 passeng -1 air -1 air -1 air -1 demand -1 regul -1 newsroom -1 add -1 hub -1 tel -1 boost -1 offic -1 offic -1 handl -1 -2
+handl -1 -2

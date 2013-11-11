@@ -1,0 +1,4 @@
+market -1 floor -1 emerg -1 lce -1 quiet -1 carry -1 carry -1 stop -1 clos -1 clos -1 clos -1 high -1 high -1 high -1 high -1 interest -1 march -1 low -1 octob -1 octob -1 octob -1 octob -1 octob -1 remaind -1 york -1 point -1 firm -1 firm -1 decemb -1 maintain -1 -2
+light -1 fund -1 fund -1 fund -1 sourc -1 slight -1 strong -1 help -1 fell -1 world -1 world -1 pric -1 gain -1 futur -1 futur -1 support -1 open -1 end -1 end -1 contract -1 contract -1 contract -1 contract -1 suzan -1 rostl -1 remain -1 commod -1 reop -1 buy -1 buy -1 buy -1 -2
+finish -1 cent -1 cent -1 cent -1 cite -1 posit -1 dull -1 sugar -1 sugar -1 sugar -1 rang -1 rang -1 rang -1 rang -1 basi -1 settl -1 settl -1 settl -1 sell -1 peg -1 session -1 day -1 day -1 resist -1 dearth -1 csc -1 csc -1 lb -1 whit -1 morn -1 set -1 -2
+hurdl -1 hold -1 drift -1 defer -1 trad -1 trad -1 trad -1 bit -1 -2

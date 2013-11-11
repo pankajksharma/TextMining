@@ -1,0 +1,4 @@
+econom -1 arkans -1 arkans -1 beneex -1 data -1 decreas -1 file -1 file -1 layoff -1 layoff -1 week -1 week -1 week -1 week -1 week -1 week -1 week -1 stat -1 stat -1 stat -1 report -1 report -1 report -1 report -1 textil -1 avg -1 unavail -1 adjust -1 end -1 end -1 -2
+industr -1 industr -1 increas -1 missor -1 missor -1 august -1 august -1 august -1 rose -1 cite -1 continu -1 continu -1 initial -1 initial -1 initial -1 initial -1 initial -1 initial -1 depart -1 depart -1 period -1 job -1 job -1 claim -1 claim -1 claim -1 claim -1 claim -1 claim -1 claim -1 claim -1 -2
+claim -1 basi -1 ohio -1 ohio -1 unadjust -1 unadjust -1 aug -1 aug -1 aug -1 aug -1 revis -1 july -1 transport -1 labor -1 labor -1 wall -1 street -1 comment -1 comment -1 exceed -1 exceed -1 alabam -1 alabam -1 aver -1 late -1 late -1 few -1 few -1 season -1 add -1 forecast -1 -2
+californ -1 californ -1 -2

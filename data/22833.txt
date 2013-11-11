@@ -1,0 +1,4 @@
+credit -1 credit -1 credit -1 quiet -1 alandsbank -1 fin -1 fin -1 fin -1 interest -1 rate -1 low -1 own -1 year -1 year -1 year -1 year -1 yr -1 yr -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 billion -1 billion -1 billion -1 billion -1 billion -1 -2
+billion -1 billion -1 oy -1 oy -1 oy -1 slight -1 stat -1 stat -1 stat -1 helsink -1 fim -1 markk -1 markk -1 markk -1 markk -1 janu -1 skopbank -1 compr -1 aggreg -1 aggreg -1 aggreg -1 control -1 okobank -1 postipankk -1 narrow -1 financ -1 margin -1 loss -1 loss -1 assoc -1 assoc -1 -2
+assoc -1 declin -1 figur -1 net -1 ago -1 ago -1 improv -1 half -1 period -1 period -1 save -1 incom -1 h1 -1 h1 -1 compar -1 profit -1 result -1 result -1 coop -1 merit -1 demand -1 total -1 june -1 ab -1 friday -1 due -1 newsroom -1 operat -1 operat -1 interbank -1 independ -1 -2
+group -1 -2

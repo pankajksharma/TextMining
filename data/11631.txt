@@ -1,0 +1,3 @@
+inflam -1 limit -1 pain -1 pain -1 pain -1 back -1 back -1 correct -1 doct -1 doct -1 low -1 low -1 hospit -1 hospit -1 year -1 term -1 schedul -1 good -1 unit -1 free -1 repeat -1 week -1 treat -1 treat -1 stat -1 stat -1 govern -1 govern -1 suff -1 osteoporos -1 -2
+janu -1 monday -1 univers -1 return -1 weak -1 health -1 flow -1 complain -1 forc -1 success -1 washington -1 diseas -1 underw -1 trip -1 nicaragua -1 move -1 spin -1 spin -1 nicaragu -1 nicaragu -1 step -1 violet -1 chamor -1 chamor -1 chamor -1 bone -1 hopkin -1 taiw -1 taipei -1 examin -1 chron -1 -2
+john -1 found -1 baltimor -1 column -1 column -1 compress -1 presid -1 presid -1 operat -1 leg -1 surg -1 -2

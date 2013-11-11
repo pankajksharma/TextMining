@@ -1,0 +1,2 @@
+market -1 carry -1 immed -1 kill -1 kill -1 algy -1 defus -1 tipas -1 peopl -1 capit -1 west -1 devic -1 alger -1 alger -1 alger -1 injur -1 home -1 die -1 explod -1 made -1 forc -1 forc -1 man -1 prematur -1 women -1 district -1 raid -1 child -1 explos -1 explos -1 -2
+bomb -1 bomb -1 bomb -1 secur -1 secur -1 friday -1 add -1 add -1 -2

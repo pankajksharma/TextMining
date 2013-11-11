@@ -1,0 +1,2 @@
+emerg -1 emerg -1 carry -1 train -1 train -1 train -1 tuesday -1 karen -1 own -1 presum -1 presum -1 presum -1 kill -1 mor -1 spokeswom -1 railroad -1 smithfield -1 wetzel -1 polyvinyl -1 chlor -1 sims -1 csx -1 csx -1 spill -1 west -1 stat -1 carl -1 florid -1 identif -1 mater -1 -2
+crash -1 head -1 work -1 work -1 jacksonvill -1 pellet -1 servic -1 clean -1 freight -1 part -1 scen -1 coll -1 hazard -1 hazard -1 transport -1 corp -1 chemic -1 virgin -1 virgin -1 virgin -1 dead -1 dead -1 crew -1 polic -1 fleet -1 richmons -1 offic -1 offic -1 count -1 subsid -1 -2

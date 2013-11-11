@@ -1,0 +1,2 @@
+stock -1 clos -1 clos -1 clos -1 high -1 high -1 point -1 point -1 fall -1 gmt -1 index -1 index -1 volum -1 million -1 shar -1 shar -1 shar -1 stead -1 crown -1 rise -1 czech -1 czech -1 exchang -1 pragu -1 pragu -1 px50 -1 px50 -1 turnov -1 session -1 wednesday -1 -2
+total -1 newsroom -1 hold -1 -2

@@ -1,0 +1,2 @@
+karach -1 contain -1 wait -1 wait -1 wait -1 wait -1 wait -1 ship -1 tank -1 oil -1 reason -1 laid -1 lloyd -1 lloyd -1 servic -1 fertilis -1 pakist -1 updat -1 load -1 aug -1 intellig -1 day -1 day -1 day -1 day -1 port -1 port -1 port -1 port -1 cond -1 -2
+cond -1 vessel -1 vessel -1 -2

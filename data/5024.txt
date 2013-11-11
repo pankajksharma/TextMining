@@ -1,0 +1,4 @@
+compan -1 early -1 market -1 market -1 market -1 refer -1 sect -1 credit -1 haruo -1 warehous -1 nakaharu -1 toyo -1 tuesday -1 tuesday -1 stock -1 stock -1 clos -1 clos -1 high -1 high -1 high -1 interest -1 rate -1 retreat -1 yen -1 yen -1 bank -1 sea -1 point -1 point -1 -2
+kotobuk -1 drag -1 phot -1 individual -1 today -1 key -1 key -1 fuji -1 issu -1 straight -1 meet -1 percent -1 nikkei -1 decid -1 advanc -1 level -1 gain -1 gain -1 gain -1 rally -1 futur -1 brok -1 brok -1 test -1 shar -1 open -1 end -1 end -1 end -1 leav -1 leas -1 -2
+industr -1 stead -1 feder -1 feder -1 reserv -1 rais -1 pow -1 row -1 matsushit -1 commit -1 fish -1 servic -1 lack -1 toky -1 toky -1 disappear -1 film -1 energ -1 led -1 led -1 electr -1 earn -1 transport -1 day -1 day -1 day -1 steel -1 pharmaceutic -1 relief -1 wednesday -1 septemb -1 -2
+blu -1 chip -1 secur -1 strateg -1 aver -1 iron -1 set -1 forecast -1 electron -1 -2

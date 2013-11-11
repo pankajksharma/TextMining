@@ -1,0 +1,4 @@
+market -1 market -1 market -1 market -1 market -1 hous -1 rumor -1 money -1 stop -1 rate -1 rate -1 term -1 bank -1 bank -1 bank -1 trend -1 trend -1 deal -1 deal -1 deal -1 deal -1 nairob -1 larg -1 larg -1 confus -1 confus -1 shill -1 shill -1 shill -1 shill -1 -2
+tommorrow -1 bought -1 stat -1 percent -1 treasur -1 bill -1 overnight -1 squar -1 fell -1 chunk -1 behalf -1 behalf -1 thursday -1 talk -1 drop -1 versus -1 keny -1 keny -1 keny -1 keny -1 monday -1 monday -1 monday -1 buy -1 cent -1 cent -1 cent -1 cent -1 rife -1 lose -1 flow -1 -2
+margin -1 quot -1 continu -1 slid -1 play -1 play -1 play -1 pound -1 inst -1 direct -1 rang -1 settl -1 widen -1 export -1 redempt -1 attribut -1 day -1 result -1 post -1 post -1 wednesday -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 aver -1 throw -1 newsroom -1 -2
+possibl -1 regroup -1 interbank -1 trad -1 trad -1 trad -1 -2

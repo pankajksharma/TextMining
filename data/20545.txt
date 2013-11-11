@@ -1,0 +1,1 @@
+market -1 market -1 clos -1 clos -1 bank -1 turk -1 turk -1 govern -1 vict -1 open -1 nation -1 nation -1 monday -1 day -1 day -1 friday -1 friday -1 due -1 offic -1 -2

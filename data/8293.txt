@@ -1,0 +1,2 @@
+compan -1 compan -1 newsdesk -1 medic -1 medic -1 applic -1 echocath -1 echocath -1 echocath -1 echocath -1 echocath -1 diffract -1 doppl -1 receiv -1 ultrason -1 vilkomerson -1 ultrasound -1 york -1 amount -1 diagnost -1 transduc -1 transduc -1 devic -1 meet -1 blood -1 blood -1 david -1 techn -1 techn -1 pressur -1 -2
+flow -1 procedur -1 patent -1 patent -1 patent -1 claim -1 valu -1 abil -1 asset -1 expand -1 monit -1 friday -1 broad -1 broad -1 broad -1 manufactur -1 measur -1 execut -1 vice -1 presid -1 sought -1 -2

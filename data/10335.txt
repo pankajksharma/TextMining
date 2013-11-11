@@ -1,0 +1,4 @@
+react -1 repair -1 econom -1 clos -1 shutdown -1 sunday -1 low -1 stag -1 countr -1 countr -1 safet -1 safet -1 build -1 agent -1 generat -1 system -1 maintain -1 caught -1 soviet -1 fund -1 debt -1 debt -1 pay -1 pay -1 pay -1 cash -1 cash -1 rosenergoatom -1 rosenergoatom -1 rosenergoatom -1 -2
+rosenergoatom -1 interfax -1 interfax -1 interfax -1 interfax -1 pric -1 rest -1 guarant -1 grid -1 million -1 face -1 long -1 nation -1 strap -1 age -1 russia -1 russia -1 press -1 short -1 fuel -1 pow -1 pow -1 pow -1 pow -1 pow -1 pow -1 guaranteed -1 network -1 network -1 work -1 quot -1 -2
+quot -1 quot -1 servic -1 trill -1 roubl -1 russian -1 new -1 energ -1 energ -1 energ -1 web -1 consum -1 nuclear -1 nuclear -1 nuclear -1 nuclear -1 nuclear -1 nuclear -1 struggl -1 run -1 plan -1 wag -1 plant -1 plant -1 plant -1 plant -1 expand -1 unabl -1 unabl -1 station -1 station -1 -2
+withdraw -1 owe -1 meant -1 unreal -1 distribut -1 -2

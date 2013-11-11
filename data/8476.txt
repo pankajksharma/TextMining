@@ -1,0 +1,4 @@
+compan -1 shoe -1 shoe -1 situat -1 send -1 high -1 hospodarsk -1 novin -1 novin -1 bankruptc -1 begin -1 merg -1 year -1 year -1 year -1 year -1 year -1 agent -1 privat -1 bank -1 billion -1 billion -1 mlad -1 dne -1 firm -1 expenditur -1 produc -1 stat -1 stat -1 lost -1 -2
+expect -1 digest -1 level -1 law -1 custom -1 lidov -1 kreditn -1 end -1 end -1 control -1 increas -1 consid -1 feder -1 time -1 prav -1 bureau -1 crown -1 crown -1 press -1 reason -1 financ -1 investig -1 czech -1 czech -1 health -1 import -1 pragu -1 pragu -1 cut -1 work -1 anheus -1 -2
+minist -1 minist -1 minist -1 busch -1 agricultur -1 insur -1 parlia -1 crim -1 predict -1 half -1 front -1 hectar -1 estimat -1 organ -1 americ -1 export -1 plzen -1 aug -1 land -1 josef -1 pass -1 chanc -1 account -1 exceed -1 budget -1 fbi -1 intern -1 demand -1 due -1 version -1 polic -1 -2
+newsroom -1 fight -1 republ -1 unreal -1 terror -1 surviv -1 lux -1 ord -1 sale -1 sale -1 offic -1 -2

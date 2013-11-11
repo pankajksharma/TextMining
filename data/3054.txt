@@ -1,0 +1,2 @@
+tuesday -1 uefa -1 uefa -1 halftim -1 cup -1 cup -1 norway -1 norway -1 dynam -1 dynam -1 aggreg -1 aggreg -1 round -1 win -1 win -1 socc -1 match -1 georg -1 bodo -1 bodo -1 bodo -1 glimt -1 result -1 result -1 beitar -1 mold -1 mold -1 fk -1 tbilis -1 israel -1 -2
+qualif -1 jerusalem -1 leg -1 -2

@@ -1,0 +1,4 @@
+market -1 market -1 ackerm -1 sery -1 stock -1 stock -1 slump -1 clos -1 record -1 fahnestock -1 year -1 ahead -1 climb -1 data -1 point -1 tilt -1 fall -1 fall -1 tobacc -1 tobacc -1 good -1 good -1 good -1 good -1 indicat -1 produc -1 yield -1 report -1 report -1 percent -1 -2
+percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 strong -1 strong -1 anal -1 expect -1 expect -1 expect -1 advanc -1 big -1 tumbl -1 tailspin -1 defend -1 index -1 futur -1 flat -1 shar -1 open -1 open -1 challeng -1 push -1 long -1 drop -1 rise -1 durabl -1 durabl -1 durabl -1 -2
+durabl -1 durabl -1 durabl -1 pressur -1 rose -1 focus -1 surpris -1 cigaret -1 numb -1 energ -1 revis -1 july -1 july -1 compar -1 announc -1 septemb -1 prev -1 june -1 friday -1 clinton -1 bond -1 bond -1 bond -1 dow -1 dow -1 strateg -1 make -1 upsw -1 presid -1 alan -1 advert -1 -2
+ord -1 ord -1 sale -1 restrict -1 -2

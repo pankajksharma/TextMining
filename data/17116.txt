@@ -1,0 +1,2 @@
+cdt -1 kero -1 kero -1 sep -1 sep -1 sep -1 sep -1 sep -1 sep -1 sep -1 produc -1 nymex -1 nymex -1 jet -1 jet -1 cts -1 cts -1 cts -1 cts -1 cts -1 deliv -1 oil -1 oil -1 midcontin -1 chicag -1 midc -1 quot -1 quot -1 dsl -1 dsl -1 -2
+note -1 ls -1 ls -1 aug -1 aug -1 aug -1 aug -1 aug -1 aug -1 aug -1 gal -1 unlead -1 unlead -1 gasolin -1 gasolin -1 prem -1 prem -1 heat -1 heat -1 unl -1 unl -1 unl -1 unl -1 oct -1 prompt -1 prompt -1 prompt -1 prompt -1 group -1 group -1 -2

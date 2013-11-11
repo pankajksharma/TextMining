@@ -1,0 +1,2 @@
+acquir -1 memorandum -1 jakart -1 jakart -1 tuesday -1 anggand -1 month -1 jalan -1 jender -1 sudirm -1 site -1 firm -1 road -1 understand -1 capit -1 stat -1 percent -1 mou -1 mou -1 chas -1 sq -1 sq -1 sq -1 busi -1 plaz -1 duta -1 singapor -1 met -1 met -1 propert -1 -2
+propert -1 district -1 complex -1 realt -1 develop -1 develop -1 fcc -1 fcc -1 fcc -1 land -1 corp -1 project -1 subject -1 joint -1 joint -1 ventur -1 ventur -1 ventur -1 pt -1 indones -1 newsroom -1 execut -1 hold -1 offic -1 dar -1 dar -1 commerc -1 sign -1 group -1 -2

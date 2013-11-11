@@ -1,0 +1,4 @@
+bring -1 market -1 scop -1 econom -1 econom -1 econom -1 econom -1 grav -1 french -1 funda -1 desir -1 interest -1 rate -1 rate -1 year -1 year -1 privat -1 conserv -1 pari -1 bank -1 newspap -1 point -1 drag -1 suit -1 unit -1 free -1 franc -1 franc -1 franc -1 stat -1 -2
+stat -1 percent -1 strong -1 requir -1 govern -1 govern -1 implic -1 madelin -1 madelin -1 madelin -1 phas -1 deflat -1 deflat -1 deflat -1 deflat -1 show -1 reform -1 reform -1 thursday -1 consid -1 august -1 august -1 social -1 advocat -1 articl -1 pressur -1 financ -1 financ -1 scept -1 side -1 cut -1 -2
+cut -1 prim -1 intervent -1 minist -1 minist -1 minist -1 stimul -1 le -1 heavy -1 clash -1 speed -1 period -1 part -1 basi -1 pnt -1 propos -1 wrot -1 deregul -1 great -1 mond -1 jup -1 departur -1 alain -1 alain -1 demand -1 japan -1 suppl -1 chang -1 bundesbank -1 prompt -1 need -1 -2
+polic -1 polic -1 newsroom -1 add -1 measur -1 measur -1 resign -1 eas -1 -2

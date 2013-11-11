@@ -1,0 +1,2 @@
+bank -1 bank -1 bank -1 bank -1 tier -1 toront -1 capit -1 quart -1 quart -1 quart -1 loan -1 loan -1 loan -1 loan -1 percent -1 percent -1 special -1 canad -1 canad -1 ratio -1 q3 -1 q3 -1 reut -1 provis -1 provis -1 provis -1 million -1 million -1 million -1 million -1 -2
+million -1 million -1 end -1 nation -1 nation -1 sector -1 bureau -1 virtual -1 stood -1 stood -1 natl -1 loss -1 loss -1 loss -1 calcul -1 settl -1 impair -1 july -1 july -1 july -1 compar -1 compar -1 includ -1 prev -1 intern -1 total -1 rule -1 unchang -1 mln -1 -2

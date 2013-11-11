@@ -1,0 +1,4 @@
+rival -1 ford -1 ford -1 track -1 fin -1 stop -1 clos -1 retir -1 makin -1 makin -1 makin -1 makin -1 makin -1 juha -1 stag -1 kankkun -1 kankkun -1 gearbox -1 gearbox -1 point -1 point -1 lake -1 lake -1 lake -1 spain -1 road -1 finland -1 carlo -1 complet -1 produc -1 -2
+percent -1 difficult -1 ken -1 decid -1 lead -1 lead -1 trick -1 vict -1 km -1 world -1 rally -1 rally -1 rally -1 rally -1 maakin -1 strength -1 end -1 monday -1 win -1 win -1 swed -1 finish -1 champ -1 champ -1 effort -1 spit -1 forc -1 success -1 hunt -1 bid -1 exper -1 -2
+near -1 signif -1 event -1 fail -1 step -1 step -1 posit -1 doubl -1 final -1 hat -1 problem -1 run -1 day -1 day -1 sainz -1 sainz -1 eriksson -1 brill -1 subaru -1 tom -1 driv -1 driv -1 titl -1 titl -1 plac -1 fellow -1 remark -1 jarm -1 mitsubish -1 mitsubish -1 kytoleht -1 -2
+late -1 manufactur -1 toyot -1 -2

@@ -1,0 +1,5 @@
+follow -1 market -1 tenor -1 tuesday -1 money -1 high -1 interest -1 interest -1 month -1 month -1 month -1 month -1 march -1 low -1 year -1 full -1 bank -1 feb -1 denomin -1 discount -1 today -1 issu -1 issu -1 issu -1 gko -1 yield -1 yield -1 yield -1 yield -1 yield -1 -2
+yield -1 percent -1 percent -1 percent -1 pay -1 pay -1 govern -1 govern -1 treasur -1 bill -1 bill -1 bill -1 bill -1 bill -1 second -1 avg -1 mo -1 trln -1 trln -1 trln -1 trln -1 trln -1 trln -1 trln -1 trln -1 pric -1 pric -1 volum -1 sold -1 million -1 million -1 -2
+matur -1 matur -1 auction -1 auction -1 auction -1 auction -1 remain -1 russia -1 rais -1 august -1 financ -1 financ -1 anna -1 nomin -1 nomin -1 cent -1 smirnov -1 offer -1 rbl -1 rbl -1 minist -1 minist -1 bid -1 trill -1 trill -1 trill -1 trill -1 trill -1 roubl -1 roubl -1 roubl -1 -2
+roubl -1 roubl -1 tranch -1 tranch -1 repay -1 russian -1 moscow -1 sell -1 aug -1 aug -1 detail -1 july -1 day -1 day -1 wednesday -1 wednesday -1 prev -1 accept -1 accept -1 proceed -1 bond -1 bond -1 bond -1 aver -1 aver -1 aver -1 aver -1 aver -1 newsroom -1 offic -1 pct -1 -2
+pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 -2

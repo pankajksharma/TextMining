@@ -1,0 +1,3 @@
+stop -1 currenc -1 bank -1 fax -1 unit -1 individual -1 quart -1 amsterdam -1 expect -1 barteld -1 barteld -1 million -1 million -1 million -1 thursday -1 european -1 ecu -1 ecu -1 ecu -1 dutch -1 belgian -1 made -1 told -1 health -1 health -1 health -1 health -1 health -1 focus -1 loss -1 -2
+loss -1 loss -1 fort -1 fort -1 fort -1 fort -1 insur -1 insur -1 insur -1 insur -1 insur -1 improv -1 half -1 half -1 dip -1 new -1 final -1 han -1 sell -1 profit -1 result -1 break -1 post -1 worldw -1 achief -1 chairm -1 polic -1 newsroom -1 see -1 confer -1 activ -1 -2
+activ -1 activ -1 operat -1 sale -1 belg -1 group -1 group -1 accid -1 accid -1 -2

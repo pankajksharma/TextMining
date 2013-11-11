@@ -1,0 +1,2 @@
+cattl -1 calendar -1 stat -1 report -1 cash -1 pric -1 pric -1 thursday -1 thursday -1 end -1 end -1 contract -1 chicag -1 chicag -1 mercantil -1 august -1 august -1 august -1 feed -1 feed -1 feed -1 cwt -1 exchang -1 cme -1 cme -1 settl -1 day -1 day -1 wednesday -1 dollar -1 -2
+aver -1 aver -1 steer -1 steer -1 -2

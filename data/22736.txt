@@ -1,0 +1,2 @@
+airplan -1 thai -1 thai -1 thai -1 thai -1 thai -1 thai -1 stock -1 baht -1 baht -1 own -1 bank -1 billion -1 file -1 borrow -1 loan -1 approv -1 percent -1 pay -1 govern -1 guarant -1 shar -1 cabinet -1 pend -1 buy -1 financ -1 aircraft -1 exchang -1 purchas -1 airway -1 -2
+airway -1 airway -1 airway -1 airway -1 minist -1 bangkok -1 plc -1 bln -1 save -1 detail -1 gave -1 plan -1 plan -1 plan -1 airlin -1 intern -1 boe -1 friday -1 thailand -1 newsroom -1 transact -1 -2

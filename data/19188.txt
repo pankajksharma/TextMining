@@ -1,0 +1,2 @@
+interest -1 interest -1 rate -1 rate -1 rate -1 year -1 year -1 karach -1 currenc -1 yen -1 bank -1 bank -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 forex -1 thursday -1 bear -1 foreign -1 cent -1 cut -1 cut -1 cut -1 pakist -1 -2
+pakist -1 certif -1 certif -1 certif -1 certif -1 reduc -1 dollar -1 newsroom -1 sterl -1 mark -1 -2

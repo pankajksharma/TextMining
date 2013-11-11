@@ -1,0 +1,4 @@
+market -1 clear -1 emerg -1 tempor -1 tempor -1 hard -1 hard -1 hard -1 rate -1 revers -1 currenc -1 currenc -1 currenc -1 currenc -1 currenc -1 currenc -1 middl -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 affect -1 trend -1 mid -1 ukrain -1 ukrain -1 ukrain -1 expect -1 -2
+introduc -1 introduc -1 karbovanet -1 karbovanet -1 karbovanet -1 level -1 level -1 reut -1 show -1 thursday -1 thursday -1 circl -1 long -1 monday -1 reserv -1 rise -1 off -1 return -1 replac -1 told -1 cent -1 cent -1 exchang -1 head -1 realist -1 depart -1 hryvn -1 hryvn -1 hryvn -1 hryvn -1 hryvn -1 -2
+hryvn -1 hryvn -1 hryvn -1 mykol -1 nataly -1 zinet -1 day -1 day -1 announc -1 announc -1 septemb -1 septemb -1 septemb -1 septemb -1 account -1 worth -1 demand -1 dollar -1 sept -1 withdraw -1 melnychuk -1 unchang -1 regul -1 newsroom -1 switch -1 see -1 interbank -1 sale -1 offic -1 commerc -1 commerc -1 -2
+funct -1 kief -1 -2

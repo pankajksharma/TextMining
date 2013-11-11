@@ -1,0 +1,3 @@
+fire -1 fire -1 fire -1 bring -1 contamin -1 tuesday -1 high -1 even -1 generat -1 north -1 manag -1 line -1 line -1 line -1 line -1 line -1 unit -1 insulat -1 outag -1 transmit -1 smok -1 today -1 today -1 today -1 kilovolt -1 tarpl -1 tarpl -1 custom -1 disrupt -1 disrupt -1 -2
+control -1 control -1 monday -1 monday -1 pow -1 pow -1 cent -1 import -1 purchas -1 socal -1 servic -1 idl -1 edt -1 shut -1 pst -1 offset -1 volt -1 result -1 edison -1 edison -1 edison -1 edison -1 edison -1 edison -1 intern -1 major -1 restart -1 restart -1 restart -1 los -1 angel -1 -2
+cond -1 due -1 northw -1 gary -1 pacif -1 californ -1 hope -1 hope -1 hope -1 southern -1 curtail -1 -2

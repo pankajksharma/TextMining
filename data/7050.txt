@@ -1,0 +1,4 @@
+negot -1 elect -1 sect -1 econom -1 situat -1 target -1 high -1 municip -1 year -1 grand -1 grand -1 undermin -1 bank -1 bank -1 newspap -1 agree -1 form -1 billion -1 billion -1 troubl -1 de -1 de -1 de -1 gross -1 gross -1 gross -1 domest -1 debt -1 loan -1 loan -1 -2
+loan -1 produc -1 rio -1 rio -1 rio -1 rio -1 stat -1 stat -1 stat -1 stat -1 stat -1 govt -1 janeir -1 janeir -1 percent -1 help -1 expect -1 expect -1 govern -1 govern -1 govern -1 aid -1 aid -1 aid -1 end -1 log -1 nation -1 feder -1 feder -1 feder -1 feder -1 -2
+public -1 mina -1 gerai -1 financ -1 sul -1 sul -1 cove -1 gdp -1 award -1 figur -1 bln -1 upcom -1 simon -1 cost -1 brazil -1 brazil -1 brazil -1 pape -1 develop -1 wors -1 bahia -1 involut -1 deficit -1 deficit -1 glob -1 glob -1 bnd -1 bnd -1 bnd -1 disbur -1 newsroom -1 -2
+caix -1 alago -1 nort -1 sergip -1 maranhao -1 mato -1 mato -1 reai -1 reai -1 sign -1 -2

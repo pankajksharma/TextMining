@@ -1,0 +1,4 @@
+market -1 market -1 econom -1 econom -1 stock -1 stock -1 stock -1 stock -1 precur -1 low -1 merg -1 come -1 data -1 data -1 data -1 bank -1 point -1 affect -1 affect -1 manag -1 manag -1 mid -1 week -1 key -1 today -1 slight -1 bancshar -1 gmt -1 report -1 report -1 -2
+percent -1 strong -1 chalk -1 anal -1 expect -1 expect -1 expect -1 govern -1 eye -1 big -1 big -1 index -1 index -1 index -1 thursday -1 overse -1 speech -1 open -1 open -1 nation -1 stead -1 stead -1 chicag -1 chicag -1 rise -1 august -1 weak -1 greensp -1 greensp -1 rose -1 rose -1 -2
+loss -1 purchas -1 purchas -1 assoc -1 nationsbank -1 spark -1 numb -1 initial -1 edt -1 spend -1 percr -1 selloff -1 ll -1 await -1 incom -1 sell -1 consum -1 burst -1 july -1 july -1 day -1 prudent -1 boatm -1 includ -1 person -1 secur -1 fed -1 bond -1 dow -1 due -1 prompt -1 -2
+chairm -1 depend -1 pact -1 yesterday -1 hildegard -1 zagorsk -1 zagorsk -1 bunch -1 alan -1 -2

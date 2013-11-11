@@ -1,0 +1,3 @@
+compan -1 market -1 small -1 remov -1 leak -1 leak -1 drug -1 exercis -1 applic -1 applic -1 adult -1 receiv -1 woman -1 physic -1 food -1 unit -1 devic -1 stat -1 approv -1 abdomin -1 design -1 administ -1 administ -1 act -1 deflat -1 laugh -1 push -1 pull -1 control -1 control -1 -2
+channel -1 increas -1 wish -1 pressur -1 insert -1 insert -1 insert -1 insert -1 insert -1 loss -1 loss -1 prevent -1 altern -1 size -1 stress -1 stress -1 urom -1 urom -1 urom -1 diap -1 incontin -1 incontin -1 tampon -1 involunt -1 cough -1 sneez -1 reli -1 reli -1 balloon -1 fda -1 corp -1 -2
+caus -1 wednesday -1 string -1 air -1 femal -1 fill -1 urin -1 urin -1 urin -1 urin -1 urin -1 urin -1 urin -1 barry -1 urinat -1 blad -1 measur -1 singl -1 activ -1 -2

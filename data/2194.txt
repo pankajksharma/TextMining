@@ -1,0 +1,3 @@
+calm -1 market -1 market -1 market -1 clear -1 tuesday -1 thin -1 desir -1 high -1 high -1 liquid -1 year -1 lisbon -1 billion -1 billion -1 yield -1 yield -1 report -1 meet -1 expect -1 decid -1 treasur -1 treasur -1 cash -1 escudo -1 fomc -1 fomc -1 futur -1 open -1 end -1 -2
+auction -1 remain -1 increas -1 feder -1 portugu -1 bureau -1 escud -1 nudg -1 off -1 commit -1 bid -1 bid -1 fact -1 uncertain -1 pape -1 july -1 day -1 prev -1 accept -1 reject -1 demand -1 total -1 bond -1 bond -1 bond -1 hold -1 sale -1 sale -1 sign -1 trad -1 trad -1 -2
+trad -1 use -1 prepar -1 -2

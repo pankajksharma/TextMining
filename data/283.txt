@@ -1,0 +1,2 @@
+incid -1 situat -1 tuesday -1 month -1 cup -1 cup -1 countr -1 year -1 year -1 safet -1 declar -1 north -1 club -1 club -1 quart -1 afric -1 afric -1 afric -1 afric -1 afric -1 pretor -1 pretor -1 alger -1 alger -1 alger -1 alger -1 cr -1 belouizdad -1 confed -1 footbal -1 -2
+face -1 pull -1 win -1 socc -1 side -1 safe -1 forc -1 city -1 city -1 compet -1 match -1 match -1 host -1 play -1 play -1 fine -1 south -1 final -1 travel -1 concern -1 septemb -1 secur -1 refus -1 refus -1 due -1 withdraw -1 fear -1 leg -1 -2

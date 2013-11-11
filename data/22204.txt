@@ -1,0 +1,2 @@
+novemb -1 fast -1 bonus -1 quant -1 middl -1 food -1 merchandis -1 afric -1 afric -1 afric -1 produc -1 east -1 balanc -1 mideast -1 mideast -1 deliv -1 august -1 dairy -1 destin -1 bid -1 bid -1 agricultur -1 depart -1 program -1 deip -1 deip -1 mozzarel -1 ton -1 ton -1 ton -1 -2
+export -1 export -1 accept -1 chees -1 chees -1 incent -1 -2

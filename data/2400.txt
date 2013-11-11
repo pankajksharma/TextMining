@@ -1,0 +1,4 @@
+approach -1 market -1 tight -1 tight -1 tight -1 tight -1 recent -1 tuesday -1 tuesday -1 clos -1 clos -1 clos -1 low -1 low -1 nerv -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 trend -1 line -1 turn -1 deal -1 deal -1 week -1 huge -1 bought -1 -2
+slight -1 strong -1 strong -1 expect -1 expect -1 fell -1 sent -1 custom -1 brok -1 european -1 support -1 open -1 control -1 monday -1 short -1 pressur -1 made -1 import -1 cent -1 cent -1 cent -1 volatil -1 continu -1 inflat -1 won -1 won -1 won -1 won -1 won -1 korean -1 korean -1 -2
+korean -1 posit -1 posit -1 south -1 rang -1 rang -1 settl -1 sell -1 wednesday -1 bruc -1 katherin -1 demand -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 suppl -1 holiday -1 thanksgiv -1 bull -1 fear -1 korea -1 ord -1 trad -1 trad -1 trad -1 -2
+keep -1 hedg -1 -2

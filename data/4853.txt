@@ -1,0 +1,2 @@
+fire -1 fire -1 fire -1 floor -1 small -1 french -1 begin -1 room -1 kill -1 kill -1 hotel -1 hotel -1 hotel -1 citiz -1 shaft -1 guest -1 peopl -1 franc -1 franc -1 spread -1 flam -1 trap -1 gmt -1 injur -1 upp -1 savoy -1 appar -1 victim -1 cent -1 cent -1 -2
+work -1 le -1 clermont -1 ferrand -1 lift -1 unknow -1 rapid -1 midnight -1 wednesday -1 gut -1 student -1 dozen -1 morn -1 offic -1 -2

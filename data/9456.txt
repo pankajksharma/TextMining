@@ -1,0 +1,3 @@
+ag -1 bag -1 bag -1 bag -1 bag -1 frankfurt -1 frankfurt -1 frankfurt -1 frankfurt -1 frankfurt -1 system -1 system -1 system -1 system -1 system -1 manag -1 fax -1 fra -1 fra -1 stat -1 decid -1 check -1 manchest -1 main -1 instal -1 flughaf -1 fag -1 fag -1 fag -1 fag -1 -2
+contract -1 contract -1 termin -1 heathrow -1 buy -1 singapor -1 singapor -1 singapor -1 singapor -1 singapor -1 airport -1 airport -1 airport -1 airport -1 airport -1 aircraft -1 aircraft -1 comput -1 prevent -1 gatwick -1 servic -1 depart -1 won -1 brs -1 brs -1 payn -1 reconcil -1 asian -1 airlin -1 tend -1 board -1 -2
+carg -1 spokesm -1 passeng -1 uk -1 intern -1 intern -1 air -1 air -1 chang -1 robert -1 newsroom -1 operat -1 fourth -1 tel -1 handl -1 subsid -1 subsid -1 -2

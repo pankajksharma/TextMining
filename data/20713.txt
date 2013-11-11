@@ -1,0 +1,2 @@
+fire -1 french -1 tabl -1 guingamp -1 emon -1 pari -1 club -1 albert -1 baratel -1 baratel -1 baratel -1 st -1 home -1 germain -1 thursday -1 domin -1 win -1 leagu -1 leagu -1 socc -1 side -1 nice -1 nice -1 nice -1 nice -1 nice -1 match -1 play -1 play -1 take -1 -2
+goalkeep -1 divid -1 struggl -1 unabl -1 intern -1 lying -1 friday -1 season -1 lowly -1 defeat -1 coach -1 coach -1 -2

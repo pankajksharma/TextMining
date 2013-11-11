@@ -1,0 +1,2 @@
+market -1 corridor -1 tuesday -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 bank -1 point -1 tier -1 percent -1 percent -1 percent -1 meet -1 meet -1 lend -1 lend -1 anticip -1 thursday -1 deposit -1 deposit -1 end -1 leav -1 swed -1 riksbank -1 riksbank -1 riksbank -1 cent -1 -2
+cent -1 cut -1 move -1 stockholm -1 basi -1 wide -1 announc -1 board -1 board -1 element -1 set -1 repo -1 repo -1 unchang -1 newsroom -1 -2

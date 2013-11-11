@@ -1,0 +1,4 @@
+early -1 market -1 back -1 rumor -1 clos -1 clos -1 clos -1 high -1 high -1 high -1 interest -1 interest -1 interest -1 rate -1 rate -1 rate -1 rate -1 low -1 year -1 yen -1 bank -1 bank -1 point -1 midsess -1 fall -1 deal -1 deal -1 deal -1 peopl -1 week -1 -2
+slight -1 loan -1 percent -1 expect -1 expect -1 check -1 check -1 brok -1 thursday -1 open -1 deposit -1 end -1 end -1 talk -1 weekend -1 chin -1 chin -1 rise -1 rise -1 foreign -1 exchang -1 cut -1 cut -1 cut -1 cut -1 intr -1 intr -1 shanghai -1 shanghai -1 consolid -1 base -1 -2
+session -1 immin -1 day -1 day -1 sud -1 wednesday -1 wednesday -1 hong -1 kong -1 demand -1 uptrend -1 dollar -1 dollar -1 dollar -1 japan -1 friday -1 chang -1 hit -1 late -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 activ -1 interbank -1 amid -1 trad -1 -2
+trad -1 trad -1 trad -1 -2

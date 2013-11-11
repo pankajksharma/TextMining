@@ -1,0 +1,4 @@
+approach -1 market -1 market -1 bullion -1 bullion -1 grab -1 quiet -1 tuesday -1 clos -1 rand -1 interest -1 interest -1 interest -1 interest -1 fair -1 low -1 start -1 point -1 point -1 trend -1 firm -1 firm -1 firm -1 deal -1 deal -1 deal -1 deal -1 week -1 week -1 afric -1 -2
+afric -1 mine -1 awak -1 local -1 expect -1 expect -1 enjoy -1 enjoy -1 overnight -1 subdu -1 fell -1 level -1 level -1 index -1 shar -1 shar -1 shar -1 shar -1 overse -1 european -1 open -1 open -1 end -1 sum -1 monday -1 remain -1 industr -1 industr -1 gold -1 gold -1 gold -1 -2
+renew -1 stead -1 stead -1 buy -1 buy -1 finish -1 finish -1 foreign -1 financ -1 snatch -1 loss -1 offer -1 comfort -1 continu -1 london -1 upward -1 play -1 retrac -1 south -1 lift -1 struggl -1 run -1 institut -1 hand -1 wall -1 wall -1 street -1 street -1 held -1 held -1 holiday -1 -2
+trad -1 trad -1 -2

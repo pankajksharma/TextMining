@@ -1,0 +1,2 @@
+clos -1 clos -1 clos -1 rate -1 rate -1 month -1 year -1 rebound -1 point -1 point -1 roll -1 key -1 gmt -1 yield -1 yield -1 percent -1 percent -1 meet -1 bill -1 level -1 level -1 flat -1 flat -1 support -1 leav -1 techn -1 virtual -1 riksbank -1 swed -1 swed -1 -2
+crown -1 crown -1 finish -1 spent -1 half -1 half -1 coast -1 basi -1 basi -1 day -1 day -1 wednesday -1 wednesday -1 board -1 bond -1 bond -1 bond -1 unchang -1 unchang -1 unchang -1 mark -1 -2

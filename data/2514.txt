@@ -1,0 +1,2 @@
+carry -1 eps -1 month -1 yen -1 yen -1 yen -1 nil -1 nil -1 div -1 billion -1 lead -1 prft -1 prft -1 interim -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 shar -1 mth -1 current -1 kansai -1 kansai -1 loss -1 loss -1 loss -1 -2
+loss -1 loss -1 loss -1 net -1 kisen -1 kisen -1 kaish -1 note -1 coast -1 result -1 june -1 parent -1 parent -1 operat -1 operat -1 sale -1 -2

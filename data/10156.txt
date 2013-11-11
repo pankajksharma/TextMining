@@ -1,0 +1,4 @@
+early -1 early -1 early -1 disclos -1 thirt -1 recent -1 thai -1 territ -1 train -1 train -1 saturday -1 saturday -1 sunday -1 restaur -1 month -1 month -1 club -1 portug -1 expert -1 decemb -1 peopl -1 sourc -1 sourc -1 produc -1 special -1 injur -1 expect -1 confirm -1 home -1 home -1 -2
+window -1 blow -1 spat -1 seiz -1 insid -1 plent -1 damag -1 august -1 karaok -1 car -1 gigol -1 gymnas -1 financ -1 investig -1 explod -1 made -1 mater -1 mater -1 warn -1 declin -1 senior -1 senior -1 court -1 nearb -1 district -1 undercov -1 attack -1 favourit -1 shat -1 bar -1 toilet -1 -2
+explos -1 explos -1 bomb -1 bomb -1 bomb -1 bomb -1 bomb -1 bomb -1 arrest -1 arrest -1 arrest -1 total -1 judic -1 friday -1 found -1 twelf -1 hit -1 connect -1 need -1 polic -1 polic -1 polic -1 polic -1 polic -1 polic -1 macau -1 macau -1 macau -1 macau -1 macau -1 macau -1 -2
+casino -1 wav -1 park -1 offic -1 offic -1 offic -1 offic -1 sign -1 disput -1 -2

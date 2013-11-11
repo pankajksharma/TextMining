@@ -1,0 +1,2 @@
+year -1 karach -1 full -1 privat -1 bank -1 bank -1 nil -1 nil -1 expenditur -1 interim -1 million -1 shar -1 end -1 dividend -1 dividend -1 net -1 half -1 note -1 date -1 incom -1 book -1 h1 -1 profit -1 profit -1 announc -1 rupee -1 rupee -1 june -1 muslim -1 muslim -1 -2
+newsroom -1 closur -1 commerc -1 commerc -1 tax -1 tax -1 pct -1 -2

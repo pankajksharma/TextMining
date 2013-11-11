@@ -1,0 +1,2 @@
+countr -1 countr -1 bank -1 bank -1 spain -1 spain -1 fax -1 unit -1 unit -1 stat -1 stat -1 amsterdam -1 million -1 netherland -1 netherland -1 netherland -1 netherland -1 ecu -1 dutch -1 belgian -1 area -1 area -1 financ -1 fort -1 fort -1 fort -1 insur -1 insur -1 half -1 geograph -1 -2
+geograph -1 incom -1 incom -1 incom -1 incom -1 profit -1 profit -1 profit -1 newsroom -1 operat -1 operat -1 region -1 belg -1 belg -1 belg -1 belg -1 group -1 -2

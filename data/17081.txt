@@ -1,0 +1,2 @@
+market -1 market -1 quiet -1 rate -1 rate -1 rate -1 month -1 low -1 low -1 start -1 bank -1 bank -1 bank -1 bank -1 system -1 amman -1 cd -1 week -1 week -1 jord -1 jord -1 subsrib -1 salar -1 report -1 percent -1 percent -1 percent -1 transf -1 overnight -1 overnight -1 -2
+soft -1 million -1 deposit -1 auction -1 stead -1 public -1 weak -1 minist -1 certif -1 attribut -1 institut -1 wednesday -1 depress -1 dinar -1 dinar -1 demand -1 unchang -1 newsroom -1 pct -1 -2

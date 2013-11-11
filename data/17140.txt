@@ -1,0 +1,2 @@
+newsdesk -1 hard -1 octob -1 jord -1 jord -1 bought -1 ship -1 pric -1 soft -1 chicag -1 buy -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 half -1 half -1 freight -1 cost -1 equal -1 ton -1 ton -1 ton -1 ton -1 ton -1 export -1 export -1 includ -1 wednesday -1 -2
+tend -1 origin -1 split -1 option -1 -2

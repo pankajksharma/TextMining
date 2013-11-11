@@ -1,0 +1,4 @@
+early -1 congress -1 launch -1 launch -1 launch -1 flight -1 train -1 vehicl -1 halt -1 countr -1 notif -1 provinc -1 affect -1 war -1 unit -1 guid -1 stat -1 sting -1 sting -1 sting -1 sting -1 balanc -1 sino -1 sino -1 reut -1 defend -1 defend -1 telephon -1 missil -1 missil -1 -2
+missil -1 missil -1 missil -1 missil -1 missil -1 million -1 end -1 round -1 pentagon -1 monday -1 chin -1 chin -1 chin -1 ammun -1 damag -1 damag -1 buy -1 foreign -1 civil -1 told -1 side -1 prevent -1 prevent -1 minist -1 depart -1 estimat -1 weapon -1 weapon -1 weapon -1 weapon -1 sell -1 -2
+sell -1 sell -1 sell -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 milit -1 basic -1 island -1 want -1 plan -1 plan -1 plan -1 relat -1 relat -1 beij -1 calibr -1 jeep -1 reject -1 cancel -1 cancel -1 cancel -1 spokesm -1 spokesm -1 regard -1 demand -1 demand -1 demand -1 -2
+friday -1 oppos -1 renegad -1 arm -1 creat -1 region -1 humvee -1 sale -1 sale -1 sale -1 -2

@@ -1,0 +1,4 @@
+usda -1 usda -1 usda -1 market -1 market -1 market -1 quiet -1 quiet -1 texa -1 tuesday -1 record -1 record -1 record -1 high -1 high -1 year -1 midday -1 inquir -1 feb -1 wholesal -1 cattl -1 cattl -1 cattl -1 cattl -1 week -1 week -1 week -1 week -1 week -1 week -1 -2
+week -1 week -1 week -1 week -1 light -1 light -1 sourc -1 sourc -1 oklahom -1 pract -1 expect -1 confirm -1 kans -1 pric -1 pric -1 pric -1 volum -1 brok -1 sold -1 thursday -1 end -1 end -1 remain -1 consid -1 area -1 finish -1 bounc -1 beef -1 box -1 pack -1 green -1 -2
+cwt -1 western -1 head -1 head -1 bid -1 heavy -1 feedlot -1 feedlot -1 feedlot -1 feedlot -1 bob -1 buoy -1 panhandl -1 bulk -1 date -1 date -1 peg -1 july -1 prev -1 prev -1 prev -1 plac -1 unfin -1 snap -1 friday -1 showl -1 jani -1 late -1 set -1 set -1 deplet -1 -2
+activ -1 plain -1 plain -1 sale -1 sale -1 sale -1 sale -1 trad -1 -2

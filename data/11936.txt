@@ -1,0 +1,3 @@
+soybean -1 soybean -1 limit -1 limit -1 market -1 bean -1 rumor -1 clos -1 clos -1 clos -1 bushel -1 bushel -1 high -1 high -1 high -1 decemb -1 unit -1 franc -1 bought -1 bought -1 stat -1 wit -1 dean -1 gain -1 gain -1 rally -1 rally -1 rally -1 volum -1 volum -1 -2
+futur -1 futur -1 futur -1 sold -1 nelson -1 circl -1 contract -1 weekend -1 weekend -1 sam -1 harvest -1 grow -1 corn -1 corn -1 corn -1 cent -1 cent -1 cbot -1 cbot -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 new -1 put -1 estimat -1 -2
+estimat -1 ton -1 ton -1 reynold -1 septemb -1 egypt -1 egypt -1 friday -1 friday -1 friday -1 late -1 vic -1 spring -1 lespinass -1 weather -1 region -1 ideal -1 refc -1 trad -1 trad -1 option -1 option -1 -2

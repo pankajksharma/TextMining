@@ -1,0 +1,2 @@
+stak -1 compan -1 month -1 progress -1 year -1 full -1 firm -1 slight -1 stat -1 stat -1 percent -1 anal -1 expect -1 expect -1 minor -1 reit -1 environ -1 main -1 million -1 control -1 crown -1 rise -1 danish -1 continu -1 initial -1 servic -1 net -1 net -1 plc -1 pre -1 -2
+note -1 base -1 h1 -1 turnov -1 profit -1 result -1 result -1 result -1 asset -1 june -1 rentokil -1 sophus -1 sophus -1 berends -1 berends -1 pest -1 hold -1 tax -1 group -1 group -1 -2

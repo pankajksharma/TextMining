@@ -1,0 +1,2 @@
+limit -1 year -1 quart -1 stat -1 million -1 tea -1 tea -1 tea -1 tea -1 smallhold -1 smallhold -1 rise -1 colomb -1 financ -1 net -1 net -1 fact -1 fact -1 sharp -1 note -1 turnov -1 profit -1 result -1 rupee -1 sri -1 lank -1 q1 -1 unaudit -1 newsroom -1 manufactur -1 -2
+tel -1 tax -1 -2

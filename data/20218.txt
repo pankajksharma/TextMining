@@ -1,0 +1,4 @@
+early -1 grain -1 recent -1 frost -1 frost -1 frost -1 frost -1 frost -1 frost -1 feel -1 clos -1 mild -1 full -1 potent -1 privat -1 sydney -1 trim -1 affect -1 affect -1 week -1 assess -1 assess -1 yield -1 stat -1 percent -1 expect -1 expect -1 million -1 million -1 million -1 -2
+nichol -1 crop -1 crop -1 crop -1 crop -1 crop -1 crop -1 crop -1 crop -1 crop -1 awb -1 awb -1 awb -1 awb -1 awb -1 awb -1 awb -1 nation -1 monday -1 rtr -1 damag -1 damag -1 harvest -1 wid -1 queensland -1 queensland -1 queensland -1 wheat -1 wheat -1 wheat -1 wheat -1 -2
+austral -1 austral -1 austral -1 austral -1 figur -1 size -1 wip -1 mask -1 ton -1 ton -1 ton -1 ton -1 ton -1 develop -1 day -1 field -1 reduc -1 reduc -1 effect -1 board -1 account -1 spokesm -1 spokesm -1 alex -1 releas -1 extent -1 extent -1 newsroom -1 forecast -1 forecast -1 forecast -1 -2
+forecast -1 coupl -1 possibl -1 offic -1 staff -1 -2

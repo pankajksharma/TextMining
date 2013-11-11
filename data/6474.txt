@@ -1,0 +1,4 @@
+newsdesk -1 ag -1 retir -1 body -1 body -1 own -1 beneex -1 schedul -1 generat -1 whitney -1 whitney -1 billion -1 discount -1 unit -1 unit -1 unit -1 unit -1 unit -1 unit -1 unit -1 unit -1 unit -1 unit -1 annual -1 list -1 industrie -1 percent -1 meet -1 requir -1 expect -1 -2
+airbus -1 confirm -1 jet -1 pric -1 pric -1 million -1 million -1 ensur -1 deliv -1 techn -1 chicag -1 narrow -1 aero -1 aero -1 fuel -1 jumb -1 pow -1 wid -1 replac -1 aircraft -1 aircraft -1 aircraft -1 quot -1 size -1 updat -1 part -1 cost -1 cost -1 program -1 program -1 program -1 -2
+a319 -1 save -1 base -1 valu -1 valu -1 plan -1 corp -1 corp -1 ual -1 ual -1 labor -1 airlin -1 airlin -1 airlin -1 engin -1 engin -1 engin -1 reduc -1 reduc -1 plac -1 intern -1 intern -1 order -1 order -1 mainten -1 boe -1 boe -1 boe -1 nois -1 add -1 manufactur -1 -2
+manufactur -1 fleet -1 substant -1 prat -1 prat -1 jetlin -1 operat -1 ord -1 ord -1 ord -1 ord -1 -2

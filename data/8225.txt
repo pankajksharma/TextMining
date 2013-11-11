@@ -1,0 +1,4 @@
+compan -1 nasdaq -1 nasdaq -1 nasdaq -1 market -1 market -1 scur -1 ralph -1 territ -1 tech -1 stock -1 stock -1 clos -1 clos -1 high -1 rate -1 perform -1 low -1 rebound -1 ahead -1 inch -1 composit -1 billion -1 unoffic -1 invest -1 list -1 issu -1 slight -1 percent -1 anal -1 -2
+downward -1 wit -1 advanc -1 dean -1 act -1 index -1 volum -1 million -1 shar -1 shar -1 pull -1 contract -1 techn -1 techn -1 stead -1 digit -1 microsystem -1 short -1 buy -1 off -1 andrej -1 gustinc -1 financ -1 weak -1 box -1 semiconduc -1 cut -1 cove -1 declin -1 heavy -1 jame -1 -2
+fail -1 posit -1 posit -1 chief -1 chief -1 selloff -1 lift -1 base -1 accumul -1 chellam -1 encord -1 raymons -1 atmel -1 corp -1 corp -1 wall -1 street -1 zenith -1 americast -1 suppl -1 bond -1 bond -1 consort -1 set -1 make -1 tv -1 activ -1 possibl -1 desk -1 top -1 top -1 -2
+bloch -1 novel -1 electron -1 cube -1 offic -1 count -1 trad -1 kri -1 -2

@@ -1,0 +1,5 @@
+negot -1 coax -1 clear -1 clear -1 protest -1 hous -1 fray -1 toss -1 gas -1 high -1 chain -1 month -1 brief -1 progress -1 demonstr -1 year -1 middl -1 form -1 site -1 fall -1 peninsul -1 remot -1 road -1 mill -1 week -1 pave -1 human -1 govern -1 wreck -1 wreck -1 -2
+home -1 home -1 abandon -1 erect -1 window -1 cylind -1 thursday -1 wat -1 wat -1 face -1 nation -1 haven -1 chin -1 rubbl -1 age -1 renew -1 rise -1 public -1 kowloon -1 box -1 convinc -1 effort -1 fade -1 work -1 work -1 work -1 forc -1 prevent -1 postpon -1 fami -1 move -1 -2
+move -1 clash -1 resid -1 fail -1 thousand -1 shant -1 riot -1 coast -1 scen -1 settl -1 settl -1 atop -1 develop -1 taiw -1 taiw -1 taiw -1 vanqu -1 commun -1 raze -1 fierc -1 relic -1 resist -1 resist -1 mound -1 flut -1 reduc -1 futil -1 town -1 town -1 town -1 resum -1 -2
+flag -1 hong -1 hong -1 hong -1 demand -1 held -1 crew -1 crew -1 crew -1 kong -1 kong -1 kong -1 oppos -1 battl -1 takeov -1 barricad -1 polic -1 polic -1 bay -1 fled -1 arm -1 soldy -1 pail -1 renny -1 coupl -1 coupl -1 coupl -1 crowbar -1 sledgeham -1 compens -1 demol -1 -2
+demol -1 demol -1 brac -1 cook -1 scald -1 boil -1 block -1 -2

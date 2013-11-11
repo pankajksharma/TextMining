@@ -1,0 +1,4 @@
+stay -1 compan -1 temper -1 emerg -1 discomfort -1 leak -1 leak -1 observ -1 medic -1 memor -1 gas -1 gas -1 gas -1 gas -1 high -1 ruptur -1 hot -1 hospit -1 hospit -1 hospit -1 room -1 construc -1 northeast -1 northeast -1 spokeswom -1 spokeswom -1 spokeswom -1 start -1 extrem -1 humid -1 -2
+overcom -1 line -1 treat -1 treat -1 treat -1 treat -1 produc -1 fume -1 natur -1 natur -1 confirm -1 suff -1 lawrent -1 lawrent -1 kans -1 kans -1 kans -1 kans -1 kans -1 kans -1 law -1 thursday -1 thursday -1 approxim -1 author -1 provid -1 cent -1 work -1 work -1 city -1 initial -1 -2
+stress -1 discov -1 nebrask -1 school -1 school -1 school -1 school -1 mixtur -1 lot -1 base -1 problem -1 evacuat -1 express -1 relat -1 relat -1 child -1 child -1 child -1 child -1 child -1 child -1 heat -1 heat -1 heat -1 heat -1 enforc -1 girl -1 cond -1 cond -1 weather -1 weather -1 -2
+releas -1 releas -1 forecast -1 faint -1 offic -1 -2

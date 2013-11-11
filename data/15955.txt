@@ -1,0 +1,4 @@
+compan -1 compan -1 market -1 retail -1 configur -1 configur -1 carry -1 train -1 french -1 countr -1 marc -1 begin -1 promot -1 powerpoint -1 languang -1 start -1 agree -1 suit -1 suggest -1 suggest -1 germ -1 ship -1 ship -1 stat -1 italian -1 pric -1 pric -1 pric -1 europ -1 support -1 -2
+european -1 european -1 european -1 european -1 span -1 open -1 swed -1 norweg -1 danish -1 off -1 pow -1 pow -1 pow -1 pow -1 pow -1 bundl -1 provid -1 comput -1 comput -1 work -1 engl -1 host -1 chief -1 vary -1 divid -1 word -1 microsoft -1 microsoft -1 microsoft -1 microsoft -1 microsoft -1 -2
+microsoft -1 microsoft -1 microsoft -1 land -1 corp -1 coop -1 includ -1 includ -1 person -1 wednesday -1 septemb -1 era -1 excel -1 version -1 version -1 softwar -1 softwar -1 add -1 partn -1 operat -1 mac -1 mac -1 advert -1 offic -1 offic -1 offic -1 appl -1 appl -1 appl -1 appl -1 appl -1 -2
+appl -1 macintosh -1 macintosh -1 macintosh -1 macintosh -1 -2

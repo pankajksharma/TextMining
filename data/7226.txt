@@ -1,0 +1,2 @@
+maghrib -1 interest -1 rate -1 rate -1 year -1 year -1 year -1 bank -1 bank -1 amount -1 week -1 week -1 week -1 percent -1 percent -1 percent -1 percent -1 percent -1 treasur -1 treasur -1 treasur -1 bill -1 dirham -1 dirham -1 dirham -1 al -1 million -1 thursday -1 matur -1 auction -1 -2
+auction -1 rais -1 rais -1 cent -1 rabat -1 bid -1 bid -1 accept -1 morocc -1 morocc -1 total -1 unchang -1 newsroom -1 mln -1 -2

@@ -1,0 +1,1 @@
+warehous -1 stock -1 stock -1 jul -1 jul -1 jun -1 domest -1 bale -1 bureau -1 public -1 foreign -1 fact -1 spindl -1 census -1 census -1 consum -1 revis -1 cotton -1 cotton -1 cotton -1 stor -1 activ -1 pct -1 establ -1 mln -1 -2

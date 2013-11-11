@@ -1,0 +1,4 @@
+market -1 market -1 retail -1 illinoi -1 tuesday -1 high -1 high -1 high -1 low -1 countr -1 countr -1 countr -1 belt -1 start -1 trim -1 wholesal -1 iowa -1 deal -1 deal -1 interior -1 light -1 sourc -1 produc -1 cash -1 hog -1 hog -1 hog -1 hog -1 hog -1 hog -1 -2
+hog -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 soft -1 sold -1 monday -1 stead -1 stead -1 stead -1 stead -1 pork -1 pork -1 buy -1 buy -1 buy -1 buy -1 weak -1 corn -1 beef -1 focus -1 pack -1 pack -1 pack -1 cwt -1 cwt -1 -2
+margin -1 western -1 midw -1 midw -1 continu -1 livestock -1 bob -1 direct -1 direct -1 lift -1 ohio -1 peg -1 cutout -1 nip -1 resist -1 plant -1 plant -1 plant -1 demand -1 demand -1 carcass -1 minnesot -1 minnesot -1 jani -1 featur -1 indian -1 top -1 top -1 top -1 advert -1 southern -1 -2
+southern -1 locat -1 slow -1 slow -1 trad -1 trad -1 -2

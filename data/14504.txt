@@ -1,0 +1,2 @@
+consensus -1 nil -1 billion -1 billion -1 vnu -1 vnu -1 report -1 stat -1 anal -1 expect -1 extraordin -1 extraordin -1 gain -1 ordin -1 ordin -1 million -1 million -1 million -1 shar -1 guild -1 guild -1 guild -1 guild -1 ops -1 financ -1 assoc -1 net -1 net -1 net -1 net -1 -2
+net -1 half -1 half -1 half -1 note -1 cost -1 estimat -1 incom -1 turnov -1 dit -1 profit -1 profit -1 profit -1 profit -1 profit -1 charg -1 total -1 publish -1 incl -1 operat -1 operat -1 operat -1 tax -1 mln -1 -2

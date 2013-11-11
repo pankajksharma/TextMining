@@ -1,0 +1,4 @@
+stak -1 stak -1 tuesday -1 wellington -1 own -1 own -1 review -1 agree -1 length -1 manag -1 invest -1 week -1 light -1 fund -1 domest -1 sourc -1 tnt -1 approv -1 percent -1 expect -1 expect -1 expect -1 expect -1 confirm -1 million -1 intent -1 rupert -1 murdoch -1 give -1 industr -1 -2
+buy -1 buy -1 buy -1 foreign -1 commit -1 green -1 austral -1 austral -1 purchas -1 nz -1 nz -1 nz -1 nz -1 declin -1 zealand -1 zealand -1 zealand -1 zealand -1 zealand -1 initial -1 half -1 new -1 new -1 anset -1 anset -1 anset -1 anset -1 anset -1 anset -1 propos -1 propos -1 -2
+sell -1 detail -1 plan -1 plan -1 corp -1 announc -1 announc -1 announc -1 includ -1 wednesday -1 wednesday -1 airlin -1 board -1 spokesm -1 air -1 air -1 air -1 air -1 air -1 air -1 competit -1 afternoon -1 make -1 make -1 newsroom -1 arm -1 fear -1 confer -1 confer -1 operat -1 hold -1 -2
+commerc -1 -2

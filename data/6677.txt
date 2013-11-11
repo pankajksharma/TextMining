@@ -1,0 +1,2 @@
+compan -1 compan -1 lieu -1 stock -1 stock -1 clos -1 fract -1 merg -1 merg -1 merg -1 year -1 agree -1 agree -1 common -1 common -1 deal -1 quart -1 complet -1 transn -1 transn -1 transn -1 transn -1 expect -1 cash -1 exist -1 shar -1 shar -1 shar -1 thursday -1 end -1 -2
+ceas -1 exchang -1 reinsur -1 pxr -1 pxr -1 pxr -1 pxr -1 corp -1 corp -1 corp -1 fourth -1 transact -1 sign -1 -2

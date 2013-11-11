@@ -1,0 +1,2 @@
+rate -1 rate -1 sep -1 sep -1 sep -1 sep -1 currenc -1 mgr -1 mar -1 bank -1 borrow -1 issu -1 issu -1 issu -1 convers -1 switzerland -1 pay -1 pay -1 decid -1 lead -1 int -1 pric -1 pric -1 pric -1 nis -1 moody -1 million -1 end -1 matur -1 conv -1 -2
+conv -1 conv -1 coupon -1 coupon -1 typ -1 yamaich -1 date -1 date -1 date -1 sfr -1 sfr -1 cur -1 jcr -1 par -1 septemb -1 jbri -1 convertibl -1 convertibl -1 oct -1 ohba -1 ohba -1 amt -1 sign -1 mln -1 -2

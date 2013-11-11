@@ -1,0 +1,2 @@
+market -1 money -1 chung -1 rate -1 bank -1 firm -1 firm -1 deal -1 deal -1 maurit -1 forex -1 loui -1 strength -1 strength -1 monday -1 monday -1 monday -1 weak -1 pound -1 pound -1 pound -1 attribut -1 mike -1 post -1 rupee -1 rupee -1 rupee -1 rupee -1 rupee -1 mauritius -1 -2
+intern -1 dollar -1 dollar -1 dollar -1 dollar -1 friday -1 friday -1 friday -1 port -1 late -1 commerc -1 -2

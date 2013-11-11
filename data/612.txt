@@ -1,0 +1,1 @@
+record -1 sep -1 div -1 amount -1 quart -1 pay -1 roto -1 reg -1 root -1 prior -1 rais -1 aug -1 late -1 qtly -1 -2

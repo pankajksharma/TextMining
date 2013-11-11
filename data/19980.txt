@@ -1,0 +1,2 @@
+compan -1 market -1 market -1 market -1 stock -1 drug -1 own -1 own -1 pharmac -1 pharmac -1 pharmac -1 pharmac -1 unit -1 unit -1 unit -1 list -1 list -1 stat -1 anal -1 decid -1 defin -1 shar -1 shar -1 thursday -1 techn -1 swed -1 prevail -1 made -1 stockholm -1 patent -1 -2
+basi -1 base -1 develop -1 whol -1 whol -1 instru -1 board -1 upjohn -1 upjohn -1 ab -1 ab -1 ab -1 chang -1 cond -1 intend -1 newsroom -1 manufactur -1 sale -1 sale -1 subsid -1 subsid -1 biosens -1 biosens -1 biosens -1 biosens -1 biosens -1 biacor -1 group -1 -2

@@ -1,0 +1,3 @@
+compan -1 compan -1 market -1 acrylonitril -1 butadi -1 styr -1 jsr -1 own -1 octob -1 start -1 form -1 unit -1 unit -1 unit -1 capit -1 produc -1 produc -1 stat -1 percent -1 percent -1 expect -1 support -1 techn -1 industr -1 resin -1 resin -1 resin -1 resin -1 resin -1 off -1 -2
+car -1 refrig -1 made -1 comput -1 compon -1 shanghai -1 shanghai -1 shanghai -1 shanghai -1 synthet -1 synthet -1 synthet -1 synthet -1 synthet -1 synthet -1 part -1 abs -1 abs -1 abs -1 abs -1 export -1 sell -1 includ -1 wednesday -1 air -1 rub -1 japan -1 japan -1 japan -1 japan -1 japan -1 -2
+japan -1 japan -1 plast -1 set -1 condit -1 manufactur -1 manufactur -1 operat -1 compound -1 trad -1 subsid -1 subsid -1 subsid -1 -2

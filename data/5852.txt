@@ -1,0 +1,3 @@
+fire -1 immed -1 year -1 kill -1 kill -1 kill -1 provinc -1 agent -1 agent -1 turk -1 vill -1 vill -1 employ -1 peopl -1 peopl -1 report -1 southeast -1 injur -1 confirm -1 govern -1 rebel -1 rebel -1 thursday -1 conflict -1 governor -1 party -1 rocket -1 rocket -1 rocket -1 guerrill -1 -2
+guerrill -1 kurd -1 kurd -1 kurd -1 kurdist -1 anatol -1 work -1 forc -1 city -1 iraq -1 new -1 attack -1 attack -1 bord -1 turkey -1 turkey -1 autonom -1 militiam -1 pkk -1 pkk -1 diyarbakir -1 hakkar -1 includ -1 guard -1 guard -1 guard -1 secur -1 pro -1 southeastern -1 fight -1 fight -1 -2
+region -1 mountain -1 offic -1 offic -1 elev -1 independ -1 group -1 -2

@@ -1,0 +1,2 @@
+market -1 econom -1 rate -1 agent -1 yr -1 yr -1 chg -1 chg -1 chg -1 annual -1 annual -1 quart -1 quart -1 quart -1 gross -1 domest -1 domest -1 produc -1 percent -1 percent -1 percent -1 canad -1 canad -1 canad -1 q2 -1 q2 -1 q2 -1 pric -1 pric -1 pric -1 -2
+adjust -1 statist -1 rise -1 grow -1 rose -1 gdp -1 gdp -1 gdp -1 bln -1 final -1 q1 -1 demand -1 friday -1 real -1 real -1 season -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 -2

@@ -1,0 +1,4 @@
+ag -1 clos -1 repret -1 high -1 high -1 rate -1 rate -1 rate -1 month -1 revers -1 currenc -1 currenc -1 currenc -1 currenc -1 start -1 billion -1 trend -1 unit -1 franc -1 franc -1 franc -1 franc -1 franc -1 franc -1 franc -1 stat -1 report -1 percent -1 percent -1 percent -1 -2
+percent -1 fell -1 million -1 end -1 end -1 end -1 end -1 increas -1 increas -1 swiss -1 swiss -1 swiss -1 swiss -1 foreign -1 financ -1 financ -1 rose -1 rose -1 import -1 exchang -1 exchang -1 move -1 half -1 half -1 half -1 half -1 posit -1 partial -1 roch -1 roch -1 roch -1 -2
+roch -1 roch -1 roch -1 roch -1 incom -1 wordw -1 compar -1 compar -1 profit -1 result -1 result -1 essent -1 asset -1 effect -1 effect -1 zurich -1 editor -1 apprec -1 favor -1 favor -1 dollar -1 dollar -1 dollar -1 june -1 june -1 june -1 major -1 due -1 cond -1 operat -1 operat -1 -2
+operat -1 operat -1 hold -1 sale -1 sale -1 trad -1 trad -1 group -1 -2

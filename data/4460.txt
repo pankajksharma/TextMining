@@ -1,0 +1,4 @@
+market -1 market -1 market -1 tuesday -1 tuesday -1 tuesday -1 tuesday -1 tuesday -1 thin -1 money -1 money -1 clos -1 clos -1 clos -1 clos -1 parit -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 march -1 low -1 halt -1 lira -1 lira -1 lira -1 lira -1 lira -1 -2
+currenc -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 point -1 turk -1 turk -1 fall -1 line -1 firm -1 firm -1 lent -1 yield -1 yield -1 report -1 percent -1 percent -1 percent -1 percent -1 percent -1 forex -1 transf -1 bill -1 cash -1 cash -1 overnight -1 overnight -1 overnight -1 -2
+level -1 open -1 time -1 short -1 cent -1 cent -1 move -1 trill -1 trill -1 pape -1 day -1 wednesday -1 intern -1 uptrend -1 dollar -1 dollar -1 dollar -1 dollar -1 friday -1 bond -1 chang -1 aver -1 unchang -1 activ -1 activ -1 yesterday -1 compuls -1 mark -1 mark -1 trad -1 trad -1 -2
+trad -1 eas -1 surplus -1 -2

@@ -1,0 +1,4 @@
+territ -1 french -1 union -1 month -1 month -1 year -1 year -1 middl -1 middl -1 pari -1 pari -1 north -1 north -1 north -1 fax -1 de -1 afric -1 afric -1 domest -1 ship -1 east -1 east -1 east -1 east -1 percent -1 percent -1 percent -1 percent -1 percent -1 sahar -1 -2
+fell -1 level -1 jan -1 janu -1 janu -1 janu -1 janu -1 show -1 eu -1 europ -1 european -1 adp -1 adp -1 adp -1 adp -1 gaull -1 orly -1 author -1 traff -1 traff -1 airport -1 airport -1 airport -1 rose -1 flow -1 destin -1 figur -1 period -1 americ -1 americ -1 americ -1 -2
+ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 export -1 export -1 export -1 export -1 export -1 charl -1 july -1 july -1 july -1 july -1 july -1 latin -1 carg -1 carg -1 carg -1 air -1 -2
+air -1 total -1 major -1 chang -1 glob -1 newsroom -1 pacif -1 region -1 region -1 tel -1 left -1 pct -1 pct -1 -2

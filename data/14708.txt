@@ -1,0 +1,2 @@
+early -1 small -1 struck -1 train -1 train -1 tuesday -1 immed -1 derail -1 derail -1 derail -1 spokeswom -1 amtrak -1 amtrak -1 roxbur -1 montp -1 capit -1 northfield -1 report -1 stat -1 stat -1 stat -1 injur -1 minor -1 log -1 edg -1 southw -1 mile -1 detail -1 result -1 vermont -1 -2
+vermont -1 truck -1 truck -1 town -1 hit -1 polic -1 polic -1 mountain -1 -2

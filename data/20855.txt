@@ -1,0 +1,2 @@
+compan -1 newsdesk -1 carry -1 ocean -1 month -1 privat -1 data -1 york -1 shr -1 shr -1 shr -1 unit -1 q4 -1 quart -1 issu -1 rev -1 rev -1 stat -1 report -1 q2 -1 defin -1 act -1 futur -1 shar -1 foreign -1 exchang -1 prim -1 numb -1 net -1 net -1 -2
+note -1 result -1 result -1 na -1 na -1 na -1 na -1 na -1 na -1 secur -1 rule -1 releas -1 -2

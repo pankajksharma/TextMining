@@ -1,0 +1,2 @@
+novemb -1 market -1 gener -1 drug -1 drug -1 drug -1 receiv -1 receiv -1 food -1 treat -1 produc -1 approv -1 approv -1 approv -1 advanc -1 administ -1 megestrol -1 megestrol -1 megac -1 palliat -1 endomet -1 strength -1 strength -1 monday -1 canc -1 canc -1 canc -1 equival -1 bristol -1 myer -1 -2
+laborat -1 laborat -1 fda -1 bar -1 bar -1 bar -1 breast -1 acetat -1 acetat -1 mg -1 mg -1 -2

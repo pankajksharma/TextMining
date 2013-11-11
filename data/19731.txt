@@ -1,0 +1,4 @@
+early -1 shield -1 rival -1 rival -1 attend -1 attend -1 attend -1 french -1 union -1 reach -1 peac -1 peac -1 peac -1 peac -1 year -1 year -1 agree -1 agree -1 agree -1 agree -1 sporad -1 live -1 forward -1 war -1 gulf -1 stat -1 meet -1 troop -1 design -1 brok -1 -2
+brok -1 thursday -1 end -1 push -1 party -1 party -1 talk -1 talk -1 talk -1 talk -1 talk -1 talk -1 short -1 patrol -1 ground -1 kurd -1 kurd -1 kurd -1 kurd -1 kurdist -1 kurdist -1 kdp -1 kdp -1 puk -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 london -1 london -1 -2
+london -1 clash -1 patriot -1 sky -1 solidif -1 northern -1 northern -1 cost -1 attack -1 sponsor -1 plan -1 wednesday -1 prev -1 effect -1 monit -1 station -1 brit -1 friday -1 friday -1 friday -1 late -1 morn -1 set -1 tomorrow -1 intend -1 fight -1 faction -1 ceasefir -1 ceasefir -1 demo -1 offic -1 -2
+group -1 group -1 -2

@@ -1,0 +1,2 @@
+compan -1 compan -1 compan -1 stock -1 stock -1 own -1 karach -1 karach -1 karach -1 bank -1 select -1 invest -1 firm -1 firm -1 firm -1 list -1 list -1 equit -1 stat -1 stat -1 stat -1 stat -1 stat -1 decid -1 govern -1 govern -1 shar -1 enterpr -1 woo -1 time -1 -2
+public -1 pow -1 off -1 urg -1 foreign -1 financ -1 exchang -1 exchang -1 offer -1 insur -1 part -1 viabl -1 sell -1 includ -1 wednesday -1 refin -1 bours -1 found -1 fram -1 newsroom -1 consult -1 -2

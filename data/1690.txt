@@ -1,0 +1,2 @@
+metal -1 metal -1 tight -1 quiet -1 quiet -1 cop -1 cop -1 tuesday -1 stray -1 fall -1 fall -1 physic -1 nickel -1 nickel -1 deal -1 light -1 lead -1 level -1 pric -1 gain -1 support -1 monday -1 monday -1 monday -1 stead -1 stead -1 commod -1 quint -1 quint -1 quint -1 -2
+narrow -1 ground -1 nomin -1 bombay -1 tin -1 tin -1 improv -1 rang -1 base -1 alumin -1 rupee -1 rupee -1 rupee -1 rupee -1 rupee -1 ready -1 held -1 suppl -1 zinc -1 unchang -1 indian -1 trad -1 trad -1 -2

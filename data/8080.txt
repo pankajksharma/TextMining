@@ -1,0 +1,4 @@
+obligat -1 jorn -1 gener -1 accur -1 send -1 peac -1 peac -1 begin -1 unity -1 agree -1 agree -1 supervis -1 santo -1 good -1 unit -1 unit -1 unit -1 unit -1 occup -1 free -1 de -1 peopl -1 stat -1 govern -1 govern -1 lead -1 digest -1 reut -1 defin -1 dos -1 -2
+administ -1 instal -1 task -1 circl -1 control -1 nation -1 nation -1 area -1 area -1 deput -1 lusak -1 timet -1 august -1 press -1 press -1 conclud -1 sc -1 return -1 verif -1 verif -1 vouch -1 occupat -1 guaranteed -1 format -1 call -1 substitut -1 forc -1 fact -1 chief -1 date -1 date -1 -2
+date -1 final -1 propos -1 propos -1 propos -1 propos -1 story -1 story -1 aug -1 justif -1 milit -1 council -1 council -1 includ -1 assembl -1 reconcil -1 definit -1 demilit -1 septemb -1 angol -1 angol -1 angol -1 angol -1 angol -1 effect -1 plac -1 army -1 secur -1 secur -1 joint -1 friday -1 -2
+process -1 process -1 polic -1 mission -1 execut -1 address -1 presid -1 presid -1 let -1 delay -1 establ -1 -2

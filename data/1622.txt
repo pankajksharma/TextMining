@@ -1,0 +1,3 @@
+draw -1 welcom -1 ag -1 hotel -1 frankfurt -1 frankfurt -1 frankfurt -1 organis -1 suggest -1 fax -1 fax -1 tenth -1 meet -1 slog -1 main -1 custom -1 frankurt -1 airfreight -1 airfreight -1 airfreight -1 airfreight -1 flughaf -1 fag -1 fag -1 fag -1 fag -1 industr -1 airport -1 integr -1 numb -1 -2
+depart -1 event -1 contact -1 plan -1 plan -1 day -1 day -1 day -1 particip -1 sheraton -1 septemb -1 plac -1 carg -1 carg -1 carg -1 carg -1 intern -1 intern -1 intern -1 air -1 held -1 sept -1 due -1 newsroom -1 add -1 confer -1 confer -1 confer -1 confer -1 content -1 tel -1 -2
+tel -1 -2

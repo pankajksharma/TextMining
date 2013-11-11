@@ -1,0 +1,2 @@
+compan -1 life -1 therapeut -1 tuesday -1 drug -1 rate -1 begin -1 safet -1 patient -1 patient -1 patient -1 start -1 suppos -1 treat -1 treat -1 treat -1 advanc -1 belief -1 alfacel -1 alfacel -1 alfacel -1 protein -1 onconas -1 onconas -1 tomoxif -1 gemzar -1 pancreat -1 pancreat -1 tumor -1 chemotherap -1 -2
+canc -1 canc -1 canc -1 effic -1 off -1 investig -1 import -1 qual -1 regim -1 compar -1 compar -1 compar -1 corp -1 resist -1 inform -1 combin -1 late -1 surviv -1 solid -1 trial -1 trial -1 trial -1 -2

@@ -1,0 +1,2 @@
+carry -1 ag -1 kilomet -1 month -1 year -1 stat -1 percent -1 percent -1 fell -1 schweizerisch -1 tkm -1 tkm -1 tkm -1 tkm -1 tkm -1 luftverkehr -1 swissair -1 swissair -1 swissair -1 swissair -1 fact -1 fact -1 fact -1 fact -1 thousand -1 mail -1 load -1 load -1 load -1 load -1 -2
+ton -1 detail -1 detail -1 gave -1 gave -1 july -1 july -1 july -1 july -1 july -1 july -1 revenu -1 revenu -1 revenu -1 carg -1 passeng -1 passeng -1 passeng -1 zurich -1 editor -1 total -1 total -1 pct -1 pct -1 pct -1 pct -1 pct -1 -2

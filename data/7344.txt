@@ -1,0 +1,2 @@
+municip -1 rate -1 rate -1 york -1 ny -1 baa1 -1 baa1 -1 amount -1 invest -1 issu -1 issu -1 rev -1 stat -1 stat -1 stat -1 expect -1 dorm -1 dorm -1 moody -1 moody -1 univ -1 city -1 servic -1 auth -1 consolid -1 date -1 announc -1 desk -1 sale -1 sale -1 -2
+mln -1 -2

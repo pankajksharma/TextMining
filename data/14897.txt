@@ -1,0 +1,2 @@
+early -1 wuerttembergisch -1 wuerttembergisch -1 gzb -1 stut -1 oeffentlich -1 ag -1 sery -1 sep -1 sep -1 sep -1 year -1 oppenheim -1 full -1 bank -1 manag -1 borrow -1 list -1 percent -1 dem -1 dem -1 pay -1 lead -1 pric -1 matur -1 increas -1 hypo -1 sal -1 hypothekenbank -1 undisc -1 -2
+undisc -1 coupon -1 pfandbrief -1 typ -1 call -1 call -1 london -1 step -1 step -1 note -1 date -1 announc -1 par -1 joint -1 bond -1 bond -1 newsroom -1 add -1 amt -1 iss -1 mark -1 denom -1 fee -1 origin -1 mln -1 mln -1 mln -1 -2

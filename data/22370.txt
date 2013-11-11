@@ -1,0 +1,4 @@
+bring -1 market -1 market -1 market -1 market -1 market -1 market -1 recent -1 gener -1 money -1 money -1 money -1 money -1 money -1 money -1 money -1 rate -1 rate -1 rate -1 rate -1 rate -1 month -1 low -1 low -1 liquid -1 liquid -1 year -1 currenc -1 currenc -1 currenc -1 -2
+bank -1 swap -1 swap -1 swap -1 swap -1 swap -1 tick -1 gmt -1 report -1 percent -1 percent -1 help -1 help -1 appear -1 pric -1 pric -1 push -1 end -1 long -1 nation -1 techn -1 weekend -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 short -1 past -1 exchang -1 liqud -1 -2
+misnom -1 quot -1 centim -1 centim -1 take -1 note -1 conduc -1 unusual -1 snb -1 snb -1 snb -1 snb -1 snb -1 snb -1 tend -1 zurich -1 editor -1 suppl -1 morn -1 tomorrow -1 tomorrow -1 action -1 action -1 action -1 add -1 add -1 add -1 add -1 add -1 add -1 operat -1 -2
+mark -1 trad -1 trad -1 trad -1 trad -1 eas -1 -2

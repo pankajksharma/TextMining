@@ -1,0 +1,4 @@
+stay -1 market -1 thin -1 stock -1 clos -1 clos -1 high -1 year -1 touch -1 fall -1 live -1 calendar -1 invest -1 nokia -1 hex -1 valmet -1 week -1 week -1 percent -1 percent -1 percent -1 help -1 helsink -1 subdu -1 overnight -1 markk -1 markk -1 markk -1 markk -1 pric -1 -2
+index -1 volum -1 volum -1 brok -1 brok -1 million -1 million -1 thursday -1 shar -1 end -1 end -1 monday -1 industr -1 remain -1 swed -1 swed -1 rais -1 machin -1 machin -1 pressur -1 loss -1 fade -1 forestr -1 jame -1 sharp -1 capel -1 fail -1 new -1 new -1 pape -1 pape -1 -2
+pape -1 pape -1 forty -1 pulp -1 day -1 plan -1 announc -1 labor -1 wednesday -1 wall -1 wall -1 street -1 street -1 reduc -1 depress -1 friday -1 due -1 stor -1 holiday -1 moderat -1 make -1 unchang -1 sodr -1 bull -1 forecast -1 ord -1 boost -1 sag -1 sidelin -1 trad -1 trad -1 -2
+trad -1 trad -1 slow -1 eas -1 -2

@@ -1,0 +1,4 @@
+star -1 star -1 massiv -1 stock -1 stock -1 kual -1 kual -1 kual -1 lumpur -1 lumpur -1 lumpur -1 high -1 year -1 construc -1 hotel -1 hotel -1 hotel -1 build -1 agree -1 agree -1 trust -1 resourc -1 resourc -1 invest -1 unit -1 deal -1 deal -1 individual -1 suspend -1 suspend -1 -2
+capit -1 gmt -1 anal -1 cash -1 volum -1 sentr -1 sentr -1 sentr -1 million -1 million -1 thursday -1 thursday -1 shar -1 requot -1 requot -1 foreign -1 financ -1 cent -1 flow -1 city -1 city -1 dip -1 dip -1 acr -1 develop -1 sell -1 sell -1 sell -1 gave -1 malays -1 malays -1 -2
+land -1 land -1 plan -1 day -1 corp -1 announc -1 announc -1 plot -1 plot -1 piec -1 project -1 project -1 project -1 project -1 mini -1 japan -1 hit -1 separat -1 sdn -1 dait -1 dait -1 mrcb -1 mrcb -1 mrcb -1 mrcb -1 bhd -1 bhd -1 unidenti -1 ringgit -1 ringgit -1 ringgit -1 -2
+boost -1 ord -1 sign -1 sign -1 trad -1 trad -1 -2

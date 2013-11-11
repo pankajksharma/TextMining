@@ -1,0 +1,4 @@
+gener -1 interest -1 interest -1 month -1 game -1 game -1 beneex -1 promot -1 room -1 room -1 year -1 data -1 shr -1 shr -1 fall -1 manag -1 common -1 food -1 food -1 deprec -1 q4 -1 gross -1 stat -1 extraordin -1 extraordin -1 extraordin -1 extraordin -1 extraordin -1 avg -1 administ -1 -2
+provis -1 provis -1 shar -1 shar -1 preop -1 end -1 end -1 util -1 net -1 net -1 net -1 net -1 net -1 net -1 thousand -1 cost -1 consolid -1 boyd -1 boyd -1 sell -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 -2
+incom -1 corpor -1 corpor -1 corp -1 revenu -1 revenu -1 revenu -1 item -1 item -1 item -1 item -1 item -1 expend -1 expend -1 expend -1 expend -1 expend -1 joint -1 total -1 total -1 mainten -1 ventur -1 bever -1 bever -1 june -1 june -1 allow -1 casin -1 casin -1 operat -1 fee -1 -2
+amort -1 subsid -1 tax -1 tax -1 tax -1 -2

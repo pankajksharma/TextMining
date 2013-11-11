@@ -1,0 +1,4 @@
+divert -1 bring -1 flight -1 mr -1 carry -1 tuesday -1 syrian -1 reach -1 batch -1 spokeswom -1 start -1 start -1 north -1 hijack -1 hijack -1 hijack -1 hijack -1 hijack -1 hijack -1 amman -1 free -1 peopl -1 peopl -1 east -1 airbus -1 km -1 belief -1 belief -1 control -1 talk -1 -2
+nation -1 arrang -1 author -1 airport -1 airport -1 call -1 airway -1 assoc -1 iraq -1 iraq -1 iraq -1 iraq -1 numb -1 numb -1 london -1 london -1 grenad -1 host -1 women -1 trac -1 mile -1 unknow -1 base -1 sudan -1 sudan -1 sudan -1 contact -1 commun -1 land -1 plan -1 plan -1 -2
+plan -1 plan -1 child -1 unidentif -1 explos -1 spokesm -1 spokesm -1 saud -1 passeng -1 passeng -1 passeng -1 memb -1 demand -1 crew -1 brit -1 whit -1 palestin -1 polic -1 polic -1 polic -1 polic -1 polic -1 polic -1 releas -1 releas -1 releas -1 releas -1 arm -1 arm -1 possibl -1 stanst -1 -2
+stanst -1 jordan -1 kim -1 khartoum -1 sadik -1 sadik -1 -2

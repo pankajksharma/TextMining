@@ -1,0 +1,4 @@
+stak -1 compan -1 compan -1 merrill -1 flight -1 carry -1 carry -1 sharehold -1 month -1 year -1 year -1 year -1 shak -1 privat -1 bank -1 form -1 trust -1 appoint -1 manag -1 unit -1 debt -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 iberia -1 iberia -1 iberia -1 -2
+iberia -1 iberia -1 iberia -1 janu -1 sold -1 million -1 mth -1 european -1 span -1 span -1 end -1 renew -1 made -1 rose -1 aircraft -1 network -1 cut -1 net -1 ago -1 fact -1 size -1 posit -1 restructur -1 period -1 period -1 argentin -1 argentin -1 put -1 part -1 old -1 load -1 -2
+aeroline -1 aeroline -1 aeroline -1 aeroline -1 aeroline -1 aeroline -1 arsa -1 moran -1 teneo -1 simil -1 july -1 plan -1 compar -1 profit -1 profit -1 sa -1 workforc -1 cancel -1 manuel -1 spokesm -1 flag -1 passeng -1 intern -1 lynch -1 boe -1 friday -1 major -1 rout -1 rout -1 rout -1 chairm -1 -2
+madrid -1 make -1 newsroom -1 parent -1 parent -1 fleet -1 hold -1 sale -1 sale -1 -2

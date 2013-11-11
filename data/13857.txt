@@ -1,0 +1,2 @@
+market -1 tuesday -1 gas -1 gas -1 low -1 line -1 cargo -1 indicat -1 slight -1 report -1 bunk -1 bunk -1 bunk -1 bunk -1 cst -1 cst -1 cst -1 cst -1 level -1 pric -1 flat -1 deliv -1 mdo -1 mdo -1 unq -1 oil -1 oil -1 stead -1 stead -1 singapor -1 -2
+singapor -1 singapor -1 singapor -1 singapor -1 weak -1 declin -1 declin -1 pape -1 final -1 ton -1 aug -1 comment -1 carg -1 carg -1 weakenss -1 newsroom -1 shad -1 -2

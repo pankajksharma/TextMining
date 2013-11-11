@@ -1,0 +1,2 @@
+early -1 stall -1 stall -1 stall -1 loja -1 tuesday -1 hospit -1 mary -1 kill -1 kill -1 kill -1 roadsid -1 food -1 food -1 food -1 radio -1 road -1 peopl -1 capit -1 report -1 local -1 confirm -1 km -1 instal -1 insid -1 honor -1 die -1 hurt -1 crash -1 wound -1 -2
+cement -1 smash -1 district -1 judg -1 mile -1 scen -1 south -1 virgin -1 driv -1 dead -1 truck -1 truck -1 truck -1 ecuador -1 ecuador -1 hit -1 morn -1 process -1 process -1 fled -1 quit -1 relig -1 prepar -1 accid -1 -2

@@ -1,0 +1,5 @@
+fire -1 fire -1 react -1 mexic -1 mexic -1 incid -1 incid -1 gener -1 gener -1 carry -1 carry -1 tuesday -1 tuesday -1 shoot -1 shoot -1 shoot -1 gunfight -1 hospit -1 kill -1 journ -1 receiv -1 agent -1 armand -1 privat -1 taxi -1 reveng -1 profil -1 week -1 week -1 stat -1 -2
+stat -1 stat -1 govt -1 wif -1 shootout -1 shootout -1 attorney -1 attorney -1 natur -1 steal -1 help -1 moment -1 decid -1 assign -1 protect -1 check -1 home -1 home -1 home -1 home -1 law -1 delib -1 secret -1 die -1 gun -1 area -1 author -1 occas -1 public -1 gunm -1 gunm -1 -2
+car -1 told -1 told -1 assail -1 wound -1 wound -1 wound -1 safe -1 spark -1 senior -1 man -1 lack -1 fami -1 fail -1 specul -1 job -1 attack -1 attack -1 attack -1 attack -1 plan -1 threat -1 tor -1 driv -1 wednesday -1 plac -1 rob -1 rob -1 rob -1 rob -1 guard -1 -2
+intern -1 inform -1 arrest -1 secur -1 attempt -1 battl -1 dismit -1 colleagu -1 motivat -1 polic -1 polic -1 polic -1 polic -1 mass -1 regul -1 salin -1 salin -1 salin -1 salin -1 enter -1 arm -1 antonio -1 lozan -1 lozan -1 lozan -1 lozan -1 confess -1 offic -1 offic -1 offic -1 offic -1 -2
+offic -1 ethic -1 group -1 -2

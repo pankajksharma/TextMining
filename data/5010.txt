@@ -1,0 +1,2 @@
+eps -1 month -1 yen -1 yen -1 yen -1 nil -1 nil -1 div -1 billion -1 produc -1 interim -1 million -1 million -1 shar -1 mth -1 current -1 agro -1 agro -1 net -1 medium -1 note -1 result -1 kanesh -1 kanesh -1 agrochemic -1 june -1 parent -1 parent -1 operat -1 scal -1 -2
+sale -1 mln -1 mln -1 mln -1 mln -1 mln -1 mln -1 -2

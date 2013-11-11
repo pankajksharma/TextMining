@@ -1,0 +1,2 @@
+obligat -1 gener -1 tuesday -1 municip -1 multnomah -1 multnomah -1 ij -1 amount -1 yield -1 yield -1 percent -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 million -1 million -1 matur -1 coupon -1 approx -1 approx -1 approx -1 approx -1 approx -1 -2
+approx -1 approx -1 tentat -1 district -1 ore -1 ore -1 school -1 school -1 prelimin -1 cty -1 corp -1 par -1 secur -1 bond -1 seattl -1 northw -1 desk -1 top -1 scal -1 count -1 pct -1 pct -1 -2

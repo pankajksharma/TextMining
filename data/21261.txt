@@ -1,0 +1,2 @@
+bratislav -1 sect -1 hard -1 hard -1 entir -1 currenc -1 currenc -1 bank -1 bank -1 bank -1 bank -1 billion -1 billion -1 firm -1 firm -1 nation -1 reserv -1 reserv -1 reserv -1 reserv -1 august -1 august -1 bln -1 bln -1 aug -1 aug -1 aug -1 aug -1 friday -1 newsroom -1 -2
+slovak -1 slovak -1 nbs -1 nbs -1 commerc -1 -2

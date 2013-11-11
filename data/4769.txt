@@ -1,0 +1,4 @@
+compan -1 market -1 recent -1 emerg -1 emerg -1 money -1 clos -1 high -1 high -1 interest -1 interest -1 month -1 year -1 inch -1 bargain -1 cheap -1 climb -1 berges -1 uni -1 uni -1 point -1 point -1 trend -1 good -1 invest -1 deal -1 week -1 norway -1 ship -1 percent -1 -2
+expect -1 outlook -1 mix -1 fell -1 pric -1 rest -1 rest -1 busi -1 gain -1 index -1 phas -1 brok -1 brok -1 brok -1 tank -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 shar -1 overse -1 abroad -1 remain -1 edg -1 edg -1 crown -1 crown -1 crown -1 crown -1 -2
+crown -1 crown -1 crown -1 crown -1 rise -1 rise -1 norweg -1 norweg -1 attract -1 buy -1 buy -1 foreign -1 financ -1 grow -1 fold -1 hunt -1 insur -1 play -1 posit -1 consolid -1 lot -1 turnov -1 compar -1 day -1 profit -1 wednesday -1 asset -1 account -1 blu -1 blu -1 chip -1 -2
+chip -1 total -1 norsk -1 hydr -1 hydr -1 don -1 make -1 forecast -1 activ -1 operat -1 operat -1 storebrand -1 trad -1 lag -1 group -1 -2

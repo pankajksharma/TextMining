@@ -1,0 +1,5 @@
+soybean -1 novemb -1 grain -1 market -1 market -1 market -1 market -1 market -1 cottonseed -1 quiet -1 quiet -1 quiet -1 quiet -1 find -1 sunflow -1 low -1 sydney -1 decemb -1 wait -1 wait -1 wint -1 week -1 week -1 week -1 week -1 week -1 week -1 week -1 slight -1 domest -1 -2
+domest -1 domest -1 produc -1 report -1 report -1 canad -1 appear -1 fell -1 world -1 depot -1 busi -1 crop -1 crop -1 crop -1 crop -1 crop -1 support -1 deliv -1 deliv -1 deliv -1 deliv -1 deliv -1 end -1 malt -1 remain -1 remain -1 remain -1 weelk -1 grainc -1 grainc -1 grainc -1 -2
+moree -1 rtr -1 harvest -1 harvest -1 finish -1 finish -1 queensland -1 queensland -1 past -1 past -1 past -1 past -1 past -1 past -1 feed -1 commit -1 health -1 cent -1 suffic -1 austral -1 austral -1 austral -1 cove -1 purchas -1 brisban -1 brisban -1 barley -1 barley -1 barley -1 barley -1 ton -1 -2
+ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 export -1 valu -1 valu -1 valu -1 canol -1 coop -1 arabia -1 sorghum -1 sorghum -1 sorghum -1 saud -1 saud -1 intern -1 intern -1 demand -1 japan -1 port -1 action -1 brought -1 unchang -1 unchang -1 newsroom -1 trad -1 -2
+trad -1 use -1 -2

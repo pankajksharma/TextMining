@@ -1,0 +1,5 @@
+early -1 televis -1 study -1 elect -1 hous -1 econom -1 econom -1 econom -1 econom -1 econom -1 medic -1 high -1 sunday -1 interest -1 interest -1 interest -1 interest -1 rate -1 rate -1 rate -1 rate -1 way -1 countr -1 year -1 year -1 devis -1 term -1 isolat -1 point -1 billion -1 -2
+doesn -1 dole -1 dole -1 dole -1 peopl -1 today -1 derid -1 mine -1 percent -1 percent -1 balanc -1 balanc -1 cnn -1 bill -1 environ -1 big -1 big -1 big -1 face -1 push -1 push -1 challeng -1 long -1 party -1 ve -1 increas -1 prior -1 prior -1 prior -1 area -1 hurt -1 -2
+social -1 afford -1 damag -1 prevail -1 told -1 focus -1 cite -1 warn -1 cut -1 cut -1 work -1 city -1 continu -1 move -1 novemebr -1 bob -1 program -1 attack -1 educat -1 educat -1 interview -1 pledg -1 problem -1 welfar -1 ally -1 failur -1 plan -1 plan -1 plan -1 plan -1 ask -1 -2
+person -1 wall -1 street -1 bad -1 slash -1 budget -1 budget -1 budget -1 rural -1 deficit -1 promis -1 clinton -1 clinton -1 clinton -1 clinton -1 clinton -1 glob -1 incent -1 don -1 republ -1 republ -1 unreal -1 presid -1 presid -1 presid -1 creat -1 top -1 advant -1 ord -1 demo -1 boost -1 -2
+left -1 tax -1 tax -1 -2

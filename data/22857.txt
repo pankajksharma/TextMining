@@ -1,0 +1,5 @@
+stak -1 market -1 protest -1 credit -1 econom -1 french -1 french -1 echo -1 la -1 illeg -1 find -1 find -1 reaffirm -1 rate -1 figar -1 figar -1 economie -1 year -1 currenc -1 receiv -1 privat -1 start -1 newspap -1 newspap -1 pari -1 pari -1 pari -1 pari -1 irat -1 billion -1 -2
+foncy -1 invest -1 cattl -1 cattl -1 cattl -1 cattl -1 les -1 unrest -1 franc -1 franc -1 franc -1 today -1 fund -1 loan -1 sourc -1 percent -1 expect -1 govern -1 lead -1 pension -1 digest -1 breed -1 breed -1 breed -1 breed -1 jobseek -1 barrot -1 wedlock -1 million -1 million -1 support -1 -2
+european -1 end -1 give -1 aom -1 social -1 press -1 unemploy -1 commit -1 import -1 beef -1 loss -1 born -1 tribun -1 tribun -1 desfoss -1 propert -1 propert -1 liberat -1 liberat -1 declin -1 herald -1 minist -1 section -1 le -1 le -1 autumn -1 lack -1 search -1 chirac -1 chirac -1 half -1 -2
+scor -1 delegat -1 dip -1 job -1 axa -1 axa -1 attack -1 develop -1 sell -1 story -1 aug -1 earn -1 july -1 profit -1 profit -1 wag -1 child -1 post -1 driv -1 labor -1 truck -1 airlin -1 bad -1 comment -1 intern -1 project -1 morn -1 newsroom -1 descend -1 mortg -1 singl -1 -2
+surpr -1 jacqu -1 -2

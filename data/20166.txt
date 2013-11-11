@@ -1,0 +1,2 @@
+early -1 stg -1 stg -1 interest -1 interest -1 month -1 shr -1 nil -1 issu -1 produc -1 produc -1 drill -1 stat -1 report -1 report -1 main -1 payabl -1 gain -1 gain -1 million -1 million -1 oil -1 oil -1 bangladesh -1 equival -1 right -1 continu -1 success -1 london -1 growth -1 -2
+growth -1 cairn -1 cairn -1 explor -1 net -1 improv -1 plc -1 note -1 energ -1 penc -1 h1 -1 except -1 except -1 turnov -1 abil -1 july -1 day -1 profit -1 profit -1 result -1 pretax -1 includ -1 field -1 enhanc -1 barrel -1 june -1 achief -1 newsroom -1 prospect -1 offshor -1 group -1 -2

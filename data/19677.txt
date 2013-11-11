@@ -1,0 +1,2 @@
+limit -1 claus -1 credit -1 year -1 suiss -1 manag -1 borrow -1 list -1 de -1 franc -1 straight -1 pay -1 pay -1 lead -1 aaa -1 aaa -1 societ -1 pric -1 moody -1 abn -1 matur -1 swiss -1 reop -1 coupon -1 typ -1 national -1 forc -1 london -1 ebs -1 amro -1 -2
+des -1 note -1 date -1 sfr -1 announc -1 sncf -1 hoar -1 govet -1 joint -1 bond -1 bond -1 oct -1 oct -1 chemin -1 francai -1 set -1 newsroom -1 fer -1 amt -1 iss -1 freq -1 denom -1 neg -1 sale -1 plg -1 crs -1 deflt -1 maj -1 pct -1 mln -1 mln -1 -2

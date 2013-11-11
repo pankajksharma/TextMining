@@ -1,0 +1,5 @@
+compan -1 early -1 ieoc -1 barracud -1 gener -1 testedzat -1 darfil -1 dolphin -1 norus -1 tuesday -1 seagull -1 find -1 find -1 gas -1 gas -1 gas -1 gas -1 gas -1 gas -1 spa -1 month -1 northeast -1 start -1 north -1 north -1 petroleum -1 petroleum -1 nile -1 delt -1 basin -1 -2
+produc -1 produc -1 petrobel -1 petrobel -1 drill -1 yield -1 yield -1 stat -1 stat -1 stat -1 belayim -1 belayim -1 fouad -1 fouad -1 fouad -1 concess -1 concess -1 egpc -1 natur -1 cfd -1 cfd -1 agip -1 name -1 km -1 km -1 km -1 world -1 well -1 italian -1 italian -1 wright -1 -2
+show -1 test -1 feet -1 feet -1 feet -1 million -1 million -1 million -1 wat -1 class -1 oil -1 oil -1 oil -1 oil -1 area -1 met -1 met -1 met -1 met -1 met -1 met -1 met -1 city -1 lay -1 minist -1 minist -1 minist -1 mediterranean -1 discov -1 discov -1 depth -1 -2
+depth -1 depth -1 mile -1 mile -1 thick -1 day -1 corp -1 field -1 field -1 cubic -1 intern -1 joint -1 ventur -1 ventur -1 ventur -1 egypt -1 egypt -1 egypt -1 egypt -1 egypt -1 egypt -1 found -1 port -1 port -1 port -1 port -1 jonath -1 late -1 add -1 add -1 execut -1 -2
+offshor -1 offshor -1 offshor -1 sign -1 subsid -1 -2

@@ -1,0 +1,3 @@
+contrast -1 rival -1 econom -1 econom -1 econom -1 econom -1 target -1 interest -1 interest -1 rate -1 rate -1 year -1 undermin -1 billion -1 modest -1 dole -1 dole -1 dole -1 dole -1 percent -1 anal -1 balanc -1 balanc -1 govern -1 thursday -1 speech -1 party -1 nominat -1 increas -1 paid -1 -2
+explod -1 call -1 skept -1 cut -1 cut -1 cut -1 cut -1 growth -1 sharp -1 speed -1 responsibl -1 sweep -1 bob -1 estimat -1 attack -1 attack -1 propos -1 pledg -1 plan -1 plan -1 plan -1 plan -1 plan -1 reduc -1 accept -1 budget -1 budget -1 budget -1 deficit -1 deficit -1 clinton -1 -2
+clinton -1 clinton -1 clinton -1 risky -1 risky -1 republ -1 tonight -1 presid -1 presid -1 presid -1 demo -1 boost -1 tax -1 tax -1 tax -1 tax -1 tax -1 -2

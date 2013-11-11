@@ -1,0 +1,4 @@
+rubin -1 rubin -1 rubin -1 rubin -1 rubin -1 rubin -1 early -1 wimbledon -1 tough -1 draw -1 draw -1 recent -1 meredith -1 rank -1 rank -1 rank -1 rank -1 rank -1 high -1 slot -1 month -1 mary -1 year -1 year -1 grand -1 tendin -1 turn -1 week -1 slam -1 injur -1 -2
+injur -1 injur -1 injur -1 assign -1 suff -1 karin -1 chand -1 chand -1 lindsay -1 open -1 open -1 open -1 open -1 round -1 round -1 pull -1 pull -1 misfortun -1 olymp -1 champ -1 champ -1 champ -1 champ -1 austral -1 austral -1 assoc -1 notabl -1 compet -1 lucky -1 move -1 semifin -1 -2
+play -1 play -1 women -1 miss -1 ten -1 ten -1 ten -1 bori -1 tourna -1 tourna -1 final -1 americ -1 seed -1 seed -1 seed -1 seed -1 davenport -1 davenport -1 davenport -1 wrist -1 wrist -1 wrist -1 mcgrath -1 break -1 announc -1 beck -1 men -1 promis -1 eighth -1 withdraw -1 pierc -1 -2
+qualif -1 slovak -1 habsudov -1 habsudov -1 offic -1 offic -1 sidelin -1 -2

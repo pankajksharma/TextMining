@@ -1,0 +1,2 @@
+market -1 market -1 usda -1 usda -1 year -1 year -1 amount -1 tobacc -1 tobacc -1 flu -1 bought -1 domest -1 stat -1 percent -1 percent -1 cure -1 requir -1 penalt -1 million -1 million -1 million -1 crop -1 intent -1 intent -1 intent -1 face -1 prior -1 buy -1 purchas -1 purchas -1 -2
+purchas -1 purchas -1 cigaret -1 cigaret -1 cigaret -1 agricultur -1 depart -1 pound -1 pound -1 pound -1 equal -1 actual -1 wednesday -1 legisl -1 major -1 lbs -1 make -1 make -1 manufactur -1 mln -1 -2

@@ -1,0 +1,1 @@
+gener -1 municip -1 rate -1 rate -1 hospit -1 hospit -1 hospit -1 baa1 -1 baa1 -1 invest -1 issu -1 issu -1 stat -1 moody -1 moody -1 pa -1 pa -1 author -1 servic -1 valley -1 valley -1 alleghen -1 ohio -1 ohio -1 develop -1 announc -1 desk -1 count -1 -2

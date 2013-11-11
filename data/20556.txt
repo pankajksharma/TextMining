@@ -1,0 +1,2 @@
+early -1 early -1 sulphur -1 gas -1 high -1 high -1 fair -1 firm -1 deal -1 blenkinsop -1 produc -1 produc -1 bunk -1 ipe -1 amsterdam -1 jump -1 philip -1 pric -1 gain -1 gain -1 futur -1 futur -1 strength -1 deliv -1 end -1 oil -1 oil -1 oil -1 oil -1 oil -1 -2
+time -1 buy -1 fuel -1 fuel -1 fuel -1 notion -1 offer -1 offer -1 bid -1 leap -1 risen -1 ton -1 ton -1 fob -1 septemb -1 prem -1 gasolin -1 demand -1 demand -1 demand -1 major -1 sept -1 nwe -1 nwe -1 newsroom -1 ara -1 barg -1 left -1 trad -1 trad -1 use -1 -2

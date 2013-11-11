@@ -1,0 +1,4 @@
+early -1 quiet -1 thin -1 hard -1 plung -1 steep -1 fair -1 liquid -1 merc -1 extrem -1 upgrad -1 spot -1 gulf -1 week -1 week -1 fund -1 distill -1 produc -1 produc -1 grad -1 sleep -1 east -1 lost -1 categ -1 strong -1 reformul -1 nymex -1 nymex -1 nymex -1 lead -1 -2
+storm -1 wither -1 pric -1 pric -1 pric -1 pric -1 gain -1 gain -1 futur -1 pullback -1 long -1 contract -1 monday -1 monday -1 expirat -1 remain -1 increas -1 prior -1 stabl -1 cent -1 cent -1 cent -1 cent -1 cent -1 call -1 edt -1 play -1 play -1 half -1 pound -1 pound -1 -2
+pound -1 posit -1 specul -1 selloff -1 absolut -1 coast -1 coast -1 offset -1 gave -1 differ -1 amidst -1 concern -1 septemb -1 septemb -1 gasolin -1 gasolin -1 gasolin -1 friday -1 edouard -1 late -1 late -1 hurrican -1 mph -1 wind -1 mutual -1 add -1 swing -1 activ -1 prod -1 over -1 trad -1 -2
+trad -1 trad -1 trad -1 -2

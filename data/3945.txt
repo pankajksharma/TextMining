@@ -1,0 +1,2 @@
+grain -1 quiet -1 hard -1 variet -1 year -1 provinc -1 octob -1 food -1 food -1 food -1 wint -1 red -1 slat -1 ship -1 ship -1 ship -1 soft -1 behalf -1 compr -1 deliv -1 appar -1 bureau -1 bureau -1 bureau -1 august -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 -2
+ton -1 ton -1 ton -1 ton -1 taiw -1 taiw -1 taiw -1 taipei -1 milit -1 wednesday -1 tend -1 tend -1 tend -1 tend -1 spring -1 newsroom -1 northw -1 pacif -1 trad -1 trad -1 trad -1 -2

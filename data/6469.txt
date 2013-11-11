@@ -1,0 +1,2 @@
+shinc -1 shinc -1 shinc -1 correct -1 ocean -1 tbn -1 tbn -1 petroleum -1 york -1 york -1 panocean -1 panocean -1 road -1 coke -1 ship -1 beach -1 fixtur -1 antrottamsterdam -1 tubarao -1 hampton -1 long -1 kembl -1 posc -1 posc -1 pohang -1 pohang -1 commod -1 scrap -1 ore -1 ore -1 -2
+ore -1 ton -1 ton -1 ton -1 ton -1 aug -1 day -1 day -1 day -1 csc -1 koch -1 port -1 coal -1 coal -1 coal -1 coal -1 iron -1 richardsbay -1 kwangyang -1 kwangyang -1 polycarp -1 add -1 desk -1 cher -1 newcastl -1 kaohsiung -1 -2

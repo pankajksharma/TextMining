@@ -1,0 +1,2 @@
+tight -1 adopt -1 econom -1 high -1 low -1 mtg -1 data -1 yr -1 good -1 yield -1 strong -1 strong -1 confirm -1 treasur -1 treasur -1 outlook -1 fomc -1 fomc -1 end -1 end -1 durabl -1 cite -1 crystal -1 inflat -1 growth -1 growth -1 sharp -1 sharp -1 bia -1 uncertain -1 -2
+sell -1 july -1 july -1 july -1 minut -1 fed -1 spur -1 substant -1 fear -1 fear -1 fear -1 pct -1 -2

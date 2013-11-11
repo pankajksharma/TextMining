@@ -1,0 +1,5 @@
+recov -1 mechan -1 bring -1 televis -1 aft -1 evident -1 flight -1 flight -1 flight -1 heard -1 ocean -1 ocean -1 specif -1 occur -1 record -1 record -1 record -1 wouldn -1 interest -1 safet -1 kill -1 data -1 pari -1 middl -1 york -1 blast -1 expert -1 scotland -1 voic -1 voic -1 -2
+peopl -1 franc -1 franc -1 franc -1 franc -1 franc -1 week -1 atlant -1 expect -1 cnn -1 lead -1 jet -1 blow -1 defin -1 missil -1 tank -1 tank -1 tank -1 end -1 long -1 nation -1 remain -1 area -1 area -1 area -1 damag -1 fuel -1 past -1 investig -1 investig -1 victim -1 -2
+explod -1 abrupt -1 told -1 told -1 aircraft -1 cent -1 cent -1 cent -1 crash -1 network -1 cabl -1 washington -1 learn -1 section -1 detect -1 ago -1 take -1 disast -1 disast -1 front -1 new -1 part -1 part -1 guess -1 wing -1 interview -1 interview -1 engineer -1 july -1 island -1 day -1 -2
+plan -1 transport -1 minut -1 cockpit -1 cockpit -1 caus -1 wednesday -1 explos -1 explos -1 involut -1 bomb -1 pan -1 board -1 board -1 rebuild -1 lockerbie -1 piec -1 total -1 boe -1 retrief -1 chairm -1 robert -1 brought -1 nois -1 nois -1 stretch -1 vice -1 fault -1 twa -1 twa -1 offic -1 -2
+unlik -1 -2

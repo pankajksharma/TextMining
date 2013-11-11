@@ -1,0 +1,4 @@
+market -1 draw -1 draw -1 spec -1 recent -1 quiet -1 gas -1 high -1 high -1 high -1 high -1 durb -1 tail -1 funde -1 matthew -1 unexcept -1 towan -1 suit -1 good -1 spain -1 cargoe -1 firm -1 firm -1 firm -1 deal -1 spot -1 spot -1 week -1 week -1 ship -1 -2
+italy -1 difficult -1 strong -1 strong -1 ipe -1 bunk -1 bunk -1 bunk -1 bunk -1 bunk -1 cst -1 cst -1 enquir -1 pric -1 pric -1 pric -1 pric -1 pric -1 gain -1 gain -1 futur -1 rotterdam -1 end -1 deliv -1 pull -1 wharf -1 oil -1 oil -1 stead -1 tone -1 short -1 -2
+fuel -1 fuel -1 congest -1 rose -1 cape -1 quot -1 numb -1 london -1 upward -1 scar -1 mediterranean -1 buoy -1 pape -1 pape -1 ton -1 hamburg -1 hamburg -1 typic -1 septemb -1 diesel -1 demand -1 demand -1 demand -1 friday -1 friday -1 jone -1 marin -1 broad -1 don -1 unchang -1 newsroom -1 -2
+fujairah -1 ara -1 ara -1 ara -1 hold -1 boost -1 sign -1 trad -1 slow -1 -2

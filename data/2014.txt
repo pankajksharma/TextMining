@@ -1,0 +1,2 @@
+negot -1 compan -1 market -1 market -1 newsdesk -1 gener -1 back -1 tuesday -1 stock -1 stock -1 interest -1 catalog -1 month -1 privat -1 common -1 common -1 magazin -1 special -1 bant -1 bant -1 bant -1 busi -1 million -1 million -1 shar -1 shar -1 shar -1 open -1 print -1 time -1 -2
+time -1 chicag -1 imag -1 digit -1 august -1 buy -1 outstand -1 outstand -1 made -1 mater -1 purchas -1 servic -1 direct -1 educat -1 book -1 consum -1 corp -1 publish -1 repurchas -1 intend -1 transact -1 -2

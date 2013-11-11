@@ -1,0 +1,4 @@
+market -1 market -1 market -1 french -1 clos -1 slack -1 high -1 high -1 high -1 high -1 reach -1 fair -1 durb -1 climb -1 spain -1 good -1 fax -1 deal -1 deal -1 peopl -1 peopl -1 bought -1 bunk -1 bunk -1 amsterdam -1 cst -1 cst -1 italian -1 level -1 level -1 -2
+pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 busi -1 busi -1 volum -1 volum -1 rotterdam -1 rotterdam -1 rotterdam -1 europ -1 leav -1 oil -1 oil -1 oil -1 monday -1 remain -1 weekend -1 stead -1 rise -1 fuel -1 fuel -1 fuel -1 worry -1 health -1 rose -1 rose -1 -2
+forc -1 forc -1 continu -1 won -1 play -1 play -1 play -1 mediterranean -1 northern -1 settl -1 ton -1 ton -1 fob -1 fob -1 fob -1 fob -1 attribut -1 day -1 hamburg -1 driv -1 suppl -1 chang -1 respons -1 morn -1 afternoon -1 newsroom -1 ara -1 ara -1 aggress -1 barg -1 barg -1 -2
+barg -1 barg -1 slug -1 trad -1 trad -1 bit -1 -2

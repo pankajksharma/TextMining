@@ -1,0 +1,4 @@
+stay -1 early -1 market -1 market -1 market -1 market -1 econom -1 econom -1 clos -1 clos -1 clos -1 steep -1 high -1 year -1 year -1 year -1 year -1 data -1 middl -1 april -1 point -1 point -1 german -1 invest -1 fax -1 deal -1 deal -1 spread -1 quart -1 quart -1 -2
+debt -1 germ -1 yield -1 yield -1 yield -1 report -1 percent -1 percent -1 percent -1 strong -1 strong -1 amsterdam -1 expect -1 pric -1 janu -1 gain -1 scenario -1 matur -1 matur -1 gather -1 control -1 benchmark -1 ve -1 dutch -1 dutch -1 dutch -1 dutch -1 dutch -1 edg -1 wak -1 rise -1 -2
+short -1 extr -1 robust -1 weak -1 import -1 inflat -1 inflat -1 gdp -1 growth -1 bid -1 half -1 ll -1 new -1 direct -1 rang -1 persist -1 widen -1 basi -1 basi -1 curv -1 impact -1 forget -1 held -1 june -1 bond -1 bond -1 bond -1 bond -1 bond -1 bund -1 newsroom -1 -2
+add -1 switch -1 pace -1 advant -1 pick -1 sought -1 -2

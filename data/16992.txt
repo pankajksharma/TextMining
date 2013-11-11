@@ -1,0 +1,2 @@
+slip -1 parit -1 thur -1 high -1 low -1 low -1 dep -1 dep -1 petroleum -1 week -1 stat -1 litr -1 litr -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 soft -1 lower -1 adjust -1 thursday -1 greek -1 drachm -1 drachm -1 drachm -1 drachm -1 rise -1 public -1 -2
+georg -1 georgiopoulo -1 greec -1 metric -1 metric -1 athen -1 ton -1 ton -1 corpor -1 diesel -1 diesel -1 diesel -1 ups -1 effect -1 gasolin -1 gasolin -1 gasolin -1 intern -1 dollar -1 dollar -1 newsroom -1 -2

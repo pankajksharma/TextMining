@@ -1,0 +1,2 @@
+imm -1 imm -1 thin -1 stock -1 currenc -1 currenc -1 currenc -1 boj -1 followthrough -1 wed -1 gloss -1 quart -1 squar -1 mix -1 mix -1 reut -1 pric -1 rally -1 futur -1 futur -1 tank -1 end -1 end -1 drop -1 edg -1 lack -1 play -1 upcom -1 posit -1 uncertain -1 -2
+dip -1 mail -1 aug -1 day -1 survey -1 labor -1 derivat -1 derivat -1 friday -1 bond -1 spur -1 late -1 late -1 holiday -1 holiday -1 desk -1 sale -1 sidelin -1 trad -1 -2

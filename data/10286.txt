@@ -1,0 +1,2 @@
+market -1 stock -1 stock -1 stock -1 clos -1 clos -1 high -1 high -1 encour -1 low -1 fresh -1 point -1 invest -1 food -1 capit -1 issu -1 dhak -1 dhak -1 dhak -1 beximc -1 strong -1 help -1 govern -1 fell -1 pric -1 index -1 gain -1 gain -1 volum -1 volum -1 -2
+volum -1 brok -1 brok -1 million -1 shar -1 end -1 end -1 remain -1 bangladesh -1 initiat -1 rise -1 fuel -1 scrip -1 rose -1 rose -1 exchang -1 synthet -1 fish -1 beixmc -1 taka -1 taka -1 turnov -1 boc -1 dse -1 unchang -1 reflect -1 boost -1 amid -1 trad -1 -2

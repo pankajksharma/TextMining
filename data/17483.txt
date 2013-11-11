@@ -1,0 +1,4 @@
+market -1 rival -1 high -1 currenc -1 currenc -1 matthew -1 sea -1 line -1 line -1 peninsul -1 discount -1 gmt -1 ship -1 eurotunnel -1 report -1 lost -1 difficult -1 strong -1 anal -1 anal -1 world -1 pric -1 contribut -1 ubs -1 million -1 million -1 shar -1 shar -1 face -1 deliv -1 -2
+deliv -1 keef -1 keef -1 channel -1 channel -1 channel -1 channel -1 swed -1 swed -1 crown -1 crown -1 short -1 foreign -1 traff -1 loss -1 loss -1 loss -1 loss -1 loss -1 engl -1 blam -1 blam -1 compet -1 compet -1 london -1 navigat -1 orient -1 heavy -1 plc -1 half -1 half -1 -2
+period -1 dip -1 dip -1 ferry -1 ferry -1 ferry -1 ferry -1 widen -1 penc -1 problem -1 threat -1 result -1 sa -1 dominat -1 wednesday -1 tunnel -1 ab -1 rout -1 hit -1 late -1 steam -1 season -1 newsroom -1 mount -1 busy -1 sten -1 sten -1 sten -1 sten -1 sten -1 sten -1 -2
+lane -1 operat -1 operat -1 delay -1 trad -1 trad -1 cross -1 -2

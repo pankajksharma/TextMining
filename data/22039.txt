@@ -1,0 +1,2 @@
+grain -1 grain -1 est95 -1 est95 -1 cast96 -1 rse -1 forecast96 -1 crnt -1 crnt -1 wh -1 afric -1 east -1 east -1 flour -1 flour -1 fl -1 chin -1 import -1 import -1 wheat -1 wheat -1 coars -1 coars -1 grn -1 igc -1 brazil -1 americ -1 prev -1 prev -1 egypt -1 -2
+iran -1 asia -1 asia -1 region -1 region -1 trad -1 -2

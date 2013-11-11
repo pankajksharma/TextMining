@@ -1,0 +1,4 @@
+soybean -1 soybean -1 benson -1 floor -1 frost -1 emerg -1 bean -1 bean -1 rumor -1 mge -1 mge -1 mge -1 mge -1 mge -1 clos -1 clos -1 bushel -1 bushel -1 high -1 high -1 high -1 low -1 dec -1 dec -1 dec -1 dec -1 cover -1 cover -1 start -1 midsess -1 -2
+tie -1 greg -1 annual -1 peopl -1 spread -1 wilson -1 bought -1 sourc -1 report -1 help -1 gain -1 rally -1 futur -1 million -1 million -1 million -1 million -1 sold -1 sold -1 crop -1 support -1 open -1 end -1 end -1 chin -1 short -1 short -1 short -1 buy -1 pressur -1 corn -1 -2
+corn -1 corn -1 cent -1 cent -1 cent -1 cbot -1 cbot -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 cove -1 spark -1 tour -1 lack -1 quin -1 soymeal -1 new -1 intermarket -1 export -1 cis -1 japan -1 sept -1 sept -1 spring -1 spring -1 spring -1 spring -1 bull -1 kcbt -1 -2
+assum -1 surg -1 trad -1 trad -1 trad -1 trad -1 trad -1 choic -1 -2

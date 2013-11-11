@@ -1,0 +1,4 @@
+market -1 market -1 dlr -1 clos -1 clos -1 month -1 low -1 monet -1 countr -1 revers -1 touch -1 ahead -1 currenc -1 currenc -1 curb -1 bank -1 bank -1 bank -1 bank -1 bank -1 fall -1 trend -1 select -1 mid -1 deal -1 deal -1 deal -1 deal -1 larg -1 client -1 -2
+client -1 spread -1 today -1 today -1 bought -1 downward -1 forex -1 expect -1 big -1 soft -1 soft -1 sold -1 open -1 push -1 nation -1 reserv -1 stabl -1 narrow -1 narrow -1 sofia -1 foreign -1 pressur -1 pressur -1 import -1 import -1 cent -1 cent -1 wheat -1 detect -1 match -1 specul -1 -2
+direct -1 consolid -1 energ -1 underl -1 rang -1 final -1 lev -1 lev -1 lev -1 lev -1 lev -1 lev -1 bulg -1 bulg -1 demand -1 demand -1 dollar -1 dollar -1 dollar -1 friday -1 suppl -1 morn -1 moderat -1 newsroom -1 add -1 interbank -1 commerc -1 slow -1 trad -1 trad -1 trad -1 -2
+restrict -1 -2

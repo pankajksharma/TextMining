@@ -1,0 +1,4 @@
+hotly -1 early -1 life -1 life -1 life -1 stock -1 stock -1 clos -1 reach -1 month -1 brew -1 revers -1 year -1 namib -1 namib -1 namib -1 namib -1 namib -1 fortun -1 fortun -1 climb -1 regist -1 trust -1 firm -1 invest -1 week -1 week -1 week -1 week -1 week -1 -2
+week -1 week -1 slight -1 afric -1 afric -1 afric -1 local -1 kolosus -1 mix -1 mix -1 big -1 pric -1 tripl -1 index -1 volum -1 volum -1 show -1 sentr -1 million -1 shar -1 shar -1 shar -1 shar -1 assur -1 august -1 wid -1 focus -1 exchang -1 warn -1 loss -1 continu -1 -2
+meat -1 ago -1 south -1 south -1 south -1 rang -1 leather -1 day -1 nse -1 nse -1 nse -1 nse -1 profit -1 result -1 announc -1 typic -1 giant -1 prev -1 prev -1 project -1 worth -1 demand -1 total -1 genbel -1 june -1 june -1 undex -1 friday -1 friday -1 process -1 johannesburg -1 -2
+action -1 newsroom -1 busy -1 substant -1 southern -1 hold -1 trad -1 trad -1 trad -1 trad -1 trad -1 metropolit -1 ziegl -1 group -1 metj -1 -2

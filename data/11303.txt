@@ -1,0 +1,4 @@
+afflict -1 market -1 gener -1 medic -1 drug -1 excim -1 excim -1 hospit -1 hospit -1 hospit -1 begin -1 own -1 own -1 own -1 patient -1 transmyocard -1 revascul -1 start -1 start -1 start -1 york -1 york -1 york -1 tmr -1 tmr -1 tmr -1 system -1 manag -1 good -1 turn -1 -2
+food -1 unit -1 pump -1 rich -1 treat -1 lase -1 lase -1 lase -1 lase -1 lase -1 human -1 human -1 puls -1 percent -1 percent -1 approv -1 blood -1 main -1 administ -1 photon -1 test -1 techn -1 channel -1 channel -1 area -1 short -1 acculas -1 acculas -1 acculas -1 acculas -1 acculas -1 -2
+cent -1 flow -1 procedur -1 diseas -1 samarit -1 won -1 coron -1 patent -1 trail -1 conduc -1 institut -1 cornel -1 plan -1 ray -1 oxygen -1 oxygen -1 septemb -1 total -1 major -1 los -1 glob -1 clinic -1 angel -1 heart -1 heart -1 heart -1 heart -1 helionet -1 helionet -1 helionet -1 helionet -1 -2
+hartm -1 muscl -1 creat -1 starv -1 trial -1 trial -1 chamb -1 -2

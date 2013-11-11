@@ -1,0 +1,2 @@
+limit -1 market -1 claus -1 credit -1 suiss -1 gz -1 yr -1 standard -1 manag -1 borrow -1 unit -1 list -1 franc -1 capit -1 suedwestdeutsch -1 suedwestdeutsch -1 straight -1 pay -1 pay -1 lead -1 pric -1 guarant -1 moody -1 ubs -1 matur -1 swiss -1 reop -1 coupon -1 typ -1 suedwestlb -1 -2
+london -1 london -1 ebs -1 note -1 date -1 sfr -1 announc -1 joint -1 bond -1 bond -1 oct -1 oct -1 set -1 newsroom -1 landesbank -1 landesbank -1 amt -1 iss -1 freq -1 denom -1 sale -1 mln -1 mln -1 -2

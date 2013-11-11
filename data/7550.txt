@@ -1,0 +1,2 @@
+credit -1 rate -1 rate -1 rate -1 term -1 term -1 term -1 receiv -1 agent -1 commercial -1 individual -1 ibca -1 ibca -1 ibca -1 stat -1 affirm -1 affirm -1 affirm -1 aa -1 minus -1 a1 -1 a1 -1 banc -1 italian -1 legal -1 european -1 long -1 short -1 milan -1 bci -1 -2
+bci -1 sht -1 -2

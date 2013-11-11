@@ -1,0 +1,2 @@
+interest -1 interest -1 year -1 full -1 shr -1 fall -1 invest -1 invest -1 invest -1 fax -1 stat -1 amsterdam -1 minor -1 million -1 give -1 nv -1 nv -1 propert -1 net -1 net -1 net -1 half -1 half -1 note -1 note -1 cost -1 incom -1 incom -1 incom -1 turnov -1 -2
+profit -1 result -1 charg -1 prev -1 dollar -1 dollar -1 hal -1 hal -1 hal -1 newsroom -1 forecast -1 forecast -1 operat -1 hold -1 hold -1 group -1 group -1 mln -1 -2

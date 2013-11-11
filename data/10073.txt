@@ -1,0 +1,2 @@
+draw -1 saturday -1 point -1 stand -1 stand -1 sv -1 sv -1 ried -1 lost -1 austr -1 austr -1 austr -1 austr -1 sturm -1 sturm -1 socc -1 socc -1 wack -1 wack -1 admir -1 admir -1 gak -1 gak -1 graz -1 graz -1 won -1 match -1 wien -1 play -1 play -1 -2
+linz -1 linz -1 linz -1 linz -1 fc -1 fc -1 fc -1 fc -1 divid -1 divid -1 result -1 result -1 vien -1 vien -1 vien -1 rapid -1 rapid -1 goal -1 innsbruck -1 innsbruck -1 tirol -1 tirol -1 tabulat -1 salzburg -1 -2

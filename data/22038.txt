@@ -1,0 +1,2 @@
+grain -1 est95 -1 est95 -1 cast96 -1 rse -1 forecast96 -1 crnt -1 crnt -1 wh -1 afric -1 flour -1 flour -1 canad -1 fl -1 chin -1 wheat -1 wheat -1 austral -1 coars -1 coars -1 grn -1 grn -1 igc -1 argentin -1 export -1 export -1 export -1 prev -1 prev -1 eec -1 -2
+thailand -1 major -1 usa -1 trad -1 trad -1 -2

@@ -1,0 +1,1 @@
+market -1 immed -1 reach -1 alert -1 rate -1 sourc -1 devic -1 devic -1 anal -1 anal -1 techn -1 jim -1 bureau -1 smith -1 barney -1 buy -1 auchard -1 cut -1 cut -1 research -1 integr -1 intergr -1 barl -1 wall -1 street -1 comment -1 neutr -1 -2

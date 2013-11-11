@@ -1,0 +1,4 @@
+early -1 early -1 market -1 grain -1 grain -1 grain -1 unconfirm -1 hous -1 hous -1 union -1 union -1 hot -1 unoffic -1 manag -1 modest -1 deal -1 deal -1 wait -1 larg -1 bought -1 issu -1 germ -1 germ -1 germ -1 germ -1 germ -1 meet -1 unblock -1 confirm -1 lead -1 -2
+decid -1 decid -1 decid -1 world -1 world -1 main -1 eu -1 eu -1 thursday -1 thursday -1 thursday -1 european -1 european -1 european -1 european -1 european -1 brussel -1 brussel -1 panel -1 leav -1 control -1 remain -1 increas -1 cereal -1 press -1 extr -1 urg -1 commit -1 import -1 purchas -1 quot -1 -2
+quot -1 quot -1 intervent -1 allocat -1 weight -1 barley -1 barley -1 barley -1 barley -1 barley -1 barley -1 barley -1 put -1 final -1 ton -1 ton -1 ton -1 ton -1 agend -1 export -1 export -1 export -1 arabia -1 arabia -1 saud -1 saud -1 saud -1 suppl -1 major -1 stor -1 unchang -1 -2
+unchang -1 add -1 sale -1 offic -1 offic -1 offic -1 trad -1 trad -1 trad -1 block -1 -2

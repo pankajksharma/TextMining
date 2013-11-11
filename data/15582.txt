@@ -1,0 +1,2 @@
+limit -1 market -1 market -1 unexpect -1 econom -1 stock -1 stock -1 interest -1 rate -1 low -1 bank -1 point -1 point -1 fall -1 key -1 quart -1 lost -1 percent -1 nikkei -1 cash -1 sent -1 level -1 pric -1 busi -1 show -1 futur -1 futur -1 brok -1 tank -1 shar -1 -2
+end -1 end -1 contract -1 benchmark -1 august -1 finish -1 grow -1 weak -1 cent -1 toky -1 disappear -1 corpor -1 day -1 hike -1 survey -1 wednesday -1 septemb -1 concern -1 japan -1 japan -1 japan -1 aver -1 ling -1 fear -1 -2

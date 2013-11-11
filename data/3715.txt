@@ -1,0 +1,4 @@
+early -1 market -1 market -1 market -1 market -1 correct -1 rumor -1 rumor -1 rumor -1 icfi -1 froz -1 froz -1 nerv -1 nerv -1 bank -1 bank -1 bank -1 north -1 affect -1 fall -1 fall -1 deal -1 deal -1 deal -1 deal -1 deal -1 week -1 today -1 name -1 check -1 -2
+fell -1 reut -1 reut -1 rest -1 pric -1 matur -1 matur -1 matur -1 matur -1 matur -1 control -1 russia -1 press -1 rise -1 off -1 financ -1 financ -1 freez -1 freez -1 health -1 told -1 told -1 care -1 western -1 quot -1 declin -1 minist -1 minist -1 servic -1 bid -1 tranch -1 -2
+decree -1 russian -1 russian -1 moscow -1 moscow -1 moscow -1 bori -1 yeltsin -1 yeltsin -1 deny -1 mat -1 aug -1 aug -1 driv -1 wednesday -1 wednesday -1 intern -1 inform -1 inform -1 unsettl -1 bond -1 bond -1 bond -1 bond -1 due -1 minfin -1 minfin -1 extent -1 newsroom -1 artyom -1 daniely -1 -2
+partn -1 presid -1 presid -1 offic -1 offic -1 sign -1 trad -1 -2

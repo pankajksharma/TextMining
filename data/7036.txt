@@ -1,0 +1,4 @@
+market -1 market -1 recent -1 credit -1 credit -1 credit -1 credit -1 credit -1 carry -1 stock -1 clos -1 sharehold -1 receib -1 agent -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 york -1 billion -1 common -1 de -1 de -1 de -1 de -1 de -1 larg -1 -2
+capit -1 issu -1 issu -1 issu -1 issu -1 approv -1 approv -1 decid -1 banc -1 banc -1 banc -1 banc -1 level -1 reut -1 million -1 shar -1 shar -1 shar -1 thursday -1 thursday -1 deposit -1 deposit -1 dividend -1 author -1 author -1 short -1 equival -1 venezuel -1 venezuel -1 commit -1 told -1 -2
+import -1 exchang -1 exchang -1 venezolan -1 venezolan -1 venezolan -1 venezolan -1 venezolan -1 martnez -1 delight -1 posit -1 doubl -1 americ -1 bolivar -1 bolivar -1 bolivar -1 ana -1 carac -1 carac -1 plan -1 garc -1 intern -1 mendoz -1 isabel -1 secur -1 oscar -1 releas -1 newsroom -1 presid -1 offic -1 adr -1 -2
+adr -1 adr -1 adr -1 adr -1 adr -1 -2

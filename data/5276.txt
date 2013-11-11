@@ -1,0 +1,4 @@
+early -1 back -1 stock -1 stock -1 broker -1 high -1 interest -1 rate -1 rate -1 beneex -1 own -1 bank -1 bank -1 bank -1 manag -1 invest -1 list -1 list -1 list -1 seek -1 report -1 report -1 percent -1 percent -1 strong -1 local -1 local -1 help -1 sent -1 sent -1 -2
+gain -1 volum -1 futur -1 brok -1 brok -1 anticip -1 million -1 million -1 thursday -1 shar -1 shar -1 shar -1 concept -1 concept -1 min -1 min -1 min -1 talk -1 talk -1 weekend -1 chin -1 chin -1 chin -1 chin -1 hk -1 hk -1 hk -1 press -1 fuel -1 financ -1 rose -1 -2
+rose -1 cut -1 cut -1 improv -1 improv -1 flotat -1 except -1 earn -1 earn -1 concern -1 xin -1 xin -1 xin -1 intern -1 intern -1 hong -1 hong -1 hong -1 worth -1 kong -1 kong -1 kong -1 intraday -1 xiam -1 xiam -1 xiam -1 hit -1 afternoon -1 newsroom -1 hope -1 hold -1 -2
+sale -1 -2

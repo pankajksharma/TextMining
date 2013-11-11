@@ -1,0 +1,4 @@
+stak -1 stak -1 market -1 market -1 life -1 life -1 life -1 life -1 jakart -1 lip -1 lip -1 lip -1 lip -1 lip -1 lip -1 lip -1 lip -1 lip -1 lip -1 lip -1 lip -1 sharehold -1 sharehold -1 term -1 schedul -1 billion -1 billion -1 billion -1 firm -1 firm -1 -2
+firm -1 firm -1 fund -1 loan -1 stat -1 meet -1 approv -1 percent -1 percent -1 percent -1 expect -1 cash -1 exist -1 shar -1 shar -1 shar -1 long -1 increas -1 buy -1 buy -1 extend -1 financ -1 rupiah -1 rupiah -1 rupiah -1 network -1 network -1 effort -1 effort -1 purchas -1 purchas -1 -2
+purchas -1 purchas -1 insur -1 insur -1 improv -1 diversif -1 mobil -1 widen -1 aim -1 aim -1 plan -1 plan -1 plan -1 wide -1 wednesday -1 septemb -1 memb -1 secur -1 secur -1 secur -1 secur -1 secur -1 secur -1 secur -1 worth -1 subject -1 pt -1 pt -1 indones -1 newsroom -1 asurans -1 -2
+boost -1 group -1 -2

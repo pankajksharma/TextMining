@@ -1,0 +1,2 @@
+newsdesk -1 gener -1 high -1 interest -1 interest -1 month -1 month -1 jul -1 jul -1 jun -1 jun -1 good -1 q4 -1 gross -1 home -1 sold -1 shar -1 end -1 end -1 chicag -1 net -1 net -1 net -1 net -1 admin -1 thousand -1 cost -1 sell -1 incom -1 incom -1 -2
+incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 corp -1 schult -1 dollar -1 expend -1 expend -1 expend -1 total -1 twelf -1 operat -1 sale -1 sale -1 tax -1 tax -1 -2

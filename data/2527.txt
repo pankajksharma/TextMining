@@ -1,0 +1,3 @@
+tuesday -1 game -1 game -1 year -1 year -1 agent -1 agent -1 data -1 data -1 data -1 bicycl -1 tie -1 manag -1 good -1 ticket -1 pric -1 pric -1 pric -1 index -1 deliv -1 drop -1 august -1 machin -1 socc -1 rice -1 sock -1 worn -1 kimon -1 corn -1 beef -1 -2
+import -1 golf -1 cove -1 basket -1 purchas -1 household -1 cement -1 coordin -1 compon -1 compon -1 cpi -1 cpi -1 cpi -1 cpi -1 cpi -1 move -1 updat -1 base -1 base -1 newly -1 consum -1 exclud -1 child -1 includ -1 pizz -1 guitar -1 item -1 item -1 item -1 item -1 japan -1 -2
+japan -1 chang -1 chang -1 aver -1 releas -1 make -1 add -1 add -1 measur -1 measur -1 fee -1 beer -1 offic -1 offic -1 trad -1 -2

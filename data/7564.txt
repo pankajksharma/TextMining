@@ -1,0 +1,4 @@
+acquir -1 target -1 fulfill -1 march -1 year -1 year -1 bank -1 bank -1 billion -1 billion -1 invest -1 fax -1 unit -1 unit -1 annual -1 annual -1 capit -1 capit -1 bought -1 bought -1 nederland -1 percent -1 percent -1 difficult -1 amsterdam -1 expect -1 expect -1 mean -1 reut -1 busi -1 -2
+interim -1 million -1 million -1 million -1 merch -1 guild -1 guild -1 guild -1 guild -1 speak -1 return -1 return -1 told -1 told -1 dfl -1 nv -1 cove -1 ing -1 ing -1 ing -1 ing -1 ing -1 ing -1 ing -1 ing -1 integr -1 bare -1 bare -1 bare -1 bare -1 bare -1 -2
+bare -1 bare -1 bare -1 net -1 net -1 net -1 half -1 groep -1 new -1 cost -1 aim -1 earn -1 earn -1 earn -1 earn -1 earn -1 aad -1 jacob -1 jacob -1 jacob -1 compar -1 profit -1 profit -1 profit -1 result -1 board -1 spokesm -1 satisf -1 rough -1 chairm -1 set -1 -2
+newsroom -1 execut -1 confer -1 operat -1 opportun -1 international -1 tax -1 group -1 mln -1 -2

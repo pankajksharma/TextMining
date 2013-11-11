@@ -1,0 +1,3 @@
+market -1 unexpect -1 quiet -1 quiet -1 stock -1 clos -1 low -1 point -1 point -1 deal -1 key -1 quart -1 slight -1 slight -1 gmt -1 east -1 percent -1 percent -1 nikkei -1 nikkei -1 sent -1 busi -1 index -1 show -1 futur -1 tank -1 shar -1 shar -1 shar -1 open -1 -2
+end -1 end -1 chicag -1 ise -1 weak -1 weak -1 bare -1 london -1 london -1 london -1 london -1 move -1 bia -1 toky -1 toky -1 toky -1 day -1 survey -1 wednesday -1 prem -1 japan -1 japan -1 chang -1 chang -1 aver -1 tomorrow -1 newsroom -1 trad -1 trad -1 trad -1 trad -1 -2
+bit -1 -2

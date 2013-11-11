@@ -1,0 +1,2 @@
+newsdesk -1 hard -1 hard -1 high -1 octob -1 octob -1 unit -1 deal -1 bought -1 ship -1 ship -1 stat -1 pric -1 soft -1 soft -1 chicag -1 buy -1 provid -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 ton -1 ton -1 export -1 export -1 includ -1 septemb -1 -2
+septemb -1 sri -1 sri -1 lank -1 lank -1 suppl -1 friday -1 doubt -1 origin -1 trad -1 option -1 option -1 -2

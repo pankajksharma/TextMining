@@ -1,0 +1,2 @@
+market -1 rumor -1 agent -1 dealt -1 firm -1 alexand -1 fund -1 valdai -1 valdai -1 aliv -1 itar -1 tass -1 rest -1 aid -1 outlin -1 vikt -1 russia -1 feder -1 social -1 press -1 press -1 livshit -1 financ -1 convinc -1 western -1 minist -1 servic -1 trip -1 ilyushin -1 decree -1 -2
+decree -1 decree -1 decree -1 new -1 job -1 bori -1 yeltsin -1 yeltsin -1 yeltsin -1 lakeland -1 northwestern -1 relief -1 ask -1 answ -1 dead -1 wednesday -1 spokesm -1 budget -1 presid -1 presid -1 presid -1 offic -1 sign -1 sign -1 sign -1 -2

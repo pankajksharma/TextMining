@@ -1,0 +1,3 @@
+fire -1 capac -1 provinc -1 provinc -1 provinc -1 generat -1 agree -1 agree -1 form -1 invest -1 invest -1 equit -1 accord -1 accord -1 stat -1 stat -1 stat -1 percent -1 percent -1 ytl -1 ytl -1 ytl -1 govern -1 nanchang -1 lead -1 mull -1 eag -1 instal -1 million -1 berhad -1 -2
+industr -1 remain -1 chin -1 chin -1 chin -1 chin -1 current -1 pow -1 pow -1 pow -1 pow -1 pow -1 feed -1 provid -1 side -1 visit -1 jiangx -1 jiangx -1 jiangx -1 megawat -1 delegat -1 basi -1 prelimin -1 electr -1 detail -1 gave -1 malays -1 malays -1 malays -1 run -1 corp -1 -2
+corp -1 rapid -1 plant -1 expand -1 intern -1 intern -1 project -1 project -1 project -1 joint -1 ventur -1 eastern -1 major -1 coal -1 hold -1 sign -1 trad -1 -2

@@ -1,0 +1,2 @@
+nationw -1 early -1 month -1 month -1 outlet -1 low -1 low -1 year -1 yen -1 cover -1 yr -1 yr -1 billion -1 fall -1 fall -1 firm -1 food -1 client -1 stat -1 percent -1 percent -1 fell -1 monday -1 weekend -1 assoc -1 assoc -1 assoc -1 figur -1 depart -1 depart -1 -2
+depart -1 depart -1 depart -1 corpor -1 july -1 july -1 july -1 survey -1 effect -1 demand -1 june -1 japan -1 japan -1 japan -1 japan -1 japan -1 epidem -1 poison -1 due -1 stor -1 stor -1 stor -1 stor -1 stor -1 sale -1 sale -1 sale -1 sale -1 -2

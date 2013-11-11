@@ -1,0 +1,2 @@
+market -1 sect -1 sect -1 money -1 bank -1 bank -1 finland -1 finland -1 week -1 week -1 week -1 govt -1 balanc -1 helsink -1 sheet -1 fim -1 markk -1 markk -1 show -1 million -1 million -1 reserv -1 reserv -1 reserv -1 august -1 august -1 august -1 rise -1 foreign -1 rose -1 -2
+intervent -1 posit -1 posit -1 claim -1 claim -1 corpor -1 compar -1 asset -1 prev -1 prev -1 total -1 late -1 late -1 newsroom -1 mln -1 -2

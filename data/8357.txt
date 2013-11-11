@@ -1,0 +1,2 @@
+market -1 clos -1 clos -1 high -1 start -1 cargoe -1 counteract -1 complet -1 report -1 report -1 strong -1 nymex -1 sent -1 pric -1 futur -1 europ -1 thursday -1 arbitr -1 arbitr -1 stead -1 stead -1 offer -1 slid -1 buoy -1 ton -1 ton -1 fob -1 refin -1 septemb -1 unlead -1 -2
+prem -1 prem -1 gasolin -1 gasolin -1 demand -1 dollar -1 eastern -1 friday -1 late -1 morn -1 regul -1 nwe -1 nwe -1 ara -1 coupl -1 barg -1 barg -1 trad -1 trad -1 -2

@@ -1,0 +1,4 @@
+stay -1 life -1 bound -1 asylum -1 asylum -1 asylum -1 back -1 tuesday -1 stop -1 refuel -1 saturday -1 sentenc -1 sentenc -1 kniv -1 fly -1 persecut -1 consist -1 begin -1 receiv -1 capt -1 hijack -1 hijack -1 hijack -1 hijack -1 hijack -1 hijack -1 hijack -1 amman -1 interior -1 hussein -1 -2
+free -1 peopl -1 peopl -1 britain -1 less -1 jet -1 blow -1 law -1 ordin -1 seiz -1 surrend -1 end -1 maxim -1 aboard -1 monday -1 consid -1 widespread -1 imprison -1 cyprus -1 short -1 airport -1 aircraft -1 offer -1 engl -1 forc -1 minist -1 iraq -1 iraq -1 iraq -1 iraq -1 london -1 -2
+london -1 court -1 search -1 plea -1 saddam -1 host -1 appeal -1 specul -1 specul -1 regim -1 claim -1 fake -1 sudan -1 sudan -1 land -1 plan -1 plan -1 threat -1 charg -1 charg -1 charg -1 explos -1 airlin -1 men -1 friday -1 found -1 polic -1 polic -1 allow -1 stanst -1 khartoum -1 -2
+offic -1 -2

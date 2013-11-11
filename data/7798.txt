@@ -1,0 +1,5 @@
+react -1 deguss -1 floor -1 floor -1 ag -1 ag -1 ag -1 ag -1 stock -1 stock -1 find -1 clos -1 clos -1 clos -1 high -1 rate -1 frankfurt -1 point -1 point -1 trend -1 deal -1 equit -1 basf -1 basf -1 basf -1 germ -1 germ -1 germ -1 germ -1 report -1 -2
+meet -1 percent -1 percent -1 strong -1 anal -1 decid -1 overnight -1 sent -1 sent -1 sent -1 level -1 main -1 index -1 index -1 soft -1 shar -1 shar -1 shar -1 shar -1 thursday -1 thursday -1 thursday -1 thursday -1 support -1 end -1 end -1 end -1 end -1 end -1 end -1 monday -1 -2
+weekend -1 win -1 stead -1 rise -1 weak -1 cut -1 cut -1 warm -1 half -1 posit -1 posit -1 buoy -1 direct -1 lift -1 kind -1 session -1 session -1 day -1 day -1 day -1 profit -1 includ -1 chemic -1 chemic -1 wall -1 street -1 blu -1 blu -1 chip -1 chip -1 secur -1 -2
+bours -1 bours -1 dax -1 dax -1 dollar -1 ibi -1 friday -1 bond -1 bundesbank -1 late -1 weigh -1 repurchas -1 repo -1 repo -1 hoechst -1 pfennig -1 pfennig -1 pfennig -1 bay -1 unchang -1 measur -1 measur -1 mark -1 mark -1 mark -1 mark -1 mark -1 boost -1 electron -1 trad -1 trad -1 -2
+trad -1 trad -1 trad -1 trad -1 trad -1 -2

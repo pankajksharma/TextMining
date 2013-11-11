@@ -1,0 +1,3 @@
+life -1 pain -1 pain -1 jail -1 jail -1 illeg -1 doct -1 demonstr -1 patient -1 year -1 year -1 convict -1 kill -1 woman -1 physic -1 file -1 prison -1 piet -1 client -1 ment -1 ment -1 intol -1 intol -1 intol -1 gad -1 gad -1 stat -1 difficult -1 van -1 van -1 -2
+van -1 leth -1 suff -1 suff -1 suff -1 jan -1 law -1 end -1 case -1 case -1 case -1 monday -1 lawy -1 lawy -1 dutch -1 dutch -1 dutch -1 die -1 die -1 reop -1 time -1 imprison -1 murd -1 murd -1 murd -1 investig -1 inject -1 prov -1 forc -1 court -1 court -1 -2
+psych -1 evaluat -1 claim -1 grant -1 grant -1 strict -1 plan -1 vulp -1 vulp -1 vulp -1 faht -1 demand -1 demand -1 wrong -1 wrong -1 cond -1 polic -1 prosecut -1 euthanas -1 -2

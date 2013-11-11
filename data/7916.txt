@@ -1,0 +1,2 @@
+market -1 market -1 clear -1 credit -1 stock -1 stock -1 clos -1 rate -1 eras -1 suiss -1 bank -1 start -1 point -1 manag -1 invest -1 week -1 key -1 fund -1 germ -1 percent -1 strong -1 expect -1 nikkei -1 nikkei -1 advanc -1 sent -1 index -1 gain -1 gain -1 rally -1 -2
+rally -1 brok -1 tank -1 end -1 end -1 past -1 cut -1 lack -1 play -1 take -1 toky -1 toky -1 direct -1 await -1 corpor -1 day -1 day -1 profit -1 survey -1 particip -1 japan -1 friday -1 aver -1 bundesbank -1 due -1 repo -1 advis -1 chisat -1 takahash -1 hold -1 sidelin -1 -2

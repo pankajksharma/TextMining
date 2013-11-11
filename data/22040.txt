@@ -1,0 +1,2 @@
+grain -1 grain -1 est95 -1 est95 -1 cast96 -1 rse -1 forecast96 -1 crnt -1 crnt -1 wh -1 flour -1 flour -1 fl -1 world -1 europ -1 russia -1 import -1 import -1 import -1 wheat -1 wheat -1 coars -1 coars -1 grn -1 igc -1 ussr -1 cis -1 prev -1 prev -1 eec -1 -2
+region -1 trad -1 -2

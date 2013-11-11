@@ -1,0 +1,3 @@
+stay -1 track -1 month -1 cup -1 race -1 guilt -1 provinc -1 receiv -1 receiv -1 club -1 offent -1 bailey -1 mist -1 suspend -1 report -1 meet -1 lead -1 st -1 big -1 janu -1 class -1 shot -1 trig -1 doncast -1 hors -1 disciplin -1 commit -1 jockey -1 jockey -1 engl -1 -2
+jason -1 weav -1 weav -1 weav -1 weav -1 weav -1 won -1 ago -1 miss -1 doubl -1 ride -1 ride -1 ride -1 ride -1 ride -1 ban -1 ban -1 ban -1 pontefract -1 day -1 day -1 day -1 day -1 includ -1 wednesday -1 promin -1 lege -1 found -1 guine -1 season -1 fourth -1 -2
+top -1 irresponsibl -1 -2

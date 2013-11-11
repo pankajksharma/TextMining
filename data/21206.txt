@@ -1,0 +1,2 @@
+stock -1 list -1 list -1 larg -1 issu -1 stat -1 approv -1 expect -1 govern -1 bill -1 law -1 million -1 thursday -1 shar -1 face -1 secret -1 deput -1 forint -1 public -1 balaz -1 financ -1 financ -1 financ -1 financ -1 told -1 pack -1 exchang -1 offer -1 offer -1 sandor -1 -2
+minist -1 minist -1 agn -1 parlia -1 draft -1 draft -1 new -1 aim -1 institut -1 plan -1 septemb -1 pass -1 legisl -1 secur -1 secur -1 bours -1 bours -1 friday -1 friday -1 peto -1 newsroom -1 confer -1 budap -1 budap -1 hung -1 hung -1 boost -1 trad -1 -2

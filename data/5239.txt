@@ -1,0 +1,2 @@
+market -1 market -1 life -1 clos -1 kg -1 low -1 fresh -1 octob -1 yen -1 yen -1 yen -1 yen -1 cover -1 firm -1 firm -1 firm -1 firm -1 spot -1 janu -1 volum -1 futur -1 futur -1 futur -1 adjust -1 thursday -1 hour -1 hour -1 contract -1 contract -1 expir -1 -2
+benchmark -1 stead -1 short -1 sideway -1 move -1 posit -1 direct -1 rang -1 lot -1 day -1 day -1 dominat -1 septemb -1 rub -1 rub -1 rub -1 hit -1 due -1 kobe -1 kobe -1 incent -1 activ -1 absent -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

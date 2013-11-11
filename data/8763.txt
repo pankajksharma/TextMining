@@ -1,0 +1,2 @@
+early -1 market -1 thai -1 stock -1 clos -1 clos -1 high -1 stockpil -1 rain -1 bank -1 affect -1 pile -1 produc -1 produc -1 strong -1 sent -1 mix -1 defend -1 pric -1 pric -1 futur -1 long -1 nation -1 rise -1 buy -1 flood -1 finish -1 bear -1 cent -1 quot -1 -2
+fact -1 heavy -1 take -1 posit -1 toky -1 toky -1 new -1 ton -1 propos -1 sell -1 malays -1 malays -1 malays -1 rub -1 rub -1 rub -1 thailand -1 thailand -1 thailand -1 indones -1 hit -1 add -1 bull -1 trad -1 trad -1 trad -1 trad -1 keep -1 -2

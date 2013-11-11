@@ -1,0 +1,2 @@
+early -1 early -1 gener -1 stock -1 stock -1 clos -1 high -1 month -1 low -1 ahead -1 point -1 point -1 fall -1 firm -1 enc -1 week -1 erod -1 erod -1 percent -1 expect -1 help -1 fell -1 fell -1 pric -1 index -1 gain -1 gain -1 gain -1 gain -1 show -1 -2
+repsol -1 buy -1 finish -1 finish -1 margin -1 half -1 take -1 take -1 take -1 pape -1 day -1 profit -1 profit -1 profit -1 result -1 bond -1 due -1 recommend -1 goldm -1 sach -1 telefon -1 madrid -1 madrid -1 ibex -1 peset -1 peset -1 operat -1 -2

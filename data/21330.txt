@@ -1,0 +1,2 @@
+follow -1 bvsp -1 market -1 track -1 stock -1 stock -1 clos -1 clos -1 interest -1 rate -1 low -1 bovesp -1 point -1 slight -1 straight -1 percent -1 percent -1 fell -1 pric -1 index -1 index -1 volum -1 brok -1 million -1 million -1 shar -1 shar -1 end -1 end -1 increas -1 -2
+worry -1 brazil -1 brazil -1 session -1 wall -1 wall -1 street -1 street -1 friday -1 dow -1 jone -1 moderat -1 mount -1 activ -1 reai -1 -2

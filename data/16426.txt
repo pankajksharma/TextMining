@@ -1,0 +1,4 @@
+fire -1 bring -1 early -1 draw -1 emerg -1 teach -1 cop -1 humbert -1 saturday -1 illeg -1 union -1 high -1 march -1 halt -1 hospit -1 hospit -1 hospit -1 hospit -1 hospit -1 hospit -1 own -1 countr -1 countr -1 declar -1 start -1 system -1 system -1 poor -1 peopl -1 fund -1 -2
+mine -1 stat -1 attent -1 percent -1 lead -1 govern -1 pension -1 chilean -1 chilean -1 chilean -1 million -1 hour -1 cabrer -1 increas -1 increas -1 press -1 fuel -1 public -1 public -1 public -1 public -1 public -1 indefinit -1 health -1 health -1 priv -1 warn -1 call -1 work -1 work -1 work -1 -2
+work -1 minist -1 walkout -1 visit -1 strik -1 strik -1 strik -1 strik -1 strik -1 strik -1 strik -1 stagn -1 serv -1 ten -1 job -1 thousand -1 chil -1 shut -1 figueroa -1 plan -1 wag -1 wag -1 wag -1 announc -1 ask -1 medicin -1 wednesday -1 street -1 budget -1 equip -1 demand -1 -2
+demand -1 salvador -1 cond -1 alex -1 make -1 allow -1 operat -1 chos -1 walk -1 -2

@@ -1,0 +1,2 @@
+bank -1 bank -1 bank -1 bank -1 today -1 bill -1 bill -1 bill -1 polish -1 polish -1 poland -1 million -1 million -1 million -1 warsaw -1 nation -1 zloty -1 zloty -1 zloty -1 auction -1 off -1 cent -1 bid -1 bid -1 pape -1 day -1 day -1 result -1 pln -1 nbp -1 -2
+nbp -1 set -1 newsroom -1 -2

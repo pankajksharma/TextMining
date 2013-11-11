@@ -1,0 +1,2 @@
+market -1 market -1 market -1 interest -1 rate -1 month -1 liquid -1 bank -1 bank -1 bank -1 borrow -1 borrow -1 borrow -1 percent -1 local -1 interv -1 check -1 mth -1 open -1 deposit -1 deposit -1 cent -1 effort -1 inflat -1 part -1 part -1 malays -1 prev -1 set -1 negar -1 -2
+negar -1 negar -1 regul -1 fight -1 operat -1 interbank -1 interbank -1 pct -1 -2

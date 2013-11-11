@@ -1,0 +1,2 @@
+draw -1 sunday -1 sunday -1 vfb -1 game -1 karlsruh -1 fortun -1 bayern -1 bayern -1 munich -1 munich -1 munich -1 point -1 vfl -1 stand -1 msv -1 msv -1 germ -1 germ -1 lost -1 st -1 duisberg -1 stuttgart -1 armin -1 bielefeld -1 cologn -1 hans -1 socc -1 socc -1 freiburg -1 -2
+werd -1 rostock -1 schalk -1 boruss -1 boruss -1 moenchengladbach -1 duesseldorf -1 won -1 match -1 match -1 play -1 leverkus -1 divid -1 divid -1 paul -1 brem -1 result -1 result -1 hamburg -1 goal -1 goal -1 tabulat -1 bay -1 bundeslig -1 duisburg -1 bochum -1 dortmund -1 -2

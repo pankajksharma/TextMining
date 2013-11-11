@@ -1,0 +1,3 @@
+saturday -1 entit -1 begin -1 year -1 review -1 start -1 affect -1 blueprint -1 annual -1 annual -1 annual -1 wilson -1 fund -1 stat -1 stat -1 stat -1 deem -1 approv -1 approv -1 approv -1 requir -1 requir -1 expect -1 decid -1 lead -1 bill -1 bill -1 bill -1 easy -1 governor -1 -2
+time -1 financ -1 lawmak -1 call -1 fisc -1 fisc -1 spend -1 spend -1 depart -1 overhaul -1 responsibl -1 senat -1 put -1 cost -1 program -1 propos -1 base -1 base -1 base -1 base -1 base -1 consum -1 vote -1 simil -1 contend -1 failur -1 assembl -1 assembl -1 great -1 wednesday -1 overwhelm -1 -2
+budget -1 budget -1 budget -1 budget -1 budget -1 budget -1 attempt -1 gov -1 dollar -1 friday -1 process -1 process -1 process -1 make -1 add -1 measur -1 pete -1 californ -1 calif -1 -2

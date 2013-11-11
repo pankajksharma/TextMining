@@ -1,0 +1,3 @@
+brum -1 compan -1 compan -1 capac -1 small -1 small -1 stop -1 specif -1 clos -1 facil -1 facil -1 year -1 full -1 middl -1 north -1 site -1 site -1 mid -1 maintain -1 employ -1 peopl -1 produc -1 produc -1 produc -1 expect -1 world -1 level -1 phas -1 support -1 concept -1 -2
+monday -1 jim -1 elimin -1 age -1 industr -1 time -1 machin -1 disadvant -1 eventual -1 continu -1 job -1 put -1 part -1 timelin -1 final -1 americ -1 mylon -1 martinsvill -1 martinsvill -1 compar -1 dupont -1 dupont -1 dupont -1 dupont -1 dupont -1 result -1 plant -1 plant -1 plant -1 plant -1 plant -1 -2
+built -1 nylon -1 nylon -1 nylon -1 nylon -1 suppl -1 chang -1 apparel -1 add -1 add -1 manufactur -1 operat -1 operat -1 precis -1 precis -1 staff -1 group -1 -2

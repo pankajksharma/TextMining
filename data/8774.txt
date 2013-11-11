@@ -1,0 +1,5 @@
+divert -1 compan -1 market -1 repair -1 find -1 slump -1 gas -1 gas -1 gas -1 assocat -1 schedul -1 octob -1 octob -1 brent -1 middl -1 middl -1 pty -1 pty -1 petroleum -1 petroleum -1 output -1 system -1 manag -1 firm -1 unit -1 week -1 week -1 light -1 light -1 west -1 -2
+afric -1 sourc -1 sourc -1 sourc -1 distill -1 shell -1 produc -1 produc -1 produc -1 produc -1 ship -1 ship -1 grad -1 attent -1 strong -1 help -1 uncommit -1 suff -1 pric -1 grid -1 brok -1 support -1 maxim -1 crud -1 crud -1 crud -1 crud -1 crud -1 techn -1 oil -1 oil -1 -2
+oil -1 dutch -1 rise -1 singapor -1 austral -1 austral -1 austral -1 cut -1 work -1 continu -1 plc -1 half -1 equal -1 date -1 date -1 date -1 bpd -1 bpd -1 lift -1 export -1 export -1 problem -1 problem -1 problem -1 hill -1 cossack -1 cossack -1 cossack -1 cossack -1 cossack -1 cossack -1 -2
+royal -1 day -1 corp -1 relat -1 field -1 wednesday -1 refin -1 septemb -1 septemb -1 carg -1 barrel -1 expend -1 brit -1 japan -1 friday -1 woodsid -1 woodsid -1 lng -1 mimi -1 chevron -1 sweet -1 wrestl -1 newsroom -1 partn -1 operat -1 operat -1 operat -1 region -1 region -1 offshor -1 delay -1 -2
+delay -1 group -1 -2

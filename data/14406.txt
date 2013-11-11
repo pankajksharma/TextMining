@@ -1,0 +1,4 @@
+early -1 tuesday -1 read -1 read -1 read -1 hard -1 high -1 high -1 month -1 month -1 year -1 year -1 year -1 climb -1 trend -1 unit -1 slight -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 expect -1 expect -1 expect -1 treasur -1 mix -1 index -1 index -1 -2
+show -1 show -1 show -1 versus -1 remain -1 time -1 time -1 area -1 current -1 august -1 august -1 august -1 confid -1 confid -1 confid -1 confid -1 rose -1 rose -1 rose -1 rose -1 declin -1 compon -1 compon -1 figur -1 upward -1 fami -1 twent -1 stagn -1 job -1 job -1 job -1 -2
+coast -1 consum -1 consum -1 consum -1 consum -1 aug -1 revis -1 revis -1 revis -1 july -1 july -1 july -1 july -1 july -1 compar -1 compar -1 survey -1 survey -1 rvsd -1 prev -1 board -1 board -1 board -1 board -1 rocky -1 june -1 dramat -1 cond -1 avail -1 attitud -1 confer -1 -2
+confer -1 confer -1 desk -1 pacif -1 mountain -1 region -1 region -1 -2

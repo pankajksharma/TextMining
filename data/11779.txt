@@ -1,0 +1,2 @@
+early -1 market -1 quiet -1 thai -1 situat -1 clos -1 spell -1 rain -1 firm -1 deal -1 deal -1 deal -1 today -1 help -1 enquir -1 enquir -1 pric -1 pric -1 gain -1 gain -1 disrupt -1 support -1 overse -1 reserv -1 current -1 extend -1 extend -1 lack -1 rainy -1 hear -1 -2
+toky -1 sell -1 sell -1 malays -1 malays -1 watch -1 rub -1 rub -1 suppl -1 suppl -1 thailand -1 thailand -1 morn -1 trad -1 -2

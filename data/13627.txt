@@ -1,0 +1,2 @@
+market -1 market -1 dlr -1 thin -1 anast -1 clos -1 clos -1 clos -1 clos -1 clos -1 currenc -1 bank -1 deal -1 deal -1 deal -1 client -1 spread -1 spread -1 help -1 expect -1 level -1 drop -1 monday -1 monday -1 narrow -1 narrow -1 rise -1 sofia -1 foreign -1 pressur -1 -2
+weak -1 part -1 consolid -1 final -1 lev -1 lev -1 lev -1 lev -1 lev -1 lev -1 lev -1 bulg -1 bulg -1 demand -1 demand -1 dollar -1 dollar -1 dollar -1 combin -1 morn -1 morn -1 afternoon -1 petrov -1 newsroom -1 interbank -1 trad -1 eas -1 eas -1 -2

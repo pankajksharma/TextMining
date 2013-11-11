@@ -1,0 +1,2 @@
+econom -1 target -1 sep -1 sep -1 data -1 data -1 data -1 wholesal -1 wholesal -1 wholesal -1 indicat -1 indicat -1 week -1 gmt -1 germ -1 germ -1 expect -1 expect -1 expect -1 q2 -1 statist -1 feder -1 feder -1 august -1 unemploy -1 gdp -1 gdp -1 gdp -1 period -1 job -1 -2
+note -1 date -1 date -1 date -1 july -1 labor -1 septemb -1 prev -1 due -1 releas -1 releas -1 releas -1 releas -1 newsroom -1 bon -1 offic -1 offic -1 sale -1 sale -1 sale -1 -2

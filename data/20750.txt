@@ -1,0 +1,2 @@
+bank -1 bank -1 week -1 week -1 yield -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 bill -1 bill -1 bill -1 bill -1 bill -1 polish -1 poland -1 million -1 million -1 sold -1 sold -1 sold -1 thursday -1 warsaw -1 nation -1 zloty -1 zloty -1 -2
+monday -1 auction -1 auction -1 off -1 prim -1 pape -1 pape -1 sell -1 july -1 compar -1 compar -1 day -1 day -1 day -1 day -1 pln -1 nbp -1 nbp -1 aver -1 aver -1 aver -1 newsroom -1 mln -1 -2

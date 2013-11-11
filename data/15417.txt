@@ -1,0 +1,3 @@
+union -1 month -1 march -1 march -1 countr -1 countr -1 data -1 output -1 output -1 fall -1 german -1 german -1 portug -1 portug -1 spain -1 spain -1 finland -1 finland -1 franc -1 franc -1 produc -1 produc -1 produc -1 produc -1 report -1 stat -1 austr -1 italy -1 italy -1 percent -1 -2
+percent -1 britain -1 bloc -1 eurostat -1 gain -1 denmark -1 denmark -1 eu -1 eu -1 eu -1 netherland -1 netherland -1 european -1 ireland -1 luxembourg -1 luxembourg -1 industr -1 industr -1 industr -1 statist -1 prior -1 swed -1 figur -1 signif -1 slid -1 period -1 greec -1 compar -1 wednesday -1 account -1 memb -1 -2
+offic -1 offic -1 belg -1 pct -1 pct -1 pct -1 -2

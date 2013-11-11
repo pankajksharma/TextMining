@@ -1,0 +1,2 @@
+night -1 fire -1 early -1 early -1 back -1 back -1 tuesday -1 contamin -1 schedul -1 line -1 line -1 line -1 line -1 unit -1 week -1 week -1 smok -1 kilovolt -1 kv -1 expect -1 conroy -1 thursday -1 control -1 weekend -1 pow -1 pow -1 socal -1 servic -1 util -1 shut -1 -2
+shut -1 stev -1 run -1 run -1 wednesday -1 edison -1 edison -1 edison -1 edison -1 edison -1 resum -1 spokesm -1 intern -1 wildfir -1 major -1 due -1 late -1 late -1 northw -1 operat -1 operat -1 norm -1 pacif -1 californ -1 californ -1 southern -1 southern -1 bit -1 -2

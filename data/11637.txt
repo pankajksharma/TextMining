@@ -1,0 +1,2 @@
+early -1 small -1 maracaib -1 sanchez -1 lake -1 sink -1 stern -1 sank -1 defend -1 unhurt -1 party -1 monday -1 age -1 author -1 zarrag -1 lifejacket -1 venezuel -1 venezuel -1 civil -1 western -1 boat -1 boat -1 boat -1 boat -1 fami -1 fami -1 spin -1 coast -1 rescu -1 hap -1 -2
+child -1 guard -1 memb -1 memb -1 nighttim -1 hole -1 offic -1 offic -1 drown -1 drown -1 accid -1 accid -1 -2

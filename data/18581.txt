@@ -1,0 +1,4 @@
+intens -1 compan -1 diplom -1 gener -1 accur -1 drik -1 own -1 own -1 countr -1 schedul -1 octob -1 agent -1 agent -1 agent -1 privat -1 privat -1 privat -1 privat -1 privat -1 baltic -1 start -1 newspap -1 newspap -1 kinkel -1 war -1 headquart -1 list -1 fund -1 germ -1 stat -1 -2
+stat -1 stat -1 report -1 annivers -1 scient -1 digest -1 reut -1 reut -1 main -1 shar -1 thursday -1 leipzig -1 riga -1 enterpr -1 enterpr -1 delib -1 eston -1 battal -1 august -1 press -1 press -1 public -1 public -1 miniist -1 off -1 restabl -1 grinblat -1 kreitus -1 foreign -1 foreign -1 financ -1 -2
+klaus -1 met -1 verif -1 vouch -1 vouch -1 priv -1 minist -1 minist -1 minist -1 minist -1 servic -1 job -1 put -1 part -1 direct -1 estimat -1 educat -1 latvia -1 latvia -1 story -1 milit -1 july -1 aivar -1 latvian -1 latvian -1 relat -1 dien -1 budget -1 army -1 mari -1 due -1 -2
+dismit -1 lithuan -1 newsroom -1 misrepret -1 operat -1 mark -1 offic -1 sale -1 prepar -1 prepar -1 -2

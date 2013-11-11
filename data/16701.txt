@@ -1,0 +1,2 @@
+usda -1 newsdesk -1 year -1 year -1 select -1 select -1 select -1 cattl -1 cattl -1 week -1 week -1 week -1 week -1 week -1 light -1 report -1 confirm -1 slaught -1 slaught -1 slaught -1 slaught -1 sold -1 deliv -1 contract -1 chicag -1 head -1 feedlot -1 heif -1 heif -1 heif -1 -2
+date -1 date -1 basi -1 basi -1 load -1 includ -1 formul -1 wednesday -1 colorad -1 carcass -1 total -1 lbs -1 lbs -1 lbs -1 steer -1 steer -1 steer -1 sale -1 sale -1 slow -1 trad -1 trad -1 choic -1 choic -1 choic -1 establ -1 -2

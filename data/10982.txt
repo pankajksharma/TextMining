@@ -1,0 +1,2 @@
+compan -1 early -1 werk -1 small -1 small -1 small -1 motor -1 ford -1 ford -1 ford -1 ag -1 slump -1 low -1 start -1 trend -1 trend -1 german -1 unit -1 week -1 germ -1 stat -1 mean -1 reut -1 janu -1 model -1 model -1 million -1 million -1 drop -1 drop -1 -2
+monday -1 short -1 car -1 car -1 car -1 told -1 work -1 autumn -1 move -1 pre -1 half -1 period -1 period -1 cost -1 cost -1 cost -1 profit -1 profit -1 profit -1 profit -1 relat -1 spokesm -1 june -1 newsroom -1 add -1 bon -1 fiest -1 mark -1 tax -1 -2

@@ -1,0 +1,1 @@
+draw -1 attend -1 sunday -1 halftim -1 cup -1 cup -1 afric -1 afric -1 penalt -1 penalt -1 aggreg -1 round -1 nation -1 nation -1 socc -1 ethiop -1 ethiop -1 ethiop -1 won -1 match -1 prelimin -1 ugand -1 ugand -1 leg -1 beat -1 -2

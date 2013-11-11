@@ -1,0 +1,2 @@
+payment -1 launch -1 interest -1 rate -1 march -1 sep -1 yen -1 yen -1 yen -1 dev -1 manag -1 borrow -1 aa -1 pay -1 lead -1 pric -1 moody -1 matur -1 eurobons -1 eurobons -1 coupon -1 coupon -1 typ -1 paid -1 nz -1 zealand -1 aa2 -1 bln -1 note -1 sakur -1 -2
+date -1 develop -1 export -1 export -1 redempt -1 corp -1 corp -1 secur -1 dollar -1 dollar -1 oct -1 oct -1 amt -1 iss -1 pct -1 -2

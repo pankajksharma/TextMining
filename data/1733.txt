@@ -1,0 +1,4 @@
+octan -1 octan -1 refer -1 inland -1 cif -1 high -1 reach -1 month -1 month -1 low -1 low -1 begin -1 begin -1 baltic -1 blend -1 sea -1 sea -1 fall -1 standard -1 discount -1 cargoe -1 unit -1 deal -1 deal -1 ukrain -1 west -1 afric -1 stat -1 grad -1 grad -1 -2
+east -1 reformul -1 amsterdam -1 amsterdam -1 mean -1 mean -1 pric -1 volum -1 volum -1 sold -1 sold -1 europ -1 europ -1 european -1 european -1 deliv -1 mon -1 mon -1 oil -1 malt -1 termin -1 russia -1 russia -1 russia -1 august -1 august -1 august -1 fuel -1 past -1 import -1 flow -1 -2
+qual -1 london -1 unev -1 ton -1 ton -1 ton -1 export -1 export -1 export -1 consum -1 simpl -1 pattern -1 dry -1 tom -1 black -1 black -1 septemb -1 unlead -1 unlead -1 ran -1 gasolin -1 gasolin -1 gasolin -1 gasolin -1 gasolin -1 gasolin -1 carg -1 demand -1 demand -1 port -1 chang -1 -2
+aver -1 stor -1 regul -1 newsroom -1 a76 -1 a76 -1 a76 -1 unblend -1 ashby -1 coupl -1 barg -1 content -1 trad -1 trad -1 trad -1 -2

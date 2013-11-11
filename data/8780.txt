@@ -1,0 +1,4 @@
+stay -1 unevent -1 early -1 early -1 market -1 market -1 market -1 back -1 stock -1 stock -1 kual -1 clos -1 clos -1 clos -1 lumpur -1 high -1 interest -1 month -1 year -1 year -1 composit -1 composit -1 full -1 point -1 point -1 point -1 fall -1 select -1 resourc -1 line -1 -2
+line -1 spot -1 deal -1 deal -1 week -1 week -1 fund -1 report -1 expect -1 expect -1 lead -1 fell -1 mix -1 mix -1 pric -1 pric -1 index -1 index -1 index -1 gain -1 gain -1 volum -1 futur -1 million -1 shar -1 shar -1 shar -1 end -1 end -1 drop -1 techn -1 -2
+telekom -1 benchmark -1 kl -1 august -1 extend -1 rose -1 cent -1 cent -1 cent -1 focus -1 focus -1 lose -1 exchang -1 move -1 half -1 sharp -1 syed -1 azman -1 consolid -1 earn -1 malays -1 day -1 profit -1 announc -1 board -1 blu -1 blu -1 chip -1 chip -1 maybank -1 ringgit -1 -2
+ringgit -1 ringgit -1 sidelin -1 slow -1 beat -1 -2

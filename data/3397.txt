@@ -1,0 +1,2 @@
+compan -1 stock -1 stock -1 sery -1 record -1 citiz -1 amount -1 common -1 list -1 quart -1 quart -1 quart -1 pay -1 cash -1 adjust -1 dividend -1 dividend -1 dividend -1 dividend -1 prior -1 prior -1 equival -1 util -1 note -1 note -1 sept -1 sept -1 late -1 late -1 set -1 -2
+qtly -1 -2

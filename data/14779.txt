@@ -1,0 +1,4 @@
+market -1 market -1 evident -1 stall -1 ag -1 tuesday -1 find -1 dossy -1 safet -1 nutr -1 seek -1 franc -1 pestic -1 stat -1 report -1 report -1 report -1 approv -1 meet -1 modif -1 modif -1 modif -1 ip -1 decid -1 decid -1 decid -1 scient -1 gene -1 environ -1 environ -1 -2
+reut -1 eu -1 european -1 ciba -1 geigy -1 luxembourg -1 remain -1 discuss -1 time -1 widespread -1 author -1 polit -1 rais -1 initiat -1 public -1 foodstuff -1 commit -1 commit -1 commit -1 commit -1 commit -1 commit -1 commit -1 commit -1 corn -1 told -1 told -1 rit -1 maiz -1 maiz -1 maiz -1 -2
+minist -1 anim -1 genet -1 genet -1 draft -1 basi -1 propos -1 propos -1 propos -1 scientif -1 scientif -1 scientif -1 scientif -1 council -1 july -1 bjerregaard -1 relat -1 concern -1 septemb -1 plac -1 spokesm -1 spokesm -1 favor -1 june -1 chang -1 sept -1 prompt -1 chairm -1 chairm -1 advic -1 add -1 -2
+strain -1 origin -1 offic -1 -2

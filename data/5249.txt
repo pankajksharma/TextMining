@@ -1,0 +1,2 @@
+stock -1 clos -1 clos -1 indic -1 high -1 come -1 morg -1 stanley -1 trend -1 concret -1 unit -1 deal -1 deal -1 deal -1 equit -1 fund -1 fund -1 slight -1 slight -1 strong -1 local -1 expect -1 expect -1 million -1 thursday -1 end -1 end -1 talk -1 stabl -1 stabl -1 -2
+foreign -1 foreign -1 jame -1 rang -1 rang -1 taiw -1 taiw -1 taiw -1 simpl -1 turnov -1 session -1 wednesday -1 septemb -1 dollar -1 dollar -1 dollar -1 friday -1 glob -1 peng -1 add -1 activ -1 inflow -1 inflow -1 trad -1 -2

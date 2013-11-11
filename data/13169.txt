@@ -1,0 +1,2 @@
+market -1 rate -1 sep -1 sep -1 revers -1 term -1 bank -1 bank -1 billion -1 discount -1 bill -1 bill -1 poland -1 hour -1 matur -1 warsaw -1 nation -1 zloty -1 auction -1 off -1 nomin -1 offer -1 offer -1 bln -1 date -1 settl -1 aug -1 day -1 day -1 deadlin -1 -2
+pln -1 nbp -1 nbp -1 drain -1 drain -1 repurchas -1 repurchas -1 newsroom -1 pct -1 -2

@@ -1,0 +1,4 @@
+draw -1 game -1 point -1 stand -1 stand -1 sigm -1 sigm -1 lost -1 slov -1 slov -1 monday -1 weekend -1 socc -1 socc -1 czech -1 czech -1 teplic -1 teplic -1 cesk -1 cesk -1 ostrav -1 ostrav -1 won -1 prah -1 prah -1 prah -1 prah -1 match -1 play -1 play -1 -2
+spart -1 spart -1 fc -1 fc -1 fc -1 fc -1 divid -1 divid -1 plzen -1 plzen -1 petr -1 petr -1 bohem -1 bohem -1 result -1 result -1 fk -1 fk -1 fk -1 fk -1 goal -1 hradec -1 hradec -1 kralov -1 kralov -1 slavia -1 slavia -1 tabulat -1 ac -1 ac -1 drnovic -1 -2
+drnovic -1 republ -1 liberec -1 liberec -1 budejovic -1 budejovic -1 jablonec -1 jablonec -1 viktor -1 viktor -1 viktor -1 viktor -1 zizkov -1 zizkov -1 banik -1 banik -1 boby -1 boby -1 brno -1 brno -1 olomouc -1 olomouc -1 karvin -1 karvin -1 kaucuk -1 kaucuk -1 opav -1 opav -1 sk -1 sk -1 sk -1 -2
+sk -1 sk -1 sk -1 -2

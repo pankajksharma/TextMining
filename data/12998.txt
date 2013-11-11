@@ -1,0 +1,4 @@
+market -1 outnumb -1 comalc -1 tuesday -1 stock -1 stock -1 stock -1 high -1 low -1 touch -1 retreat -1 buck -1 bank -1 bank -1 sydney -1 point -1 point -1 point -1 point -1 trend -1 fall -1 fall -1 invest -1 today -1 sympath -1 produc -1 yield -1 percent -1 percent -1 percent -1 -2
+commonwealth -1 commonwealth -1 local -1 help -1 ratio -1 index -1 index -1 index -1 index -1 ordin -1 brok -1 brok -1 futur -1 million -1 shar -1 dive -1 open -1 open -1 open -1 long -1 drop -1 dividend -1 dividend -1 monday -1 gold -1 gold -1 remain -1 remain -1 stead -1 edg -1 rise -1 -2
+ground -1 weak -1 lose -1 austral -1 austral -1 continu -1 continu -1 net -1 slid -1 half -1 sharp -1 posit -1 posit -1 underl -1 date -1 basi -1 sharemarket -1 alumin -1 profit -1 inspir -1 driv -1 wall -1 septemb -1 street -1 prem -1 accel -1 joint -1 ventur -1 major -1 bond -1 bond -1 -2
+bond -1 dow -1 pauc -1 sign -1 sign -1 trad -1 -2

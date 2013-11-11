@@ -1,0 +1,4 @@
+compan -1 compan -1 limit -1 elect -1 stock -1 clos -1 clos -1 clos -1 sharehold -1 sharehold -1 rand -1 rand -1 year -1 term -1 receiv -1 full -1 octob -1 octob -1 yr -1 shr -1 shr -1 div -1 div -1 div -1 regist -1 regist -1 headlin -1 headlin -1 invest -1 capit -1 -2
+stat -1 ratio -1 mean -1 cts -1 cts -1 pric -1 pric -1 payabl -1 busi -1 busi -1 ordin -1 ordin -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 end -1 prior -1 rais -1 rise -1 off -1 off -1 bear -1 made -1 cent -1 exchang -1 loss -1 right -1 right -1 -2
+assoc -1 net -1 pre -1 half -1 half -1 note -1 date -1 incom -1 except -1 except -1 earn -1 day -1 announc -1 includ -1 septemb -1 septemb -1 septemb -1 item -1 item -1 determin -1 june -1 friday -1 aver -1 strateg -1 johannesburg -1 johannesburg -1 multipl -1 intend -1 newsroom -1 libsil -1 liblif -1 -2
+tax -1 tax -1 tax -1 -2

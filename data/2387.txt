@@ -1,0 +1,3 @@
+early -1 market -1 market -1 life -1 territ -1 oversold -1 tuesday -1 clos -1 send -1 kg -1 month -1 month -1 low -1 low -1 rebound -1 bargain -1 yen -1 yen -1 yen -1 sporad -1 view -1 firm -1 help -1 mix -1 janu -1 pric -1 pric -1 pric -1 futur -1 futur -1 -2
+open -1 hour -1 hour -1 hour -1 contract -1 benchmark -1 hurt -1 pressur -1 continu -1 hunt -1 nearb -1 nearb -1 posit -1 rang -1 lift -1 lot -1 sell -1 day -1 day -1 rub -1 rub -1 lacklustr -1 hit -1 kobe -1 kobe -1 unchang -1 activ -1 trad -1 trad -1 trad -1 trad -1 -2
+trad -1 -2

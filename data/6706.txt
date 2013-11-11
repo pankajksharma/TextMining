@@ -1,0 +1,4 @@
+early -1 novemb -1 novemb -1 market -1 market -1 market -1 market -1 recent -1 emerg -1 lce -1 clos -1 high -1 high -1 high -1 high -1 interest -1 interest -1 brief -1 low -1 dec -1 revers -1 revers -1 jerem -1 york -1 york -1 york -1 fall -1 firm -1 spread -1 week -1 -2
+knock -1 fund -1 fund -1 attent -1 strong -1 pric -1 volum -1 brok -1 futur -1 thursday -1 arb -1 open -1 end -1 end -1 arbitr -1 contract -1 contract -1 coffee -1 coffee -1 coffee -1 benchmark -1 ve -1 smith -1 buy -1 buy -1 buy -1 buy -1 buy -1 buy -1 stood -1 robust -1 -2
+robust -1 cent -1 london -1 london -1 london -1 play -1 sharp -1 posit -1 scarc -1 direct -1 lot -1 sell -1 sell -1 sell -1 valu -1 session -1 resist -1 septemb -1 concern -1 heat -1 total -1 arabic -1 arabic -1 intraday -1 sept -1 indones -1 prompt -1 pierc -1 afternoon -1 newsroom -1 add -1 -2
+advant -1 scal -1 origin -1 origin -1 trad -1 trad -1 trad -1 trad -1 bit -1 -2

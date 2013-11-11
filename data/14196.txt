@@ -1,0 +1,4 @@
+market -1 recent -1 recent -1 credit -1 credit -1 credit -1 carry -1 tuesday -1 tuesday -1 french -1 french -1 french -1 stock -1 sharehold -1 stag -1 own -1 declar -1 notif -1 pari -1 bank -1 billion -1 billion -1 foncy -1 foncy -1 foncy -1 foncy -1 manag -1 manag -1 arthui -1 arthui -1 -2
+troubl -1 de -1 franc -1 franc -1 franc -1 franc -1 fund -1 report -1 stat -1 stat -1 percent -1 percent -1 percent -1 cr -1 requir -1 govern -1 depot -1 consign -1 lend -1 behalf -1 shar -1 off -1 caiss -1 templeton -1 templeton -1 templeton -1 templeton -1 financ -1 loss -1 call -1 propert -1 -2
+assoc -1 minist -1 des -1 put -1 part -1 part -1 cost -1 jean -1 threshold -1 plan -1 announc -1 regulat -1 reduc -1 sbf -1 sbf -1 sbf -1 bours -1 total -1 due -1 due -1 late -1 cdc -1 cdc -1 cdc -1 takeov -1 wind -1 wind -1 wind -1 newsroom -1 transact -1 hold -1 -2
+hold -1 hold -1 group -1 pct -1 -2

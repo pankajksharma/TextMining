@@ -1,0 +1,2 @@
+compan -1 motor -1 motor -1 clos -1 month -1 shr -1 nil -1 nil -1 nil -1 nil -1 stat -1 payabl -1 interim -1 qingl -1 qingl -1 million -1 end -1 dividend -1 dividend -1 chin -1 incorpor -1 net -1 net -1 sharp -1 note -1 book -1 except -1 turnov -1 assembl -1 truck -1 -2
+item -1 june -1 yuan -1 yuan -1 yuan -1 -2

@@ -1,0 +1,4 @@
+understood -1 back -1 motor -1 train -1 saturday -1 saturday -1 clos -1 sunday -1 practic -1 practic -1 practic -1 begin -1 sport -1 sport -1 own -1 race -1 year -1 rain -1 construc -1 team -1 team -1 team -1 william -1 william -1 william -1 william -1 grand -1 grand -1 grand -1 view -1 -2
+length -1 week -1 issu -1 error -1 stat -1 meet -1 introduc -1 lead -1 check -1 world -1 world -1 world -1 mean -1 prop -1 grid -1 bout -1 frank -1 federat -1 talk -1 danger -1 danger -1 danger -1 time -1 machin -1 car -1 car -1 past -1 infantil -1 tyson -1 champ -1 champ -1 -2
+box -1 pack -1 warn -1 arriv -1 warm -1 won -1 exper -1 prix -1 prix -1 prix -1 fia -1 fia -1 lap -1 day -1 plan -1 mike -1 dry -1 announc -1 striv -1 wednesday -1 formul -1 formul -1 abol -1 automobil -1 reduc -1 comment -1 men -1 intern -1 wrong -1 friday -1 friday -1 -2
+friday -1 set -1 morn -1 morn -1 season -1 qualif -1 fight -1 enter -1 origin -1 -2

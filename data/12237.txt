@@ -1,0 +1,3 @@
+early -1 capac -1 immed -1 progress -1 spokeswom -1 york -1 nuke -1 nrc -1 nrc -1 nrc -1 unit -1 unit -1 unit -1 pump -1 pump -1 red -1 report -1 percent -1 level -1 florid -1 florid -1 status -1 wat -1 wat -1 circl -1 monday -1 monday -1 weekend -1 pow -1 pow -1 -2
+pow -1 pow -1 pow -1 pow -1 pow -1 daily -1 commit -1 crystal -1 crystal -1 fpc -1 fpc -1 fpc -1 fpc -1 fla -1 megawat -1 mw -1 rive -1 rive -1 nuclear -1 nuclear -1 corp -1 corp -1 plant -1 regulat -1 reduc -1 reduc -1 reduc -1 reduc -1 comment -1 mainten -1 mainten -1 -2
+morn -1 operat -1 desk -1 locat -1 subsid -1 -2

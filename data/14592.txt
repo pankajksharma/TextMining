@@ -1,0 +1,3 @@
+limit -1 limit -1 grain -1 tuesday -1 high -1 high -1 low -1 year -1 year -1 year -1 affect -1 amount -1 good -1 manitob -1 manitob -1 manitob -1 red -1 westward -1 yield -1 yield -1 report -1 stat -1 percent -1 expect -1 level -1 area -1 damag -1 fusar -1 fusar -1 fusar -1 -2
+fusar -1 blight -1 blight -1 blight -1 extend -1 grow -1 wheat -1 wheat -1 wheat -1 head -1 head -1 head -1 qual -1 le -1 agricultur -1 agricultur -1 valley -1 gilbert -1 estimat -1 gra -1 dauphin -1 bord -1 rive -1 impact -1 reduc -1 effect -1 present -1 saskatchew -1 major -1 aver -1 cond -1 -2
+meant -1 spring -1 worst -1 see -1 forecast -1 northw -1 southern -1 -2

@@ -1,0 +1,2 @@
+gilt -1 stg -1 low -1 low -1 year -1 tail -1 tail -1 cover -1 bank -1 point -1 amount -1 issu -1 issu -1 yield -1 yield -1 percent -1 percent -1 percent -1 treasur -1 england -1 pric -1 pric -1 pric -1 million -1 matur -1 auction -1 time -1 time -1 coupon -1 cove -1 -2
+allocat -1 bid -1 note -1 basi -1 announc -1 accept -1 accept -1 uk -1 aver -1 pct -1 -2

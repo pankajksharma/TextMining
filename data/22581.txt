@@ -1,0 +1,3 @@
+early -1 market -1 market -1 draw -1 track -1 target -1 clos -1 clos -1 clos -1 high -1 high -1 high -1 high -1 month -1 simex -1 simex -1 ahead -1 octob -1 octob -1 octob -1 brent -1 brent -1 brent -1 brent -1 april -1 york -1 system -1 firm -1 modest -1 week -1 -2
+week -1 gmt -1 nymex -1 nymex -1 nymex -1 nymex -1 nymex -1 squar -1 pit -1 pric -1 volum -1 brok -1 brok -1 futur -1 support -1 open -1 hour -1 long -1 contract -1 nation -1 nation -1 oil -1 monday -1 monday -1 monday -1 weekend -1 tone -1 singapor -1 caution -1 cent -1 underpin -1 -2
+london -1 london -1 front -1 lot -1 day -1 compar -1 asian -1 invent -1 gasolin -1 heat -1 barrel -1 barrel -1 friday -1 late -1 holiday -1 holiday -1 access -1 access -1 newsroom -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

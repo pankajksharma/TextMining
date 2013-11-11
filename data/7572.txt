@@ -1,0 +1,2 @@
+mechan -1 repair -1 shool -1 emmeloord -1 inspect -1 clos -1 rip -1 rip -1 kill -1 kill -1 adult -1 adult -1 build -1 build -1 build -1 north -1 woman -1 system -1 blast -1 blast -1 blast -1 east -1 injur -1 injur -1 injur -1 administ -1 futur -1 flat -1 thursday -1 netherland -1 -2
+dutch -1 time -1 widespread -1 damag -1 cent -1 cent -1 work -1 work -1 prim -1 prim -1 school -1 school -1 school -1 school -1 link -1 child -1 child -1 caus -1 dead -1 explos -1 explos -1 bomb -1 heat -1 heat -1 town -1 spokesm -1 spokesm -1 hit -1 polic -1 polic -1 thought -1 -2

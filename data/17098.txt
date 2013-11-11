@@ -1,0 +1,2 @@
+diplom -1 early -1 genev -1 breez -1 unit -1 sourc -1 cool -1 uae -1 uae -1 al -1 talk -1 sum -1 time -1 short -1 met -1 city -1 sheikh -1 sheikh -1 visit -1 visit -1 visit -1 spend -1 cair -1 cair -1 bin -1 emirat -1 mediterranean -1 alexandr -1 nahay -1 july -1 -2
+summit -1 day -1 day -1 day -1 wednesday -1 arab -1 arab -1 hosn -1 mubarak -1 mubarak -1 sult -1 egypt -1 egypt -1 egypt -1 late -1 zaid -1 zaid -1 presid -1 presid -1 presid -1 presid -1 -2

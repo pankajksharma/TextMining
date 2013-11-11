@@ -1,0 +1,3 @@
+early -1 econom -1 clos -1 even -1 fair -1 ross -1 journ -1 wsj -1 gap -1 point -1 point -1 deal -1 dole -1 dole -1 dole -1 dole -1 week -1 week -1 error -1 jack -1 kemp -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 minus -1 lead -1 lead -1 -2
+lead -1 oppon -1 show -1 show -1 choos -1 reform -1 thursday -1 end -1 party -1 candid -1 candid -1 convent -1 nbc -1 nbc -1 margin -1 cut -1 half -1 bob -1 job -1 poll -1 poll -1 poll -1 poll -1 mate -1 divid -1 vote -1 aug -1 gave -1 conduc -1 run -1 survey -1 -2
+wall -1 street -1 perot -1 clinton -1 clinton -1 clinton -1 clinton -1 clinton -1 releas -1 republ -1 republ -1 presid -1 choic -1 -2

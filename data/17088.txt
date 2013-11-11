@@ -1,0 +1,4 @@
+small -1 elect -1 credit -1 credit -1 businessm -1 train -1 clos -1 countr -1 hasan -1 agree -1 turk -1 turk -1 turk -1 tansu -1 war -1 cill -1 unit -1 accord -1 accord -1 capit -1 sourc -1 stat -1 meet -1 strong -1 govern -1 troop -1 sarajev -1 empir -1 aid -1 aid -1 -2
+million -1 million -1 million -1 thursday -1 leav -1 nation -1 discuss -1 foreign -1 foreign -1 suleym -1 demirel -1 provid -1 provid -1 pack -1 bosnia -1 bosnia -1 bosnia -1 bosnia -1 necmettin -1 forc -1 erbak -1 erbak -1 erbak -1 prim -1 prim -1 minist -1 minist -1 minist -1 minist -1 numb -1 eximbank -1 -2
+visit -1 visit -1 muratov -1 muratov -1 new -1 moslem -1 turkey -1 turkey -1 turkey -1 turkey -1 turkey -1 turkey -1 turkey -1 nato -1 vote -1 link -1 ottom -1 milit -1 run -1 day -1 hap -1 relat -1 islam -1 wednesday -1 histor -1 memb -1 torn -1 suppl -1 bosnian -1 bosnian -1 bosnian -1 -2
+soldy -1 presid -1 confer -1 sign -1 sign -1 sign -1 -2

@@ -1,0 +1,4 @@
+acer -1 diplom -1 market -1 econom -1 heav -1 stock -1 record -1 sentenc -1 high -1 high -1 body -1 own -1 countr -1 year -1 currenc -1 newspap -1 newspap -1 tae -1 jung -1 tie -1 headlin -1 invest -1 unit -1 prison -1 fund -1 afric -1 afric -1 pretor -1 approv -1 govern -1 -2
+digest -1 hwan -1 alli -1 nelson -1 deposit -1 control -1 nominat -1 nation -1 woo -1 chin -1 time -1 time -1 august -1 press -1 foreign -1 daily -1 daily -1 side -1 comput -1 bare -1 mandel -1 mandel -1 korean -1 new -1 new -1 seve -1 south -1 south -1 south -1 develop -1 forg -1 -2
+taiw -1 taiw -1 taiw -1 taiw -1 taipei -1 taipei -1 simil -1 strait -1 july -1 wang -1 mainland -1 relat -1 charg -1 assembl -1 giant -1 brit -1 chun -1 doo -1 roh -1 tso -1 watchdog -1 hit -1 newsroom -1 manufactur -1 yuan -1 presid -1 presid -1 presid -1 presid -1 presid -1 commerc -1 -2
+death -1 -2

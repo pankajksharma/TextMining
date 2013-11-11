@@ -1,0 +1,4 @@
+stak -1 study -1 clear -1 hous -1 carry -1 fin -1 fin -1 gas -1 budapest -1 budapest -1 budapest -1 budapest -1 countr -1 own -1 agent -1 privat -1 privat -1 agree -1 output -1 form -1 deal -1 deal -1 tt -1 larg -1 produc -1 produc -1 produc -1 stat -1 stat -1 percent -1 -2
+percent -1 percent -1 approv -1 decid -1 helsink -1 environ -1 pric -1 shar -1 shar -1 industr -1 increas -1 increas -1 tomen -1 tomen -1 area -1 fuel -1 buy -1 buy -1 pow -1 pow -1 pow -1 friend -1 autumn -1 bid -1 imatr -1 voim -1 half -1 megawat -1 megawat -1 part -1 program -1 -2
+ivo -1 ivo -1 ivo -1 ivo -1 ivo -1 ivo -1 ivo -1 base -1 rt -1 consum -1 electr -1 electr -1 electr -1 electr -1 electr -1 detail -1 eromy -1 eromy -1 eromy -1 eromy -1 plant -1 effect -1 heat -1 heat -1 heat -1 heat -1 total -1 japan -1 japan -1 friday -1 combin -1 -2
+consort -1 make -1 newsroom -1 add -1 budap -1 budap -1 hung -1 hung -1 hung -1 hung -1 sale -1 distribut -1 trad -1 -2

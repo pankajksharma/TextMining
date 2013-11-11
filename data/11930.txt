@@ -1,0 +1,2 @@
+limit -1 market -1 market -1 market -1 thai -1 oversold -1 oversold -1 idea -1 clos -1 clos -1 clos -1 high -1 high -1 high -1 tie -1 cash -1 pric -1 gain -1 rally -1 volum -1 volum -1 futur -1 futur -1 futur -1 nelson -1 contract -1 contract -1 benchmark -1 techn -1 techn -1 -2
+remain -1 sam -1 rice -1 rice -1 rice -1 rice -1 rice -1 bounc -1 bounc -1 cent -1 cbot -1 cbot -1 cwt -1 cwt -1 estimat -1 estimat -1 septemb -1 friday -1 friday -1 sign -1 trad -1 trad -1 trad -1 option -1 -2

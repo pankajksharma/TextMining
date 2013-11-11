@@ -1,0 +1,2 @@
+market -1 market -1 tuesday -1 clos -1 interest -1 interest -1 rate -1 currenc -1 yen -1 bank -1 north -1 good -1 strenth -1 deal -1 cibc -1 reid -1 farrill -1 week -1 attent -1 special -1 canad -1 canad -1 canad -1 canad -1 strength -1 buy -1 foreign -1 weak -1 focus -1 exchang -1 -2
+austral -1 cut -1 spark -1 zealand -1 play -1 americ -1 optim -1 wednesday -1 dollar -1 dollar -1 dollar -1 japan -1 prompt -1 recommend -1 add -1 shor -1 shor -1 activ -1 activ -1 activ -1 cross -1 -2

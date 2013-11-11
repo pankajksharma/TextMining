@@ -1,0 +1,2 @@
+market -1 recent -1 oversold -1 stock -1 high -1 high -1 revers -1 mor -1 mor -1 mor -1 tobacc -1 lawsuit -1 week -1 issu -1 yield -1 strong -1 preced -1 expect -1 philip -1 philip -1 philip -1 cos -1 pric -1 gain -1 shar -1 shar -1 liabl -1 open -1 dividend -1 attract -1 -2
+pressur -1 head -1 cut -1 bell -1 declin -1 cigaret -1 slid -1 note -1 basi -1 session -1 regulat -1 friday -1 mount -1 trad -1 trad -1 group -1 -2

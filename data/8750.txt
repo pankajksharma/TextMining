@@ -1,0 +1,3 @@
+market -1 market -1 tight -1 tight -1 quiet -1 econom -1 money -1 money -1 saturday -1 clos -1 clos -1 high -1 high -1 rate -1 rate -1 rate -1 liquid -1 liquid -1 julie -1 bank -1 bank -1 bank -1 bank -1 point -1 billion -1 fall -1 deal -1 deal -1 week -1 percent -1 -2
+percent -1 expect -1 requir -1 requir -1 govern -1 overnight -1 phas -1 thursday -1 dong -1 deliv -1 end -1 governor -1 reserv -1 reserv -1 finish -1 cent -1 cut -1 cut -1 sharp -1 sharp -1 ent -1 consolid -1 pape -1 hu -1 taiw -1 taiw -1 day -1 effect -1 worth -1 friday -1 friday -1 -2
+bond -1 bond -1 bond -1 afternoon -1 yuan -1 surpr -1 boost -1 interbank -1 sheu -1 commerc -1 slug -1 eas -1 -2

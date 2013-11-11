@@ -1,0 +1,4 @@
+night -1 elect -1 tuesday -1 interest -1 interest -1 interest -1 rate -1 rate -1 rate -1 rate -1 monet -1 monet -1 year -1 howard -1 howard -1 howard -1 howard -1 howard -1 howard -1 beazley -1 gare -1 billon -1 bank -1 sydney -1 billion -1 radio -1 produc -1 subsequ -1 expect -1 govern -1 -2
+govern -1 lead -1 treasur -1 treasur -1 support -1 support -1 support -1 broadcast -1 colston -1 author -1 reserv -1 deput -1 rtr -1 urg -1 mal -1 told -1 austral -1 austral -1 austral -1 cut -1 cut -1 cut -1 cut -1 cut -1 prim -1 minist -1 responsibl -1 ll -1 ll -1 senat -1 senat -1 -2
+senat -1 direct -1 direct -1 underl -1 mat -1 thing -1 thing -1 corp -1 announc -1 labor -1 labor -1 labor -1 wednesday -1 spokesm -1 budget -1 budget -1 budget -1 budget -1 budget -1 john -1 june -1 deficit -1 oppos -1 set -1 don -1 don -1 polic -1 make -1 newsroom -1 resign -1 presid -1 -2
+hope -1 hope -1 hope -1 hope -1 hope -1 kim -1 evan -1 offic -1 independ -1 independ -1 -2

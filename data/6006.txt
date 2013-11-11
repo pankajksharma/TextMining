@@ -1,0 +1,1 @@
+newsdesk -1 record -1 york -1 amount -1 quart -1 stat -1 pay -1 dividend -1 prior -1 rais -1 financ -1 corp -1 auto -1 sept -1 sept -1 late -1 -2

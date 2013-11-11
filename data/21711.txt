@@ -1,0 +1,2 @@
+compan -1 octob -1 shr -1 div -1 fax -1 franc -1 ship -1 stat -1 cmb -1 cmb -1 pay -1 pay -1 payabl -1 gain -1 interim -1 interim -1 ordin -1 shar -1 brussel -1 dividend -1 belgian -1 belgian -1 nv -1 net -1 net -1 realis -1 except -1 except -1 bfr -1 plan -1 -2
+asset -1 friday -1 due -1 afv -1 newsroom -1 sale -1 group -1 -2

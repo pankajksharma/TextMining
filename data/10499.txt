@@ -1,0 +1,4 @@
+elect -1 elect -1 gener -1 gener -1 color -1 year -1 bird -1 bank -1 bank -1 bank -1 woman -1 stand -1 west -1 issu -1 issu -1 afric -1 stat -1 stat -1 stat -1 stat -1 modif -1 lead -1 appear -1 design -1 toppl -1 phas -1 exist -1 legal -1 face -1 face -1 -2
+face -1 nation -1 remain -1 time -1 contest -1 imag -1 bear -1 replac -1 replac -1 replac -1 cent -1 head -1 minist -1 notic -1 man -1 serv -1 size -1 note -1 note -1 note -1 note -1 note -1 note -1 note -1 scen -1 sir -1 sir -1 sir -1 gambian -1 dalas -1 dalas -1 -2
+ban -1 dawd -1 dawd -1 dawd -1 jawar -1 milit -1 milit -1 plan -1 plan -1 yahy -1 jammeh -1 includ -1 includ -1 portrait -1 portrait -1 portrait -1 septemb -1 septemb -1 tend -1 gambia -1 gambia -1 secur -1 boy -1 girl -1 assort -1 set -1 young -1 featur -1 add -1 presid -1 presid -1 -2
+offic -1 -2

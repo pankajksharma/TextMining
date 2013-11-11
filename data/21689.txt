@@ -1,0 +1,2 @@
+ag -1 month -1 full -1 frankfurt -1 spectacl -1 invest -1 germ -1 stat -1 million -1 net -1 net -1 note -1 h1 -1 profit -1 profit -1 fielman -1 fielman -1 workforc -1 extern -1 june -1 make -1 newsroom -1 mark -1 sale -1 sale -1 group -1 group -1 group -1 group -1 group -1 -2
+pct -1 -2

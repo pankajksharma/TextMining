@@ -1,0 +1,5 @@
+fire -1 limit -1 vietnam -1 novemb -1 draw -1 draw -1 emerg -1 conting -1 sunday -1 exercis -1 exercis -1 exercis -1 march -1 march -1 game -1 game -1 game -1 provinc -1 octob -1 octob -1 newspap -1 newspap -1 shimbun -1 peninsul -1 edition -1 war -1 war -1 war -1 war -1 unit -1 -2
+unit -1 unit -1 seek -1 peopl -1 larg -1 sourc -1 stat -1 stat -1 report -1 report -1 report -1 drill -1 drill -1 strong -1 confin -1 troop -1 pla -1 pla -1 pla -1 pla -1 rebel -1 crack -1 invad -1 belief -1 missil -1 conflict -1 yomiur -1 chin -1 chin -1 chin -1 chin -1 -2
+chin -1 chin -1 chin -1 chin -1 chin -1 consid -1 area -1 daily -1 cite -1 liberat -1 intervent -1 autumn -1 vow -1 critic -1 rebuk -1 korean -1 pape -1 taiw -1 taiw -1 taiw -1 armad -1 strait -1 milit -1 milit -1 milit -1 island -1 mainland -1 rapid -1 beij -1 includ -1 includ -1 -2
+assembl -1 involut -1 taiwan -1 intern -1 intern -1 army -1 attempt -1 hong -1 naval -1 held -1 held -1 kong -1 japan -1 japan -1 major -1 respons -1 prompt -1 mock -1 multipl -1 presid -1 campaign -1 asia -1 region -1 captur -1 southern -1 hold -1 hold -1 offic -1 independ -1 unlik -1 prepar -1 -2
+prepar -1 -2

@@ -1,0 +1,2 @@
+rate -1 rate -1 bp -1 bp -1 bp -1 own -1 powszechn -1 bank -1 bank -1 bank -1 stat -1 stat -1 percent -1 percent -1 lend -1 big -1 big -1 polish -1 poland -1 kasa -1 warsaw -1 oszczednosc -1 cut -1 cut -1 save -1 save -1 base -1 base -1 septemb -1 pko -1 -2
+pko -1 newsroom -1 -2

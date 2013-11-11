@@ -1,0 +1,2 @@
+market -1 usda -1 portion -1 carry -1 progress -1 privat -1 privat -1 food -1 free -1 mill -1 human -1 busi -1 polish -1 aid -1 aid -1 aid -1 poland -1 poland -1 reform -1 thursday -1 end -1 area -1 assist -1 assist -1 made -1 provid -1 foundat -1 call -1 farm -1 farm -1 -2
+fisc -1 agricultur -1 agricultur -1 depart -1 program -1 ton -1 sell -1 develop -1 run -1 plan -1 septemb -1 proceed -1 cotton -1 cotton -1 cotton -1 rural -1 rural -1 project -1 donat -1 donat -1 donat -1 donat -1 use -1 -2

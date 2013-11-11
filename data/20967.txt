@@ -1,0 +1,4 @@
+compan -1 acquir -1 recent -1 newsdesk -1 credit -1 retail -1 downgrad -1 high -1 union -1 union -1 union -1 union -1 union -1 union -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 progress -1 year -1 term -1 cover -1 form -1 decreas -1 modest -1 invest -1 borrow -1 expenditur -1 -2
+capit -1 capit -1 debt -1 debt -1 percent -1 percent -1 minus -1 unsecur -1 duff -1 duff -1 phelp -1 phelp -1 phelp -1 level -1 million -1 million -1 matur -1 long -1 increas -1 multifam -1 chicag -1 financ -1 made -1 cut -1 cut -1 propert -1 continu -1 repaid -1 senior -1 senior -1 growth -1 -2
+growth -1 doubl -1 doubl -1 doubl -1 note -1 note -1 note -1 note -1 realt -1 reposit -1 date -1 old -1 base -1 portfolio -1 portfolio -1 july -1 announc -1 estat -1 estat -1 marathon -1 asset -1 asset -1 joint -1 ventur -1 june -1 friday -1 real -1 real -1 respons -1 due -1 due -1 -2
+withdraw -1 action -1 mortg -1 mortg -1 mall -1 region -1 offic -1 -2

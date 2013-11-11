@@ -1,0 +1,4 @@
+stay -1 excit -1 tight -1 market -1 market -1 market -1 recent -1 lure -1 thin -1 gas -1 cif -1 cif -1 cif -1 high -1 high -1 middl -1 north -1 north -1 north -1 petroleum -1 sea -1 sea -1 quotat -1 german -1 german -1 german -1 modest -1 cargoe -1 cargoe -1 firm -1 -2
+firm -1 firm -1 deal -1 larg -1 larg -1 week -1 week -1 key -1 report -1 percent -1 percent -1 percent -1 alger -1 alger -1 east -1 east -1 strong -1 strong -1 balanc -1 fix -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 gain -1 sold -1 sold -1 europ -1 -2
+europ -1 european -1 deliv -1 end -1 crud -1 remain -1 remain -1 mont -1 transatl -1 lpg -1 lpg -1 ton -1 sell -1 pembrok -1 result -1 relat -1 relat -1 formul -1 propan -1 propan -1 septemb -1 liquef -1 kt -1 kt -1 kt -1 kt -1 kt -1 kt -1 carg -1 butan -1 butan -1 -2
+butan -1 butan -1 wal -1 belvieu -1 bpap -1 eastern -1 friday -1 separat -1 vessel -1 vessel -1 asia -1 boost -1 trad -1 trad -1 trad -1 independ -1 -2

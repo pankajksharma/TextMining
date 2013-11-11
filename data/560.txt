@@ -1,0 +1,2 @@
+compan -1 market -1 newsdesk -1 ag -1 tuesday -1 drug -1 drug -1 prescrib -1 food -1 unit -1 unit -1 allerg -1 treat -1 treat -1 stat -1 stat -1 percent -1 approv -1 pric -1 administ -1 chicag -1 antihistamin -1 antihistamin -1 roussel -1 roussel -1 sedat -1 symptom -1 marion -1 marion -1 allegr -1 -2
+allegr -1 allegr -1 simil -1 july -1 season -1 hoechst -1 hoechst -1 hoechst -1 hoechst -1 -2

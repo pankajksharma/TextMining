@@ -1,0 +1,2 @@
+texa -1 cap -1 sunday -1 sunday -1 game -1 team -1 york -1 toront -1 home -1 detroit -1 kans -1 boston -1 leagu -1 leagu -1 leagu -1 chicag -1 city -1 play -1 americ -1 result -1 result -1 major -1 major -1 baltimor -1 cleveland -1 minnesot -1 milwauk -1 seattl -1 oakland -1 basebal -1 -2
+basebal -1 californ -1 -2

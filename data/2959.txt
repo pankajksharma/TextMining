@@ -1,0 +1,4 @@
+recent -1 retail -1 gener -1 rumor -1 stock -1 stock -1 stock -1 clos -1 slack -1 rate -1 low -1 low -1 point -1 point -1 billion -1 ifo -1 fall -1 fall -1 drag -1 larg -1 germ -1 germ -1 lost -1 lost -1 percent -1 percent -1 strong -1 strong -1 expect -1 expect -1 -2
+lead -1 fell -1 fell -1 gain -1 busi -1 index -1 index -1 index -1 index -1 volum -1 futur -1 brok -1 million -1 thursday -1 shar -1 shar -1 shar -1 shar -1 support -1 support -1 support -1 span -1 trig -1 arbitr -1 talk -1 drop -1 repsol -1 repsol -1 techn -1 buy -1 buy -1 -2
+weak -1 import -1 exchang -1 cut -1 nearb -1 half -1 iberdrol -1 carrefour -1 part -1 sell -1 session -1 session -1 july -1 result -1 hand -1 wednesday -1 climat -1 bond -1 bond -1 bund -1 lacklustr -1 morn -1 repo -1 telefon -1 telefon -1 madrid -1 madrid -1 ibex -1 ibex -1 ibex -1 peset -1 -2
+peset -1 peset -1 peset -1 pryc -1 activ -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 tandem -1 -2

@@ -1,0 +1,2 @@
+early -1 rate -1 year -1 year -1 year -1 year -1 btp -1 btp -1 btp -1 receiv -1 billion -1 billion -1 special -1 special -1 treasur -1 treasur -1 fix -1 italian -1 italian -1 pric -1 open -1 auction -1 auction -1 lire -1 lire -1 lire -1 off -1 made -1 offer -1 bid -1 -2
+bid -1 bid -1 trill -1 trill -1 trill -1 pape -1 bond -1 bond -1 set -1 make -1 trad -1 -2

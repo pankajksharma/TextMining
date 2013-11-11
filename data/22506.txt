@@ -1,0 +1,4 @@
+acquir -1 market -1 sect -1 sery -1 rate -1 wellington -1 wellington -1 low -1 beneex -1 merg -1 merg -1 year -1 april -1 form -1 wholesal -1 layoff -1 capit -1 stat -1 percent -1 percent -1 expect -1 quest -1 pric -1 pric -1 pric -1 busi -1 show -1 david -1 custom -1 custom -1 -2
+reform -1 shar -1 thursday -1 face -1 deliv -1 transalt -1 transalt -1 safeguard -1 energydirect -1 techn -1 renew -1 increas -1 increas -1 effic -1 signal -1 pow -1 past -1 monopo -1 provid -1 call -1 call -1 work -1 assoc -1 nz -1 nz -1 inflat -1 zealand -1 figur -1 russel -1 russel -1 risen -1 -2
+cost -1 energ -1 aim -1 captiv -1 consum -1 consum -1 consum -1 consum -1 electr -1 electr -1 electr -1 electr -1 institut -1 plan -1 result -1 mercen -1 tangibl -1 effect -1 monit -1 monit -1 suppl -1 major -1 role -1 aver -1 coal -1 coal -1 newsroom -1 avalanch -1 staff -1 independ -1 independ -1 -2
+group -1 -2

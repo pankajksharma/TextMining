@@ -1,0 +1,3 @@
+elector -1 elect -1 elect -1 elect -1 elect -1 rival -1 alleg -1 fraud -1 month -1 countr -1 year -1 term -1 poor -1 suspend -1 west -1 afric -1 stat -1 percent -1 percent -1 percent -1 confirm -1 vict -1 km -1 world -1 lodg -1 da -1 da -1 thursday -1 hour -1 round -1 -2
+portugu -1 trovoad -1 trovoad -1 trovoad -1 trovoad -1 abstent -1 princip -1 princip -1 pint -1 pint -1 complain -1 figur -1 court -1 court -1 court -1 won -1 gabon -1 mile -1 cost -1 cost -1 jose -1 vote -1 vote -1 colon -1 run -1 july -1 result -1 announc -1 ask -1 sao -1 sao -1 -2
+sao -1 tome -1 tome -1 tome -1 manuel -1 miguel -1 withdraw -1 paquet -1 suprem -1 suprem -1 presid -1 presid -1 presid -1 presid -1 locat -1 offic -1 -2

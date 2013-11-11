@@ -1,0 +1,3 @@
+temper -1 temper -1 temper -1 temper -1 temper -1 rainfal -1 rainfal -1 rainfal -1 rainfal -1 nov -1 novemb -1 novemb -1 gener -1 tuesday -1 sunny -1 high -1 high -1 month -1 month -1 low -1 precipit -1 octob -1 agent -1 agent -1 agent -1 agent -1 sea -1 usual -1 expect -1 level -1 -2
+level -1 anticip -1 face -1 area -1 area -1 ryukyu -1 snowy -1 rainy -1 northern -1 northern -1 coast -1 cloud -1 island -1 day -1 day -1 septemb -1 septemb -1 tend -1 eastern -1 japan -1 japan -1 japan -1 japan -1 japan -1 meteor -1 sept -1 aver -1 aver -1 aver -1 aver -1 aver -1 -2
+aver -1 aver -1 aver -1 aver -1 aver -1 forecast -1 forecast -1 southern -1 -2

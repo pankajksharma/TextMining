@@ -1,0 +1,2 @@
+limit -1 year -1 privat -1 firm -1 quart -1 stat -1 million -1 kegal -1 kegal -1 kegal -1 colomb -1 colomb -1 financ -1 plantat -1 plantat -1 net -1 net -1 sharp -1 note -1 newly -1 turnov -1 profit -1 result -1 estat -1 rupee -1 sri -1 lank -1 q1 -1 q1 -1 q1 -1 -2
+unaudit -1 newsroom -1 tel -1 trad -1 -2

@@ -1,0 +1,5 @@
+early -1 early -1 novemb -1 syria -1 market -1 market -1 market -1 recent -1 hous -1 quiet -1 quiet -1 high -1 interest -1 month -1 low -1 march -1 year -1 year -1 year -1 year -1 term -1 octob -1 octob -1 octob -1 octob -1 octob -1 york -1 physic -1 line -1 suggest -1 -2
+week -1 spread -1 issu -1 slight -1 anal -1 expect -1 raw -1 raw -1 protect -1 world -1 world -1 pric -1 futur -1 million -1 million -1 thursday -1 open -1 deliv -1 end -1 end -1 end -1 long -1 expir -1 stead -1 commod -1 buy -1 bear -1 replac -1 past -1 cent -1 cent -1 -2
+cent -1 cent -1 cent -1 volatil -1 prendergast -1 ann -1 declin -1 london -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 new -1 new -1 brazil -1 rang -1 rang -1 rall -1 widen -1 lot -1 ton -1 ton -1 ton -1 ton -1 july -1 result -1 -2
+septemb -1 septemb -1 tend -1 tend -1 tend -1 reduc -1 cancel -1 csc -1 csc -1 csc -1 breakout -1 demand -1 demand -1 egypt -1 suppl -1 suppl -1 cliv -1 mckeef -1 chang -1 chang -1 lb -1 whit -1 whit -1 whit -1 whit -1 unchang -1 forecast -1 forecast -1 desk -1 refc -1 trad -1 -2
+trad -1 trad -1 option -1 option -1 surplus -1 -2

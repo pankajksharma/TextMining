@@ -1,0 +1,3 @@
+market -1 fin -1 eps -1 slump -1 interest -1 month -1 year -1 nil -1 billion -1 sca -1 sca -1 sca -1 sca -1 deprec -1 stat -1 percent -1 anal -1 expect -1 minor -1 lead -1 reut -1 million -1 europ -1 thursday -1 end -1 swed -1 crown -1 crown -1 crown -1 financ -1 -2
+financ -1 cellulos -1 assoc -1 aktiebolaget -1 net -1 net -1 net -1 net -1 ago -1 stockholm -1 poll -1 note -1 pape -1 pape -1 h1 -1 pulp -1 pulp -1 compar -1 profit -1 profit -1 profit -1 profit -1 profit -1 result -1 post -1 post -1 item -1 item -1 item -1 recur -1 june -1 -2
+found -1 svensk -1 newsroom -1 operat -1 operat -1 sale -1 tax -1 tax -1 group -1 group -1 surplus -1 -2

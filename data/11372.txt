@@ -1,0 +1,5 @@
+compan -1 acquir -1 acquir -1 acquir -1 acquir -1 acquir -1 market -1 market -1 life -1 life -1 life -1 vowinkel -1 bolst -1 target -1 annu -1 annu -1 year -1 team -1 term -1 term -1 bank -1 agree -1 agree -1 system -1 writ -1 view -1 upgrad -1 upgrad -1 deal -1 deal -1 -2
+deal -1 larg -1 larg -1 today -1 key -1 michael -1 produc -1 anal -1 wit -1 wit -1 mix -1 dean -1 dean -1 pric -1 busi -1 shar -1 shar -1 shar -1 challeng -1 long -1 long -1 carmel -1 industr -1 increas -1 canc -1 stabl -1 rais -1 rais -1 consec -1 consec -1 consec -1 -2
+consec -1 consec -1 consec -1 consec -1 consec -1 buy -1 buy -1 buy -1 financ -1 provid -1 import -1 care -1 care -1 enabl -1 continu -1 ind -1 insur -1 insur -1 insur -1 insur -1 move -1 fact -1 improv -1 lewi -1 lewi -1 lewi -1 lewi -1 miss -1 take -1 solidif -1 posit -1 -2
+posit -1 posit -1 consolid -1 consolid -1 estimat -1 americ -1 americ -1 americ -1 base -1 accumul -1 earn -1 earn -1 travel -1 corp -1 corp -1 corp -1 optim -1 concern -1 patric -1 plac -1 plac -1 medicar -1 suppl -1 make -1 make -1 add -1 add -1 hold -1 hold -1 handl -1 handl -1 -2
+capitol -1 trad -1 distinct -1 beat -1 -2

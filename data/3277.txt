@@ -1,0 +1,2 @@
+compan -1 fire -1 fire -1 repair -1 shutdown -1 rate -1 month -1 begin -1 begin -1 begin -1 full -1 unit -1 unit -1 coke -1 coke -1 coke -1 coke -1 produc -1 produc -1 brinkerhoff -1 david -1 convert -1 hour -1 crud -1 oil -1 oil -1 bureau -1 area -1 august -1 damag -1 -2
+fuel -1 rodeo -1 daily -1 feed -1 depart -1 half -1 bpd -1 corp -1 wednesday -1 refin -1 barrel -1 spokesm -1 restart -1 restart -1 los -1 unoc -1 unoc -1 angel -1 process -1 process -1 morn -1 morn -1 bay -1 operat -1 operat -1 calif -1 calif -1 -2

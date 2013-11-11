@@ -1,0 +1,4 @@
+stay -1 compan -1 compan -1 compan -1 limit -1 early -1 early -1 broker -1 sharehold -1 low -1 joyc -1 sun -1 leung -1 gap -1 agree -1 view -1 amount -1 good -1 firm -1 firm -1 firm -1 deal -1 equit -1 fund -1 debt -1 downsid -1 percent -1 expect -1 expect -1 outlook -1 -2
+ratio -1 fell -1 world -1 world -1 world -1 pric -1 pric -1 exist -1 futur -1 futur -1 brok -1 brok -1 million -1 thursday -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 trig -1 control -1 remain -1 telecommun -1 stead -1 stead -1 wak -1 hk -1 hk -1 -2
+hk -1 hk -1 hk -1 tone -1 cent -1 propert -1 subscrib -1 fact -1 posit -1 retrac -1 direct -1 sell -1 develop -1 develop -1 earn -1 run -1 result -1 announc -1 plac -1 plac -1 plac -1 plac -1 plac -1 plac -1 proceed -1 resum -1 secur -1 hong -1 kong -1 friday -1 respons -1 -2
+kai -1 newsroom -1 activ -1 region -1 hung -1 trad -1 trad -1 trad -1 -2

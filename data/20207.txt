@@ -1,0 +1,2 @@
+televis -1 small -1 spa -1 earthquak -1 earthquak -1 earthquak -1 countr -1 waiau -1 rare -1 hanm -1 peopl -1 report -1 report -1 quak -1 britain -1 strong -1 minor -1 injur -1 upp -1 felt -1 million -1 thursday -1 nelson -1 area -1 damag -1 damag -1 pron -1 jolt -1 frequ -1 cent -1 -2
+city -1 zealand -1 zealand -1 zealand -1 zealand -1 shook -1 size -1 south -1 south -1 island -1 island -1 richt -1 town -1 town -1 japan -1 major -1 measur -1 scal -1 christchurch -1 -2

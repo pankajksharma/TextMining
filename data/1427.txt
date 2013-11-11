@@ -1,0 +1,4 @@
+negot -1 negot -1 omit -1 omit -1 omit -1 omit -1 fin -1 unif -1 union -1 municip -1 municip -1 municip -1 pari -1 manag -1 manag -1 amount -1 amount -1 amount -1 amount -1 calendar -1 calendar -1 free -1 massachuset -1 issu -1 issu -1 issu -1 issu -1 issu -1 issu -1 rev -1 -2
+tran -1 st -1 loui -1 pric -1 pric -1 sr -1 sr -1 min -1 dist -1 dist -1 dist -1 dist -1 con -1 author -1 bldg -1 bristol -1 typ -1 city -1 compet -1 compet -1 award -1 award -1 crowley -1 peekskill -1 seaford -1 ark -1 spart -1 twp -1 sch -1 sch -1 sch -1 -2
+sch -1 brd -1 brd -1 educ -1 isd -1 marion -1 renov -1 auth -1 updat -1 note -1 note -1 note -1 note -1 date -1 date -1 cty -1 cty -1 cty -1 inform -1 ed -1 secur -1 bond -1 alabam -1 bay -1 add -1 kan -1 sale -1 sale -1 sale -1 sale -1 sale -1 -2
+sale -1 sale -1 sale -1 va -1 group -1 -2

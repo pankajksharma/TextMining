@@ -1,0 +1,4 @@
+intens -1 fire -1 fire -1 bridg -1 shoot -1 fly -1 agent -1 cover -1 start -1 defus -1 cris -1 interior -1 alexand -1 correspons -1 correspons -1 flam -1 smok -1 capit -1 report -1 east -1 st -1 troop -1 troop -1 troop -1 squar -1 rebel -1 rebel -1 rebel -1 itar -1 tass -1 -2
+tass -1 main -1 telephon -1 grozn -1 grozn -1 grozn -1 grozn -1 grozn -1 chech -1 russia -1 lebe -1 time -1 feder -1 gun -1 khankal -1 august -1 speak -1 airport -1 cent -1 kipkeyev -1 minutk -1 sundzh -1 quot -1 forc -1 city -1 city -1 minist -1 artill -1 artill -1 heavy -1 heavy -1 -2
+russian -1 russian -1 russian -1 russian -1 posit -1 posit -1 new -1 bori -1 unleash -1 part -1 part -1 snip -1 attack -1 rive -1 base -1 propel -1 milit -1 milit -1 threat -1 result -1 minut -1 caus -1 wednesday -1 wednesday -1 bomb -1 town -1 secur -1 destroy -1 due -1 oppos -1 withdraw -1 -2
+set -1 suprem -1 brigad -1 captur -1 -2

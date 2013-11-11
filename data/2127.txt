@@ -1,0 +1,4 @@
+recov -1 early -1 market -1 market -1 gener -1 tuesday -1 clos -1 clos -1 clos -1 clos -1 clos -1 record -1 record -1 record -1 high -1 chri -1 fluctu -1 year -1 disappoint -1 bank -1 point -1 point -1 good -1 good -1 deal -1 today -1 expect -1 expect -1 underton -1 pric -1 -2
+interim -1 interim -1 gain -1 gain -1 index -1 index -1 futur -1 million -1 thursday -1 shar -1 shar -1 shar -1 copenhagen -1 danmark -1 end -1 end -1 contract -1 remain -1 time -1 crown -1 crown -1 crown -1 crown -1 danish -1 danish -1 unidanmark -1 finish -1 flood -1 den -1 dansk -1 rose -1 -2
+rose -1 kfx -1 kfx -1 kfx -1 margin -1 margin -1 continu -1 spark -1 pre -1 half -1 half -1 half -1 posit -1 put -1 lot -1 corpor -1 turnov -1 day -1 day -1 day -1 profit -1 result -1 result -1 result -1 result -1 post -1 dominat -1 septemb -1 worth -1 hit -1 hit -1 -2
+due -1 follet -1 tomorrow -1 unchang -1 newsroom -1 activ -1 iss -1 top -1 tele -1 trad -1 tax -1 -2

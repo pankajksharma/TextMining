@@ -1,0 +1,2 @@
+compan -1 stock -1 kual -1 kual -1 lumpur -1 lumpur -1 immed -1 reach -1 timah -1 suspend -1 suspend -1 suspend -1 produc -1 kelanam -1 kelanam -1 kelanam -1 kelanam -1 sadur -1 tinplat -1 gain -1 shar -1 shar -1 quar -1 monday -1 industr -1 prior -1 pend -1 cent -1 exchang -1 kls -1 -2
+new -1 sell -1 consum -1 malays -1 announc -1 involut -1 comment -1 perusahaan -1 make -1 newsroom -1 activ -1 perstim -1 perstim -1 perstim -1 perstim -1 bhd -1 bhd -1 ringgit -1 ringgit -1 granit -1 distribut -1 offic -1 offic -1 -2

@@ -1,0 +1,3 @@
+amtech -1 amtech -1 gaap -1 stock -1 stock -1 segment -1 month -1 month -1 march -1 shr -1 redeem -1 system -1 system -1 amount -1 war -1 method -1 discontinu -1 modif -1 requir -1 treasur -1 q3 -1 restat -1 gain -1 dilut -1 personnel -1 shar -1 shar -1 shar -1 shar -1 shar -1 -2
+shar -1 end -1 end -1 contract -1 techn -1 rise -1 outstand -1 outstand -1 outstand -1 financ -1 continu -1 continu -1 fisc -1 net -1 net -1 period -1 note -1 calcul -1 incom -1 incom -1 incom -1 incom -1 earn -1 dispos -1 revenu -1 effect -1 unaudit -1 highlight -1 june -1 june -1 aver -1 -2
+aver -1 operat -1 operat -1 operat -1 reflect -1 split -1 -2

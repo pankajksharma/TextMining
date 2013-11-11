@@ -1,0 +1,4 @@
+compan -1 market -1 small -1 brisk -1 brisk -1 niger -1 niger -1 niger -1 niger -1 niger -1 niger -1 tuesday -1 stock -1 clos -1 clos -1 clos -1 clos -1 union -1 high -1 high -1 high -1 high -1 interest -1 low -1 brew -1 construc -1 glass -1 bank -1 salt -1 firm -1 -2
+firm -1 delt -1 deal -1 road -1 mill -1 larg -1 blackwood -1 cmb -1 percent -1 nair -1 nair -1 nair -1 nair -1 nair -1 nair -1 nair -1 nair -1 nair -1 nair -1 flour -1 minor -1 advanc -1 lago -1 big -1 gain -1 index -1 index -1 index -1 volum -1 shar -1 shar -1 -2
+shar -1 shar -1 end -1 domin -1 maxim -1 drop -1 cadbur -1 nation -1 oil -1 monday -1 hodg -1 flood -1 lion -1 rose -1 rose -1 pack -1 lose -1 exchang -1 cement -1 numb -1 heavy -1 alumin -1 day -1 includ -1 kobo -1 kobo -1 kobo -1 kobo -1 kobo -1 kobo -1 kobo -1 -2
+kobo -1 kobo -1 kobo -1 kobo -1 kobo -1 kobo -1 dicon -1 blu -1 equip -1 chip -1 newsroom -1 allow -1 trad -1 trad -1 ashak -1 -2

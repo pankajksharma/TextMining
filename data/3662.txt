@@ -1,0 +1,3 @@
+negot -1 negot -1 negot -1 retail -1 retail -1 retail -1 reach -1 reach -1 chain -1 chain -1 outlet -1 stag -1 stag -1 year -1 privat -1 wholesal -1 wholesal -1 wholesal -1 wholesal -1 food -1 food -1 food -1 employ -1 produc -1 report -1 percent -1 handel -1 reut -1 spozywcz -1 jerzy -1 -2
+polsk -1 godul -1 polish -1 pli -1 elektrom -1 poland -1 poland -1 poznansk -1 million -1 million -1 szkol -1 handlu -1 warsaw -1 zloty -1 remain -1 daily -1 financ -1 told -1 phs -1 phs -1 phs -1 minist -1 bid -1 school -1 final -1 final -1 sell -1 turnov -1 turnov -1 sa -1 wednesday -1 -2
+spokesm -1 consort -1 parkiet -1 parkiet -1 newsroom -1 origin -1 sale -1 trad -1 trad -1 -2

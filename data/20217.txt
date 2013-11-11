@@ -1,0 +1,3 @@
+market -1 hous -1 bridg -1 clos -1 high -1 month -1 year -1 year -1 year -1 ahead -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 sydney -1 extrem -1 extrem -1 annual -1 loan -1 loan -1 report -1 percent -1 meet -1 meet -1 difficult -1 difficult -1 difficult -1 harbor -1 -2
+moment -1 jump -1 outlook -1 advanc -1 advanc -1 advanc -1 advanc -1 advanc -1 busi -1 million -1 shar -1 thursday -1 challeng -1 haven -1 jim -1 time -1 rtr -1 rise -1 financ -1 worry -1 told -1 cent -1 austral -1 compet -1 figur -1 servic -1 servic -1 servic -1 servic -1 net -1 direct -1 -2
+earn -1 july -1 profit -1 result -1 impact -1 object -1 unpredict -1 achief -1 chairm -1 don -1 make -1 extent -1 newsroom -1 see -1 forecast -1 prepar -1 -2

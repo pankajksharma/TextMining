@@ -1,0 +1,4 @@
+bring -1 econom -1 pilot -1 sukhoi -1 interest -1 rate -1 rate -1 month -1 lien -1 lien -1 chan -1 chan -1 curb -1 bank -1 newspap -1 newspap -1 good -1 headlin -1 unit -1 franc -1 ukrain -1 ukrain -1 today -1 ship -1 ship -1 harbor -1 introduc -1 expect -1 govern -1 lead -1 -2
+digest -1 frigat -1 design -1 test -1 intent -1 class -1 democrat -1 chin -1 chin -1 chin -1 chin -1 chin -1 cabinet -1 time -1 time -1 rise -1 august -1 august -1 press -1 unemploy -1 foreign -1 daily -1 daily -1 prais -1 import -1 cent -1 cut -1 arriv -1 yulin -1 bid -1 mailiao -1 -2
+sharp -1 new -1 new -1 direct -1 direct -1 direct -1 southwestern -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taipei -1 link -1 link -1 strait -1 commun -1 commun -1 commun -1 plan -1 mainland -1 lafayet -1 includ -1 labor -1 su -1 order -1 port -1 rule -1 process -1 polic -1 -2
+newsroom -1 fight -1 measur -1 vice -1 vice -1 presid -1 presid -1 count -1 commerc -1 commerc -1 -2

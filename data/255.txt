@@ -1,0 +1,5 @@
+recov -1 recov -1 market -1 market -1 refer -1 tuesday -1 stock -1 stock -1 clos -1 clos -1 plung -1 high -1 high -1 march -1 halt -1 beneex -1 beneex -1 countr -1 hotel -1 cheap -1 receib -1 cover -1 cover -1 bank -1 april -1 point -1 point -1 billion -1 stand -1 invest -1 -2
+deprec -1 wait -1 larg -1 week -1 issu -1 fund -1 fund -1 fund -1 domest -1 domest -1 report -1 local -1 local -1 help -1 help -1 help -1 govern -1 pric -1 index -1 index -1 gain -1 gain -1 rally -1 provis -1 provis -1 brok -1 million -1 shar -1 shar -1 shar -1 shar -1 -2
+shar -1 end -1 deposit -1 monday -1 monday -1 edg -1 short -1 short -1 buy -1 buy -1 foreign -1 head -1 loss -1 forc -1 bombay -1 bombay -1 continu -1 bajaj -1 bse -1 bse -1 bse -1 hindalc -1 leve -1 excess -1 specul -1 itc -1 ll -1 part -1 underl -1 ranbax -1 basi -1 -2
+reli -1 sell -1 sell -1 till -1 institut -1 institut -1 plan -1 nse -1 nse -1 undercur -1 shaky -1 plummet -1 fii -1 fii -1 gdr -1 gdr -1 gdr -1 rupee -1 rupee -1 rupee -1 rupee -1 tisc -1 sbi -1 sbi -1 telc -1 hind -1 account -1 secur -1 auto -1 demand -1 combin -1 -2
+glob -1 tomorrow -1 indian -1 commerc -1 trad -1 trad -1 trad -1 pick -1 -2

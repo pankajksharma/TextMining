@@ -1,0 +1,4 @@
+compan -1 texa -1 texa -1 sery -1 interest -1 interest -1 municip -1 municip -1 bank -1 amount -1 amount -1 yld -1 yield -1 stat -1 expect -1 expect -1 aaa -1 aaa -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 moody -1 moody -1 -2
+unlimit -1 deliv -1 deliv -1 matur -1 matur -1 matur -1 matur -1 polit -1 august -1 current -1 princip -1 coupon -1 coupon -1 coupon -1 fort -1 mud -1 call -1 call -1 call -1 refund -1 southw -1 bend -1 award -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 approx -1 -2
+approx -1 util -1 insur -1 insur -1 fsa -1 fsa -1 district -1 naf -1 naf -1 date -1 date -1 date -1 date -1 colon -1 colon -1 septemb -1 prem -1 dollar -1 friday -1 bond -1 bond -1 bond -1 zero -1 combin -1 due -1 due -1 qualif -1 featur -1 featur -1 desk -1 subdivid -1 -2
+locat -1 count -1 compound -1 tax -1 pct -1 -2

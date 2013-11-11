@@ -1,0 +1,4 @@
+ambassador -1 market -1 econom -1 econom -1 econom -1 french -1 french -1 french -1 union -1 union -1 reaffirm -1 sack -1 monet -1 monet -1 year -1 pari -1 free -1 peopl -1 franc -1 franc -1 franc -1 franc -1 franc -1 meet -1 couldn -1 lead -1 govern -1 govern -1 world -1 stun -1 -2
+mean -1 madelin -1 madelin -1 madelin -1 defend -1 defend -1 deflat -1 deflat -1 reform -1 thursday -1 european -1 support -1 speech -1 speech -1 end -1 eradic -1 eradic -1 polit -1 timet -1 social -1 august -1 articl -1 pow -1 daily -1 foreign -1 financ -1 past -1 commit -1 purchas -1 prim -1 minist -1 -2
+minist -1 minist -1 inflat -1 inflat -1 inflat -1 inflat -1 inflat -1 le -1 clash -1 critic -1 disord -1 speed -1 inst -1 aggrav -1 period -1 criter -1 justic -1 mond -1 deadlin -1 jup -1 jup -1 jup -1 jup -1 jup -1 jup -1 alain -1 alain -1 fervent -1 memb -1 respons -1 battl -1 -2
+polic -1 newsroom -1 fight -1 -2

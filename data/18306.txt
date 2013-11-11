@@ -1,0 +1,2 @@
+slip -1 bottom -1 low -1 brent -1 brent -1 brent -1 sold -1 thursday -1 appar -1 monday -1 cent -1 cent -1 cent -1 london -1 pape -1 date -1 date -1 valu -1 valu -1 wednesday -1 carg -1 sept -1 sept -1 sept -1 sept -1 sept -1 hit -1 newsroom -1 sale -1 trad -1 -2
+trad -1 -2

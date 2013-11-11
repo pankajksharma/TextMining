@@ -1,0 +1,4 @@
+fully -1 market -1 sect -1 sect -1 emerg -1 econom -1 econom -1 pare -1 pare -1 pare -1 pare -1 pare -1 tuesday -1 high -1 countr -1 countr -1 privat -1 agree -1 agree -1 agree -1 agree -1 sydney -1 point -1 resourc -1 invest -1 seek -1 key -1 fund -1 issu -1 issu -1 -2
+report -1 meet -1 meet -1 meet -1 meet -1 strong -1 requir -1 advanc -1 principl -1 principl -1 environ -1 necess -1 open -1 bind -1 rtr -1 pow -1 wid -1 made -1 told -1 austral -1 minist -1 minist -1 minist -1 minist -1 minist -1 trill -1 absolut -1 part -1 cost -1 harmon -1 estimat -1 -2
+gear -1 energ -1 energ -1 energ -1 energ -1 energ -1 energ -1 energ -1 rang -1 warwick -1 apec -1 apec -1 apec -1 apec -1 apec -1 apec -1 coop -1 forum -1 wednesday -1 regulat -1 concern -1 memb -1 project -1 project -1 project -1 demand -1 demand -1 major -1 polic -1 polic -1 asia -1 -2
+asia -1 pacif -1 pacif -1 region -1 -2

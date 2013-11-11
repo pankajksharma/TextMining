@@ -1,0 +1,4 @@
+mgt -1 early -1 launch -1 citicorp -1 rate -1 rate -1 rate -1 bp -1 bp -1 bp -1 bp -1 bp -1 bp -1 bp -1 yr -1 bank -1 bank -1 bank -1 sumitom -1 manag -1 manag -1 manag -1 standard -1 amount -1 borrow -1 list -1 reply -1 issu -1 issu -1 ml -1 -2
+pay -1 lead -1 lead -1 home -1 level -1 pric -1 moody -1 law -1 float -1 matur -1 deposit -1 arrang -1 arrang -1 merch -1 bullet -1 hk -1 chicag -1 coupon -1 financ -1 typ -1 prov -1 call -1 engl -1 forc -1 senior -1 repay -1 certif -1 toky -1 put -1 note -1 date -1 -2
+yrs -1 a2 -1 taiw -1 anz -1 aug -1 def -1 announc -1 par -1 intern -1 intern -1 gov -1 lmt -1 oct -1 mitsubish -1 sept -1 set -1 westlb -1 westlb -1 newsroom -1 iss -1 frcd -1 frcd -1 fee -1 denom -1 neg -1 sale -1 plg -1 commerc -1 commerc -1 crs -1 tax -1 -2
+maj -1 ctry -1 mln -1 mln -1 mln -1 mln -1 mln -1 -2

@@ -1,0 +1,3 @@
+hous -1 hous -1 hous -1 hous -1 econom -1 econom -1 sergio -1 low -1 newspap -1 bank -1 bank -1 billion -1 billion -1 billion -1 billion -1 billion -1 remot -1 mill -1 fund -1 loan -1 debt -1 debt -1 debt -1 debt -1 debt -1 debt -1 debt -1 debt -1 report -1 overdu -1 -2
+treasur -1 treasur -1 treasur -1 nation -1 nation -1 nation -1 gazet -1 feder -1 feder -1 mercantil -1 provid -1 told -1 securit -1 securit -1 effort -1 effort -1 think -1 transfer -1 put -1 brazil -1 brazil -1 pape -1 incom -1 book -1 paul -1 plan -1 cutol -1 fcv -1 defunct -1 hind -1 sao -1 -2
+chanc -1 john -1 held -1 held -1 owe -1 newsroom -1 mortg -1 mortg -1 caix -1 caix -1 caix -1 caix -1 presid -1 reai -1 reai -1 reai -1 reai -1 squabbl -1 squabbl -1 disput -1 block -1 block -1 -2

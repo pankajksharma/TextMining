@@ -1,0 +1,4 @@
+market -1 market -1 market -1 market -1 tight -1 tight -1 tight -1 quiet -1 quiet -1 situat -1 edp -1 tuesday -1 overdon -1 sulphur -1 sulphur -1 sulphur -1 sulphur -1 cif -1 high -1 high -1 high -1 high -1 low -1 low -1 receiv -1 matthew -1 fresh -1 octob -1 swap -1 swap -1 -2
+physic -1 portug -1 cargoe -1 cargoe -1 cargoe -1 deal -1 deal -1 indicat -1 week -1 week -1 bought -1 slight -1 requir -1 expect -1 expect -1 level -1 pric -1 pric -1 gain -1 crack -1 crack -1 crack -1 end -1 deliv -1 deliv -1 talk -1 oil -1 oil -1 particuar -1 remain -1 portugu -1 -2
+wet -1 buy -1 buy -1 fuel -1 fuel -1 utlit -1 side -1 cent -1 mater -1 london -1 award -1 half -1 russian -1 new -1 pape -1 equal -1 ton -1 ton -1 fob -1 med -1 septemb -1 septemb -1 septemb -1 tend -1 tend -1 prem -1 prev -1 consol -1 suppl -1 friday -1 friday -1 -2
+jone -1 avail -1 nwe -1 nwe -1 nwe -1 newsroom -1 thought -1 boost -1 slow -1 trad -1 trad -1 trad -1 trad -1 eas -1 option -1 -2

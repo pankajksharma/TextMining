@@ -1,0 +1,4 @@
+night -1 calm -1 congress -1 market -1 novemb -1 hous -1 back -1 tuesday -1 tuesday -1 high -1 rate -1 rate -1 rate -1 low -1 bovesp -1 telebr -1 telebr -1 telebr -1 telebr -1 telebr -1 newspap -1 point -1 fall -1 prefer -1 concret -1 common -1 produc -1 approv -1 percent -1 percent -1 -2
+percent -1 percent -1 percent -1 bill -1 jump -1 jump -1 index -1 telephon -1 shar -1 shar -1 overse -1 shot -1 commod -1 rise -1 rose -1 francisc -1 phon -1 quot -1 prim -1 noon -1 servic -1 servic -1 jame -1 telecom -1 new -1 new -1 brazil -1 brazil -1 export -1 led -1 xavy -1 -2
+paul -1 paul -1 paul -1 semi -1 basic -1 basic -1 basic -1 plan -1 hike -1 hike -1 hike -1 hike -1 includ -1 wednesday -1 giant -1 reduc -1 sao -1 sao -1 sao -1 elabor -1 bours -1 perspect -1 due -1 morn -1 newsroom -1 presid -1 reai -1 reai -1 reai -1 reai -1 craig -1 -2
+sharet -1 trad -1 trad -1 trad -1 trad -1 trad -1 tax -1 -2

@@ -1,0 +1,2 @@
+back -1 back -1 rate -1 year -1 issu -1 issu -1 loan -1 percent -1 treasur -1 fix -1 home -1 pric -1 million -1 feder -1 august -1 strip -1 strip -1 strip -1 fami -1 freddie -1 freddie -1 date -1 settl -1 underwrit -1 corp -1 dlj -1 septemb -1 secur -1 secur -1 total -1 -2
+fhlmc -1 fhlmc -1 fhlmc -1 singl -1 mortg -1 mortg -1 mortg -1 desk -1 mac -1 mac -1 mln -1 -2

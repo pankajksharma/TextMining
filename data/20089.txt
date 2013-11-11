@@ -1,0 +1,2 @@
+stg -1 stg -1 stg -1 interest -1 month -1 year -1 shr -1 firm -1 produc -1 stat -1 ordin -1 million -1 million -1 million -1 shar -1 adjust -1 dividend -1 rise -1 paid -1 london -1 net -1 half -1 period -1 period -1 note -1 penc -1 penc -1 penc -1 penc -1 taxat -1 -2
+unadjust -1 h1 -1 consum -1 earn -1 turnov -1 compar -1 profit -1 profit -1 profit -1 profit -1 profit -1 profit -1 profit -1 pretax -1 pretax -1 pretax -1 dispos -1 item -1 colm -1 june -1 newsroom -1 activ -1 operat -1 operat -1 tax -1 -2

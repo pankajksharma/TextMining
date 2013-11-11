@@ -1,0 +1,4 @@
+compan -1 compan -1 early -1 revalu -1 carry -1 tuesday -1 stock -1 stg -1 stg -1 stg -1 stg -1 stg -1 high -1 own -1 shown -1 hotel -1 hotel -1 billion -1 writ -1 appoint -1 appoint -1 appoint -1 invest -1 join -1 report -1 stat -1 percent -1 percent -1 balanc -1 treasur -1 -2
+float -1 million -1 million -1 million -1 million -1 hartley -1 sutcliff -1 sutcliff -1 time -1 reserv -1 deput -1 identif -1 financ -1 financ -1 exchang -1 propert -1 propert -1 mackay -1 mackay -1 zealand -1 london -1 london -1 brierley -1 half -1 plc -1 posit -1 chief -1 note -1 cost -1 direct -1 book -1 -2
+valu -1 valu -1 thistl -1 thistl -1 thistl -1 thistl -1 thistl -1 charl -1 except -1 valuat -1 valuat -1 admit -1 portfolio -1 compar -1 profit -1 result -1 charg -1 reduc -1 item -1 extern -1 uk -1 deduc -1 deficit -1 chairm -1 intend -1 newsroom -1 execut -1 reflect -1 tax -1 group -1 group -1 -2
+group -1 group -1 -2

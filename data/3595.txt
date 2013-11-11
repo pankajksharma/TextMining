@@ -1,0 +1,4 @@
+tough -1 sect -1 accur -1 ford -1 union -1 disobed -1 provinc -1 northeast -1 select -1 standard -1 appoint -1 suggest -1 deal -1 debat -1 shill -1 issu -1 afric -1 afric -1 east -1 tran -1 ken -1 govern -1 lead -1 lead -1 digest -1 accus -1 reut -1 joshua -1 reform -1 reform -1 -2
+reform -1 legal -1 alli -1 support -1 party -1 nation -1 nation -1 keny -1 keny -1 keny -1 keny -1 keny -1 daniel -1 time -1 press -1 press -1 press -1 foreign -1 daily -1 commit -1 verif -1 health -1 health -1 civil -1 vouch -1 warn -1 qual -1 minist -1 minist -1 servic -1 defect -1 -2
+parlia -1 improv -1 intimid -1 district -1 rail -1 constitut -1 arap -1 story -1 story -1 moi -1 nzoia -1 despons -1 aug -1 kalonz -1 musyok -1 muzzl -1 angat -1 plan -1 threat -1 impass -1 wednesday -1 matib -1 oding -1 memb -1 attempt -1 rule -1 oppos -1 oppos -1 oppos -1 oppos -1 measur -1 -2
+fear -1 presid -1 creat -1 -2

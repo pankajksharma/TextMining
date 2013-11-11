@@ -1,0 +1,4 @@
+target -1 m1 -1 money -1 rate -1 rate -1 month -1 month -1 month -1 sep -1 monet -1 pvs -1 pvs -1 pvs -1 pvs -1 pvs -1 pvs -1 bank -1 yr -1 yr -1 yr -1 yr -1 yr -1 yr -1 point -1 output -1 billion -1 billion -1 calendar -1 q4 -1 indicat -1 -2
+indicat -1 indicat -1 week -1 quart -1 domest -1 debt -1 loan -1 forex -1 govern -1 govern -1 balanc -1 balanc -1 treasur -1 treasur -1 jan -1 shekl -1 index -1 million -1 million -1 million -1 adjust -1 mth -1 mth -1 end -1 industr -1 reserv -1 unemploy -1 foreign -1 daily -1 import -1 prim -1 -2
+cpi -1 gdp -1 growth -1 figur -1 ago -1 ago -1 ago -1 ago -1 ago -1 half -1 bln -1 updat -1 note -1 estimat -1 estimat -1 date -1 export -1 aug -1 revis -1 july -1 july -1 july -1 july -1 july -1 july -1 july -1 actual -1 tend -1 q1 -1 budget -1 june -1 -2
+june -1 june -1 deficit -1 suppl -1 chang -1 season -1 israel -1 mark -1 commerc -1 trad -1 shekel -1 shekel -1 shekel -1 pct -1 -2

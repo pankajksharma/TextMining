@@ -1,0 +1,2 @@
+market -1 market -1 slip -1 money -1 money -1 clos -1 clos -1 sunday -1 rate -1 rate -1 rate -1 rate -1 liquid -1 bank -1 billion -1 system -1 firm -1 invest -1 deal -1 deal -1 fund -1 fund -1 fund -1 stat -1 percent -1 percent -1 special -1 overnight -1 thursday -1 outflow -1 -2
+open -1 open -1 auction -1 auction -1 feder -1 cent -1 pakist -1 pakist -1 pakist -1 excess -1 excess -1 settl -1 settl -1 conduc -1 announc -1 rupee -1 bond -1 ovai -1 subhan -1 due -1 operat -1 interbank -1 amid -1 left -1 surplus -1 -2

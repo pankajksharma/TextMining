@@ -1,0 +1,3 @@
+stay -1 midrat -1 market -1 laur -1 tuesday -1 high -1 rate -1 rate -1 rate -1 rate -1 meagr -1 inch -1 inch -1 term -1 term -1 bank -1 bank -1 shrank -1 delear -1 firm -1 borrow -1 week -1 fund -1 fund -1 loan -1 loan -1 germ -1 percent -1 percent -1 percent -1 -2
+percent -1 squar -1 overnight -1 croat -1 croat -1 croat -1 zagreb -1 lend -1 lend -1 million -1 million -1 million -1 million -1 long -1 nation -1 stead -1 short -1 foreign -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 made -1 side -1 rose -1 exchang -1 slid -1 posit -1 settl -1 -2
+day -1 day -1 ask -1 wednesday -1 prev -1 account -1 dollar -1 total -1 suppl -1 suppl -1 due -1 newsroom -1 lui -1 mark -1 left -1 trad -1 surplus -1 pct -1 -2

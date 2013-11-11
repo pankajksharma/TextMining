@@ -1,0 +1,4 @@
+early -1 market -1 brisk -1 bound -1 oversold -1 stock -1 stock -1 stock -1 broker -1 high -1 high -1 interest -1 encour -1 rate -1 bargain -1 climb -1 point -1 sesdaq -1 invest -1 firm -1 firm -1 unit -1 deal -1 deal -1 deal -1 domest -1 gmt -1 gmt -1 percent -1 local -1 -2
+steepl -1 expect -1 soon -1 advanc -1 sent -1 index -1 volum -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 open -1 transmarc -1 push -1 puter -1 sampoern -1 oil -1 miel -1 industr -1 increas -1 time -1 sustain -1 singapor -1 singapor -1 singapor -1 singapor -1 -2
+singapor -1 return -1 rose -1 declin -1 growth -1 bid -1 hunt -1 take -1 posit -1 specul -1 specul -1 specul -1 new -1 swamp -1 lindetev -1 jacoberg -1 export -1 strait -1 turnov -1 july -1 profit -1 corp -1 wednesday -1 wednesday -1 resum -1 blu -1 chip -1 hit -1 indones -1 morn -1 morn -1 -2
+set -1 takeov -1 unchang -1 stem -1 activ -1 doubt -1 boost -1 trad -1 trad -1 trad -1 block -1 -2

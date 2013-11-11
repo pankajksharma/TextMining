@@ -1,0 +1,5 @@
+compan -1 stak -1 stak -1 tuesday -1 ag -1 sharehold -1 month -1 year -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 system -1 fall -1 german -1 invest -1 unit -1 bought -1 bought -1 germ -1 germ -1 stat -1 percent -1 percent -1 percent -1 percent -1 special -1 advanc -1 -2
+fix -1 fell -1 level -1 level -1 big -1 gain -1 million -1 million -1 million -1 million -1 drop -1 drop -1 drop -1 drop -1 industr -1 rose -1 rose -1 comput -1 pack -1 viag -1 viag -1 viag -1 viag -1 viag -1 viag -1 viag -1 spend -1 util -1 net -1 net -1 fact -1 -2
+ago -1 match -1 improv -1 pre -1 half -1 half -1 half -1 half -1 half -1 sharp -1 period -1 period -1 energ -1 pape -1 pwa -1 incom -1 h1 -1 divid -1 divid -1 compar -1 profit -1 profit -1 profit -1 profit -1 profit -1 profit -1 result -1 pretax -1 includ -1 chemic -1 chemic -1 -2
+logist -1 particip -1 sbi -1 bio -1 workforc -1 asset -1 dramat -1 major -1 major -1 major -1 chang -1 due -1 make -1 see -1 operat -1 operat -1 mark -1 mark -1 mark -1 mark -1 mark -1 mark -1 mark -1 mark -1 sale -1 sale -1 sale -1 sale -1 tax -1 group -1 group -1 -2
+group -1 group -1 group -1 pure -1 -2

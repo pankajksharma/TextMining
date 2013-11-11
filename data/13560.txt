@@ -1,0 +1,3 @@
+market -1 small -1 sect -1 tuesday -1 term -1 full -1 agent -1 bank -1 bank -1 bank -1 bank -1 manag -1 join -1 join -1 guid -1 afric -1 produc -1 stat -1 local -1 requir -1 van -1 van -1 govern -1 philip -1 busi -1 busi -1 entrepreneur -1 entrepreneur -1 entrepreneur -1 alli -1 -2
+enterpr -1 concept -1 long -1 billy -1 nation -1 nation -1 stead -1 assist -1 off -1 fnb -1 fnb -1 fnb -1 hattingh -1 heev -1 heev -1 den -1 den -1 financ -1 forc -1 forc -1 assoc -1 senior -1 growth -1 servic -1 play -1 micr -1 medium -1 rang -1 south -1 aim -1 bh -1 -2
+bh -1 bh -1 educat -1 develop -1 develop -1 develop -1 commun -1 commun -1 announc -1 equip -1 role -1 strateg -1 strateg -1 johannesburg -1 intend -1 newsroom -1 partn -1 activ -1 consult -1 hold -1 group -1 -2

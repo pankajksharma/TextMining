@@ -1,0 +1,2 @@
+emerg -1 emerg -1 leak -1 leak -1 leak -1 gas -1 gas -1 immed -1 hospit -1 hospit -1 northeast -1 middl -1 overcom -1 leavenworth -1 rush -1 treat -1 fume -1 helicopt -1 natur -1 help -1 kans -1 kans -1 thursday -1 appar -1 sheriff -1 author -1 work -1 work -1 cranor -1 basehor -1 -2
+linwood -1 depart -1 school -1 school -1 school -1 evacuat -1 ron -1 child -1 child -1 child -1 caus -1 ambul -1 dozen -1 cond -1 count -1 count -1 -2

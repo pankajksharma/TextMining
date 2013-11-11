@@ -1,0 +1,3 @@
+early -1 usda -1 usda -1 newsdesk -1 high -1 year -1 year -1 inquir -1 select -1 select -1 select -1 select -1 mid -1 cattl -1 cattl -1 week -1 week -1 week -1 light -1 percent -1 confirm -1 confirm -1 confirm -1 kans -1 slaught -1 slaught -1 slaught -1 slaught -1 slaught -1 thursday -1 -2
+shrink -1 contract -1 chicag -1 cwt -1 head -1 head -1 net -1 feedlot -1 feedlot -1 weight -1 heif -1 heif -1 heif -1 wk -1 holstein -1 date -1 date -1 fob -1 day -1 includ -1 formul -1 prev -1 demand -1 lb -1 lbs -1 lbs -1 moderat -1 moderat -1 steer -1 steer -1 steer -1 -2
+sale -1 sale -1 slow -1 trad -1 choic -1 choic -1 choic -1 choic -1 -2

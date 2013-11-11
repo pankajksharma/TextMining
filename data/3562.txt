@@ -1,0 +1,4 @@
+life -1 launch -1 back -1 back -1 train -1 read -1 medic -1 peac -1 month -1 countr -1 kill -1 kill -1 fundament -1 undermin -1 writ -1 bent -1 hussein -1 peopl -1 peopl -1 treat -1 capit -1 smil -1 report -1 abdulmejid -1 abdulmejid -1 helicopt -1 shootout -1 kneel -1 somal -1 somal -1 -2
+govern -1 troop -1 troop -1 camp -1 act -1 show -1 shot -1 assassin -1 time -1 gun -1 august -1 extr -1 gunm -1 return -1 return -1 airport -1 told -1 care -1 addi -1 addi -1 addi -1 ethiop -1 ethiop -1 ethiop -1 ethiop -1 ethiop -1 ethiop -1 ethiop -1 ethiop -1 ethiop -1 western -1 -2
+abab -1 abab -1 abab -1 wound -1 wound -1 work -1 minist -1 minist -1 artill -1 part -1 moslem -1 incur -1 attack -1 aim -1 develop -1 link -1 commun -1 july -1 day -1 transport -1 unidentif -1 wednesday -1 guard -1 attempt -1 attempt -1 destroy -1 ensu -1 need -1 israel -1 israel -1 destabl -1 -2
+terror -1 terror -1 terror -1 campaign -1 region -1 captur -1 walk -1 offic -1 docu -1 group -1 -2

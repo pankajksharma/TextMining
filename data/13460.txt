@@ -1,0 +1,5 @@
+ambassador -1 early -1 market -1 refer -1 floor -1 clear -1 back -1 tuesday -1 funda -1 clos -1 clos -1 clos -1 clos -1 gas -1 gas -1 desir -1 high -1 high -1 month -1 progress -1 low -1 low -1 low -1 low -1 low -1 insist -1 touch -1 fresh -1 octob -1 brent -1 -2
+brent -1 brent -1 brent -1 brent -1 middl -1 billion -1 fall -1 supervis -1 headlin -1 food -1 deal -1 deal -1 deal -1 unit -1 unit -1 unit -1 otc -1 human -1 stat -1 stat -1 ipe -1 ipe -1 ipe -1 ipe -1 jump -1 fell -1 pric -1 pric -1 pric -1 soft -1 brok -1 -2
+brok -1 futur -1 support -1 open -1 end -1 pull -1 nation -1 crud -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 time -1 deput -1 buy -1 moc -1 moc -1 cent -1 nice -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 underneath -1 london -1 heavy -1 imple -1 sharp -1 -2
+posit -1 buoy -1 put -1 settl -1 settl -1 ton -1 lot -1 carpet -1 sell -1 sell -1 sell -1 sell -1 sell -1 story -1 link -1 plan -1 day -1 day -1 day -1 tom -1 driv -1 wednesday -1 septemb -1 septemb -1 hind -1 comment -1 comment -1 comment -1 barrel -1 criticis -1 monit -1 -2
+suppl -1 friday -1 found -1 late -1 newsroom -1 allow -1 ashby -1 ord -1 sale -1 trad -1 trad -1 -2

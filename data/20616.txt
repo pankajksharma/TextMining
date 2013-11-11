@@ -1,0 +1,2 @@
+compan -1 interest -1 month -1 year -1 full -1 octob -1 shr -1 april -1 nil -1 regist -1 ship -1 stat -1 pay -1 payabl -1 million -1 dividend -1 dividend -1 narrow -1 contin -1 contin -1 confid -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 satisfact -1 punt -1 net -1 -2
+plc -1 pre -1 note -1 outcom -1 date -1 date -1 date -1 base -1 penc -1 penc -1 h1 -1 turnov -1 profit -1 result -1 pretax -1 septemb -1 septemb -1 irish -1 irish -1 irish -1 newsroom -1 operat -1 dublin -1 tax -1 tax -1 tax -1 group -1 -2

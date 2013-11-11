@@ -1,0 +1,2 @@
+market -1 market -1 newsdesk -1 term -1 york -1 aquitain -1 system -1 unit -1 key -1 design -1 refrig -1 alliedsign -1 offer -1 undisclos -1 note -1 dupont -1 dupont -1 dupont -1 dupont -1 refriger -1 refriger -1 refriger -1 atochem -1 suva -1 hp62 -1 deplet -1 ashr -1 replacemet -1 ozon -1 elf -1 -2
+elf -1 elf -1 r502 -1 make -1 foran -1 manufactur -1 licens -1 licens -1 licens -1 commerc -1 -2
