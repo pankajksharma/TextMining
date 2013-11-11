@@ -60,6 +60,6 @@ class PTM(object):
 					sup[t] = w
 		return sup
 
-p=PTM([[[1,2,3,4],[2,4,5,3],[3,6,1],[5,1,2,7,3],],], 0.75)
-print p.d_patterns()
-print p.get_terms_support()
+# p=PTM([[[1,2,3,4],[2,4,5,3],[3,6,1],[5,1,2,7,3],],], 0.75)
+# print p.d_patterns()
+# print p.get_terms_support()

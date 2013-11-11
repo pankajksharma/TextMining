@@ -43,4 +43,5 @@ while True:
 		break
 	print c[0]
 	data = c[-1].replace('\'','"')
+	print data
 	print dp.d_patterns(json.loads(data))

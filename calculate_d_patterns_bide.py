@@ -27,7 +27,8 @@ path = "/home/om/Development/TextMining/data/"
 connection = MySQLdb.connect('localhost', 'root', 'root', 'mining')
 cursor = connection.cursor()
 
-dirlist = [d for d in os.listdir(path) if '.txt' in d ]
+dirlist = os.listdir(path)
+# dirlist.sort()
 dp = DP()
 
 for d in dirlist:
@@ -41,11 +42,11 @@ for d in dirlist:
 			break
 		l = l.split('SUP')[0].replace('-1 ', '')
 		sp.append(l.split())
-	print sp
+	# print sp
 	ft.readline()
 	exec_time = ft.readline().split()[3]
 	dpps = str(dp.d_patterns(sp))
 	id = d.split('.')[0]
 	query = 'Update data set `dp` = \''+dpps.replace('\'', '"')+'\' where id = '+id
 	cursor.execute(query)
-	
+	connection.commit()
