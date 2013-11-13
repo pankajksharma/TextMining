@@ -1,6 +1,6 @@
 import MySQLdb
 
-connection = MySQLdb.connect('localhost', 'root', 'root', 'mining')
+connection = MySQLdb.connect('localhost', 'root', 'kgggdkp2692', 'mining')
 cursor = connection.cursor()
 type="neg"	#For Negative Documents
 # type="pos"	#For Positive Documents
