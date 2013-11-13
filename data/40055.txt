@@ -1,0 +1,2 @@
+market -1 market -1 kerb -1 kerb -1 clos -1 rate -1 rate -1 rate -1 rate -1 yen -1 spot -1 khanan -1 kalia -1 uae -1 dirham -1 deutsch -1 buy -1 pound -1 pakistan -1 sell -1 rupee -1 rupee -1 rupee -1 wednesday -1 saud -1 intern -1 riyal -1 dollar -1 japan -1 suppl -1 -2
+indian -1 sterl -1 mark -1 pct -1 pct -1 -2

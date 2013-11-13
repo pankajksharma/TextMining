@@ -1,0 +1,1 @@
+record -1 full -1 shr -1 div -1 trust -1 amount -1 equit -1 pay -1 special -1 special -1 contin -1 contin -1 note -1 sept -1 sept -1 late -1 mortg -1 mortg -1 -2

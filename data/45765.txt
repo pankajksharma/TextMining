@@ -1,0 +1,3 @@
+stak -1 thai -1 thai -1 thai -1 thai -1 thai -1 thai -1 thai -1 train -1 stock -1 baht -1 baht -1 baht -1 undertak -1 construc -1 build -1 agree -1 agree -1 billion -1 billion -1 system -1 system -1 firm -1 invest -1 invest -1 file -1 unit -1 capit -1 percent -1 italian -1 -2
+italian -1 italian -1 italian -1 italian -1 million -1 shar -1 constuc -1 tanayong -1 buy -1 buy -1 elevat -1 debentur -1 exchang -1 work -1 propert -1 spend -1 bangkok -1 bangkok -1 plc -1 plc -1 btsc -1 btsc -1 btsc -1 btsc -1 develop -1 develop -1 electr -1 convertibl -1 transit -1 transit -1 sytem -1 -2
+project -1 friday -1 thailand -1 newsroom -1 sign -1 -2

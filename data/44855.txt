@@ -1,0 +1,2 @@
+sect -1 fair -1 build -1 fax -1 profil -1 franc -1 produc -1 stat -1 minor -1 cash -1 outlook -1 million -1 brussel -1 con -1 belgian -1 belgian -1 deceuninck -1 deceuninck -1 current -1 current -1 nv -1 flow -1 net -1 net -1 net -1 net -1 half -1 half -1 posit -1 note -1 -2
+h1 -1 exclud -1 earn -1 turnov -1 profit -1 profit -1 newsroom -1 operat -1 pvc -1 group -1 group -1 group -1 pct -1 -2

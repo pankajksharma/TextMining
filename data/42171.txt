@@ -1,0 +1,5 @@
+market -1 heav -1 pipelin -1 texa -1 texa -1 carry -1 tuesday -1 clos -1 high -1 high -1 high -1 rate -1 low -1 low -1 low -1 low -1 low -1 begin -1 ahead -1 york -1 mid -1 mid -1 mid -1 mid -1 mid -1 discount -1 turn -1 unit -1 deal -1 spot -1 -2
+spot -1 natg -1 natg -1 gulf -1 gulf -1 today -1 basin -1 west -1 sourc -1 report -1 expect -1 expect -1 fell -1 level -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 soft -1 soft -1 exist -1 million -1 thursday -1 deliv -1 -2
+deliv -1 talk -1 talk -1 expir -1 nominat -1 drop -1 weekend -1 weekend -1 stead -1 midcontin -1 midcontin -1 consid -1 topock -1 mcculloch -1 august -1 august -1 pow -1 notion -1 cent -1 cent -1 anr -1 quick -1 demarc -1 demarc -1 signif -1 northern -1 panhandl -1 coast -1 south -1 rang -1 bord -1 -2
+peg -1 simil -1 waha -1 transport -1 day -1 labor -1 wednesday -1 septemb -1 septemb -1 septemb -1 septemb -1 septemb -1 deadlin -1 prem -1 pipe -1 therm -1 resum -1 held -1 demand -1 brit -1 friday -1 friday -1 morn -1 holiday -1 holiday -1 holiday -1 permian -1 permian -1 activ -1 desk -1 californ -1 -2
+southern -1 trad -1 trad -1 trad -1 trad -1 -2

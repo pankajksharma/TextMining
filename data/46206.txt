@@ -1,0 +1,4 @@
+life -1 life -1 recent -1 acclaim -1 publ -1 publ -1 idea -1 saturday -1 saturday -1 prens -1 langu -1 year -1 year -1 decay -1 castr -1 castr -1 newspap -1 woman -1 punish -1 punish -1 deal -1 de -1 peopl -1 lent -1 report -1 sleep -1 sleep -1 strong -1 govern -1 world -1 -2
+janu -1 modern -1 end -1 puig -1 puig -1 puig -1 puig -1 puig -1 puig -1 bertillon -1 fulgencio -1 batist -1 age -1 die -1 die -1 author -1 author -1 short -1 pow -1 cuban -1 cuban -1 call -1 city -1 granm -1 granm -1 exper -1 pre -1 transl -1 transl -1 collaps -1 gift -1 -2
+mansion -1 americ -1 interview -1 interview -1 book -1 book -1 story -1 jose -1 jose -1 thing -1 revolut -1 day -1 latin -1 ask -1 sens -1 great -1 titl -1 knot -1 santiag -1 real -1 thief -1 bread -1 bread -1 brought -1 fidel -1 fear -1 presid -1 sole -1 sole -1 cuba -1 cuba -1 -2
+novel -1 novel -1 offic -1 death -1 death -1 death -1 death -1 soul -1 nativ -1 -2

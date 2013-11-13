@@ -1,0 +1,2 @@
+soybean -1 market -1 grain -1 grain -1 xinjiang -1 shandong -1 provinc -1 provinc -1 provinc -1 provinc -1 henan -1 anhui -1 wholesal -1 wholesal -1 grad -1 grad -1 grad -1 grad -1 grad -1 pric -1 pric -1 pric -1 fujian -1 meihekou -1 meihekou -1 meihekou -1 jiangsu -1 zhengzhou -1 xuzhou -1 chin -1 -2
+chin -1 rice -1 corn -1 qual -1 figur -1 figur -1 figur -1 figur -1 figur -1 figur -1 heilongjiang -1 heilongjiang -1 jilin -1 jilin -1 ton -1 aug -1 aug -1 item -1 hubei -1 fuzhou -1 yuan -1 -2

@@ -1,0 +1,2 @@
+compan -1 market -1 high -1 high -1 suit -1 tobacc -1 tobacc -1 tobacc -1 firm -1 file -1 unit -1 smok -1 gmt -1 anal -1 shar -1 open -1 open -1 industr -1 die -1 lung -1 canc -1 court -1 court -1 court -1 fami -1 insur -1 pre -1 plc -1 marion -1 americ -1 -2
+penc -1 penc -1 includ -1 favor -1 found -1 rule -1 rule -1 superior -1 count -1 trad -1 verdict -1 -2

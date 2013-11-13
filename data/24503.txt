@@ -1,0 +1,4 @@
+stak -1 acquir -1 market -1 tight -1 recent -1 back -1 track -1 stock -1 stock -1 kual -1 clos -1 clos -1 lumpur -1 high -1 high -1 low -1 year -1 composit -1 point -1 point -1 point -1 line -1 line -1 deal -1 deal -1 issu -1 ship -1 percent -1 percent -1 lead -1 -2
+fell -1 pric -1 gain -1 gain -1 index -1 index -1 volum -1 volum -1 million -1 shar -1 shar -1 shar -1 shar -1 end -1 telekom -1 benchmark -1 remain -1 kl -1 renew -1 rise -1 buy -1 buy -1 cent -1 cent -1 cent -1 focus -1 focus -1 focus -1 lose -1 exchang -1 continu -1 -2
+move -1 half -1 khong -1 khong -1 guan -1 guan -1 setron -1 setron -1 gent -1 syed -1 azman -1 rang -1 rang -1 propos -1 tenag -1 led -1 nasion -1 earn -1 malays -1 malays -1 institut -1 corp -1 board -1 board -1 intern -1 blu -1 blu -1 blu -1 chip -1 chip -1 chip -1 -2
+afternoon -1 ringgit -1 ringgit -1 ringgit -1 surg -1 trad -1 -2

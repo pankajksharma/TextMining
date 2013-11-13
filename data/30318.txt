@@ -1,0 +1,2 @@
+payment -1 early -1 market -1 tight -1 tuesday -1 money -1 money -1 clos -1 clos -1 high -1 high -1 rate -1 rate -1 rate -1 stag -1 liquid -1 liquid -1 year -1 julie -1 bank -1 bank -1 billion -1 billion -1 system -1 deal -1 maintain -1 fund -1 yield -1 report -1 percent -1 -2
+govern -1 govern -1 overnight -1 gain -1 thursday -1 thursday -1 end -1 auction -1 stabl -1 rise -1 finish -1 pressur -1 grow -1 inject -1 cent -1 pape -1 hu -1 taiw -1 taiw -1 day -1 wednesday -1 bond -1 bond -1 bond -1 afternoon -1 interbank -1 commerc -1 trad -1 -2

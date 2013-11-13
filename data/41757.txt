@@ -1,0 +1,5 @@
+small -1 comis -1 ag -1 stock -1 year -1 year -1 year -1 privat -1 conserv -1 bank -1 bank -1 bank -1 bank -1 billion -1 billion -1 valor -1 denomin -1 manag -1 manag -1 manag -1 manag -1 manag -1 invest -1 invest -1 invest -1 invest -1 invest -1 nacion -1 list -1 list -1 -2
+list -1 list -1 list -1 list -1 de -1 fund -1 fund -1 fund -1 fund -1 fund -1 fund -1 fund -1 fund -1 fund -1 fund -1 fund -1 fund -1 fund -1 produc -1 approv -1 percent -1 percent -1 local -1 local -1 local -1 introduc -1 requir -1 govern -1 pension -1 pension -1 ros -1 -2
+ros -1 fix -1 canad -1 shar -1 thursday -1 minim -1 end -1 ireland -1 deutsch -1 deutsch -1 deutsch -1 deutsch -1 deutsch -1 deutsch -1 abroad -1 industr -1 off -1 return -1 return -1 grow -1 exchang -1 axel -1 altern -1 plc -1 argentin -1 argentin -1 argentin -1 argentin -1 argentin -1 argentin -1 argentin -1 -2
+direct -1 south -1 bueno -1 bueno -1 americ -1 kind -1 incom -1 incom -1 corpor -1 july -1 rapid -1 sa -1 db -1 instru -1 secur -1 air -1 air -1 dollar -1 bug -1 bond -1 bond -1 bond -1 bond -1 watchdog -1 achief -1 glob -1 robert -1 mutual -1 newsroom -1 add -1 coupl -1 -2
+hope -1 offshor -1 offshor -1 -2

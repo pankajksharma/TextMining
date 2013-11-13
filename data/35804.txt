@@ -1,0 +1,2 @@
+market -1 market -1 market -1 gener -1 cap -1 clos -1 clos -1 liquid -1 countr -1 fresh -1 yen -1 yen -1 privat -1 line -1 invest -1 firm -1 firm -1 firm -1 spot -1 spot -1 spot -1 spot -1 produc -1 anal -1 expect -1 mix -1 mix -1 pric -1 gain -1 brok -1 -2
+futur -1 futur -1 support -1 deliv -1 end -1 long -1 contract -1 expir -1 expir -1 expir -1 expir -1 monday -1 commod -1 august -1 august -1 provid -1 toky -1 toky -1 lot -1 result -1 rub -1 rub -1 rub -1 total -1 friday -1 friday -1 incent -1 trad -1 -2

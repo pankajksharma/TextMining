@@ -1,0 +1,2 @@
+econom -1 vehicl -1 receiv -1 receiv -1 build -1 bank -1 bank -1 agree -1 invest -1 unit -1 unit -1 unit -1 fund -1 fund -1 fund -1 loan -1 loan -1 stat -1 stat -1 stat -1 alger -1 million -1 million -1 million -1 million -1 pow -1 extend -1 financ -1 airport -1 jeddah -1 -2
+petrochem -1 mobil -1 turkey -1 base -1 develop -1 develop -1 islam -1 islam -1 wednesday -1 idb -1 idb -1 kuwait -1 memb -1 memb -1 project -1 project -1 make -1 operat -1 boost -1 mln -1 -2

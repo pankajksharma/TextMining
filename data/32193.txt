@@ -1,0 +1,2 @@
+lull -1 begin -1 german -1 franc -1 mill -1 larg -1 quart -1 sourc -1 report -1 austr -1 expect -1 raw -1 enquir -1 italian -1 main -1 europ -1 european -1 industr -1 increas -1 rise -1 buy -1 buy -1 outstand -1 work -1 continu -1 stir -1 uncov -1 cotton -1 cotton -1 resum -1 -2
+demand -1 fill -1 friday -1 holiday -1 holiday -1 activ -1 fourth -1 assum -1 trad -1 -2

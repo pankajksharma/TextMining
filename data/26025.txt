@@ -1,0 +1,2 @@
+early -1 early -1 market -1 gener -1 stock -1 stock -1 interest -1 rate -1 low -1 point -1 point -1 manag -1 key -1 sourc -1 gmt -1 percent -1 decid -1 nikkei -1 nikkei -1 nikkei -1 overnight -1 jump -1 jump -1 level -1 futur -1 futur -1 support -1 end -1 feder -1 reserv -1 -2
+chicag -1 chicag -1 tone -1 rose -1 posit -1 toky -1 toky -1 direct -1 inspir -1 wednesday -1 osamu -1 wall -1 street -1 septemb -1 secur -1 yamazak -1 japan -1 dow -1 aver -1 aver -1 morn -1 morn -1 trad -1 trad -1 -2

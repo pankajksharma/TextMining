@@ -1,0 +1,2 @@
+usda -1 repret -1 bushel -1 year -1 year -1 week -1 week -1 week -1 week -1 week -1 week -1 week -1 bought -1 ratio -1 ratio -1 ratio -1 ratio -1 hog -1 hog -1 hog -1 end -1 versus -1 versus -1 omah -1 corn -1 corn -1 corn -1 corn -1 corn -1 numb -1 -2
+agricultur -1 depart -1 ago -1 ago -1 aug -1 prev -1 prev -1 lbs -1 steer -1 steer -1 steer -1 -2

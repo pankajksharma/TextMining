@@ -1,0 +1,2 @@
+municip -1 rate -1 rate -1 ad -1 amount -1 invest -1 rec -1 issu -1 rev -1 stat -1 beach -1 beach -1 expect -1 fac -1 a1 -1 a1 -1 fl -1 moody -1 moody -1 fla -1 servic -1 date -1 valorem -1 cty -1 announc -1 palm -1 palm -1 desk -1 park -1 park -1 -2
+sale -1 sale -1 count -1 mln -1 -2

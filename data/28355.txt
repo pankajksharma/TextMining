@@ -1,0 +1,1 @@
+low -1 gmt -1 gmt -1 stat -1 percent -1 amsterdam -1 govern -1 pric -1 pric -1 open -1 dutch -1 dutch -1 daily -1 financ -1 notic -1 minist -1 tap -1 tap -1 tap -1 wednesday -1 septemb -1 held -1 bond -1 due -1 set -1 newsroom -1 sale -1 sale -1 sale -1 -2

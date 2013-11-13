@@ -1,0 +1,5 @@
+ii -1 small -1 cane -1 cane -1 inulin -1 molassas -1 cif -1 cif -1 annex -1 kg -1 kg -1 kg -1 kg -1 kg -1 kg -1 kg -1 kg -1 kg -1 kg -1 kg -1 union -1 month -1 review -1 cover -1 duty -1 duty -1 duty -1 amount -1 manag -1 good -1 -2
+common -1 food -1 suspend -1 beet -1 beet -1 sourc -1 sourc -1 sourc -1 sourc -1 sourc -1 produc -1 usual -1 meet -1 raw -1 raw -1 fix -1 fix -1 fix -1 fix -1 fix -1 fix -1 pric -1 pric -1 busi -1 busi -1 busi -1 eu -1 eu -1 thursday -1 european -1 panel -1 -2
+end -1 ecu -1 ecu -1 ecu -1 ecu -1 ecu -1 ecu -1 ecu -1 ecu -1 ecu -1 ecu -1 ecu -1 ecu -1 maxim -1 remain -1 conclud -1 commit -1 commit -1 commit -1 import -1 import -1 refund -1 refund -1 refund -1 refund -1 refund -1 refund -1 refund -1 refund -1 refund -1 refund -1 -2
+chocol -1 agricultur -1 pre -1 pre -1 pre -1 pre -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 period -1 basi -1 ton -1 ton -1 export -1 wednesday -1 tend -1 item -1 syrup -1 syrup -1 total -1 whit -1 whit -1 whit -1 whit -1 -2
+biscuit -1 set -1 set -1 set -1 set -1 polic -1 releas -1 molass -1 molass -1 bit -1 establ -1 -2

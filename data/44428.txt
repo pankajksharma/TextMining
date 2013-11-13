@@ -1,0 +1,2 @@
+elect -1 credit -1 struck -1 accur -1 kilomet -1 kill -1 schedul -1 fall -1 invest -1 peopl -1 peopl -1 larg -1 comprom -1 west -1 germ -1 produc -1 approv -1 injur -1 govern -1 govern -1 lead -1 digest -1 reut -1 million -1 gather -1 time -1 press -1 press -1 foreign -1 verif -1 -2
+vouch -1 convinc -1 arrog -1 provok -1 nova -1 ten -1 thousand -1 skopj -1 skopj -1 skopj -1 macedon -1 macedon -1 lightn -1 story -1 story -1 aug -1 accept -1 berov -1 makedon -1 friday -1 request -1 oppos -1 dnevnik -1 boycot -1 newsroom -1 mark -1 relig -1 group -1 -2

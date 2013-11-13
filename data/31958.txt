@@ -1,0 +1,2 @@
+early -1 stock -1 stock -1 clos -1 low -1 low -1 low -1 low -1 spread -1 week -1 light -1 light -1 slight -1 nikkei -1 mood -1 reut -1 index -1 index -1 rally -1 volum -1 volum -1 futur -1 futur -1 futur -1 futur -1 thursday -1 end -1 finish -1 commit -1 head -1 -2
+mail -1 sell -1 aug -1 day -1 derivat -1 derivat -1 friday -1 bond -1 sept -1 activ -1 desk -1 drift -1 trad -1 trad -1 -2

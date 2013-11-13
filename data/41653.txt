@@ -1,0 +1,2 @@
+bring -1 calm -1 quiet -1 dlr -1 back -1 clos -1 pip -1 bank -1 bank -1 point -1 firm -1 firm -1 deal -1 int -1 level -1 level -1 futur -1 thursday -1 europ -1 open -1 open -1 end -1 end -1 ecu -1 nation -1 forint -1 forint -1 forint -1 forint -1 stood -1 -2
+off -1 weak -1 provok -1 bid -1 move -1 lot -1 day -1 resist -1 ervin -1 csenger -1 dollar -1 busy -1 yesterday -1 hung -1 hung -1 trad -1 -2

@@ -1,0 +1,2 @@
+stak -1 retail -1 ag -1 ag -1 french -1 french -1 come -1 phot -1 phot -1 unit -1 unit -1 franc -1 week -1 complet -1 complet -1 complet -1 stat -1 stat -1 percent -1 percent -1 name -1 distefor -1 distefor -1 distefor -1 interdiscount -1 interdiscount -1 porst -1 provid -1 nv -1 new -1 -2
+detail -1 plan -1 announc -1 septemb -1 prev -1 zurich -1 editor -1 set -1 process -1 confer -1 spect -1 spect -1 transact -1 hold -1 hold -1 sale -1 sale -1 sale -1 belg -1 group -1 -2

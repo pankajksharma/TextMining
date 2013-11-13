@@ -1,0 +1,3 @@
+pesc -1 mexic -1 mexic -1 mexic -1 la -1 landfal -1 landfal -1 inch -1 rain -1 point -1 noraml -1 wsc -1 gulf -1 mudsl -1 west -1 ship -1 southeast -1 tampic -1 east -1 local -1 expect -1 expect -1 storm -1 level -1 feet -1 hour -1 sw -1 flood -1 flood -1 cent -1 -2
+veracruz -1 warn -1 warn -1 continu -1 servic -1 move -1 heavy -1 heavy -1 signif -1 near -1 mile -1 southwestern -1 threat -1 corp -1 caus -1 hurrican -1 hurrican -1 hurrican -1 dolly -1 dolly -1 dolly -1 weather -1 make -1 mph -1 mph -1 mph -1 wind -1 wind -1 add -1 northw -1 top -1 -2
+top -1 tide -1 surg -1 -2

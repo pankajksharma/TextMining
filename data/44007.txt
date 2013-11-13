@@ -1,0 +1,2 @@
+compan -1 acquir -1 acquir -1 tech -1 pagestar -1 pagestar -1 pagestar -1 pagestar -1 lipm -1 bronk -1 chess -1 term -1 page -1 turn -1 wire -1 wire -1 deal -1 remot -1 remot -1 unit -1 mean -1 telephon -1 satel -1 satel -1 satel -1 control -1 control -1 control -1 control -1 control -1 -2
+techn -1 techn -1 techn -1 remain -1 replac -1 call -1 undisclos -1 chief -1 patent -1 simpl -1 electr -1 stev -1 post -1 friday -1 switch -1 switch -1 switch -1 presid -1 presid -1 operat -1 eric -1 assum -1 transact -1 offic -1 sign -1 -2

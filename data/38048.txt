@@ -1,0 +1,2 @@
+launch -1 credit -1 refinanc -1 hypothecair -1 french -1 interest -1 ffr -1 bp -1 sep -1 full -1 jun -1 agricol -1 pari -1 pari -1 april -1 manag -1 borrow -1 list -1 de -1 de -1 de -1 franc -1 spread -1 straight -1 govt -1 oat -1 pay -1 lead -1 pric -1 matur -1 -2
+banqu -1 caiss -1 caiss -1 coupon -1 typ -1 national -1 national -1 crh -1 crh -1 london -1 bln -1 bln -1 note -1 underl -1 date -1 day -1 announc -1 joint -1 june -1 bond -1 bond -1 bond -1 newsroom -1 add -1 accru -1 amt -1 iss -1 reoff -1 fee -1 origin -1 mln -1 -2

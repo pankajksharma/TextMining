@@ -1,0 +1,3 @@
+conc -1 year -1 mgr -1 agent -1 hawkin -1 bank -1 york -1 york -1 ny -1 amount -1 alban -1 alban -1 issu -1 issu -1 yield -1 stat -1 pay -1 dodg -1 treasur -1 st -1 st -1 aaa -1 aaa -1 aaa -1 avg -1 pric -1 ult -1 exempt -1 dtd -1 sr -1 -2
+cpn -1 sp -1 deliv -1 nic -1 nic -1 mos -1 bbi -1 dist -1 ambac -1 time -1 coupon -1 call -1 call -1 qual -1 city -1 city -1 city -1 entry -1 lockport -1 lockport -1 lockport -1 approx -1 bid -1 bid -1 sch -1 district -1 district -1 date -1 school -1 school -1 school -1 -2
+fgic -1 yrs -1 cusip -1 book -1 delafield -1 evens -1 corp -1 nyc -1 enhanc -1 na -1 na -1 dollar -1 due -1 hr -1 amt -1 wood -1 ord -1 sale -1 tax -1 -2

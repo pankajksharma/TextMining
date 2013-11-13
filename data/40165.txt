@@ -1,0 +1,2 @@
+refer -1 sery -1 sery -1 sep -1 bank -1 bank -1 trust -1 trust -1 war -1 war -1 spot -1 list -1 issu -1 issu -1 reut -1 pric -1 pric -1 european -1 matur -1 min -1 call -1 london -1 strik -1 plc -1 thousand -1 gear -1 date -1 lot -1 paydat -1 aug -1 -2
+exer -1 prem -1 intern -1 total -1 styl -1 due -1 set -1 minfin -1 minfin -1 newsroom -1 lux -1 pct -1 pct -1 pct -1 pct -1 -2

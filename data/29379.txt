@@ -1,0 +1,4 @@
+mechan -1 approach -1 econom -1 econom -1 starck -1 tuesday -1 high -1 union -1 rate -1 fair -1 even -1 monet -1 currenc -1 review -1 review -1 start -1 bank -1 bank -1 bank -1 bank -1 manag -1 supervis -1 supervis -1 supervis -1 supervis -1 supervis -1 finland -1 finland -1 finland -1 week -1 -2
+week -1 week -1 week -1 issu -1 gmt -1 meet -1 meet -1 meet -1 erm -1 erm -1 erm -1 erm -1 erm -1 erm -1 govern -1 govern -1 decid -1 helsink -1 markk -1 markk -1 markk -1 reut -1 float -1 act -1 telephon -1 futur -1 thursday -1 strength -1 paav -1 lippon -1 made -1 -2
+made -1 made -1 told -1 cent -1 exchang -1 prim -1 declin -1 minist -1 move -1 parlia -1 front -1 emu -1 emu -1 propos -1 propos -1 peg -1 link -1 ilkk -1 justif -1 person -1 wednesday -1 septemb -1 pass -1 comment -1 board -1 board -1 board -1 board -1 board -1 remark -1 regard -1 -2
+subject -1 chairm -1 newsroom -1 pete -1 offic -1 kanerv -1 kanerv -1 kanerv -1 -2

@@ -1,0 +1,3 @@
+metal -1 fire -1 scaffold -1 scaffold -1 scaffold -1 floor -1 train -1 tuesday -1 entir -1 sack -1 hospit -1 build -1 grand -1 york -1 peopl -1 peopl -1 peopl -1 treat -1 pile -1 east -1 injur -1 injur -1 injur -1 injur -1 pedestr -1 manhat -1 rest -1 snarl -1 termin -1 author -1 -2
+author -1 car -1 traff -1 side -1 bury -1 cent -1 landmark -1 cement -1 edt -1 depart -1 nearb -1 nearb -1 collaps -1 collaps -1 collaps -1 collaps -1 corrug -1 scen -1 brick -1 includ -1 street -1 street -1 ran -1 station -1 avenu -1 fram -1 busy -1 midtown -1 bellevu -1 park -1 offic -1 -2
+offic -1 block -1 block -1 -2

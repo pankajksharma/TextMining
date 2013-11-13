@@ -1,0 +1,2 @@
+payment -1 newsdesk -1 credit -1 credit -1 credit -1 facil -1 facil -1 facil -1 year -1 year -1 term -1 receiv -1 receiv -1 receiv -1 agree -1 amount -1 unit -1 quart -1 pay -1 ter -1 ter -1 ter -1 ter -1 time -1 chicag -1 rise -1 nitrogen -1 nitrogen -1 base -1 earn -1 -2
+result -1 wednesday -1 reduc -1 reduc -1 cancel -1 account -1 account -1 upfront -1 enter -1 distribut -1 distribut -1 -2

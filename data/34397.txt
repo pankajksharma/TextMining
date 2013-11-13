@@ -1,0 +1,2 @@
+newsdesk -1 deck -1 deck -1 deck -1 deck -1 suit -1 lawsuit -1 produc -1 produc -1 colem -1 colem -1 reut -1 million -1 jury -1 monday -1 chin -1 win -1 feder -1 chicag -1 august -1 import -1 infring -1 infring -1 award -1 court -1 patent -1 patent -1 patent -1 claim -1 snakelight -1 -2
+flashlight -1 corp -1 virgin -1 black -1 black -1 black -1 involut -1 favor -1 flexibl -1 rule -1 brought -1 disput -1 -2

@@ -1,0 +1,2 @@
+payment -1 payment -1 record -1 record -1 year -1 year -1 billion -1 billion -1 capit -1 italy -1 italy -1 balanc -1 balanc -1 italian -1 lire -1 lire -1 foreign -1 exchang -1 move -1 bop -1 date -1 date -1 july -1 july -1 july -1 july -1 total -1 june -1 offic -1 surplus -1 -2
+surplus -1 -2

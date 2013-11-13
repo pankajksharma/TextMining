@@ -1,0 +1,5 @@
+bullion -1 bullion -1 market -1 market -1 market -1 gener -1 stock -1 stock -1 clos -1 clos -1 clos -1 clos -1 clos -1 clos -1 clos -1 indic -1 indic -1 indic -1 high -1 high -1 high -1 low -1 low -1 dec -1 tabl -1 shown -1 bracket -1 midday -1 jul -1 jul -1 -2
+jul -1 jul -1 currenc -1 jun -1 mar -1 yen -1 yen -1 frankfurt -1 frankfurt -1 pari -1 pari -1 apr -1 apr -1 york -1 york -1 sydney -1 sydney -1 point -1 point -1 feb -1 feb -1 feb -1 cac -1 seng -1 key -1 key -1 germ -1 gmt -1 fts -1 nikkei -1 world -1 -2
+jan -1 jan -1 jan -1 jan -1 jan -1 index -1 index -1 index -1 index -1 index -1 ordin -1 show -1 industr -1 gold -1 gold -1 gold -1 time -1 foreign -1 exchang -1 exchang -1 austral -1 london -1 london -1 london -1 london -1 move -1 pound -1 pound -1 toky -1 toky -1 date -1 -2
+valu -1 aug -1 aug -1 aug -1 day -1 day -1 day -1 prev -1 ounc -1 hong -1 hong -1 kong -1 kong -1 dax -1 dollar -1 dollar -1 dollar -1 brit -1 japan -1 major -1 chang -1 chang -1 dow -1 jone -1 aver -1 aver -1 late -1 holiday -1 holiday -1 mark -1 mark -1 -2
+hang -1 -2

@@ -1,0 +1,2 @@
+retail -1 econom -1 econom -1 perform -1 perform -1 month -1 month -1 bank -1 produc -1 produc -1 percent -1 percent -1 percent -1 percent -1 percent -1 janu -1 index -1 index -1 index -1 index -1 industr -1 industr -1 made -1 rose -1 rose -1 rose -1 rose -1 rose -1 import -1 work -1 -2
+work -1 compon -1 numb -1 numb -1 figur -1 note -1 base -1 july -1 july -1 july -1 july -1 july -1 july -1 june -1 chang -1 israel -1 israel -1 israel -1 sale -1 lag -1 pct -1 -2

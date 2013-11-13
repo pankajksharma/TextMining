@@ -1,0 +1,2 @@
+market -1 stock -1 receiv -1 privat -1 privat -1 bank -1 lisbon -1 portug -1 portug -1 de -1 suspend -1 suspend -1 suspend -1 suspend -1 gmt -1 percent -1 govern -1 banc -1 escudo -1 escudo -1 pric -1 shar -1 shar -1 shar -1 give -1 off -1 financ -1 financ -1 commit -1 foment -1 -2
+exterior -1 bfe -1 bfe -1 offer -1 minist -1 new -1 cmvm -1 detail -1 announc -1 spokesm -1 bours -1 confer -1 trad -1 trad -1 -2

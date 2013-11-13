@@ -1,0 +1,2 @@
+credit -1 credit -1 union -1 union -1 yen -1 yen -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 billion -1 trust -1 unit -1 pump -1 capit -1 loan -1 stat -1 decid -1 bill -1 collect -1 collect -1 busi -1 thursday -1 deposit -1 increas -1 consid -1 financ -1 inject -1 -2
+insur -1 parlia -1 bln -1 fail -1 fail -1 toky -1 job -1 kyod -1 corp -1 corp -1 resolut -1 resolut -1 resolut -1 reorgan -1 pass -1 bad -1 asset -1 asset -1 june -1 japan -1 japan -1 japan -1 set -1 version -1 dic -1 dic -1 ord -1 origin -1 -2

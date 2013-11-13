@@ -1,0 +1,2 @@
+early -1 market -1 recent -1 back -1 tuesday -1 stock -1 clos -1 record -1 high -1 high -1 perform -1 perform -1 low -1 low -1 creep -1 disappoint -1 start -1 start -1 point -1 poor -1 week -1 yield -1 percent -1 fts -1 level -1 shar -1 shar -1 shar -1 shar -1 open -1 -2
+long -1 long -1 techn -1 weekend -1 time -1 weak -1 spark -1 london -1 sharp -1 posit -1 retrench -1 markdown -1 session -1 wall -1 wall -1 street -1 street -1 string -1 unabl -1 uk -1 friday -1 bond -1 weigh -1 holiday -1 hold -1 trad -1 -2

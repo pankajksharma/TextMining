@@ -1,0 +1,2 @@
+compan -1 market -1 tech -1 tech -1 tech -1 ag -1 tuesday -1 drug -1 hospit -1 pharmac -1 pharmac -1 pharmac -1 thioridazin -1 thioridazin -1 hydrochlor -1 receiv -1 mellaril -1 food -1 approv -1 approv -1 approv -1 administ -1 solut -1 solut -1 equival -1 care -1 fda -1 wide -1 corp -1 pharmaceutic -1 -2
+item -1 sandoz -1 sandoz -1 penetr -1 manufactur -1 oral -1 nur -1 -2

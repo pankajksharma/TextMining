@@ -1,0 +1,2 @@
+market -1 market -1 market -1 money -1 year -1 year -1 billion -1 billion -1 billion -1 govern -1 govern -1 million -1 million -1 leav -1 leav -1 expir -1 nation -1 nation -1 bureau -1 initiat -1 rise -1 austral -1 cut -1 cut -1 work -1 work -1 spend -1 spend -1 canber -1 canber -1 -2
+program -1 program -1 program -1 save -1 announc -1 labor -1 labor -1 labor -1 prev -1 effect -1 cancel -1 budget -1 budget -1 budget -1 slash -1 slash -1 due -1 -2

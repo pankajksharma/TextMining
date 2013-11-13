@@ -1,0 +1,3 @@
+early -1 early -1 bratislav -1 bratislav -1 bratislav -1 small -1 marian -1 onder -1 lenc -1 sunday -1 month -1 own -1 kill -1 kill -1 currenc -1 agent -1 duty -1 blast -1 blast -1 blast -1 booth -1 booth -1 interior -1 capit -1 report -1 injur -1 reut -1 hour -1 monday -1 monday -1 -2
+area -1 unspecif -1 damag -1 extend -1 car -1 car -1 foreign -1 explod -1 told -1 cent -1 cent -1 exchang -1 quot -1 minist -1 tasr -1 burn -1 policem -1 policem -1 policem -1 fatal -1 depart -1 intimid -1 new -1 neighbor -1 attack -1 attack -1 day -1 explos -1 explos -1 pass -1 bomb -1 -2
+bomb -1 bomb -1 bomb -1 spokesm -1 tesc -1 mart -1 destroy -1 stor -1 stor -1 morn -1 slovak -1 pete -1 campaign -1 park -1 offic -1 -2

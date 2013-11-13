@@ -1,0 +1,4 @@
+market -1 tight -1 sparrow -1 vaccin -1 vaccin -1 ailment -1 carry -1 bacter -1 union -1 union -1 fast -1 way -1 burg -1 burg -1 bird -1 bird -1 bird -1 willem -1 affect -1 affect -1 spread -1 spread -1 human -1 afric -1 afric -1 produc -1 report -1 percent -1 expect -1 govern -1 -2
+lead -1 lead -1 rest -1 futur -1 outbreak -1 outbreak -1 brok -1 europ -1 european -1 european -1 monday -1 area -1 import -1 cape -1 lose -1 safe -1 veterin -1 quot -1 assoc -1 assoc -1 farm -1 farm -1 farm -1 hide -1 diseas -1 diseas -1 diseas -1 diseas -1 meat -1 meat -1 meat -1 -2
+meat -1 ostrich -1 ostrich -1 ostrich -1 ostrich -1 ostrich -1 steak -1 south -1 feather -1 virul -1 base -1 export -1 export -1 export -1 consum -1 quarantin -1 unusual -1 wild -1 coop -1 regulat -1 account -1 criticis -1 unpredict -1 eastern -1 hit -1 don -1 meant -1 karoo -1 oudtshoorn -1 compuls -1 newcastl -1 -2
+newcastl -1 respir -1 -2

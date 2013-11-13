@@ -1,0 +1,4 @@
+early -1 early -1 early -1 market -1 market -1 recent -1 unexpect -1 heav -1 struck -1 target -1 stock -1 clos -1 clos -1 record -1 high -1 rate -1 rate -1 perform -1 brief -1 term -1 data -1 data -1 point -1 point -1 overcom -1 good -1 firm -1 invest -1 pave -1 week -1 -2
+germ -1 strong -1 strong -1 strong -1 fts -1 expect -1 overnight -1 big -1 pric -1 pric -1 gain -1 index -1 rally -1 ubs -1 thursday -1 shar -1 shar -1 shar -1 european -1 remain -1 tone -1 hurt -1 short -1 short -1 durabl -1 pressur -1 shav -1 cut -1 london -1 london -1 london -1 -2
+quick -1 figur -1 brown -1 part -1 consolid -1 underl -1 tim -1 sell -1 july -1 day -1 jit -1 wall -1 wall -1 wall -1 ultr -1 street -1 street -1 street -1 blu -1 chip -1 brit -1 brit -1 brit -1 friday -1 major -1 hit -1 shrug -1 strateg -1 bundesbank -1 weigh -1 moderat -1 -2
+surpr -1 hope -1 drov -1 peak -1 peak -1 sale -1 trad -1 trad -1 influ -1 -2

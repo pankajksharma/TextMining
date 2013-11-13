@@ -1,0 +1,3 @@
+televis -1 medal -1 month -1 stag -1 year -1 team -1 team -1 team -1 start -1 physic -1 spain -1 spain -1 spain -1 spain -1 individual -1 de -1 cycl -1 franc -1 week -1 ment -1 stat -1 atlant -1 decid -1 decid -1 maur -1 end -1 vacat -1 didn -1 gold -1 gold -1 -2
+win -1 time -1 time -1 time -1 olymp -1 told -1 tour -1 tour -1 tour -1 tour -1 tour -1 tour -1 won -1 won -1 part -1 part -1 plan -1 wednesday -1 septemb -1 accept -1 miguel -1 reluc -1 reluc -1 indurain -1 indurain -1 indurain -1 indurain -1 indurain -1 banest -1 burgo -1 melchor -1 -2
+trial -1 valent -1 -2

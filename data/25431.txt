@@ -1,0 +1,2 @@
+floor -1 tuesday -1 tuesday -1 stock -1 clos -1 screen -1 start -1 sydney -1 sydney -1 system -1 deal -1 gmt -1 gmt -1 gmt -1 gmt -1 gmt -1 gmt -1 gmt -1 overnight -1 futur -1 hour -1 open -1 open -1 open -1 remain -1 feder -1 rtr -1 exchang -1 exchang -1 austral -1 -2
+austral -1 continu -1 session -1 july -1 budget -1 budget -1 budget -1 june -1 sfe -1 sfe -1 sfe -1 sfe -1 late -1 late -1 releas -1 newsroom -1 operat -1 norm -1 sycom -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

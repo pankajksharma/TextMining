@@ -1,0 +1,2 @@
+gilt -1 market -1 econom -1 track -1 interest -1 rate -1 low -1 low -1 data -1 point -1 point -1 equit -1 gmt -1 strong -1 fts -1 fts -1 fts -1 fts -1 expect -1 reignit -1 lead -1 advanc -1 fell -1 index -1 futur -1 futur -1 shar -1 trig -1 open -1 open -1 -2
+outpac -1 feder -1 reserv -1 rais -1 lose -1 margin -1 declin -1 sharp -1 sell -1 wall -1 wall -1 septemb -1 septemb -1 street -1 street -1 uk -1 worldw -1 set -1 broad -1 releas -1 fear -1 yesterday -1 -2

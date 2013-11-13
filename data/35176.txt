@@ -1,0 +1,2 @@
+karel -1 market -1 market -1 market -1 quiet -1 quiet -1 back -1 occur -1 high -1 cif -1 cif -1 week -1 sourc -1 report -1 strong -1 luim -1 busi -1 brok -1 futur -1 rotterdam -1 european -1 european -1 open -1 protein -1 deliv -1 afloat -1 dutch -1 remain -1 remain -1 chicag -1 -2
+weak -1 feed -1 feed -1 call -1 pellet -1 pellet -1 nearb -1 nearb -1 soymeal -1 soymeal -1 soymeal -1 argentin -1 ton -1 ton -1 ton -1 fob -1 hand -1 dollar -1 faith -1 chang -1 sept -1 meal -1 afternoon -1 afternoon -1 coupl -1 trad -1 trad -1 trad -1 -2

@@ -1,0 +1,2 @@
+stay -1 lce -1 clos -1 month -1 march -1 low -1 low -1 low -1 dec -1 octob -1 octob -1 pari -1 decemb -1 decemb -1 spread -1 end -1 end -1 contract -1 buy -1 finish -1 finish -1 weak -1 weak -1 cent -1 cent -1 cent -1 london -1 london -1 front -1 sugar -1 -2
+sugar -1 lot -1 ton -1 turnov -1 session -1 dominat -1 oct -1 oct -1 whit -1 whit -1 newsroom -1 switch -1 activ -1 sidelin -1 trad -1 trad -1 -2

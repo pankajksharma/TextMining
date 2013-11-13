@@ -1,0 +1,4 @@
+mortar -1 immed -1 peac -1 kill -1 ali -1 provinc -1 peopl -1 sworn -1 govern -1 govern -1 afgh -1 afgh -1 afgh -1 afgh -1 afgh -1 vict -1 taleb -1 taleb -1 taleb -1 taleb -1 taleb -1 taleb -1 rebel -1 oppon -1 main -1 seiz -1 instal -1 tank -1 thursday -1 press -1 -2
+oust -1 loyal -1 wound -1 forc -1 quot -1 prim -1 prim -1 minist -1 minist -1 servic -1 move -1 artill -1 aip -1 aip -1 kabul -1 pakist -1 afghanist -1 afghanist -1 burhanuddin -1 new -1 rabban -1 rabban -1 pakistan -1 hezb -1 hezb -1 claim -1 hekmatyar -1 hekmatyar -1 rejoin -1 northwestern -1 base -1 -2
+base -1 base -1 base -1 contact -1 milit -1 milit -1 paktia -1 peshawar -1 khel -1 gulbaddin -1 purist -1 islam -1 islam -1 islam -1 islam -1 islam -1 wednesday -1 town -1 account -1 spokesm -1 men -1 piec -1 pro -1 june -1 eastern -1 eastern -1 dozen -1 add -1 fight -1 fight -1 fight -1 -2
+pact -1 presid -1 faction -1 captur -1 captur -1 ord -1 offic -1 independ -1 -2

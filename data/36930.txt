@@ -1,0 +1,4 @@
+limit -1 limit -1 tight -1 draw -1 clear -1 econom -1 brady -1 brady -1 brady -1 tuesday -1 tuesday -1 reach -1 month -1 bank -1 bank -1 bank -1 agree -1 billion -1 billion -1 tie -1 appoint -1 swap -1 swap -1 maintain -1 seek -1 brasil -1 comprom -1 michael -1 debt -1 christie -1 -2
+meet -1 bill -1 bill -1 bill -1 bill -1 legisat -1 panel -1 panel -1 control -1 vilson -1 kleinub -1 requiao -1 author -1 author -1 commit -1 commit -1 orgin -1 cent -1 cent -1 cent -1 sever -1 convinc -1 ago -1 altern -1 altern -1 altern -1 draft -1 draft -1 restructur -1 senat -1 senat -1 -2
+senat -1 senat -1 senat -1 senat -1 senat -1 senat -1 put -1 put -1 brazil -1 brazil -1 program -1 program -1 date -1 propos -1 propos -1 propos -1 vote -1 vote -1 vote -1 affair -1 ask -1 hand -1 legisl -1 present -1 demand -1 bond -1 bond -1 request -1 robert -1 set -1 set -1 -2
+newsroom -1 presid -1 operat -1 advant -1 buyback -1 buyback -1 buyback -1 -2

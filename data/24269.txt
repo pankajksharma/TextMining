@@ -1,0 +1,2 @@
+market -1 clos -1 bank -1 bank -1 bank -1 deal -1 strong -1 brok -1 sold -1 flat -1 flat -1 support -1 end -1 venezuel -1 venezuel -1 cent -1 specul -1 buoy -1 buoy -1 led -1 bolivar -1 bolivar -1 cenbank -1 sile -1 session -1 ramirez -1 fierc -1 carac -1 day -1 day -1 -2
+demand -1 dollar -1 dollar -1 dollar -1 morn -1 set -1 newsroom -1 add -1 activ -1 interbank -1 interbank -1 sale -1 ceil -1 trad -1 trad -1 trad -1 -2

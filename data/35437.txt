@@ -1,0 +1,2 @@
+market -1 disclos -1 floor -1 hous -1 stock -1 stock -1 broker -1 immed -1 data -1 data -1 data -1 spk -1 menkul -1 suspend -1 suspend -1 suspend -1 capit -1 kiymetl -1 brokor -1 monday -1 ise -1 ise -1 ise -1 reason -1 exchang -1 exchang -1 ticaret -1 turkey -1 base -1 istanbul -1 -2
+istanbul -1 istanbul -1 comment -1 board -1 operat -1 offic -1 -2

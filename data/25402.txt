@@ -1,0 +1,3 @@
+mgt -1 conc -1 praecip -1 limit -1 emtn -1 sep -1 sep -1 year -1 year -1 full -1 und -1 manag -1 borrow -1 list -1 de -1 spread -1 issu -1 straight -1 aa -1 pay -1 pay -1 lead -1 home -1 dnib -1 pric -1 law -1 moody -1 aa3 -1 million -1 matur -1 -2
+ecu -1 ecu -1 coupon -1 typ -1 national -1 prov -1 engl -1 forc -1 london -1 step -1 note -1 note -1 program -1 date -1 sell -1 announc -1 kredietbank -1 gov -1 bond -1 bond -1 set -1 newsroom -1 investeringsbank -1 amt -1 iss -1 reoff -1 lux -1 freq -1 denom -1 fee -1 neg -1 -2
+sale -1 plg -1 crs -1 tax -1 deflt -1 maj -1 ctry -1 pct -1 mln -1 -2

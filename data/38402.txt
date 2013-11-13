@@ -1,0 +1,4 @@
+compan -1 early -1 elect -1 amend -1 accur -1 alleg -1 tuesday -1 saturday -1 month -1 year -1 octob -1 rai -1 start -1 jabe -1 qaba -1 aam -1 watan -1 live -1 line -1 mid -1 invest -1 prison -1 prison -1 interior -1 fund -1 sourc -1 report -1 report -1 comoro -1 percent -1 -2
+prob -1 lead -1 digest -1 protect -1 world -1 al -1 al -1 al -1 al -1 al -1 al -1 reut -1 defend -1 defend -1 law -1 contract -1 contract -1 discuss -1 discuss -1 cabinet -1 area -1 sabah -1 rise -1 bilater -1 press -1 press -1 public -1 pow -1 investig -1 commit -1 verif -1 -2
+vouch -1 minist -1 minist -1 minist -1 sheikh -1 visit -1 visit -1 strik -1 strik -1 parlia -1 parlia -1 parlia -1 organ -1 story -1 story -1 inmat -1 aug -1 gave -1 result -1 relat -1 regulat -1 kuwait -1 kuwait -1 kuwait -1 kuwait -1 project -1 demand -1 irregul -1 suppl -1 cond -1 set -1 -2
+presid -1 emir -1 ahmad -1 hung -1 hung -1 offic -1 commerc -1 trad -1 restrict -1 -2

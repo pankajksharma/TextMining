@@ -1,0 +1,2 @@
+rsi -1 stock -1 clos -1 data -1 expon -1 expon -1 indicat -1 indicat -1 main -1 main -1 pric -1 shar -1 greek -1 greek -1 techn -1 techn -1 momentum -1 move -1 move -1 move -1 move -1 move -1 move -1 fact -1 fact -1 dimitr -1 kontogian -1 athen -1 base -1 aug -1 -2
+day -1 day -1 day -1 day -1 day -1 aver -1 aver -1 aver -1 aver -1 aver -1 aver -1 newsroom -1 smooth -1 smooth -1 -2

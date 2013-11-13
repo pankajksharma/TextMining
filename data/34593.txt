@@ -1,0 +1,4 @@
+market -1 market -1 market -1 market -1 market -1 market -1 market -1 market -1 market -1 money -1 clos -1 high -1 rate -1 rate -1 rate -1 nerv -1 bank -1 bank -1 trend -1 turn -1 firm -1 firm -1 deal -1 deal -1 deal -1 deal -1 deal -1 nairob -1 spread -1 week -1 -2
+week -1 shill -1 shill -1 shill -1 shill -1 shill -1 percent -1 strong -1 local -1 expect -1 interv -1 overnight -1 sent -1 level -1 grip -1 mood -1 gain -1 million -1 strength -1 open -1 open -1 push -1 push -1 end -1 pull -1 keny -1 keny -1 keny -1 monday -1 monday -1 edg -1 -2
+prevail -1 pressur -1 pressur -1 cent -1 cent -1 play -1 pound -1 cbk -1 put -1 put -1 widen -1 export -1 export -1 dry -1 post -1 post -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 friday -1 friday -1 friday -1 aver -1 newsroom -1 add -1 sap -1 activ -1 -2
+activ -1 region -1 reflect -1 sale -1 sale -1 sale -1 -2

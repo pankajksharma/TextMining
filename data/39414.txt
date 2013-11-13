@@ -1,0 +1,2 @@
+grain -1 grain -1 data -1 yield -1 stat -1 percent -1 bunk -1 bunk -1 bunk -1 dmitr -1 million -1 million -1 million -1 million -1 crop -1 solovyov -1 russia -1 statist -1 area -1 area -1 area -1 august -1 harvest -1 harvest -1 harvest -1 excl -1 commit -1 maiz -1 cut -1 cut -1 -2
+thresh -1 thresh -1 sown -1 sown -1 weight -1 weight -1 weight -1 russian -1 russian -1 moscow -1 hectar -1 hectar -1 hectar -1 ton -1 ton -1 ton -1 aug -1 aug -1 wednesday -1 releas -1 newsroom -1 pace -1 pct -1 pct -1 pct -1 mln -1 -2

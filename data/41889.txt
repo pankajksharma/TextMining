@@ -1,0 +1,2 @@
+thin -1 gas -1 gas -1 firm -1 report -1 strong -1 bunk -1 bunk -1 bunk -1 bunk -1 cst -1 cst -1 cst -1 cst -1 level -1 pric -1 pric -1 pric -1 pric -1 pric -1 thursday -1 support -1 deliv -1 mdo -1 mdo -1 unq -1 oil -1 oil -1 stead -1 singapor -1 -2
+singapor -1 singapor -1 singapor -1 singapor -1 quot -1 quot -1 quot -1 final -1 ton -1 aug -1 result -1 shipown -1 comment -1 carg -1 carg -1 major -1 major -1 newsroom -1 sidelin -1 trad -1 independ -1 -2

@@ -1,0 +1,1 @@
+usda -1 market -1 newsdesk -1 quiet -1 quiet -1 inquir -1 cattl -1 cattl -1 week -1 light -1 confirm -1 confirm -1 confirm -1 kans -1 slaught -1 contract -1 chicag -1 head -1 feedlot -1 heif -1 date -1 formul -1 prev -1 demand -1 steer -1 sale -1 sale -1 sale -1 trad -1 -2

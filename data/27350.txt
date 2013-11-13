@@ -1,0 +1,2 @@
+metal -1 back -1 bmt -1 bmt -1 month -1 low -1 year -1 writ -1 fax -1 deprec -1 deprec -1 franc -1 gross -1 gross -1 slight -1 slight -1 stat -1 expect -1 cash -1 cash -1 million -1 brussel -1 control -1 remain -1 stead -1 belgian -1 belgian -1 current -1 rise -1 off -1 -2
+goodwill -1 rose -1 flow -1 flow -1 margin -1 improv -1 half -1 pre -1 pre -1 groep -1 groep -1 note -1 cost -1 h1 -1 turnov -1 turnov -1 profit -1 result -1 june -1 newsroom -1 tax -1 tax -1 group -1 pct -1 -2

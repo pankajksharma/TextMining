@@ -1,0 +1,4 @@
+gilt -1 penny -1 market -1 hous -1 unexpect -1 econom -1 econom -1 back -1 clos -1 record -1 high -1 high -1 rate -1 perform -1 data -1 point -1 unit -1 deal -1 deal -1 deal -1 deal -1 annual -1 slight -1 slight -1 gmt -1 yield -1 yield -1 percent -1 percent -1 percent -1 -2
+percent -1 percent -1 strong -1 strong -1 strong -1 govern -1 treasur -1 jump -1 home -1 home -1 senan -1 q2 -1 level -1 level -1 level -1 hogan -1 pric -1 pric -1 pric -1 show -1 show -1 futur -1 denmark -1 thursday -1 european -1 end -1 long -1 stead -1 stead -1 stead -1 tone -1 -2
+tone -1 short -1 weak -1 rose -1 pret -1 declin -1 peripher -1 gdp -1 upward -1 fami -1 pape -1 penc -1 revis -1 july -1 july -1 day -1 wednesday -1 wednesday -1 wednesday -1 uk -1 held -1 irish -1 irish -1 bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 hit -1 shrug -1 -2
+aver -1 due -1 due -1 late -1 negat -1 afternoon -1 newsroom -1 singl -1 cimb -1 sale -1 sale -1 sale -1 dublin -1 trad -1 trad -1 -2

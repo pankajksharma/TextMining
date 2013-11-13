@@ -1,0 +1,1 @@
+record -1 amount -1 quart -1 bancorp -1 pay -1 increas -1 prior -1 payout -1 secur -1 sept -1 sept -1 late -1 regul -1 -2

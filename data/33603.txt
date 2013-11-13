@@ -1,0 +1,4 @@
+armstrong -1 back -1 back -1 rank -1 sunday -1 sunday -1 cup -1 cup -1 cup -1 cup -1 race -1 year -1 year -1 grand -1 point -1 point -1 leed -1 turn -1 unit -1 cycl -1 cycl -1 straight -1 stat -1 italy -1 britain -1 lead -1 lead -1 sprint -1 sprint -1 sprint -1 -2
+vict -1 vict -1 km -1 second -1 vault -1 world -1 world -1 world -1 world -1 world -1 italian -1 defend -1 ferrigat -1 ferrigat -1 ferrigat -1 ferrigat -1 bartol -1 museeuw -1 museeuw -1 class -1 hour -1 round -1 sciandr -1 oerlikon -1 weekend -1 swiss -1 win -1 win -1 win -1 win -1 win -1 -2
+win -1 time -1 narrow -1 past -1 met -1 clock -1 champ -1 champ -1 pack -1 margin -1 fade -1 continu -1 success -1 quick -1 front -1 prix -1 ride -1 settl -1 final -1 final -1 lap -1 simil -1 andrea -1 velodrom -1 minut -1 post -1 sixth -1 johan -1 lanc -1 michel -1 command -1 -2
+fourth -1 compatriot -1 max -1 hold -1 surg -1 belg -1 -2

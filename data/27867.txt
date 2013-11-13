@@ -1,0 +1,4 @@
+stak -1 maryland -1 elect -1 jersey -1 launch -1 econom -1 flight -1 bolst -1 carry -1 drug -1 high -1 dc -1 rate -1 year -1 adapt -1 page -1 page -1 homic -1 morristown -1 fall -1 system -1 downs -1 cris -1 week -1 today -1 percent -1 benefic -1 troop -1 digest -1 bill -1 -2
+aid -1 seiz -1 pastor -1 grozn -1 face -1 chech -1 princ -1 feder -1 area -1 august -1 press -1 public -1 pow -1 stood -1 return -1 past -1 rid -1 offend -1 cent -1 city -1 continu -1 prim -1 escalat -1 washington -1 washington -1 washington -1 washington -1 washington -1 washington -1 crim -1 russian -1 -2
+georg -1 moscow -1 front -1 doubl -1 bori -1 yeltsin -1 permit -1 claim -1 school -1 kremlin -1 laborat -1 story -1 aug -1 struggl -1 commun -1 survey -1 post -1 post -1 great -1 suburb -1 suburb -1 clinton -1 separat -1 risky -1 republ -1 teen -1 presid -1 presid -1 presid -1 absent -1 top -1 -2
+ideal -1 mute -1 offic -1 count -1 prepar -1 -2

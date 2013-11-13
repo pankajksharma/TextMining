@@ -1,0 +1,2 @@
+acquir -1 retail -1 kohl -1 clos -1 clos -1 squar -1 feet -1 million -1 million -1 compr -1 aggreg -1 leas -1 leas -1 approxim -1 area -1 met -1 purchas -1 purchas -1 purchas -1 propert -1 realt -1 clov -1 clov -1 clov -1 cloth -1 cloth -1 divid -1 portfolio -1 corp -1 corp -1 -2
+estat -1 great -1 wednesday -1 asset -1 asset -1 real -1 kimc -1 kimc -1 kimc -1 kimc -1 kimc -1 kimc -1 spac -1 strawbridg -1 strawbridg -1 cond -1 philadelph -1 add -1 locat -1 locat -1 -2

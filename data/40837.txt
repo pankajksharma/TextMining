@@ -1,0 +1,3 @@
+compan -1 compan -1 compan -1 gener -1 clos -1 month -1 octob -1 shr -1 nil -1 nil -1 invest -1 capit -1 issu -1 stat -1 janu -1 payabl -1 gain -1 gain -1 gain -1 interim -1 million -1 shar -1 shar -1 adjust -1 adjust -1 end -1 dividend -1 dividend -1 consid -1 hk -1 -2
+return -1 cent -1 cent -1 loss -1 loss -1 loss -1 propert -1 propert -1 man -1 man -1 man -1 man -1 lucky -1 lucky -1 lucky -1 lucky -1 net -1 net -1 net -1 take -1 note -1 book -1 except -1 except -1 turnov -1 compar -1 profit -1 profit -1 dispos -1 septemb -1 item -1 -2
+hong -1 kong -1 june -1 newsroom -1 subdivid -1 hold -1 hold -1 hold -1 subsid -1 -2

@@ -1,0 +1,2 @@
+jakart -1 tuesday -1 repret -1 clos -1 clos -1 record -1 high -1 low -1 telkom -1 telkom -1 telekomunikas -1 york -1 york -1 nil -1 ads -1 ordin -1 volum -1 volum -1 shar -1 shar -1 deposit -1 monday -1 americ -1 day -1 day -1 prev -1 pt -1 indones -1 indones -1 newsroom -1 -2
+tel -1 block -1 -2

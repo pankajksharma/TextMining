@@ -1,0 +1,3 @@
+nasdaq -1 nasdaq -1 market -1 stock -1 stock -1 clos -1 stg -1 bracket -1 composit -1 ixic -1 fai -1 north -1 nab -1 nab -1 york -1 dji -1 sydney -1 wmc -1 wmc -1 boral -1 cen -1 gcm -1 santo -1 santo -1 untr -1 untr -1 untr -1 untr -1 untr -1 untr -1 -2
+untr -1 ashton -1 cra -1 csr -1 fost -1 list -1 mim -1 newcr -1 dy -1 pacdun -1 pancon -1 tnt -1 dsid -1 fts -1 fts -1 index -1 overse -1 overse -1 pioneer -1 rtr -1 pac -1 pac -1 emperor -1 austral -1 austral -1 london -1 cole -1 cole -1 new -1 new -1 anz -1 -2
+bhp -1 bhp -1 prev -1 plac -1 cortec -1 dow -1 jone -1 aver -1 westpac -1 newsroom -1 orbit -1 memtec -1 norm -1 adr -1 trad -1 trad -1 -2

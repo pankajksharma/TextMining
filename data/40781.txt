@@ -1,0 +1,4 @@
+stay -1 small -1 sect -1 econom -1 retail -1 quiet -1 syndic -1 territ -1 clos -1 broker -1 record -1 record -1 high -1 high -1 interest -1 low -1 touch -1 composit -1 fundament -1 fresh -1 bank -1 point -1 point -1 invest -1 firm -1 deal -1 deal -1 deal -1 capit -1 issu -1 -2
+percent -1 local -1 second -1 mix -1 level -1 main -1 gain -1 gain -1 busi -1 index -1 index -1 index -1 index -1 index -1 soft -1 million -1 shar -1 shar -1 overse -1 end -1 end -1 end -1 outpac -1 give -1 kl -1 rise -1 buy -1 buy -1 row -1 ground -1 focus -1 -2
+lose -1 baromet -1 deep -1 continu -1 match -1 heavy -1 specul -1 specul -1 link -1 turnov -1 run -1 session -1 day -1 day -1 day -1 resist -1 driv -1 hand -1 leapt -1 board -1 board -1 board -1 board -1 board -1 board -1 board -1 board -1 remark -1 blu -1 blu -1 blu -1 -2
+blu -1 chip -1 chip -1 chip -1 chip -1 chang -1 meteor -1 depend -1 add -1 add -1 boost -1 count -1 pure -1 -2

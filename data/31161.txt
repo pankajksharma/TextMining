@@ -1,0 +1,3 @@
+mika -1 hakkin -1 harald -1 frentz -1 ales -1 brundl -1 martin -1 barrichel -1 saub -1 pani -1 motor -1 motor -1 ligy -1 ruben -1 sunday -1 practic -1 practic -1 race -1 race -1 damon -1 gerhard -1 william -1 william -1 schumach -1 grand -1 grand -1 german -1 german -1 herbert -1 finland -1 -2
+franc -1 franc -1 jord -1 jord -1 michael -1 austr -1 britain -1 britain -1 britain -1 britain -1 lead -1 canad -1 second -1 heinz -1 david -1 open -1 time -1 time -1 belgian -1 belgian -1 prix -1 prix -1 brazil -1 jean -1 hill -1 session -1 minut -1 mclar -1 mclar -1 john -1 friday -1 -2
+villeneuv -1 olivy -1 berg -1 jacqu -1 benetton -1 benetton -1 coulthard -1 -2

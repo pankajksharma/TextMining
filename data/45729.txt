@@ -1,0 +1,2 @@
+cif -1 manil -1 coconut -1 coconut -1 coconut -1 unit -1 report -1 septoct -1 pric -1 pric -1 julaug -1 augsep -1 octnov -1 novdec -1 europ -1 unq -1 unq -1 unq -1 unq -1 unq -1 unq -1 unq -1 oil -1 oil -1 buy -1 assoc -1 ton -1 sell -1 philippin -1 philippin -1 -2
+prev -1 intern -1 intern -1 dollar -1 -2

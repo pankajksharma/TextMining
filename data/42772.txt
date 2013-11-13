@@ -1,0 +1,2 @@
+compan -1 refer -1 sep -1 bank -1 petroleum -1 petroleum -1 manag -1 war -1 war -1 war -1 spot -1 sbc -1 sbc -1 warburg -1 issu -1 issu -1 lead -1 reut -1 pric -1 pric -1 shar -1 min -1 control -1 dutch -1 dutch -1 expirat -1 swiss -1 dfl -1 dfl -1 call -1 -2
+london -1 strik -1 note -1 chf -1 gear -1 americ -1 lot -1 paydat -1 corpor -1 exer -1 royal -1 royal -1 prem -1 oct -1 styl -1 set -1 newsroom -1 pct -1 -2

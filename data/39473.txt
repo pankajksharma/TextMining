@@ -1,0 +1,2 @@
+month -1 month -1 receiv -1 bank -1 fall -1 discount -1 annual -1 annual -1 week -1 issu -1 issu -1 yield -1 yield -1 yield -1 percent -1 percent -1 treasur -1 bill -1 bill -1 pric -1 million -1 million -1 million -1 million -1 nation -1 auction -1 auction -1 forint -1 forint -1 forint -1 -2
+forint -1 off -1 allocat -1 bid -1 ago -1 total -1 total -1 total -1 total -1 aver -1 aver -1 aver -1 late -1 set -1 hung -1 hung -1 pct -1 pct -1 pct -1 -2

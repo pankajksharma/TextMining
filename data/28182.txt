@@ -1,0 +1,2 @@
+eps -1 year -1 year -1 yen -1 yen -1 yen -1 yen -1 yen -1 div -1 billion -1 unit -1 decemb -1 produc -1 current -1 canon -1 canon -1 head -1 net -1 ago -1 note -1 actual -1 camer -1 late -1 parent -1 parent -1 forecast -1 forecast -1 magnet -1 operat -1 ord -1 -2
+sale -1 electron -1 electron -1 mln -1 mln -1 mln -1 mln -1 mln -1 -2

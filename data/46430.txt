@@ -1,0 +1,2 @@
+market -1 market -1 clos -1 kg -1 rate -1 rate -1 tabl -1 fax -1 mill -1 mill -1 indicat -1 indicat -1 sourc -1 stat -1 attent -1 delh -1 delh -1 delh -1 delh -1 pric -1 contribut -1 open -1 deliv -1 deliv -1 time -1 august -1 daily -1 sugar -1 sugar -1 sugar -1 -2
+sugar -1 sugar -1 sugar -1 sugar -1 new -1 asian -1 rupee -1 ready -1 ready -1 prev -1 sharm -1 intern -1 suppl -1 gur -1 gur -1 gur -1 gur -1 dhaiy -1 peri -1 khandsar -1 subhash -1 chopr -1 satish -1 tel -1 trad -1 -2

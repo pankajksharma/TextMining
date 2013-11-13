@@ -1,0 +1,4 @@
+react -1 market -1 market -1 market -1 credit -1 unexpect -1 french -1 french -1 french -1 stock -1 clos -1 clos -1 clos -1 high -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 low -1 currenc -1 bank -1 bank -1 bank -1 pari -1 point -1 point -1 billion -1 cac -1 -2
+cac -1 cac -1 view -1 firm -1 wait -1 franc -1 franc -1 franc -1 franc -1 caught -1 fund -1 percent -1 percent -1 strong -1 expect -1 index -1 index -1 gain -1 rally -1 volum -1 futur -1 brok -1 bof -1 thursday -1 end -1 contract -1 financ -1 cent -1 cut -1 cut -1 cut -1 -2
+cut -1 antoin -1 intervent -1 growth -1 cheer -1 sharp -1 cost -1 direct -1 rang -1 equal -1 basi -1 compar -1 day -1 day -1 wednesday -1 wednesday -1 reduc -1 reduc -1 guard -1 blu -1 chip -1 bours -1 demand -1 bretteil -1 leven -1 hit -1 hit -1 bundesbank -1 bundesbank -1 late -1 late -1 -2
+afternoon -1 surpr -1 surpr -1 yesterday -1 jacqu -1 mark -1 thought -1 thought -1 solid -1 trad -1 trad -1 eas -1 -2

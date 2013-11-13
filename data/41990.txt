@@ -1,0 +1,4 @@
+recov -1 life -1 jail -1 jail -1 jail -1 target -1 medic -1 medic -1 medic -1 sentenc -1 body -1 month -1 peac -1 even -1 brief -1 brief -1 hospit -1 hospit -1 year -1 year -1 kill -1 fundament -1 mild -1 deal -1 free -1 prison -1 prison -1 prison -1 human -1 complet -1 -2
+wheelchair -1 confin -1 lead -1 wreck -1 check -1 test -1 thursday -1 case -1 author -1 guerrill -1 cleric -1 cleric -1 yassin -1 yassin -1 yassin -1 yassin -1 yassin -1 yassin -1 return -1 ground -1 pneumon -1 cent -1 minist -1 sheikh -1 sheikh -1 plo -1 ago -1 serv -1 scor -1 moslem -1 attack -1 -2
+attack -1 aim -1 milit -1 islam -1 hama -1 hama -1 hama -1 hama -1 hama -1 abduc -1 spokesm -1 intern -1 secur -1 demand -1 order -1 found -1 raml -1 palestin -1 israel -1 israel -1 israel -1 israel -1 israel -1 israel -1 israel -1 israel -1 israel -1 releas -1 soldy -1 presid -1 yass -1 -2
+arafat -1 ahm -1 suic -1 offic -1 offic -1 offic -1 ail -1 spiritual -1 group -1 -2

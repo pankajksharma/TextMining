@@ -1,0 +1,4 @@
+barbar -1 market -1 track -1 tuesday -1 clos -1 clos -1 high -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 month -1 month -1 year -1 year -1 year -1 data -1 point -1 point -1 point -1 trim -1 decreas -1 key -1 key -1 debt -1 produc -1 gmt -1 gmt -1 -2
+germ -1 yield -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 percent -1 anal -1 expect -1 expect -1 expect -1 bill -1 implic -1 fell -1 fell -1 mix -1 mix -1 reut -1 pric -1 index -1 soft -1 whilst -1 show -1 ppi -1 end -1 matur -1 long -1 drop -1 monday -1 -2
+riksbank -1 riksbank -1 riksbank -1 riksbank -1 swed -1 swed -1 swed -1 swed -1 crown -1 crown -1 short -1 foreign -1 ground -1 rose -1 focus -1 lose -1 cut -1 cut -1 cut -1 cut -1 improv -1 stockholm -1 poll -1 taltavull -1 basi -1 basi -1 basi -1 se -1 july -1 compar -1 announc -1 -2
+climat -1 friday -1 bond -1 real -1 due -1 bundesbank -1 late -1 repo -1 repo -1 repo -1 polic -1 newsroom -1 add -1 mark -1 -2

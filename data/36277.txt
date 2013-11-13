@@ -1,0 +1,4 @@
+night -1 early -1 draw -1 draw -1 dism -1 look -1 tuesday -1 french -1 french -1 saturday -1 find -1 perform -1 cup -1 marseill -1 marseill -1 marseill -1 marseill -1 marseill -1 team -1 reign -1 disappoint -1 unbeat -1 start -1 point -1 point -1 form -1 invest -1 week -1 prid -1 germ -1 -2
+sound -1 koepk -1 amsterdam -1 lead -1 bill -1 metz -1 home -1 len -1 len -1 montpel -1 auxer -1 auxer -1 auxer -1 auxer -1 defend -1 restor -1 european -1 european -1 ajax -1 leagu -1 leagu -1 leagu -1 socc -1 speak -1 pressur -1 side -1 champ -1 champ -1 champ -1 lie -1 prov -1 -2
+lose -1 seventh -1 numb -1 strik -1 won -1 match -1 match -1 match -1 match -1 play -1 host -1 andre -1 half -1 take -1 scor -1 recruit -1 goalkeep -1 parry -1 fine -1 save -1 fluid -1 divid -1 trail -1 struggl -1 word -1 wednesday -1 dominat -1 goal -1 goal -1 unabl -1 intern -1 -2
+held -1 promis -1 dozen -1 lacklustr -1 season -1 season -1 season -1 bay -1 campaign -1 hold -1 keep -1 -2

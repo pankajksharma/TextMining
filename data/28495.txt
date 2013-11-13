@@ -1,0 +1,2 @@
+tepc -1 tepc -1 tepc -1 econom -1 territ -1 rate -1 rate -1 rate -1 year -1 invest -1 franc -1 franc -1 gross -1 domest -1 produc -1 straight -1 percent -1 percent -1 percent -1 populat -1 assign -1 aaa -1 aaa -1 environ -1 tripl -1 moody -1 moody -1 moody -1 million -1 thursday -1 -2
+nation -1 nation -1 industr -1 swiss -1 swiss -1 pow -1 import -1 servic -1 servic -1 toky -1 toky -1 base -1 electr -1 includ -1 septemb -1 account -1 favor -1 japan -1 bond -1 bond -1 due -1 operat -1 -2

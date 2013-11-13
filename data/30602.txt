@@ -1,0 +1,3 @@
+columb -1 high -1 municip -1 rate -1 rate -1 rate -1 rate -1 rate -1 month -1 low -1 low -1 low -1 year -1 year -1 nonteach -1 employ -1 report -1 stat -1 stat -1 stat -1 percent -1 percent -1 percent -1 percent -1 help -1 gain -1 gain -1 drop -1 sum -1 industr -1 -2
+time -1 area -1 unemploy -1 unemploy -1 commit -1 moor -1 loss -1 work -1 washington -1 washington -1 servic -1 depart -1 depart -1 improv -1 whitm -1 dip -1 job -1 job -1 job -1 school -1 school -1 offset -1 attribut -1 july -1 july -1 july -1 payrol -1 secur -1 aerospac -1 june -1 seattl -1 -2
+add -1 gary -1 desk -1 closur -1 count -1 count -1 staff -1 trad -1 trad -1 -2

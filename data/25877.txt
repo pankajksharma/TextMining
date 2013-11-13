@@ -1,0 +1,4 @@
+back -1 tuesday -1 tuesday -1 promot -1 agent -1 newspap -1 newspap -1 war -1 today -1 issu -1 issu -1 ship -1 ship -1 ship -1 ship -1 ship -1 ship -1 ship -1 stat -1 report -1 lost -1 govern -1 futur -1 open -1 nation -1 chin -1 chin -1 chin -1 chin -1 chin -1 -2
+chin -1 media -1 civil -1 side -1 side -1 side -1 city -1 declin -1 minist -1 servic -1 new -1 mail -1 direct -1 direct -1 direct -1 direct -1 direct -1 direct -1 develop -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 link -1 link -1 link -1 link -1 link -1 link -1 link -1 -2
+strait -1 strait -1 ban -1 ban -1 commun -1 detail -1 gave -1 island -1 transport -1 beij -1 regulat -1 regulat -1 regulat -1 effect -1 comment -1 xinhua -1 xinhua -1 carg -1 passeng -1 accel -1 air -1 air -1 hong -1 kong -1 wen -1 wei -1 po -1 southeastern -1 port -1 xiam -1 fuzhou -1 -2
+cond -1 rule -1 ripe -1 set -1 meant -1 chiang -1 kai -1 make -1 shek -1 fled -1 offic -1 offic -1 trad -1 establ -1 -2

@@ -1,0 +1,3 @@
+early -1 mexic -1 mexic -1 mexic -1 mexic -1 market -1 stock -1 clos -1 clos -1 clos -1 high -1 high -1 month -1 currenc -1 deal -1 spot -1 peso -1 peso -1 peso -1 peso -1 peso -1 peso -1 week -1 yield -1 lost -1 local -1 support -1 hour -1 hour -1 end -1 -2
+push -1 long -1 long -1 weekend -1 bellwether -1 return -1 pressur -1 weak -1 weak -1 weak -1 centav -1 city -1 quinon -1 take -1 take -1 bols -1 bols -1 sell -1 gave -1 day -1 profit -1 profit -1 demand -1 demand -1 rough -1 dollar -1 dollar -1 dollar -1 dollar -1 friday -1 friday -1 -2
+bond -1 bond -1 alex -1 norm -1 top -1 trad -1 trad -1 trad -1 centavo -1 centavo -1 -2

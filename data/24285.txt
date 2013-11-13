@@ -1,0 +1,4 @@
+early -1 early -1 market -1 tuesday -1 thin -1 thin -1 thin -1 stock -1 clos -1 high -1 reach -1 exercis -1 eras -1 low -1 razor -1 razor -1 bovesp -1 meag -1 telebr -1 swoop -1 point -1 point -1 trend -1 invest -1 deal -1 list -1 list -1 spill -1 larg -1 percent -1 -2
+percent -1 local -1 local -1 index -1 spat -1 volum -1 brok -1 brok -1 brok -1 million -1 shar -1 shar -1 shar -1 end -1 end -1 end -1 expir -1 benchmark -1 monday -1 monday -1 monday -1 buy -1 buy -1 sideway -1 foreign -1 rose -1 loss -1 declin -1 move -1 bols -1 new -1 -2
+wip -1 brazil -1 brazil -1 settl -1 paul -1 session -1 turnov -1 day -1 day -1 sao -1 account -1 blu -1 snap -1 chip -1 bours -1 total -1 major -1 late -1 afternoon -1 standstill -1 yesterday -1 norm -1 hung -1 hung -1 reai -1 trad -1 trad -1 trad -1 trad -1 option -1 option -1 -2
+option -1 option -1 -2

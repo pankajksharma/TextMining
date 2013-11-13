@@ -1,0 +1,2 @@
+febru -1 limit -1 market -1 clear -1 hous -1 stock -1 stock -1 kg -1 month -1 month -1 low -1 low -1 low -1 liquid -1 liquid -1 ahead -1 term -1 yen -1 yen -1 start -1 anal -1 expect -1 pric -1 pric -1 pric -1 brok -1 end -1 end -1 long -1 long -1 -2
+dist -1 benchmark -1 weekend -1 commod -1 narrow -1 tone -1 buy -1 weak -1 weak -1 loss -1 lack -1 move -1 nearb -1 toky -1 toky -1 direct -1 rang -1 rang -1 day -1 rub -1 rub -1 suppl -1 friday -1 due -1 unchang -1 unchang -1 abund -1 trad -1 trad -1 trad -1 trad -1 -2

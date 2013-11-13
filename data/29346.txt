@@ -1,0 +1,2 @@
+grain -1 market -1 market -1 market -1 receiv -1 free -1 free -1 free -1 seek -1 germ -1 germ -1 expect -1 soft -1 thursday -1 rye -1 restitut -1 wheat -1 wheat -1 intervent -1 bid -1 rang -1 rang -1 ton -1 ton -1 ton -1 ton -1 export -1 export -1 export -1 hamburg -1 -2
+board -1 ble -1 ble -1 newsroom -1 ecus -1 ecus -1 trad -1 tax -1 sought -1 -2

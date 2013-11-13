@@ -1,0 +1,3 @@
+scan -1 mb -1 mb -1 carry -1 hard -1 hard -1 hard -1 target -1 memor -1 mhz -1 mhz -1 high -1 game -1 game -1 game -1 color -1 megabyt -1 pc -1 hp -1 zip -1 pent -1 pent -1 pent -1 video -1 unveil -1 unveil -1 brand -1 pric -1 pric -1 random -1 -2
+model -1 end -1 ram -1 ram -1 techn -1 monday -1 socc -1 graph -1 graph -1 hewlet -1 hewlet -1 packard -1 packard -1 comput -1 phon -1 integr -1 play -1 play -1 megahertz -1 microprocess -1 estimat -1 estimat -1 estimat -1 pcs -1 consum -1 driv -1 driv -1 driv -1 driv -1 person -1 capabl -1 -2
+built -1 accel -1 pavil -1 pavil -1 pavil -1 pavil -1 pavill -1 pavill -1 preinstal -1 vr -1 gb -1 gb -1 whiplash -1 gigabyt -1 process -1 process -1 access -1 iomeg -1 top -1 dimens -1 -2

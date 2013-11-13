@@ -1,0 +1,5 @@
+compan -1 compan -1 indict -1 early -1 market -1 market -1 affil -1 alleg -1 voolum -1 stock -1 stock -1 clos -1 broker -1 broker -1 broker -1 high -1 pharmaceut -1 own -1 bank -1 point -1 mkt -1 fall -1 invest -1 report -1 percent -1 percent -1 percent -1 percent -1 expect -1 expect -1 -2
+lead -1 decid -1 decid -1 fell -1 fell -1 fell -1 big -1 pric -1 gain -1 index -1 rally -1 volum -1 volum -1 volum -1 million -1 million -1 million -1 million -1 million -1 dada -1 dada -1 dada -1 dada -1 dada -1 dada -1 dada -1 shar -1 shar -1 shar -1 shar -1 shar -1 -2
+shar -1 shar -1 honor -1 honor -1 rise -1 sloven -1 sloven -1 tolar -1 tolar -1 tolar -1 tolar -1 tolar -1 public -1 public -1 return -1 financ -1 rose -1 exchang -1 exchang -1 procedur -1 eventual -1 declin -1 numb -1 court -1 court -1 court -1 hear -1 hear -1 uncertain -1 new -1 await -1 -2
+bar -1 ban -1 turnov -1 turnov -1 turnov -1 turnov -1 sbi -1 wednesday -1 septemb -1 involut -1 bours -1 total -1 total -1 rule -1 brought -1 newsroom -1 rig -1 untrad -1 marj -1 novak -1 ljubljan -1 ljubljan -1 consult -1 salus -1 probank -1 trad -1 trad -1 trad -1 trad -1 eas -1 eas -1 -2
+eas -1 -2

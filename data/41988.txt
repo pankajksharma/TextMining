@@ -1,0 +1,4 @@
+recov -1 compan -1 compan -1 draw -1 hous -1 stock -1 stock -1 kual -1 record -1 lumpur -1 game -1 low -1 low -1 composit -1 stray -1 point -1 point -1 roll -1 deal -1 list -1 list -1 suspend -1 week -1 week -1 slight -1 percent -1 percent -1 strong -1 cool -1 second -1 -2
+main -1 timb -1 pric -1 index -1 gain -1 gain -1 volum -1 volum -1 million -1 million -1 million -1 shar -1 shar -1 end -1 end -1 end -1 end -1 end -1 drop -1 outpac -1 kl -1 time -1 paus -1 buy -1 buy -1 buy -1 pow -1 off -1 finish -1 foreign -1 ground -1 -2
+rose -1 powertek -1 lose -1 loss -1 bare -1 declin -1 play -1 posit -1 ride -1 ride -1 coast -1 newly -1 malays -1 session -1 institut -1 day -1 sawmill -1 hand -1 dominat -1 concern -1 pronounc -1 board -1 board -1 board -1 board -1 board -1 blu -1 blu -1 chip -1 chip -1 project -1 -2
+repc -1 chang -1 infrastructur -1 hit -1 set -1 bhd -1 ringgit -1 ringgit -1 ringgit -1 top -1 peak -1 hold -1 trad -1 -2

@@ -1,0 +1,4 @@
+metal -1 tight -1 market -1 market -1 floor -1 back -1 back -1 cop -1 cop -1 cop -1 tuesday -1 stock -1 stop -1 clos -1 high -1 interest -1 low -1 low -1 low -1 fresh -1 york -1 comex -1 comex -1 comex -1 comex -1 lme -1 lme -1 line -1 spot -1 decemb -1 -2
+decemb -1 week -1 today -1 lock -1 lock -1 lock -1 sourc -1 expect -1 eye -1 fell -1 pric -1 gain -1 gain -1 rally -1 rigid -1 open -1 open -1 insid -1 contract -1 deutsch -1 monday -1 monday -1 monday -1 commod -1 august -1 short -1 short -1 hirsch -1 hirsch -1 pixley -1 sideway -1 -2
+congest -1 huw -1 rose -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 ago -1 pound -1 sharp -1 sharp -1 new -1 rang -1 rang -1 rang -1 rang -1 settl -1 settl -1 settl -1 ton -1 ton -1 lot -1 pattern -1 gave -1 break -1 septemb -1 septemb -1 -2
+jone -1 add -1 richard -1 yesterday -1 routin -1 signific -1 sign -1 trad -1 trad -1 trad -1 trad -1 keep -1 establ -1 -2

@@ -1,0 +1,4 @@
+market -1 market -1 gener -1 gener -1 interest -1 interest -1 month -1 month -1 shr -1 fall -1 amount -1 common -1 common -1 common -1 common -1 common -1 common -1 common -1 common -1 gross -1 gross -1 stat -1 q2 -1 administ -1 administ -1 shar -1 shar -1 shar -1 shar -1 shar -1 -2
+end -1 end -1 techn -1 techn -1 equival -1 equival -1 equival -1 equival -1 outstand -1 outstand -1 research -1 research -1 net -1 net -1 net -1 net -1 net -1 net -1 weight -1 weight -1 thousand -1 cost -1 cost -1 consolid -1 develop -1 develop -1 incom -1 incom -1 incom -1 incom -1 incom -1 -2
+incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 july -1 july -1 profit -1 profit -1 dsp -1 dsp -1 unaudit -1 expend -1 expend -1 aver -1 aver -1 operat -1 operat -1 operat -1 operat -1 sale -1 sale -1 sale -1 sale -1 subsid -1 tax -1 -2
+tax -1 tax -1 tax -1 -2

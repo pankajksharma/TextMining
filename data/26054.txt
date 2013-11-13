@@ -1,0 +1,2 @@
+early -1 market -1 stock -1 stock -1 clos -1 plung -1 data -1 york -1 point -1 unoffic -1 fall -1 tobacc -1 tobacc -1 invest -1 issu -1 streak -1 advanc -1 fell -1 volum -1 million -1 shar -1 shar -1 shar -1 liabl -1 end -1 industr -1 win -1 time -1 weak -1 exchang -1 -2
+call -1 declin -1 cigaret -1 near -1 take -1 base -1 led -1 session -1 crucial -1 profit -1 wednesday -1 blu -1 blu -1 chip -1 chip -1 dow -1 jone -1 aver -1 broad -1 moderat -1 trial -1 -2

@@ -1,0 +1,3 @@
+payment -1 payment -1 clos -1 union -1 union -1 year -1 currenc -1 receiv -1 bank -1 agree -1 deal -1 unit -1 debt -1 loan -1 loan -1 loan -1 stat -1 stat -1 approv -1 expect -1 balanc -1 balanc -1 transf -1 transf -1 transf -1 eu -1 eu -1 million -1 million -1 million -1 -2
+million -1 support -1 european -1 european -1 european -1 end -1 ecu -1 ecu -1 ecu -1 ecu -1 nation -1 august -1 august -1 august -1 sofia -1 commit -1 ago -1 bulgar -1 bulgar -1 bulgar -1 tranch -1 tranch -1 bulg -1 bnb -1 bnb -1 bnb -1 bnb -1 july -1 account -1 inform -1 newsroom -1 -2
+commerc -1 sign -1 mln -1 -2

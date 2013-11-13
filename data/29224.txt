@@ -1,0 +1,4 @@
+compan -1 compan -1 compan -1 fully -1 small -1 repret -1 record -1 record -1 march -1 revers -1 year -1 year -1 year -1 year -1 year -1 bank -1 bank -1 york -1 amount -1 treat -1 quart -1 bancorp -1 bancorp -1 debt -1 debt -1 debt -1 debt -1 recaptur -1 recaptur -1 stat -1 -2
+ml -1 ml -1 protect -1 jan -1 act -1 act -1 busi -1 exist -1 dilut -1 anticip -1 million -1 million -1 shar -1 liabl -1 liabl -1 liabl -1 end -1 end -1 reserv -1 reserv -1 reserv -1 reserv -1 reserv -1 extr -1 extr -1 fisc -1 excess -1 excess -1 period -1 job -1 final -1 -2
+base -1 base -1 base -1 incom -1 incom -1 earn -1 earn -1 earn -1 chart -1 relat -1 resolut -1 caus -1 wednesday -1 bad -1 bad -1 bad -1 bad -1 taxabl -1 taxabl -1 chang -1 sept -1 late -1 newsroom -1 add -1 recogn -1 presid -1 commerc -1 sign -1 defer -1 defer -1 tax -1 -2
+tax -1 tax -1 tax -1 tax -1 establ -1 establ -1 -2

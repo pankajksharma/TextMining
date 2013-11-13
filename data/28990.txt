@@ -1,0 +1,2 @@
+market -1 hous -1 stock -1 stock -1 broker -1 broker -1 broker -1 broker -1 broker -1 month -1 fulfill -1 improp -1 erciy -1 erciy -1 spk -1 spk -1 menkul -1 degerl -1 turk -1 bogazic -1 writ -1 tur -1 week -1 suspend -1 suspend -1 suspend -1 capit -1 loan -1 stat -1 decid -1 -2
+thursday -1 exchang -1 exchang -1 turkey -1 base -1 istanbul -1 istanbul -1 istanbul -1 breach -1 regulat -1 board -1 resum -1 resum -1 secur -1 secur -1 request -1 rule -1 due -1 newsroom -1 allow -1 allow -1 activ -1 activ -1 operat -1 transact -1 trad -1 trad -1 -2

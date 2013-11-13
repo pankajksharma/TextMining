@@ -1,0 +1,2 @@
+gilt -1 usda -1 usda -1 newsdesk -1 ga -1 countr -1 year -1 trend -1 week -1 today -1 carolin -1 kentuck -1 hog -1 pric -1 unq -1 unq -1 unq -1 tenness -1 stead -1 stead -1 stead -1 area -1 chicag -1 barrow -1 cwt -1 rcpt -1 fla -1 est -1 ago -1 direct -1 -2
+estimat -1 valu -1 day -1 ala -1 actual -1 actual -1 actual -1 plant -1 prev -1 dollar -1 eastern -1 lb -1 -2

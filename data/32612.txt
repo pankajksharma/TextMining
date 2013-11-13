@@ -1,0 +1,5 @@
+payment -1 limit -1 market -1 market -1 sect -1 union -1 fast -1 ahead -1 cris -1 cris -1 issu -1 fund -1 fund -1 produc -1 germ -1 germ -1 germ -1 stat -1 percent -1 meet -1 pay -1 suff -1 pric -1 lower -1 slaught -1 aid -1 aid -1 aid -1 aid -1 eu -1 -2
+eu -1 eu -1 eu -1 eu -1 eu -1 eu -1 million -1 europ -1 support -1 european -1 european -1 nation -1 nation -1 nation -1 current -1 press -1 extr -1 off -1 dbv -1 dbv -1 dbv -1 dbv -1 vera -1 extend -1 extend -1 eckert -1 pressur -1 commit -1 import -1 import -1 import -1 -2
+beef -1 beef -1 beef -1 beef -1 beef -1 beef -1 beef -1 beef -1 pack -1 call -1 cut -1 offer -1 farm -1 farm -1 farm -1 farm -1 farm -1 farm -1 farm -1 farm -1 intervent -1 minist -1 minist -1 cow -1 bse -1 joch -1 anim -1 mad -1 envis -1 weight -1 collaps -1 -2
+put -1 rescu -1 ton -1 propos -1 pledg -1 export -1 consum -1 catastrop -1 borchert -1 council -1 plan -1 hamburg -1 septemb -1 reduc -1 reduc -1 reduc -1 effect -1 reject -1 reject -1 inform -1 calf -1 friday -1 eastern -1 eastern -1 eastern -1 sept -1 cond -1 schem -1 incent -1 young -1 newsroom -1 -2
+add -1 bon -1 compens -1 compens -1 region -1 ail -1 surplus -1 -2

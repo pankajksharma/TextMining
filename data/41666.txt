@@ -1,0 +1,4 @@
+intens -1 compan -1 capac -1 repair -1 sayenk -1 pipelin -1 pipelin -1 pipelin -1 carry -1 carry -1 leak -1 leak -1 leak -1 leak -1 tuesday -1 tuesday -1 stop -1 even -1 even -1 yugoslav -1 druzhb -1 druzhb -1 druzhb -1 druzhb -1 belnefteprodukt -1 gomel -1 gap -1 baltic -1 duty -1 german -1 -2
+german -1 line -1 annual -1 spill -1 spill -1 hundred -1 ukrain -1 capit -1 complet -1 stat -1 stat -1 stat -1 belarus -1 belarus -1 belarus -1 belarus -1 collect -1 telephon -1 poland -1 poland -1 million -1 thursday -1 europ -1 laris -1 long -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 -2
+oil -1 oil -1 ve -1 damag -1 czech -1 flow -1 flow -1 western -1 city -1 minsk -1 clean -1 half -1 russian -1 russian -1 russian -1 sprung -1 estimat -1 final -1 ton -1 ton -1 ton -1 burst -1 caus -1 involut -1 transit -1 pipe -1 kms -1 eastern -1 newsroom -1 slovak -1 republ -1 -2
+hung -1 branch -1 branch -1 offic -1 offic -1 offic -1 kief -1 accid -1 -2

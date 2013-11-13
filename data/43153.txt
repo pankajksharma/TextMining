@@ -1,0 +1,4 @@
+early -1 clear -1 clear -1 clear -1 emerg -1 emerg -1 recent -1 flight -1 echo -1 joao -1 refug -1 brief -1 brief -1 midday -1 receiv -1 data -1 food -1 food -1 reply -1 wait -1 peopl -1 human -1 human -1 afric -1 violent -1 east -1 meet -1 almeid -1 van -1 somal -1 -2
+ip -1 ip -1 ip -1 ip -1 ip -1 ip -1 govern -1 quest -1 aid -1 aid -1 aid -1 aid -1 gerry -1 eu -1 eu -1 million -1 million -1 thursday -1 thursday -1 european -1 span -1 ecu -1 chin -1 discuss -1 assist -1 conclud -1 colomb -1 flood -1 broek -1 extend -1 kyrghyst -1 -2
+den -1 financ -1 commit -1 commit -1 commit -1 commit -1 commit -1 commit -1 commit -1 commit -1 commit -1 victim -1 cent -1 ethiop -1 vale -1 veterin -1 cow -1 diseas -1 mongol -1 visit -1 mad -1 propos -1 scientif -1 sudan -1 septemb -1 spokesm -1 spokesm -1 project -1 worth -1 worth -1 highlight -1 -2
+highlight -1 brit -1 displac -1 releas -1 kiely -1 operat -1 ecus -1 ord -1 kazakhst -1 docu -1 -2

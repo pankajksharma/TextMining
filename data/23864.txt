@@ -1,0 +1,2 @@
+compan -1 disclos -1 tuesday -1 high -1 vehicl -1 vehicl -1 perform -1 term -1 agent -1 conserv -1 system -1 system -1 system -1 larg -1 advanc -1 design -1 design -1 defend -1 test -1 contract -1 contract -1 contract -1 uniqu -1 uniqu -1 pentagon -1 pentagon -1 pentagon -1 flywheel -1 sustain -1 pow -1 -2
+pow -1 extend -1 research -1 award -1 award -1 mobil -1 mobil -1 energ -1 energ -1 tract -1 develop -1 electr -1 conduc -1 driv -1 project -1 stor -1 need -1 peak -1 -2

@@ -1,0 +1,2 @@
+early -1 market -1 tuesday -1 stock -1 stock -1 stock -1 high -1 high -1 interest -1 rate -1 year -1 data -1 york -1 point -1 unoffic -1 issu -1 strong -1 advanc -1 pric -1 pric -1 volum -1 million -1 shar -1 end -1 end -1 end -1 industr -1 feder -1 reserv -1 rais -1 -2
+august -1 confid -1 confid -1 exchang -1 declin -1 growth -1 spin -1 leap -1 posit -1 put -1 base -1 consum -1 consum -1 wall -1 street -1 dow -1 jone -1 aver -1 set -1 broad -1 moderat -1 fear -1 slow -1 beat -1 -2

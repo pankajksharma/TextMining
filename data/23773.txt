@@ -1,0 +1,2 @@
+gener -1 interest -1 month -1 month -1 beneex -1 full -1 data -1 common -1 q4 -1 gross -1 stat -1 condens -1 administ -1 provis -1 nonrecur -1 shar -1 shar -1 shar -1 end -1 end -1 industr -1 industr -1 outstand -1 loss -1 loss -1 loss -1 loss -1 cmc -1 cmc -1 net -1 -2
+net -1 net -1 net -1 weight -1 restructur -1 thousand -1 cost -1 consolid -1 sell -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 july -1 july -1 profit -1 result -1 charg -1 expend -1 expend -1 twelf -1 aver -1 operat -1 sale -1 sale -1 tax -1 tax -1 -2

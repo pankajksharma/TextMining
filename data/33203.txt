@@ -1,0 +1,2 @@
+draw -1 game -1 game -1 game -1 game -1 stand -1 percent -1 lost -1 hyundai -1 hyundai -1 lg -1 lg -1 win -1 samsung -1 samsung -1 won -1 play -1 play -1 korean -1 korean -1 south -1 lot -1 lot -1 result -1 result -1 plac -1 pro -1 pro -1 ob -1 ob -1 -2
+haitai -1 haitai -1 ssangbangwool -1 ssangbangwool -1 tabulat -1 friday -1 friday -1 gb -1 hanwh -1 hanwh -1 basebal -1 basebal -1 basebal -1 pct -1 -2

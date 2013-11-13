@@ -1,0 +1,2 @@
+french -1 french -1 marseill -1 sack -1 tabl -1 guingamp -1 team -1 emon -1 emon -1 emon -1 club -1 poor -1 albert -1 lost -1 monac -1 name -1 home -1 thursday -1 andr -1 hour -1 leagu -1 socc -1 side -1 rivier -1 success -1 nice -1 nice -1 nice -1 nice -1 match -1 -2
+play -1 part -1 boi -1 divid -1 struggl -1 result -1 announc -1 announc -1 string -1 friday -1 presid -1 coach -1 coach -1 coach -1 -2

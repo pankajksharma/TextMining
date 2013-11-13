@@ -1,0 +1,4 @@
+recov -1 recov -1 emerg -1 gener -1 tuesday -1 stock -1 stock -1 specif -1 clos -1 clos -1 clos -1 high -1 ahead -1 term -1 climb -1 point -1 point -1 billion -1 firm -1 invest -1 deal -1 deal -1 deal -1 week -1 today -1 percent -1 percent -1 strong -1 expect -1 help -1 -2
+help -1 govern -1 pric -1 index -1 gain -1 volum -1 volum -1 brok -1 million -1 shar -1 shar -1 shar -1 support -1 shot -1 long -1 repsol -1 tone -1 buy -1 buy -1 buy -1 foreign -1 foreign -1 foreign -1 freez -1 rose -1 loss -1 cut -1 continu -1 growth -1 spend -1 parlia -1 -2
+new -1 new -1 part -1 energ -1 base -1 detail -1 run -1 result -1 hand -1 caut -1 budget -1 bours -1 real -1 bond -1 chang -1 due -1 recommend -1 moderat -1 telefon -1 madrid -1 madrid -1 ibex -1 peset -1 peset -1 add -1 add -1 add -1 arm -1 boost -1 origin -1 amid -1 -2
+trad -1 group -1 -2

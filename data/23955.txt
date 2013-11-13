@@ -1,0 +1,2 @@
+newsdesk -1 interest -1 month -1 beneex -1 year -1 data -1 york -1 shr -1 writ -1 invest -1 invest -1 q4 -1 provis -1 shar -1 shar -1 shar -1 shar -1 end -1 end -1 contract -1 outstand -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 net -1 net -1 net -1 -2
+weight -1 pharmakinet -1 pharmakinet -1 laborat -1 incom -1 earn -1 earn -1 earn -1 revenu -1 equip -1 expend -1 expend -1 june -1 june -1 june -1 june -1 aver -1 operat -1 sale -1 sale -1 tax -1 -2

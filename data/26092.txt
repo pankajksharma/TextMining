@@ -1,0 +1,2 @@
+market -1 market -1 floor -1 floor -1 floor -1 clear -1 clear -1 clear -1 sery -1 bank -1 bank -1 stat -1 requir -1 komunaln -1 komunaln -1 gdyn -1 confect -1 jutrzenk -1 main -1 main -1 main -1 main -1 million -1 shar -1 shar -1 warsaw -1 warsaw -1 warsaw -1 move -1 sa -1 -2
+sa -1 sa -1 ppabank -1 board -1 bours -1 bours -1 bours -1 parallel -1 newsroom -1 fulfil -1 trad -1 trad -1 -2

@@ -1,0 +1,2 @@
+bratislav -1 tuesday -1 bank -1 bank -1 franc -1 austr -1 fix -1 fix -1 fix -1 fix -1 nation -1 schill -1 swiss -1 crown -1 crown -1 crown -1 crown -1 czech -1 cent -1 pound -1 aug -1 aug -1 aug -1 wednesday -1 brit -1 dollar -1 newsroom -1 slovak -1 slovak -1 nbs -1 -2
+mark -1 -2

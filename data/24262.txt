@@ -1,0 +1,4 @@
+hous -1 carry -1 train -1 tuesday -1 clos -1 vehicl -1 kill -1 kill -1 kill -1 kill -1 kill -1 unit -1 radio -1 radio -1 radio -1 rush -1 local -1 confirm -1 confirm -1 name -1 belief -1 personnel -1 shot -1 shot -1 assassin -1 party -1 nation -1 nation -1 nation -1 monday -1 -2
+princ -1 princ -1 consid -1 polit -1 polit -1 polit -1 polit -1 past -1 charact -1 victim -1 victim -1 civil -1 civil -1 hait -1 hait -1 assail -1 au -1 au -1 acccord -1 pasteur -1 pasteur -1 antoin -1 leroy -1 mdn -1 mdn -1 metropol -1 kiskey -1 numb -1 handcuff -1 haitian -1 haitian -1 -2
+man -1 man -1 man -1 ten -1 mobil -1 attack -1 attack -1 attack -1 scen -1 unknow -1 develop -1 milit -1 milit -1 falt -1 falt -1 falt -1 dead -1 spokesm -1 intern -1 men -1 memb -1 station -1 station -1 suburb -1 port -1 port -1 oppos -1 oppos -1 oppos -1 polic -1 polic -1 -2
+polic -1 arm -1 eric -1 offic -1 -2

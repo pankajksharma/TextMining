@@ -1,0 +1,4 @@
+limit -1 market -1 market -1 retail -1 gener -1 thin -1 thin -1 tuesday -1 stock -1 stock -1 stock -1 clos -1 clos -1 high -1 rate -1 touch -1 climb -1 bank -1 point -1 point -1 extrem -1 billion -1 select -1 manag -1 invest -1 food -1 deal -1 slight -1 report -1 percent -1 -2
+percent -1 meet -1 expect -1 decid -1 eye -1 eye -1 pric -1 index -1 gain -1 volum -1 volum -1 thursday -1 open -1 minim -1 leav -1 talk -1 remain -1 remain -1 feder -1 reserv -1 tone -1 narrow -1 august -1 rise -1 press -1 commit -1 charact -1 health -1 rose -1 half -1 sharp -1 -2
+dull -1 posit -1 rang -1 outcom -1 americ -1 wary -1 simil -1 turnov -1 day -1 latin -1 result -1 announc -1 septemb -1 uk -1 fed -1 fed -1 total -1 due -1 bundesbank -1 holiday -1 make -1 madrid -1 madrid -1 ibex -1 unchang -1 peset -1 peset -1 peset -1 add -1 bbv -1 pryc -1 -2
+busy -1 swing -1 prospect -1 thought -1 amid -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

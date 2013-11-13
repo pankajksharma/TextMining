@@ -1,0 +1,4 @@
+early -1 market -1 market -1 sect -1 retail -1 rumor -1 dispel -1 tuesday -1 stock -1 stock -1 stock -1 kual -1 clos -1 clos -1 lumpur -1 high -1 high -1 high -1 composit -1 point -1 point -1 disinter -1 good -1 firm -1 invest -1 peopl -1 larg -1 report -1 percent -1 local -1 -2
+anal -1 help -1 jump -1 second -1 sent -1 ho -1 gain -1 gain -1 gain -1 index -1 index -1 volum -1 blas -1 mesb -1 prolexus -1 million -1 million -1 million -1 shar -1 end -1 monday -1 kl -1 buy -1 eclips -1 rose -1 rose -1 lose -1 exchang -1 continu -1 continu -1 doldrum -1 -2
+man -1 posit -1 gent -1 new -1 new -1 new -1 wah -1 led -1 led -1 malays -1 day -1 prev -1 board -1 board -1 board -1 blu -1 blu -1 chip -1 chip -1 total -1 june -1 june -1 deficit -1 major -1 set -1 add -1 pleas -1 surpr -1 bhd -1 ringgit -1 ringgit -1 -2
+ringgit -1 ringgit -1 ringgit -1 uninspir -1 dose -1 surg -1 count -1 trad -1 trad -1 trad -1 eas -1 flound -1 surplus -1 surplus -1 -2

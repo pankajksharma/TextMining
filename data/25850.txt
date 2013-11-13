@@ -1,0 +1,2 @@
+intermed -1 breakdown -1 month -1 month -1 month -1 month -1 year -1 year -1 year -1 year -1 year -1 year -1 istat -1 good -1 good -1 good -1 invest -1 produc -1 produc -1 produc -1 produc -1 stat -1 percent -1 italy -1 italian -1 pric -1 pric -1 pric -1 pric -1 index -1 -2
+nation -1 industr -1 statist -1 rose -1 rose -1 base -1 consum -1 gave -1 institut -1 june -1 june -1 june -1 june -1 chang -1 chang -1 chang -1 chang -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 -2

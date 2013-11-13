@@ -1,0 +1,2 @@
+credit -1 vehicl -1 vehicl -1 month -1 year -1 construc -1 pent -1 unit -1 unit -1 stat -1 report -1 million -1 volut -1 volut -1 volut -1 volut -1 volut -1 volut -1 volut -1 volut -1 volut -1 volut -1 elimin -1 swed -1 swed -1 crown -1 aero -1 car -1 bus -1 ago -1 -2
+stockholm -1 note -1 h1 -1 exclud -1 compar -1 profit -1 profit -1 charg -1 truck -1 item -1 recur -1 equip -1 total -1 total -1 june -1 ab -1 ab -1 automot -1 separat -1 newsroom -1 manufactur -1 manufactur -1 operat -1 operat -1 operat -1 operat -1 subsid -1 group -1 group -1 group -1 -2

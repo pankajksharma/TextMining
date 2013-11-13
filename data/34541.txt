@@ -1,0 +1,2 @@
+fire -1 fire -1 small -1 jersey -1 bound -1 hospit -1 variet -1 own -1 year -1 room -1 privat -1 north -1 woman -1 line -1 clust -1 peopl -1 franc -1 franc -1 franc -1 caught -1 west -1 tow -1 britain -1 injur -1 brok -1 leav -1 monday -1 channel -1 blaz -1 safe -1 -2
+boat -1 guernsey -1 guernsey -1 ferry -1 ferry -1 ferry -1 ferry -1 rescu -1 rescu -1 evacuat -1 island -1 island -1 engin -1 board -1 spokesm -1 trident -1 emeraud -1 passeng -1 passeng -1 crew -1 brit -1 port -1 port -1 rule -1 polic -1 polic -1 polic -1 leg -1 left -1 commerc -1 -2

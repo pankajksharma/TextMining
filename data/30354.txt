@@ -1,0 +1,4 @@
+limit -1 market -1 market -1 clos -1 repret -1 interest -1 interest -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 room -1 room -1 agent -1 bank -1 bank -1 bank -1 bank -1 bank -1 fall -1 annual -1 peopl -1 issu -1 loan -1 -2
+percent -1 percent -1 percent -1 chibor -1 chibor -1 fell -1 sent -1 mix -1 level -1 pric -1 volum -1 behalf -1 thursday -1 thursday -1 deposit -1 talk -1 chin -1 chin -1 chin -1 short -1 weak -1 cent -1 cent -1 cent -1 loss -1 loss -1 cut -1 cut -1 cut -1 cut -1 cut -1 -2
+offer -1 continu -1 continu -1 shanghai -1 figur -1 weight -1 sharp -1 new -1 factor -1 day -1 day -1 day -1 day -1 day -1 day -1 day -1 announc -1 post -1 impact -1 wednesday -1 wednesday -1 xinhua -1 friday -1 aver -1 depend -1 negat -1 newsroom -1 interbank -1 interbank -1 offic -1 trad -1 -2
+trad -1 trad -1 trad -1 trad -1 -2

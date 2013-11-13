@@ -1,0 +1,4 @@
+market -1 market -1 market -1 market -1 rumor -1 plung -1 clos -1 clos -1 interest -1 interest -1 rate -1 rate -1 rate -1 rate -1 year -1 bank -1 bank -1 bank -1 bank -1 spot -1 spot -1 annual -1 peopl -1 week -1 today -1 today -1 issu -1 domest -1 slight -1 percent -1 -2
+percent -1 percent -1 digest -1 treasur -1 treasur -1 bill -1 bill -1 bill -1 bill -1 fell -1 fell -1 mix -1 mix -1 volum -1 volum -1 million -1 million -1 million -1 million -1 shar -1 thursday -1 face -1 circl -1 matur -1 end -1 end -1 end -1 contract -1 contract -1 contract -1 contract -1 -2
+contract -1 contract -1 contract -1 chin -1 rise -1 rise -1 cent -1 cut -1 cut -1 cut -1 shanghai -1 shanghai -1 shanghai -1 shanghai -1 lot -1 lot -1 lot -1 day -1 day -1 day -1 june -1 friday -1 bond -1 combin -1 combin -1 due -1 repurchas -1 repo -1 newsroom -1 yuan -1 yuan -1 -2
+yuan -1 activ -1 activ -1 activ -1 trad -1 trad -1 trad -1 -2

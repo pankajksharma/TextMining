@@ -1,0 +1,2 @@
+motor -1 petroleum -1 petroleum -1 petroleum -1 mete -1 light -1 produc -1 produc -1 produc -1 produc -1 turb -1 canad -1 canad -1 reut -1 oil -1 oil -1 statist -1 bureau -1 rise -1 fuel -1 fuel -1 fuel -1 fuel -1 feedstock -1 ottaw -1 figur -1 heavy -1 petrochem -1 thousand -1 july -1 -2
+july -1 july -1 refin -1 diesel -1 cubic -1 gasolin -1 aviat -1 total -1 sale -1 sale -1 sale -1 sale -1 pct -1 pct -1 -2

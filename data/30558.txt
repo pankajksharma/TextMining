@@ -1,0 +1,2 @@
+flight -1 pilot -1 pilot -1 train -1 ocean -1 radar -1 lieuten -1 atlant -1 atlant -1 andraw -1 thursday -1 colonel -1 hoop -1 area -1 gun -1 crash -1 crash -1 washington -1 search -1 disappear -1 pat -1 coast -1 coast -1 coast -1 attack -1 serge -1 base -1 wallop -1 word -1 word -1 -2
+island -1 plan -1 plan -1 plan -1 plan -1 plan -1 hap -1 virgin -1 virgin -1 spokesm -1 guard -1 air -1 air -1 marin -1 marin -1 don -1 fight -1 fight -1 routin -1 offic -1 sivign -1 -2

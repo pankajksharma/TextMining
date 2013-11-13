@@ -1,0 +1,2 @@
+mexic -1 mexic -1 draw -1 cruz -1 cruz -1 point -1 stand -1 stand -1 santo -1 santo -1 guadalajar -1 guadalajar -1 lost -1 atlant -1 atlant -1 atla -1 atla -1 leon -1 leon -1 toluc -1 toluc -1 weekend -1 azul -1 azul -1 socc -1 socc -1 champ -1 champ -1 veracruz -1 veracruz -1 -2
+monterrey -1 monterrey -1 necax -1 won -1 match -1 play -1 americ -1 americ -1 morel -1 morel -1 puebl -1 puebl -1 result -1 result -1 goal -1 tabulat -1 pachuc -1 pachuc -1 unam -1 unam -1 uag -1 uag -1 neza -1 neza -1 celay -1 group -1 group -1 group -1 group -1 -2

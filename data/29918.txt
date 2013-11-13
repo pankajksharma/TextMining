@@ -1,0 +1,3 @@
+credit -1 high -1 high -1 interest -1 perform -1 rate -1 rate -1 term -1 term -1 agent -1 bank -1 bank -1 bank -1 unit -1 commercial -1 commercial -1 commercial -1 individual -1 larg -1 slight -1 debt -1 loan -1 ibca -1 ibca -1 ibca -1 ibca -1 stat -1 sound -1 affirm -1 affirm -1 -2
+aa -1 minus -1 expect -1 help -1 a1 -1 banc -1 banc -1 banc -1 italian -1 italian -1 italian -1 italian -1 show -1 provis -1 legal -1 thursday -1 european -1 long -1 increas -1 rais -1 short -1 grup -1 rose -1 prov -1 margin -1 loss -1 qual -1 satisfact -1 net -1 net -1 diversif -1 -2
+south -1 americ -1 enlarg -1 incom -1 compar -1 profit -1 aris -1 bad -1 asset -1 intern -1 bond -1 few -1 see -1 parent -1 sudamer -1 hold -1 group -1 -2

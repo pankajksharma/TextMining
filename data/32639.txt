@@ -1,0 +1,2 @@
+gener -1 retail -1 retail -1 jun -1 jun -1 data -1 yr -1 yr -1 good -1 good -1 good -1 food -1 index -1 ine -1 ine -1 span -1 span -1 nation -1 statist -1 rose -1 household -1 consum -1 institut -1 person -1 june -1 june -1 madrid -1 newsroom -1 sale -1 sale -1 -2
+pct -1 pct -1 pct -1 -2

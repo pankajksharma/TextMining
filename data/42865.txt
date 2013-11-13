@@ -1,0 +1,2 @@
+econom -1 fair -1 countr -1 agent -1 agent -1 cover -1 bank -1 agree -1 agree -1 agree -1 agree -1 amount -1 accord -1 report -1 stat -1 status -1 million -1 thursday -1 strength -1 nation -1 industr -1 western -1 anatol -1 city -1 senior -1 agricultur -1 izmir -1 new -1 grant -1 energ -1 -2
+turkey -1 turkey -1 turkey -1 turkey -1 export -1 link -1 commun -1 run -1 transport -1 coop -1 coop -1 intern -1 favor -1 port -1 cuba -1 cuba -1 cuba -1 offic -1 sign -1 sign -1 sign -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

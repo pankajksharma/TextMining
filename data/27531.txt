@@ -1,0 +1,2 @@
+market -1 tuesday -1 stock -1 stock -1 midday -1 midday -1 receib -1 cazenov -1 cazenov -1 cazenov -1 point -1 point -1 today -1 capit -1 carolin -1 allen -1 percent -1 percent -1 percent -1 percent -1 percent -1 local -1 index -1 index -1 index -1 index -1 shar -1 deposit -1 rose -1 exchang -1 -2
+basket -1 bombay -1 london -1 weight -1 day -1 gdr -1 gdr -1 gdr -1 wednesday -1 prev -1 prem -1 chang -1 glob -1 newsroom -1 measur -1 indian -1 indian -1 indian -1 trad -1 -2

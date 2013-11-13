@@ -1,0 +1,2 @@
+rival -1 back -1 saladdin -1 armor -1 headquart -1 lead -1 confirm -1 confirm -1 troop -1 reut -1 aid -1 party -1 massoud -1 barzan -1 identif -1 told -1 kurd -1 kurdist -1 kdp -1 kdp -1 kdp -1 city -1 arbil -1 arbil -1 baghdad -1 senior -1 iraq -1 iraq -1 iraq -1 artill -1 -2
+heavy -1 take -1 part -1 attack -1 milit -1 ask -1 inform -1 battl -1 kpd -1 demo -1 offic -1 offic -1 offic -1 -2

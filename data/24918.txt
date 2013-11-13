@@ -1,0 +1,2 @@
+repair -1 small -1 leak -1 tuesday -1 furnac -1 furnac -1 stock -1 inspect -1 clos -1 clos -1 sunday -1 unit -1 unit -1 gulf -1 gulf -1 gmt -1 hour -1 throughput -1 maxim -1 crud -1 crud -1 crud -1 oil -1 oil -1 haven -1 termin -1 short -1 cove -1 london -1 london -1 -2
+discov -1 shut -1 bpd -1 bpd -1 aug -1 day -1 day -1 day -1 wednesday -1 refin -1 reduc -1 barrel -1 spokesm -1 spokesm -1 milford -1 milford -1 chevron -1 stor -1 hole -1 newsroom -1 -2

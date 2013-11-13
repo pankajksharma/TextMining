@@ -1,0 +1,2 @@
+market -1 market -1 money -1 money -1 money -1 rate -1 rate -1 rate -1 liquid -1 bank -1 bank -1 bank -1 bank -1 discount -1 weizm -1 deal -1 week -1 key -1 key -1 stat -1 percent -1 percent -1 denmark -1 copenhagen -1 deposit -1 deposit -1 monday -1 danish -1 off -1 off -1 -2
+made -1 cent -1 cent -1 cent -1 certif -1 pape -1 stev -1 day -1 day -1 repo -1 make -1 unchang -1 unchang -1 newsroom -1 steer -1 cds -1 keep -1 -2

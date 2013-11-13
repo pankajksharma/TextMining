@@ -1,0 +1,4 @@
+stak -1 market -1 market -1 repair -1 sect -1 carry -1 tuesday -1 stock -1 gas -1 gas -1 year -1 construc -1 build -1 build -1 modul -1 upgrad -1 bought -1 bought -1 norway -1 ship -1 produc -1 produc -1 produc -1 stat -1 stat -1 fit -1 percent -1 britain -1 britain -1 britain -1 -2
+modif -1 england -1 big -1 float -1 float -1 exist -1 million -1 shar -1 strength -1 strength -1 oslo -1 techn -1 techn -1 oil -1 oil -1 oil -1 consid -1 aker -1 aker -1 aker -1 aker -1 aker -1 aker -1 aker -1 aker -1 aker -1 stabl -1 crown -1 buy -1 platform -1 platform -1 -2
+grow -1 asa -1 asa -1 mater -1 compet -1 servic -1 medium -1 size -1 posit -1 posit -1 mcnult -1 mcnult -1 mcnult -1 mcnult -1 northern -1 organ -1 ton -1 yard -1 field -1 semisubmersibl -1 demand -1 mainten -1 total -1 suppl -1 newsroom -1 rig -1 operat -1 newcastl -1 offshor -1 offshor -1 subsid -1 -2
+group -1 -2

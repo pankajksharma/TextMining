@@ -1,0 +1,4 @@
+stak -1 shoe -1 shoemak -1 shoemak -1 bound -1 moskw -1 own -1 own -1 year -1 year -1 agent -1 agent -1 form -1 form -1 form -1 swap -1 firm -1 firm -1 firm -1 firm -1 firm -1 firm -1 invest -1 invest -1 invest -1 deal -1 deal -1 equit -1 equit -1 list -1 -2
+list -1 capit -1 capit -1 issu -1 bought -1 fund -1 fund -1 fund -1 fund -1 fund -1 fund -1 fund -1 debt -1 debt -1 produc -1 produc -1 stat -1 stat -1 balanc -1 sheet -1 reut -1 polish -1 poland -1 million -1 million -1 shar -1 shar -1 shar -1 thursday -1 control -1 warsaw -1 -2
+zloty -1 zloty -1 industr -1 rais -1 off -1 told -1 format -1 eventual -1 entry -1 initial -1 arkadiusz -1 half -1 fail -1 ida -1 ida -1 ida -1 ida -1 krezel -1 krezel -1 krezel -1 part -1 develop -1 leather -1 leather -1 leather -1 institut -1 plan -1 bours -1 bours -1 bours -1 major -1 -2
+wojciech -1 strateg -1 partn -1 presid -1 creat -1 hope -1 distribut -1 group -1 -2

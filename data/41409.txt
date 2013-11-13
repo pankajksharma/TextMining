@@ -1,0 +1,2 @@
+thin -1 heard -1 clos -1 octob -1 screen -1 discount -1 firm -1 firm -1 deal -1 gmt -1 shaxson -1 strong -1 nymex -1 nymex -1 pric -1 pric -1 show -1 futur -1 futur -1 nichol -1 thursday -1 arbitr -1 approxim -1 equat -1 rise -1 rise -1 equival -1 cent -1 london -1 ton -1 -2
+fob -1 watch -1 unlead -1 gasolin -1 gasolin -1 gasolin -1 barrel -1 demand -1 rough -1 beckon -1 weigh -1 regul -1 nwe -1 nwe -1 newsroom -1 eurograd -1 ara -1 ara -1 activ -1 barg -1 barg -1 trad -1 trad -1 trad -1 trad -1 -2

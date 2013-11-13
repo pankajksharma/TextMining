@@ -1,0 +1,2 @@
+waf -1 poitou -1 eagl -1 spirit -1 york -1 seray -1 west -1 afric -1 gmt -1 fixtur -1 fixtur -1 dirty -1 enquir -1 hemispher -1 usg -1 usg -1 usg -1 pect -1 pect -1 tank -1 opa -1 commod -1 western -1 memph -1 coast -1 w85 -1 usac -1 mex -1 mex -1 w117 -1 -2
+w125 -1 desk -1 -2

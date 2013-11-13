@@ -1,0 +1,2 @@
+soybean -1 thin -1 sunflow -1 soy -1 rain -1 nerv -1 april -1 forward -1 good -1 good -1 spot -1 spot -1 spot -1 cash -1 cash -1 cash -1 cash -1 janu -1 volum -1 plent -1 stead -1 stead -1 cereal -1 weak -1 weak -1 weak -1 cbot -1 exchang -1 maiz -1 maiz -1 -2
+maiz -1 wheat -1 continu -1 jason -1 argentin -1 argentin -1 bueno -1 bueno -1 seed -1 web -1 turnov -1 air -1 air -1 demand -1 suppl -1 moderat -1 weather -1 unchang -1 newsroom -1 forecast -1 slow -1 slow -1 slow -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 eas -1 -2

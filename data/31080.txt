@@ -1,0 +1,3 @@
+recov -1 jakart -1 gener -1 alleg -1 remaind -1 spokeswom -1 newspap -1 newspap -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 billion -1 billion -1 billion -1 system -1 good -1 deal -1 employ -1 peopl -1 peopl -1 immmed -1 rupiahm -1 nurfaiz -1 report -1 report -1 report -1 confirm -1 -2
+prob -1 prob -1 quest -1 reut -1 belief -1 investig -1 told -1 told -1 cent -1 cent -1 cent -1 rupiah -1 rupiah -1 spent -1 loss -1 loss -1 quot -1 success -1 search -1 detect -1 fake -1 fake -1 detain -1 detail -1 gave -1 post -1 post -1 caus -1 involut -1 comment -1 spokesm -1 -2
+regard -1 irregul -1 total -1 friday -1 indones -1 indones -1 indones -1 polic -1 polic -1 polic -1 polic -1 polic -1 polic -1 brigad -1 transact -1 suspect -1 suspect -1 offic -1 -2

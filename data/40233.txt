@@ -1,0 +1,3 @@
+early -1 omer -1 peac -1 akbel -1 akbel -1 tabl -1 countr -1 countr -1 middl -1 middl -1 turk -1 turk -1 suit -1 tansu -1 cill -1 cill -1 jord -1 jord -1 jord -1 report -1 kabarit -1 east -1 east -1 al -1 talk -1 abroad -1 consid -1 august -1 bilater -1 invitat -1 -2
+foreign -1 foreign -1 told -1 necmettin -1 erbak -1 prim -1 prim -1 minist -1 minist -1 minist -1 minist -1 tour -1 visit -1 visit -1 visit -1 visit -1 trip -1 karim -1 moslem -1 turkey -1 turkey -1 mat -1 day -1 day -1 relat -1 coop -1 includ -1 wednesday -1 septemb -1 plac -1 spokesm -1 -2
+abdul -1 june -1 process -1 iran -1 jordan -1 hold -1 offic -1 -2

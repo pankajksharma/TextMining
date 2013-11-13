@@ -1,0 +1,1 @@
+data -1 shr -1 shr -1 shr -1 rev -1 avg -1 shar -1 flat -1 numb -1 net -1 july -1 q1 -1 airsens -1 -2

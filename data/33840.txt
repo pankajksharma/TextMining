@@ -1,0 +1,4 @@
+draw -1 thawr -1 accur -1 situat -1 pharmaceut -1 desir -1 sunday -1 hospit -1 review -1 curb -1 turk -1 system -1 meddl -1 tie -1 stand -1 jumhouriy -1 firm -1 qadissiy -1 hussein -1 peopl -1 meet -1 lead -1 lead -1 digest -1 canad -1 collect -1 reut -1 show -1 wat -1 party -1 -2
+party -1 denounc -1 nation -1 exhib -1 massoud -1 barzan -1 warlord -1 press -1 press -1 canal -1 pow -1 urg -1 aziz -1 verif -1 vouch -1 irrigat -1 kurd -1 kurdist -1 kurdist -1 minist -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 -2
+iraq -1 tour -1 parlia -1 baath -1 saddam -1 improv -1 clean -1 delegat -1 northern -1 greec -1 evasion -1 propos -1 story -1 story -1 aug -1 council -1 revolut -1 plan -1 chair -1 affair -1 assembl -1 resum -1 joint -1 interfer -1 rule -1 presid -1 command -1 iran -1 iran -1 iran -1 southern -1 -2
+hold -1 demo -1 offic -1 trad -1 tax -1 tax -1 -2

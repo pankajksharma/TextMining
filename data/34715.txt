@@ -1,0 +1,3 @@
+elector -1 elect -1 elect -1 elect -1 rival -1 tuesday -1 tuesday -1 arnold -1 high -1 month -1 abstain -1 baltic -1 gmt -1 represent -1 stat -1 local -1 anal -1 govern -1 rest -1 lennart -1 meri -1 meri -1 meri -1 open -1 round -1 round -1 nominat -1 candid -1 candid -1 conv -1 -2
+secret -1 monday -1 win -1 eston -1 eston -1 deput -1 speak -1 speak -1 numb -1 compet -1 won -1 won -1 won -1 parlia -1 parlia -1 parlia -1 parlia -1 parlia -1 parlia -1 take -1 fail -1 fail -1 fail -1 fail -1 part -1 vote -1 vote -1 vote -1 vote -1 vote -1 vote -1 -2
+vote -1 vote -1 includ -1 ruutel -1 ruutel -1 ruutel -1 ruutel -1 politic -1 parliamet -1 memb -1 memb -1 memb -1 secur -1 colleg -1 held -1 morn -1 forecast -1 presid -1 presid -1 presid -1 ballot -1 incumb -1 offic -1 -2

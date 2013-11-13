@@ -1,0 +1,2 @@
+hous -1 hous -1 hous -1 retail -1 fin -1 broker -1 deal -1 deal -1 deal -1 deal -1 oy -1 capit -1 percent -1 percent -1 helsink -1 helsink -1 markk -1 markk -1 markk -1 reut -1 big -1 big -1 million -1 million -1 alfr -1 alfr -1 shar -1 shar -1 shar -1 shar -1 -2
+monday -1 buy -1 made -1 told -1 declin -1 sell -1 comment -1 account -1 spokesm -1 bours -1 worth -1 afternoon -1 newsroom -1 berg -1 berg -1 kesk -1 kesk -1 kesk -1 kesk -1 kesk -1 trad -1 block -1 -2

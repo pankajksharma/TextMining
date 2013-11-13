@@ -1,0 +1,4 @@
+stay -1 compan -1 compan -1 market -1 popul -1 draw -1 gener -1 guill -1 stock -1 stock -1 clos -1 interest -1 brew -1 brew -1 point -1 del -1 del -1 del -1 fall -1 select -1 sur -1 sur -1 invest -1 slight -1 luz -1 luz -1 percent -1 percent -1 percent -1 percent -1 -2
+percent -1 percent -1 percent -1 percent -1 fell -1 mix -1 mix -1 pric -1 index -1 index -1 volum -1 volum -1 brok -1 brok -1 million -1 million -1 million -1 million -1 million -1 thursday -1 thursday -1 flat -1 shar -1 shar -1 shar -1 shar -1 shar -1 end -1 benchmark -1 lima -1 lima -1 -2
+lima -1 stabl -1 return -1 foreign -1 rose -1 rose -1 continu -1 cervesur -1 backus -1 claud -1 dip -1 dip -1 peru -1 newly -1 electr -1 electr -1 session -1 dominat -1 dominat -1 account -1 blu -1 chip -1 total -1 johnston -1 friday -1 telefon -1 newsroom -1 forecast -1 sole -1 sole -1 sole -1 -2
+sole -1 sole -1 possibl -1 sign -1 trad -1 trad -1 trad -1 pick -1 -2

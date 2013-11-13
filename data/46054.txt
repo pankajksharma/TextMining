@@ -1,0 +1,5 @@
+react -1 yellow -1 refer -1 refer -1 card -1 back -1 target -1 clos -1 saturday -1 reach -1 halftim -1 cup -1 cup -1 cup -1 stag -1 spell -1 apiec -1 crush -1 horn -1 captain -1 saund -1 saund -1 saund -1 saund -1 saund -1 gould -1 andy -1 unit -1 nottingham -1 gig -1 -2
+gig -1 gig -1 interv -1 decid -1 decid -1 penalt -1 trick -1 vict -1 appear -1 home -1 second -1 world -1 world -1 world -1 bryan -1 mean -1 manchest -1 dean -1 cardiff -1 open -1 challeng -1 dutch -1 give -1 win -1 time -1 leagu -1 ryan -1 ryan -1 socc -1 side -1 san -1 -2
+san -1 san -1 head -1 bobby -1 engl -1 forest -1 premy -1 strik -1 match -1 match -1 clash -1 play -1 play -1 miss -1 miss -1 scor -1 scor -1 scor -1 scor -1 new -1 put -1 part -1 deny -1 hat -1 wing -1 turkey -1 book -1 book -1 frustr -1 minut -1 break -1 -2
+robinson -1 welsh -1 welsh -1 pass -1 bad -1 bad -1 goal -1 goal -1 goal -1 goal -1 goal -1 hugh -1 hugh -1 hugh -1 hugh -1 woodwork -1 gasperon -1 sarcasm -1 john -1 wal -1 wal -1 wal -1 wal -1 june -1 marin -1 marin -1 marin -1 barry -1 cushion -1 sarcast -1 qualif -1 -2
+melvill -1 chelsea -1 mark -1 clap -1 group -1 -2

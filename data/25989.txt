@@ -1,0 +1,1 @@
+compan -1 televis -1 stock -1 receib -1 pay -1 shar -1 shar -1 arrang -1 rtr -1 asx -1 asx -1 financ -1 media -1 reinst -1 reinst -1 exchang -1 austral -1 austral -1 austral -1 announc -1 wednesday -1 operat -1 -2

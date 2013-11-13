@@ -1,0 +1,4 @@
+grain -1 grain -1 grain -1 grain -1 high -1 high -1 reach -1 month -1 year -1 year -1 year -1 remaind -1 tritical -1 toepf -1 toepf -1 toepf -1 toepf -1 toepf -1 spain -1 franc -1 germ -1 yield -1 oat -1 expect -1 expect -1 expect -1 mix -1 soft -1 eu -1 eu -1 -2
+million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 alfr -1 crop -1 crop -1 crop -1 crop -1 crop -1 rye -1 versus -1 rise -1 current -1 harvest -1 harvest -1 maiz -1 wheat -1 posit -1 newslet -1 barley -1 barley -1 put -1 -2
+estimat -1 estimat -1 estimat -1 estimat -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 base -1 base -1 peg -1 pattern -1 detail -1 describ -1 july -1 july -1 july -1 compar -1 compar -1 compar -1 result -1 result -1 result -1 hamburg -1 sorghum -1 total -1 friday -1 -2
+weather -1 newsroom -1 allow -1 see -1 forecast -1 norm -1 trad -1 mln -1 -2

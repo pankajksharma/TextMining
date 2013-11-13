@@ -1,0 +1,2 @@
+follow -1 market -1 stall -1 cop -1 cop -1 high -1 high -1 lme -1 nickel -1 firm -1 firm -1 pop -1 spread -1 slight -1 strong -1 strong -1 lead -1 prob -1 cash -1 jump -1 three -1 main -1 end -1 end -1 finish -1 prim -1 tin -1 alloy -1 confront -1 burst -1 -2
+alumin -1 resist -1 wednesday -1 zinc -1 chang -1 barry -1 ceil -1 -2

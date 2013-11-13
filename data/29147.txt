@@ -1,0 +1,2 @@
+compan -1 market -1 market -1 newsdesk -1 back -1 stock -1 stock -1 month -1 bank -1 common -1 unit -1 bancorp -1 stat -1 percent -1 anticip -1 shar -1 thursday -1 open -1 davi -1 feder -1 feder -1 feder -1 chicag -1 buy -1 outstand -1 period -1 brian -1 plan -1 plan -1 plac -1 -2
+cond -1 repurchas -1 repurchas -1 fidel -1 fidel -1 fidel -1 fidel -1 presid -1 hold -1 -2

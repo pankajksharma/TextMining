@@ -1,0 +1,2 @@
+compan -1 market -1 newsdesk -1 high -1 ahead -1 data -1 amount -1 invest -1 deal -1 unit -1 eoe -1 eoe -1 bolswessan -1 aex -1 usual -1 stat -1 percent -1 amsterdam -1 expect -1 subdu -1 subdu -1 level -1 european -1 contract -1 contract -1 monday -1 buy -1 exchang -1 call -1 call -1 -2
+signif -1 half -1 take -1 put -1 note -1 toll -1 turnov -1 turnov -1 turnov -1 result -1 result -1 wednesday -1 uk -1 uk -1 total -1 late -1 holiday -1 holiday -1 afternoon -1 activ -1 activ -1 activ -1 absent -1 norm -1 trad -1 option -1 option -1 option -1 -2

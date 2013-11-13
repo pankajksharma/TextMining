@@ -1,0 +1,2 @@
+waf -1 w160 -1 coven -1 trinidad -1 rate -1 york -1 petrolea -1 sea -1 sea -1 amuey -1 almanam -1 slagen -1 milazz -1 spain -1 texac -1 unit -1 red -1 west -1 afric -1 gmt -1 fixtur -1 fixtur -1 east -1 dirty -1 enquir -1 hemispher -1 usg -1 tank -1 mideast -1 mideast -1 -2
+w92 -1 exxon -1 prosper -1 oil -1 commod -1 clark -1 crown -1 fuel -1 sund -1 lion -1 western -1 plc -1 w127 -1 updat -1 brazil -1 rnr -1 cont -1 mint -1 jewel -1 petrobr -1 ceps -1 uk -1 w61 -1 desk -1 -2

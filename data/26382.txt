@@ -1,0 +1,3 @@
+market -1 unexpect -1 tuesday -1 tuesday -1 clos -1 low -1 low -1 data -1 york -1 york -1 fall -1 gulf -1 gulf -1 gulf -1 gulf -1 gulf -1 west -1 distill -1 grad -1 grad -1 grad -1 grad -1 harbor -1 help -1 nymex -1 nymex -1 eia -1 fell -1 jet -1 jet -1 -2
+window -1 pric -1 futur -1 sold -1 arb -1 print -1 diff -1 diff -1 diff -1 diff -1 stabl -1 buy -1 fuel -1 bear -1 weak -1 weak -1 weak -1 cent -1 cent -1 cent -1 cent -1 cent -1 qual -1 offer -1 offer -1 play -1 coast -1 coast -1 coast -1 energ -1 wednesday -1 -2
+wednesday -1 refin -1 sulfur -1 septemb -1 prem -1 heat -1 aviat -1 prompt -1 releas -1 add -1 desk -1 amid -1 trad -1 trad -1 trad -1 eas -1 -2

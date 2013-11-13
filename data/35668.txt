@@ -1,0 +1,2 @@
+compan -1 stock -1 stock -1 div -1 div -1 prefer -1 prefer -1 common -1 common -1 mill -1 selons -1 selons -1 alysid -1 alysid -1 xylembor -1 xylembor -1 sarantopoulo -1 sarantopoulo -1 dachm -1 pric -1 shar -1 shar -1 open -1 drachm -1 drachm -1 drachm -1 dividend -1 dividend -1 monday -1 monday -1 -2
+coupon -1 exchang -1 bell -1 georg -1 georgiopoulo -1 athen -1 athen -1 aquacultur -1 newsroom -1 trad -1 trad -1 -2

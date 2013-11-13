@@ -1,0 +1,3 @@
+ampl -1 market -1 market -1 market -1 market -1 tight -1 tight -1 quiet -1 quiet -1 money -1 money -1 clos -1 record -1 rate -1 rate -1 month -1 month -1 currenc -1 currenc -1 bank -1 bank -1 trend -1 deal -1 deal -1 deal -1 deal -1 week -1 week -1 larg -1 fund -1 -2
+gmt -1 percent -1 local -1 mix -1 reme -1 glu -1 end -1 end -1 remain -1 stead -1 stead -1 buy -1 intervent -1 fact -1 dip -1 new -1 note -1 consolid -1 rang -1 rang -1 malays -1 day -1 wednesday -1 prev -1 favor -1 dollar -1 dollar -1 dollar -1 june -1 major -1 consecut -1 -2
+morn -1 avail -1 negar -1 ahmad -1 ringgit -1 ringgit -1 ringgit -1 ringgit -1 ringgit -1 surg -1 interbank -1 hold -1 ord -1 commerc -1 commerc -1 trad -1 trad -1 surplus -1 -2

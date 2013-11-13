@@ -1,0 +1,4 @@
+early -1 early -1 market -1 carry -1 itb -1 itb -1 begin -1 spk -1 spk -1 duty -1 capit -1 issu -1 issu -1 domest -1 method -1 produc -1 produc -1 custod -1 govern -1 exch -1 main -1 yalim -1 administ -1 defin -1 erez -1 brok -1 futur -1 futur -1 futur -1 ersoy -1 -2
+thursday -1 open -1 open -1 open -1 contract -1 control -1 control -1 ercan -1 gazet -1 industr -1 industr -1 foreign -1 typ -1 side -1 exchang -1 exchang -1 exchang -1 exchang -1 exchang -1 exchang -1 exchang -1 exchang -1 procedur -1 western -1 ankar -1 minist -1 minist -1 initial -1 izmir -1 settl -1 turkey -1 -2
+turkey -1 turkey -1 rift -1 resolut -1 regulat -1 regulat -1 regulat -1 regulat -1 effect -1 comment -1 board -1 board -1 cotton -1 cotton -1 cotton -1 cotton -1 secur -1 secur -1 bours -1 watchdog -1 mastermind -1 oppos -1 due -1 newsroom -1 operat -1 region -1 transact -1 delay -1 offic -1 offic -1 trad -1 -2
+trad -1 trad -1 trad -1 trad -1 disput -1 disput -1 -2

@@ -1,0 +1,3 @@
+febru -1 market -1 thin -1 money -1 money -1 clos -1 clos -1 clos -1 parit -1 parit -1 high -1 rate -1 rate -1 low -1 lira -1 lira -1 lira -1 lira -1 ahead -1 ahead -1 currenc -1 fresh -1 bank -1 bank -1 bank -1 bank -1 bank -1 turk -1 turk -1 firm -1 -2
+firm -1 decemb -1 squeez -1 fund -1 slight -1 yield -1 yield -1 yield -1 report -1 percent -1 percent -1 percent -1 percent -1 percent -1 forex -1 transf -1 bill -1 cash -1 cash -1 cash -1 cash -1 cash -1 overnight -1 overnight -1 lower -1 volum -1 thursday -1 thursday -1 open -1 remain -1 weekend -1 -2
+weekend -1 rais -1 short -1 rose -1 cent -1 cent -1 move -1 trill -1 pape -1 pape -1 day -1 demand -1 demand -1 dollar -1 dollar -1 dollar -1 friday -1 bond -1 due -1 due -1 due -1 activ -1 activ -1 compuls -1 mark -1 -2

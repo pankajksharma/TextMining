@@ -1,0 +1,2 @@
+market -1 market -1 market -1 bound -1 bound -1 econom -1 stock -1 stock -1 stock -1 sunday -1 low -1 low -1 karach -1 point -1 manag -1 deal -1 deal -1 capit -1 percent -1 fell -1 fell -1 gain -1 index -1 million -1 million -1 thursday -1 shar -1 shar -1 scenario -1 end -1 -2
+end -1 gloom -1 sajjad -1 mankan -1 monday -1 polit -1 attract -1 finish -1 lose -1 exchang -1 move -1 play -1 dull -1 technic -1 bma -1 new -1 pakistan -1 pakistan -1 rang -1 rang -1 led -1 session -1 turnov -1 day -1 kse -1 prev -1 account -1 major -1 add -1 trad -1 -2

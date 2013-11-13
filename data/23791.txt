@@ -1,0 +1,4 @@
+early -1 market -1 market -1 tight -1 econom -1 gener -1 back -1 slip -1 tuesday -1 tuesday -1 tuesday -1 high -1 interest -1 interest -1 rate -1 rate -1 rate -1 month -1 year -1 year -1 year -1 ahead -1 point -1 point -1 expert -1 modest -1 discount -1 employ -1 light -1 report -1 -2
+yield -1 yield -1 percent -1 percent -1 lost -1 meet -1 meet -1 meet -1 anal -1 anal -1 govern -1 treasur -1 treasur -1 treasur -1 treasur -1 fix -1 mix -1 mix -1 gain -1 fomc -1 open -1 feder -1 feder -1 reserv -1 rais -1 narrow -1 august -1 conclud -1 coupon -1 coupon -1 commit -1 -2
+focus -1 scot -1 posit -1 poll -1 basi -1 basi -1 incom -1 payrol -1 compar -1 announc -1 septemb -1 pass -1 pass -1 prem -1 secur -1 secur -1 fed -1 held -1 backed -1 late -1 through -1 through -1 set -1 gnma -1 fnma -1 fhlmc -1 sway -1 polic -1 gerlach -1 releas -1 afternoon -1 -2
+unchang -1 unchang -1 forecast -1 mortg -1 mortg -1 trad -1 trad -1 -2

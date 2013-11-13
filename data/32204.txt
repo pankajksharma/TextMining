@@ -1,0 +1,2 @@
+market -1 credit -1 credit -1 credit -1 credit -1 syndic -1 cs -1 currenc -1 swap -1 manag -1 manag -1 bzw -1 bzw -1 bzw -1 report -1 stat -1 stat -1 csfb -1 second -1 fix -1 boston -1 busi -1 busi -1 diamons -1 europ -1 europ -1 european -1 head -1 head -1 head -1 -2
+research -1 london -1 london -1 posit -1 chief -1 bob -1 responsibl -1 direct -1 direct -1 morric -1 morric -1 morric -1 incom -1 charg -1 asset -1 derivat -1 joint -1 friday -1 glob -1 robert -1 hire -1 hire -1 newsroom -1 add -1 execut -1 sterl -1 operat -1 origin -1 sale -1 exec -1 trad -1 -2

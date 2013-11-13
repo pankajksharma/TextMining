@@ -1,0 +1,5 @@
+repair -1 small -1 record -1 high -1 interest -1 rate -1 rate -1 wellington -1 march -1 revers -1 year -1 year -1 year -1 fall -1 decreas -1 decreas -1 decreas -1 annual -1 quart -1 quart -1 quart -1 quart -1 quart -1 quart -1 quart -1 salar -1 percent -1 percent -1 percent -1 percent -1 -2
+percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 local -1 govern -1 fell -1 level -1 level -1 main -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 show -1 contribut -1 crop -1 crop -1 increas -1 statist -1 rise -1 rise -1 rise -1 -2
+rise -1 harvest -1 cultiv -1 horticultur -1 horticultur -1 feed -1 graz -1 rose -1 rose -1 cent -1 beef -1 beef -1 snz -1 input -1 input -1 input -1 input -1 input -1 dairy -1 dairy -1 farm -1 farm -1 farm -1 farm -1 farm -1 farm -1 farm -1 farm -1 farm -1 farm -1 farm -1 -2
+nz -1 nz -1 livestock -1 livestock -1 livestock -1 insur -1 fact -1 partial -1 partial -1 sheep -1 sheep -1 offset -1 offset -1 exclud -1 compar -1 wag -1 includ -1 wednesday -1 prem -1 prev -1 mainten -1 june -1 june -1 june -1 june -1 june -1 chang -1 chang -1 aver -1 aver -1 newsroom -1 -2
+fee -1 pct -1 -2

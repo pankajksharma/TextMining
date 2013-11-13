@@ -1,0 +1,2 @@
+draw -1 tuesday -1 fin -1 low -1 live -1 live -1 invest -1 invest -1 week -1 oy -1 gmt -1 stat -1 percent -1 helsink -1 markk -1 markk -1 big -1 brok -1 brok -1 brok -1 million -1 thursday -1 shar -1 control -1 conclud -1 extend -1 foreign -1 foreign -1 warn -1 warn -1 -2
+warn -1 loss -1 continu -1 slid -1 kemir -1 kemir -1 kemir -1 kemir -1 sell -1 profit -1 profit -1 profit -1 chemic -1 depress -1 releas -1 afternoon -1 newsroom -1 trad -1 trad -1 trad -1 group -1 -2

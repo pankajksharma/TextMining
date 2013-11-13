@@ -1,0 +1,2 @@
+early -1 bridg -1 hospit -1 road -1 peopl -1 capit -1 stat -1 stat -1 injur -1 injur -1 km -1 die -1 pous -1 alegr -1 belo -1 mina -1 gerai -1 crash -1 city -1 bus -1 mile -1 brazil -1 brazil -1 coll -1 hap -1 wednesday -1 dead -1 truck -1 spokesm -1 horizont -1 -2
+cond -1 morn -1 polic -1 polic -1 southern -1 accid -1 -2

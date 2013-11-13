@@ -1,0 +1,5 @@
+cumulat -1 early -1 market -1 market -1 retail -1 retail -1 econom -1 econom -1 back -1 clos -1 clos -1 interest -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 low -1 year -1 year -1 term -1 term -1 currenc -1 yen -1 yen -1 bank -1 -2
+bank -1 bank -1 bank -1 bank -1 bank -1 point -1 point -1 billion -1 billion -1 toront -1 german -1 invest -1 firm -1 lydia -1 zajc -1 cibc -1 rush -1 reid -1 cycl -1 farrill -1 farrill -1 farrill -1 key -1 fund -1 report -1 stat -1 percent -1 percent -1 strong -1 strong -1 special -1 -2
+expect -1 expect -1 overnight -1 canad -1 canad -1 canad -1 canad -1 canad -1 canad -1 canad -1 canad -1 canad -1 reut -1 gain -1 thursday -1 strength -1 end -1 drop -1 statist -1 time -1 bureau -1 short -1 short -1 buy -1 foreign -1 rose -1 rose -1 cent -1 exchang -1 cut -1 cut -1 -2
+cut -1 cut -1 move -1 new -1 rang -1 basi -1 july -1 day -1 wednesday -1 rough -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 june -1 bundesbank -1 releas -1 add -1 substant -1 surpr -1 park -1 mark -1 mark -1 sale -1 sale -1 sale -1 sign -1 sign -1 chop -1 eas -1 -2
+cross -1 -2

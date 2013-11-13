@@ -1,0 +1,2 @@
+contrast -1 market -1 market -1 sect -1 interest -1 start -1 select -1 dealt -1 annual -1 wint -1 franc -1 mill -1 afric -1 sourc -1 slight -1 ship -1 requir -1 raw -1 albeit -1 anticip -1 crop -1 europ -1 europ -1 european -1 long -1 industr -1 tone -1 tone -1 buy -1 return -1 -2
+cent -1 qual -1 cove -1 london -1 autumn -1 spin -1 improv -1 improv -1 medium -1 fine -1 await -1 stapl -1 asian -1 essent -1 cotton -1 egypt -1 eastern -1 holiday -1 newsroom -1 content -1 slow -1 trad -1 zone -1 sought -1 -2

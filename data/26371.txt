@@ -1,0 +1,2 @@
+montevideo -1 waf -1 waf -1 w95 -1 ancap -1 messiniako -1 mexic -1 w77 -1 bp -1 tbn -1 york -1 sea -1 spain -1 amoc -1 amoc -1 red -1 west -1 afric -1 gmt -1 fixtur -1 fixtur -1 sank -1 dirty -1 enquir -1 hemispher -1 usg -1 usg -1 usg -1 w128 -1 tank -1 -2
+mideast -1 mideast -1 commod -1 pioneer -1 western -1 rnr -1 guatemal -1 carib -1 koch -1 desk -1 iran -1 korea -1 nabi -1 w64 -1 yukong -1 aet -1 w135 -1 evrot -1 w180 -1 comor -1 -2

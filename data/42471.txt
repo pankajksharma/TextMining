@@ -1,0 +1,2 @@
+limit -1 stock -1 stock -1 stock -1 stock -1 broker -1 schedul -1 york -1 firm -1 discount -1 list -1 list -1 internet -1 internet -1 custom -1 brok -1 brok -1 shar -1 shar -1 shar -1 shar -1 remain -1 elimin -1 assist -1 exchang -1 cut -1 cut -1 cost -1 americ -1 charg -1 -2
+charg -1 septemb -1 septemb -1 effect -1 effect -1 transact -1 ord -1 ord -1 ord -1 fee -1 fee -1 fee -1 fee -1 handl -1 count -1 trad -1 trad -1 trad -1 trad -1 lombard -1 lombard -1 lombard -1 lombard -1 -2

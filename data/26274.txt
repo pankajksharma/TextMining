@@ -1,0 +1,2 @@
+begin -1 year -1 construc -1 skod -1 skod -1 skod -1 firm -1 firm -1 firm -1 firm -1 unit -1 deal -1 stat -1 stat -1 polish -1 polish -1 instal -1 million -1 end -1 contract -1 warsaw -1 czech -1 czech -1 western -1 work -1 cabl -1 cabl -1 energetik -1 export -1 plzen -1 -2
+detail -1 gave -1 elektromontaz -1 elektromontaz -1 bohem -1 sa -1 plant -1 septemb -1 plac -1 project -1 june -1 newsroom -1 sign -1 mln -1 -2

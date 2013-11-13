@@ -1,0 +1,4 @@
+ambassador -1 econom -1 helmut -1 kohl -1 observ -1 french -1 french -1 french -1 parit -1 sunday -1 high -1 union -1 union -1 interest -1 interest -1 reaffirm -1 rate -1 fair -1 low -1 monet -1 monet -1 monet -1 ahead -1 unity -1 currenc -1 currenc -1 currenc -1 currenc -1 devalu -1 unit -1 -2
+debat -1 peopl -1 franc -1 franc -1 franc -1 franc -1 correspons -1 issu -1 germ -1 stat -1 meet -1 meet -1 meet -1 meet -1 meet -1 euro -1 expect -1 requir -1 govern -1 world -1 world -1 world -1 europ -1 thursday -1 european -1 european -1 european -1 european -1 end -1 discuss -1 chancellor -1 -2
+stabl -1 bilater -1 speak -1 financ -1 commit -1 enabl -1 continu -1 compet -1 growth -1 move -1 chirac -1 chirac -1 chirac -1 chirac -1 weight -1 put -1 job -1 equal -1 final -1 emu -1 develop -1 basic -1 strict -1 great -1 deadlin -1 deadlin -1 remark -1 demand -1 role -1 achief -1 rule -1 -2
+cond -1 singl -1 singl -1 singl -1 presid -1 jacqu -1 ord -1 prepar -1 -2

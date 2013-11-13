@@ -1,0 +1,3 @@
+compan -1 market -1 launch -1 lpc -1 lpc -1 lpc -1 credit -1 gener -1 syndic -1 cop -1 grenfel -1 year -1 year -1 year -1 currenc -1 bank -1 morg -1 amount -1 deal -1 annual -1 seek -1 larg -1 today -1 fund -1 loan -1 loan -1 loan -1 produc -1 mine -1 bps -1 -2
+bps -1 bps -1 bps -1 bps -1 bv -1 annivers -1 enskild -1 pric -1 pric -1 exist -1 trelleborg -1 trelleborg -1 trelleborg -1 trelleborg -1 trelleborg -1 million -1 million -1 handelsbank -1 deutsch -1 swed -1 swed -1 swed -1 rise -1 rise -1 financ -1 financ -1 commit -1 paid -1 libor -1 libor -1 guaranteed -1 -2
+mult -1 london -1 initial -1 repay -1 equal -1 purpos -1 corpor -1 aug -1 semi -1 revolut -1 revolut -1 july -1 announc -1 refin -1 ab -1 newsroom -1 fee -1 sign -1 mln -1 -2

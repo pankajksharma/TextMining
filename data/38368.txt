@@ -1,0 +1,5 @@
+stay -1 early -1 market -1 market -1 territ -1 jail -1 jail -1 stock -1 sentenc -1 sentenc -1 sentenc -1 seoul -1 seoul -1 low -1 low -1 begin -1 year -1 year -1 year -1 construc -1 construc -1 term -1 receiv -1 remaind -1 tae -1 fall -1 turn -1 unit -1 prison -1 lost -1 -2
+expect -1 fell -1 fell -1 brok -1 brok -1 brok -1 brok -1 brok -1 flat -1 cory -1 cory -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 hour -1 dong -1 dong -1 dong -1 dong -1 dong -1 dong -1 dong -1 dong -1 drop -1 fundment -1 ah -1 ah -1 ah -1 -2
+ah -1 ah -1 ah -1 ah -1 ah -1 monday -1 shed -1 woo -1 woo -1 remain -1 industr -1 badly -1 buy -1 pressur -1 weak -1 side -1 court -1 won -1 won -1 won -1 won -1 heavy -1 brib -1 posit -1 new -1 south -1 day -1 corp -1 power -1 secur -1 secur -1 -2
+daewoo -1 daewoo -1 daewoo -1 daewoo -1 daewoo -1 daewoo -1 daewoo -1 daewoo -1 daewoo -1 roh -1 found -1 hit -1 hit -1 chairm -1 chairm -1 chairm -1 morn -1 morn -1 choong -1 negat -1 newsroom -1 presid -1 korea -1 kim -1 electron -1 trad -1 trad -1 group -1 group -1 group -1 group -1 -2
+group -1 group -1 group -1 -2

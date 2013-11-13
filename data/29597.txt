@@ -1,0 +1,3 @@
+stay -1 merrill -1 merrill -1 merrill -1 stock -1 high -1 alert -1 rate -1 receiv -1 bank -1 bank -1 poor -1 steelmak -1 firm -1 common -1 maintain -1 de -1 quart -1 quart -1 quart -1 quart -1 quart -1 gmt -1 local -1 tubarao -1 cst -1 cst -1 cst -1 cst -1 cst -1 -2
+extraordin -1 pric -1 futur -1 million -1 million -1 million -1 million -1 versus -1 rose -1 exchang -1 cite -1 research -1 subtract -1 net -1 net -1 companh -1 jame -1 judg -1 brazil -1 ton -1 ton -1 base -1 incom -1 accumul -1 accumul -1 vote -1 paul -1 paul -1 compar -1 siderurg -1 monthperiod -1 -2
+result -1 scrutin -1 sao -1 sao -1 item -1 project -1 project -1 lynch -1 lynch -1 real -1 real -1 real -1 slab -1 unchang -1 bloat -1 newsroom -1 reai -1 reai -1 craig -1 reluc -1 -2

@@ -1,0 +1,2 @@
+tru -1 econom -1 stag -1 monet -1 monet -1 countr -1 countr -1 currenc -1 bank -1 point -1 free -1 peso -1 peso -1 peso -1 peso -1 produc -1 lead -1 kans -1 float -1 float -1 float -1 float -1 futur -1 caval -1 caval -1 caval -1 caval -1 feder -1 reserv -1 sympos -1 -2
+pressur -1 convinc -1 city -1 minist -1 upward -1 argentin -1 argentin -1 argentin -1 argentin -1 sponsor -1 rapid -1 pickup -1 ready -1 ready -1 plac -1 dollar -1 friday -1 doming -1 polic -1 polic -1 allow -1 offic -1 discret -1 -2

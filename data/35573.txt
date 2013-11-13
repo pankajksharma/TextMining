@@ -1,0 +1,2 @@
+compan -1 record -1 drug -1 pharmac -1 pharmac -1 octob -1 octob -1 octob -1 york -1 quart -1 stat -1 q3 -1 shar -1 shar -1 shar -1 dividend -1 dividend -1 dividend -1 dividend -1 dividend -1 monday -1 swed -1 stockholm -1 stockholm -1 date -1 date -1 board -1 upjohn -1 upjohn -1 set -1 -2
+set -1 newsroom -1 trad -1 trad -1 group -1 -2

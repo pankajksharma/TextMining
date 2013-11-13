@@ -1,0 +1,3 @@
+compan -1 credit -1 interest -1 month -1 year -1 full -1 skr -1 skr -1 invest -1 invest -1 invest -1 invest -1 invest -1 deprec -1 capit -1 capit -1 stat -1 report -1 minor -1 saab -1 gain -1 million -1 shar -1 dividend -1 industr -1 swed -1 crown -1 financ -1 inject -1 net -1 -2
+net -1 ago -1 stockholm -1 pre -1 bln -1 note -1 cost -1 incom -1 h1 -1 compar -1 profit -1 profit -1 profit -1 profit -1 charg -1 charg -1 post -1 item -1 auto -1 worth -1 june -1 june -1 ab -1 ab -1 major -1 newsroom -1 scania -1 operat -1 operat -1 operat -1 hold -1 -2
+tax -1 tax -1 group -1 -2

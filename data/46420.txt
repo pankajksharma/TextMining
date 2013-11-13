@@ -1,0 +1,2 @@
+night -1 tuesday -1 saturday -1 shoot -1 kalashnikov -1 kalashnikov -1 fal -1 rifl -1 forearm -1 automat -1 automat -1 automat -1 week -1 uzi -1 window -1 reut -1 ram -1 belgian -1 car -1 told -1 chatelet -1 chatelineau -1 policem -1 neighbor -1 rang -1 weapon -1 weapon -1 weapon -1 includ -1 includ -1 -2
+rob -1 town -1 stol -1 stol -1 stol -1 thief -1 thief -1 stor -1 stor -1 polic -1 arm -1 arm -1 arm -1 southern -1 southern -1 belg -1 belg -1 belg -1 -2

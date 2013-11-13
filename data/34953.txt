@@ -1,0 +1,4 @@
+ampl -1 credit -1 warehous -1 ramo -1 ramo -1 stock -1 manil -1 encour -1 soar -1 countr -1 countr -1 year -1 year -1 year -1 year -1 start -1 output -1 good -1 fax -1 food -1 maintain -1 peopl -1 govern -1 govern -1 name -1 lean -1 pric -1 rest -1 million -1 million -1 -2
+million -1 ensur -1 nation -1 monday -1 increas -1 area -1 reserv -1 rise -1 short -1 harvest -1 rice -1 rice -1 rice -1 rice -1 rice -1 import -1 import -1 import -1 household -1 declin -1 inflat -1 agricultur -1 agricultur -1 depart -1 improv -1 sharp -1 period -1 period -1 part -1 program -1 stapl -1 -2
+ton -1 ton -1 ton -1 buff -1 philippin -1 philippin -1 philippin -1 philippin -1 philippin -1 july -1 day -1 day -1 result -1 plant -1 caus -1 septemb -1 invent -1 invent -1 order -1 total -1 total -1 season -1 fidel -1 newsroom -1 add -1 prospect -1 presid -1 ord -1 offic -1 offic -1 offic -1 -2
+offic -1 commerc -1 -2

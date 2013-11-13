@@ -1,0 +1,3 @@
+notch -1 market -1 tuesday -1 stock -1 stock -1 stock -1 stock -1 high -1 high -1 high -1 climb -1 list -1 list -1 lead -1 jump -1 second -1 level -1 pric -1 busi -1 thursday -1 shar -1 shar -1 shar -1 shar -1 riga -1 riga -1 riga -1 edg -1 made -1 exchang -1 -2
+exchang -1 fish -1 leap -1 dip -1 lat -1 lat -1 lat -1 lat -1 lat -1 lat -1 lat -1 santim -1 santim -1 can -1 kaij -1 turnov -1 turnov -1 turnov -1 turnov -1 turnov -1 turnov -1 transport -1 compar -1 latvian -1 latvian -1 account -1 unibank -1 unibank -1 unibank -1 unibank -1 unchang -1 -2
+newsroom -1 fleet -1 activ -1 offic -1 trad -1 trad -1 -2

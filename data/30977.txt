@@ -1,0 +1,3 @@
+early -1 study -1 elect -1 tr -1 tr -1 kepit -1 kepit -1 kepit -1 kepit -1 kepit -1 kepit -1 kepit -1 kepit -1 kleinwort -1 sharehold -1 sharehold -1 sharehold -1 review -1 receiv -1 receiv -1 trust -1 trust -1 trust -1 war -1 war -1 war -1 invest -1 unit -1 week -1 complet -1 -2
+issu -1 stat -1 pract -1 cash -1 cash -1 ordin -1 treg -1 treg -1 treg -1 shar -1 shar -1 shar -1 warranthold -1 european -1 european -1 party -1 august -1 ealy -1 off -1 off -1 off -1 off -1 off -1 made -1 numb -1 london -1 growth -1 quick -1 improv -1 improv -1 posit -1 -2
+ten -1 basi -1 propos -1 propos -1 propos -1 penc -1 penc -1 penc -1 valu -1 accept -1 board -1 reject -1 reject -1 friday -1 recommend -1 recommend -1 recommend -1 make -1 advis -1 newsroom -1 -2

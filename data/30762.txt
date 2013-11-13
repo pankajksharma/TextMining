@@ -1,0 +1,2 @@
+stay -1 market -1 market -1 market -1 slip -1 money -1 money -1 saturday -1 clos -1 clos -1 rate -1 rate -1 rate -1 rate -1 low -1 low -1 low -1 liquid -1 karach -1 consensus -1 bank -1 start -1 start -1 standard -1 deal -1 deal -1 deal -1 percent -1 percent -1 soft -1 -2
+thursday -1 dive -1 dive -1 end -1 weekend -1 off -1 sharp -1 sharp -1 uncertain -1 pakistan -1 pakistan -1 outcom -1 chart -1 day -1 friday -1 ibrahim -1 khan -1 coupl -1 trad -1 -2

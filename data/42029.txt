@@ -1,0 +1,2 @@
+early -1 stock -1 stock -1 clos -1 low -1 low -1 low -1 data -1 drag -1 light -1 strong -1 reut -1 pric -1 index -1 index -1 futur -1 futur -1 support -1 techn -1 weekend -1 august -1 finish -1 finish -1 weak -1 weak -1 head -1 mail -1 peg -1 deterior -1 aug -1 -2
+session -1 day -1 derivat -1 derivat -1 bond -1 sept -1 sept -1 combin -1 desk -1 trad -1 trad -1 -2

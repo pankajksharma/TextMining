@@ -1,0 +1,2 @@
+allot -1 draw -1 credit -1 credit -1 refurb -1 receiv -1 receiv -1 billion -1 fund -1 debt -1 debt -1 approv -1 approv -1 govern -1 govern -1 law -1 law -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 maxim -1 nation -1 public -1 venezuel -1 venezuel -1 ground -1 -2
+aircraft -1 purchas -1 forc -1 forc -1 minist -1 spend -1 sky -1 umbrel -1 bolivar -1 milit -1 milit -1 carac -1 includ -1 wednesday -1 truck -1 engin -1 extern -1 guard -1 intern -1 inform -1 air -1 fernanad -1 egan -1 egan -1 suppl -1 newsroom -1 -2

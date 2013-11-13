@@ -1,0 +1,4 @@
+limit -1 calm -1 market -1 market -1 market -1 dlr -1 struck -1 tuesday -1 anast -1 clos -1 clos -1 clos -1 clos -1 low -1 midday -1 currenc -1 fresh -1 bank -1 bank -1 bank -1 fall -1 fall -1 spot -1 deal -1 deal -1 deal -1 deal -1 deal -1 deal -1 client -1 -2
+larg -1 spread -1 today -1 domest -1 big -1 contribut -1 volum -1 volum -1 sold -1 million -1 open -1 long -1 monday -1 rise -1 fuel -1 sofia -1 wid -1 foreign -1 pressur -1 met -1 weak -1 weak -1 cent -1 cent -1 import -1 import -1 hectic -1 noon -1 bid -1 bid -1 search -1 -2
+slid -1 sharp -1 period -1 date -1 date -1 lev -1 lev -1 lev -1 lev -1 lev -1 lev -1 bulg -1 bulg -1 day -1 labor -1 wednesday -1 septemb -1 comment -1 demand -1 demand -1 dollar -1 dollar -1 dollar -1 dollar -1 hit -1 due -1 afternoon -1 afternoon -1 petrov -1 newsroom -1 interbank -1 -2
+offic -1 commerc -1 trad -1 trad -1 -2

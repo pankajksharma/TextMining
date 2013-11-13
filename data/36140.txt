@@ -1,0 +1,2 @@
+stak -1 stak -1 stak -1 stak -1 stak -1 polibrasil -1 polibrasil -1 polibrasil -1 polibrasil -1 polibrasil -1 petroquir -1 petroquir -1 polipropilen -1 ipirang -1 tuesday -1 stock -1 bank -1 firm -1 unit -1 de -1 stockhold -1 bought -1 shell -1 stat -1 rio -1 percent -1 percent -1 percent -1 percent -1 janeir -1 -2
+expect -1 minor -1 pric -1 million -1 million -1 sold -1 sold -1 minim -1 nation -1 oil -1 oil -1 exchang -1 offer -1 belong -1 petrochem -1 brazil -1 develop -1 giant -1 petrobr -1 bnd -1 reai -1 hold -1 mln -1 -2

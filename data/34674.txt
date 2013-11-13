@@ -1,0 +1,4 @@
+early -1 sect -1 credit -1 credit -1 clos -1 broker -1 high -1 high -1 high -1 interest -1 interest -1 rate -1 rate -1 year -1 year -1 year -1 year -1 bank -1 bank -1 bank -1 bank -1 bank -1 unit -1 issu -1 report -1 report -1 report -1 expect -1 expect -1 polish -1 -2
+polish -1 polish -1 contribut -1 dynam -1 dynam -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 shar -1 warsaw -1 zloty -1 zloty -1 zloty -1 zloty -1 zloty -1 monday -1 monday -1 remain -1 rise -1 rise -1 rise -1 grow -1 financ -1 ppab -1 handlow -1 handlow -1 handlow -1 -2
+handlow -1 continu -1 continu -1 success -1 amerc -1 growth -1 growth -1 net -1 net -1 net -1 net -1 improv -1 note -1 cost -1 date -1 incom -1 portfolio -1 portfolio -1 gave -1 july -1 profit -1 profit -1 profit -1 result -1 sa -1 sa -1 ppabank -1 ppabank -1 ppabank -1 ppabank -1 ppabank -1 -2
+ppabank -1 ppabank -1 depress -1 aver -1 releas -1 newsroom -1 forecast -1 operat -1 hold -1 hold -1 -2

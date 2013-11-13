@@ -1,0 +1,2 @@
+intl -1 stg -1 year -1 year -1 shr -1 april -1 fall -1 booth -1 phot -1 phot -1 phot -1 automat -1 stat -1 environ -1 harsh -1 million -1 drop -1 dividend -1 industr -1 coin -1 pre -1 plc -1 note -1 penc -1 penc -1 turnov -1 profit -1 profit -1 profit -1 pretax -1 -2
+pretax -1 intern -1 total -1 manufactur -1 operat -1 operat -1 tax -1 -2

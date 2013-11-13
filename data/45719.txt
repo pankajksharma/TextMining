@@ -1,0 +1,2 @@
+market -1 novemb -1 clos -1 clos -1 bushel -1 low -1 low -1 ahead -1 ahead -1 yen -1 yen -1 yen -1 yen -1 privat -1 system -1 firm -1 invest -1 spot -1 spot -1 gmt -1 gain -1 volum -1 futur -1 futur -1 thursday -1 thursday -1 end -1 contract -1 contract -1 benchmark -1 -2
+weekend -1 weekend -1 increas -1 chicag -1 extend -1 weak -1 corn -1 corn -1 cbot -1 loss -1 forc -1 take -1 take -1 take -1 toky -1 toky -1 lot -1 ton -1 profit -1 profit -1 profit -1 septemb -1 septemb -1 project -1 friday -1 trad -1 trad -1 trad -1 trad -1 -2

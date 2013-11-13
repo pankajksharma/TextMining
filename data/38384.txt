@@ -1,0 +1,4 @@
+nov -1 sect -1 lebanon -1 lebanon -1 lebanon -1 lebanon -1 econom -1 econom -1 econom -1 econom -1 econom -1 high -1 high -1 month -1 month -1 dec -1 dec -1 dec -1 mar -1 mar -1 octob -1 data -1 bank -1 bank -1 bank -1 bank -1 bank -1 april -1 april -1 april -1 -2
+output -1 feb -1 feb -1 war -1 indicat -1 indicat -1 indicat -1 indicat -1 indicat -1 gross -1 domest -1 produc -1 report -1 level -1 level -1 jan -1 jan -1 janu -1 show -1 beirut -1 reliabl -1 increas -1 rise -1 rise -1 coincid -1 coincid -1 coincid -1 grow -1 airport -1 rose -1 import -1 -2
+cent -1 margin -1 cove -1 prevent -1 gdp -1 growth -1 figur -1 lack -1 calcul -1 export -1 aug -1 electr -1 gave -1 july -1 relat -1 includ -1 editor -1 june -1 june -1 june -1 june -1 june -1 oct -1 port -1 sept -1 late -1 activ -1 activ -1 activ -1 activ -1 creat -1 -2
+bulletin -1 precis -1 -2

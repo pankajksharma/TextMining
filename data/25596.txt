@@ -1,0 +1,3 @@
+compan -1 compan -1 early -1 tuesday -1 money -1 month -1 year -1 currenc -1 provinc -1 northeast -1 bank -1 agree -1 agree -1 firm -1 deal -1 list -1 capit -1 loan -1 stat -1 stat -1 big -1 icbc -1 icbc -1 hangzhou -1 hangzhou -1 million -1 million -1 shar -1 end -1 industr -1 -2
+chin -1 chin -1 chin -1 telecommun -1 bureau -1 foreign -1 phon -1 phon -1 work -1 obtain -1 city -1 shanghai -1 heilongjiang -1 heilongjiang -1 mobil -1 base -1 sell -1 commun -1 commun -1 commun -1 post -1 septemb -1 equip -1 equip -1 worth -1 suppl -1 eastern -1 eastern -1 eastern -1 eastern -1 port -1 -2
+make -1 add -1 add -1 yuan -1 branch -1 commerc -1 sign -1 sign -1 sign -1 mln -1 -2

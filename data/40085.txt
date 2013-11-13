@@ -1,0 +1,2 @@
+react -1 market -1 absorb -1 tuesday -1 tuesday -1 stock -1 stock -1 broker -1 high -1 high -1 cover -1 tvs -1 tvs -1 tvs -1 overheat -1 percent -1 fell -1 level -1 level -1 shar -1 shar -1 shot -1 wheel -1 nation -1 short -1 rise -1 suzuk -1 suzuk -1 buy -1 foreign -1 -2
+rose -1 exchang -1 bombay -1 lack -1 india -1 sharp -1 sharp -1 sharp -1 posit -1 sell -1 nse -1 nse -1 nse -1 rupee -1 wednesday -1 adequat -1 make -1 newsroom -1 yesterday -1 operat -1 trad -1 trad -1 pct -1 -2

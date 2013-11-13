@@ -1,0 +1,2 @@
+market -1 market -1 market -1 scop -1 tuesday -1 sharehold -1 sharehold -1 sharehold -1 interest -1 rate -1 year -1 bank -1 bank -1 denomin -1 capit -1 issu -1 issu -1 stat -1 approv -1 approv -1 decid -1 decid -1 decid -1 lend -1 polish -1 million -1 matur -1 matur -1 warsaw -1 increas -1 -2
+short -1 numb -1 tranch -1 develop -1 want -1 sa -1 pbr -1 pbr -1 pbr -1 pbr -1 plac -1 proceed -1 exceed -1 intern -1 worth -1 dollar -1 bond -1 bond -1 bond -1 cond -1 depend -1 newsroom -1 operat -1 mln -1 -2

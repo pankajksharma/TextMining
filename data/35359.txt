@@ -1,0 +1,4 @@
+tight -1 tight -1 tight -1 tight -1 tight -1 sect -1 intermed -1 intermed -1 interest -1 rate -1 year -1 year -1 year -1 year -1 point -1 point -1 point -1 point -1 point -1 point -1 point -1 point -1 denomin -1 swap -1 swap -1 swap -1 swap -1 swap -1 swap -1 swap -1 -2
+swap -1 deal -1 week -1 week -1 week -1 week -1 week -1 week -1 spread -1 spread -1 spread -1 spread -1 spread -1 spread -1 spread -1 light -1 light -1 issu -1 slight -1 slight -1 special -1 bump -1 expect -1 level -1 big -1 pric -1 end -1 long -1 monday -1 remain -1 stead -1 -2
+stead -1 eurobons -1 past -1 side -1 libor -1 fade -1 offer -1 offer -1 offer -1 quot -1 quot -1 quot -1 bid -1 bid -1 bid -1 bid -1 move -1 ago -1 ago -1 ago -1 basi -1 basi -1 basi -1 basi -1 basi -1 basi -1 basi -1 basi -1 caus -1 histor -1 dollar -1 -2
+repo -1 unchang -1 activ -1 activ -1 trad -1 -2

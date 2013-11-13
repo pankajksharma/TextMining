@@ -1,0 +1,3 @@
+market -1 french -1 clos -1 clos -1 clos -1 high -1 high -1 interest -1 rate -1 year -1 term -1 bank -1 apr -1 firm -1 firm -1 franc -1 franc -1 franc -1 week -1 issu -1 yld -1 yield -1 yield -1 report -1 percent -1 percent -1 meet -1 euro -1 help -1 expect -1 -2
+confed -1 cash -1 level -1 pric -1 pric -1 futur -1 futur -1 confu6 -1 comiu6 -1 support -1 fesu6 -1 ch061893 -1 comi -1 end -1 contract -1 contract -1 nation -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 author -1 tone -1 coupon -1 quot -1 continu -1 conf -1 medium -1 railway -1 -2
+council -1 wednesday -1 septemb -1 sncf -1 zurich -1 editor -1 bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 sept -1 sept -1 sept -1 sept -1 set -1 afternoon -1 unchang -1 left -1 trad -1 pct -1 pct -1 -2

@@ -1,0 +1,2 @@
+stak -1 healthcar -1 acquir -1 acquir -1 acquir -1 tuesday -1 medic -1 medic -1 medic -1 hospit -1 hospit -1 hospit -1 hospit -1 hospit -1 year -1 term -1 bank -1 agree -1 vendor -1 borrow -1 annual -1 fund -1 stat -1 stat -1 percent -1 pantai -1 pantai -1 pantai -1 pantai -1 guarant -1 -2
+busi -1 exist -1 contribut -1 million -1 million -1 buy -1 financ -1 financ -1 provid -1 synerg -1 cent -1 cent -1 cent -1 assoc -1 pre -1 posit -1 propos -1 malays -1 profit -1 intern -1 sdn -1 selangor -1 bhd -1 bhd -1 operat -1 operat -1 ringgit -1 ringgit -1 merjiw -1 tax -1 -2

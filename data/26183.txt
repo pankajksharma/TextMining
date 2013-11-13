@@ -1,0 +1,5 @@
+stak -1 train -1 train -1 train -1 train -1 smart -1 french -1 french -1 french -1 sunday -1 month -1 begin -1 tabl -1 race -1 year -1 team -1 receiv -1 start -1 baham -1 length -1 turn -1 week -1 today -1 quart -1 key -1 key -1 yorkshir -1 yorkshir -1 interf -1 snow -1 -2
+st -1 bryan -1 david -1 challeng -1 pull -1 pull -1 didn -1 win -1 win -1 win -1 win -1 virtual -1 whitewat -1 hors -1 finish -1 finish -1 rid -1 jockey -1 frankie -1 dettor -1 dettor -1 dettor -1 quot -1 success -1 won -1 russian -1 bount -1 prix -1 prix -1 ride -1 cost -1 -2
+oak -1 oak -1 oak -1 oak -1 oak -1 favourit -1 favourit -1 raid -1 earn -1 ban -1 ban -1 day -1 ray -1 affair -1 shamadar -1 shamadar -1 aga -1 filly -1 murtagh -1 emphat -1 wednesday -1 wednesday -1 paper -1 demot -1 flop -1 flop -1 oxx -1 lege -1 chanc -1 chanc -1 vermeill -1 -2
+plac -1 plac -1 sil -1 sila -1 cochran -1 john -1 john -1 undeter -1 sixth -1 gimcrack -1 abou -1 abou -1 zouz -1 zouz -1 lode -1 lode -1 morny -1 deauvill -1 irish -1 irish -1 irish -1 irish -1 yearl -1 found -1 guine -1 chang -1 chang -1 battl -1 know -1 khan -1 muscl -1 -2
+defeat -1 irresponsibl -1 group -1 group -1 group -1 -2

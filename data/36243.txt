@@ -1,0 +1,1 @@
+draw -1 attend -1 tuesday -1 halftim -1 tie -1 klim -1 poland -1 poland -1 poland -1 marcin -1 cyprus -1 cyprus -1 cyprus -1 kost -1 socc -1 socc -1 friend -1 friend -1 match -1 mieciel -1 scor -1 minut -1 alexandrou -1 intern -1 krzysztof -1 warzych -1 maleko -1 -2

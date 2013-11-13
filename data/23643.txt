@@ -1,0 +1,4 @@
+payment -1 early -1 tuesday -1 fin -1 fin -1 collar -1 high -1 high -1 union -1 union -1 month -1 month -1 month -1 beneex -1 year -1 year -1 agree -1 stat -1 stat -1 percent -1 percent -1 percent -1 percent -1 pay -1 pay -1 impl -1 decid -1 govern -1 govern -1 helsink -1 -2
+bill -1 markk -1 markk -1 markk -1 markk -1 markk -1 model -1 million -1 increas -1 increas -1 increas -1 rais -1 rais -1 rise -1 rise -1 rise -1 rise -1 pow -1 pow -1 pow -1 pow -1 pow -1 cent -1 work -1 purchas -1 purchas -1 purchas -1 purchas -1 purchas -1 autumn -1 autumn -1 -2
+fami -1 fami -1 fami -1 fami -1 fami -1 fami -1 sak -1 sak -1 sak -1 sak -1 sak -1 sak -1 part -1 calcul -1 energ -1 organ -1 base -1 propos -1 incom -1 taxat -1 taxat -1 offset -1 exclud -1 electr -1 earn -1 wag -1 includ -1 child -1 child -1 impact -1 dispos -1 -2
+effect -1 budget -1 blu -1 memb -1 project -1 subject -1 due -1 newsroom -1 parent -1 drift -1 trad -1 tax -1 tax -1 tax -1 tax -1 bit -1 -2

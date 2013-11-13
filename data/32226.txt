@@ -1,0 +1,4 @@
+market -1 market -1 market -1 market -1 recent -1 quiet -1 back -1 french -1 sulphur -1 gas -1 gas -1 cif -1 cif -1 high -1 high -1 high -1 high -1 high -1 high -1 interest -1 low -1 goodfellow -1 screen -1 good -1 cargoe -1 firm -1 firm -1 franc -1 week -1 bought -1 -2
+germ -1 germ -1 gmt -1 report -1 ipe -1 ipe -1 ipe -1 ipe -1 ipe -1 ipe -1 din -1 pric -1 pric -1 gain -1 gain -1 futur -1 futur -1 thursday -1 thursday -1 deliv -1 end -1 contract -1 oil -1 oil -1 oil -1 remain -1 stead -1 edg -1 edg -1 buy -1 buy -1 -2
+buy -1 off -1 cent -1 cent -1 cent -1 mater -1 mater -1 london -1 bid -1 scar -1 improv -1 russian -1 put -1 put -1 put -1 ton -1 ton -1 ton -1 hamburg -1 refin -1 refin -1 prem -1 prem -1 prem -1 prem -1 prem -1 heat -1 carg -1 carg -1 carg -1 friday -1 -2
+sept -1 sept -1 sept -1 sept -1 sept -1 sept -1 sept -1 unchang -1 nwe -1 nwe -1 nwe -1 newsroom -1 melanie -1 barg -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

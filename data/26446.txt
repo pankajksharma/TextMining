@@ -1,0 +1,4 @@
+market -1 back -1 back -1 back -1 back -1 target -1 valujet -1 valujet -1 valujet -1 valujet -1 valujet -1 valujet -1 fly -1 own -1 kill -1 notif -1 inact -1 inact -1 form -1 discount -1 larg -1 suspend -1 requir -1 florid -1 administ -1 leas -1 leas -1 leas -1 leas -1 leas -1 -2
+haven -1 feder -1 feder -1 chicag -1 chicag -1 chicag -1 chicag -1 met -1 airport -1 airport -1 airport -1 crash -1 city -1 city -1 city -1 declin -1 notic -1 arriv -1 servic -1 depart -1 depart -1 take -1 gate -1 gate -1 gate -1 gate -1 partial -1 permit -1 grant -1 direct -1 date -1 -2
+run -1 threshold -1 transport -1 day -1 wednesday -1 airlin -1 airlin -1 airlin -1 airlin -1 effect -1 comment -1 aviat -1 aviat -1 cancel -1 cancel -1 cancel -1 cancel -1 resum -1 spokesm -1 passeng -1 departur -1 june -1 friday -1 friday -1 rule -1 tomorrow -1 murph -1 murph -1 murph -1 hare -1 barret -1 -2
+operat -1 midway -1 midway -1 midway -1 midway -1 hope -1 ord -1 -2

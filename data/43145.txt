@@ -1,0 +1,4 @@
+early -1 record -1 manil -1 seoul -1 kilomet -1 month -1 month -1 year -1 middl -1 north -1 north -1 fax -1 afric -1 ship -1 switzerland -1 switzerland -1 east -1 east -1 east -1 percent -1 percent -1 percent -1 percent -1 percent -1 atlant -1 atlant -1 fell -1 million -1 million -1 million -1 -2
+million -1 million -1 europ -1 area -1 digit -1 singapor -1 traff -1 traff -1 traff -1 traff -1 traff -1 traff -1 swissair -1 swissair -1 swissair -1 declin -1 growth -1 growth -1 destin -1 shanghai -1 india -1 bangkok -1 pakist -1 freight -1 doubl -1 south -1 americ -1 ton -1 exclud -1 july -1 july -1 -2
+july -1 july -1 july -1 july -1 july -1 july -1 express -1 ftk -1 ftk -1 ftk -1 ftk -1 ftk -1 beij -1 includ -1 airlin -1 exc -1 carg -1 carg -1 carg -1 carg -1 carg -1 carg -1 carg -1 air -1 worldw -1 hong -1 kong -1 total -1 total -1 japan -1 japan -1 -2
+japan -1 japan -1 chang -1 chang -1 achief -1 rout -1 newsroom -1 region -1 tel -1 pct -1 pct -1 pct -1 -2

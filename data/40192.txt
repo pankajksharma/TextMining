@@ -1,0 +1,4 @@
+clelia -1 oziel -1 high -1 reach -1 applic -1 low -1 licht -1 licht -1 licht -1 licht -1 licht -1 sow -1 buck -1 output -1 output -1 output -1 output -1 output -1 trend -1 fall -1 poor -1 ukrain -1 beet -1 beet -1 beet -1 beet -1 produc -1 produc -1 produc -1 germ -1 -2
+yield -1 east -1 chao -1 expect -1 expect -1 level -1 polish -1 poland -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 crop -1 europ -1 european -1 european -1 maxim -1 russia -1 increas -1 increas -1 statist -1 area -1 area -1 return -1 czech -1 czech -1 sever -1 drought -1 -2
+drought -1 london -1 fertilis -1 russian -1 sugar -1 sugar -1 sugar -1 sugar -1 estimat -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 peg -1 result -1 wednesday -1 reduc -1 prev -1 total -1 eastern -1 due -1 season -1 meant -1 newsroom -1 republ -1 republ -1 doubt -1 -2
+region -1 mark -1 -2

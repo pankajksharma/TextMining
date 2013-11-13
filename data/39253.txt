@@ -1,0 +1,2 @@
+netback -1 slack -1 high -1 turk -1 mid -1 firm -1 firm -1 deal -1 deal -1 shaxson -1 nymex -1 mtb -1 level -1 pric -1 pric -1 busi -1 futur -1 futur -1 nichol -1 europ -1 european -1 support -1 arbitr -1 head -1 work -1 london -1 move -1 direct -1 ton -1 fob -1 -2
+fob -1 day -1 relat -1 wednesday -1 septemb -1 tend -1 gasolin -1 gasolin -1 carg -1 carg -1 late -1 late -1 morn -1 nwe -1 nwe -1 newsroom -1 eurograd -1 ara -1 ara -1 activ -1 barg -1 drift -1 trad -1 trad -1 trad -1 chop -1 option -1 -2

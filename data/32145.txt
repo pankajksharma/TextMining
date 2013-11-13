@@ -1,0 +1,2 @@
+market -1 stock -1 clos -1 clos -1 clos -1 high -1 high -1 high -1 encour -1 point -1 trust -1 trust -1 unit -1 unit -1 capit -1 delh -1 delh -1 delh -1 govern -1 lead -1 jump -1 index -1 brok -1 reform -1 shar -1 appar -1 buy -1 commit -1 exchang -1 india -1 -2
+led -1 sens -1 bours -1 -2

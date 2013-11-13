@@ -1,0 +1,3 @@
+saturday -1 sunday -1 stirl -1 stirl -1 fife -1 ross -1 clyd -1 dundee -1 dundee -1 unit -1 hamilton -1 east -1 east -1 st -1 st -1 livingston -1 leagu -1 leagu -1 socc -1 socc -1 kilmarnock -1 raith -1 motherwel -1 premy -1 scot -1 scot -1 airdrieon -1 greenock -1 falkirk -1 partick -1 -2
+berwick -1 match -1 stenhousemuir -1 play -1 play -1 brechin -1 dumbarton -1 stranra -1 dunfermlin -1 alloa -1 arbroath -1 cowdenbeath -1 monstros -1 forfar -1 inver -1 south -1 rang -1 mir -1 hibern -1 divid -1 divid -1 divid -1 divid -1 queen -1 queen -1 result -1 result -1 albion -1 morton -1 friday -1 ayr -1 -2
+johnston -1 aberdeen -1 heart -1 celtic -1 clydebank -1 park -1 count -1 -2

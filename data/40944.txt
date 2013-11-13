@@ -1,0 +1,5 @@
+compan -1 compan -1 compan -1 capac -1 novemb -1 record -1 record -1 immed -1 compact -1 begin -1 begin -1 begin -1 begin -1 year -1 year -1 year -1 rom -1 yen -1 octob -1 octob -1 octob -1 spokeswom -1 sony -1 sony -1 obsolet -1 start -1 start -1 start -1 start -1 system -1 -2
+mid -1 video -1 firm -1 decemb -1 unit -1 unit -1 unit -1 cd -1 cd -1 hitach -1 hitach -1 videocasset -1 larg -1 disc -1 disc -1 sourc -1 stat -1 stat -1 stat -1 expect -1 expect -1 simultan -1 pric -1 thursday -1 europ -1 abroad -1 industr -1 industr -1 pioneer -1 pioneer -1 digit -1 -2
+matsushit -1 matsushit -1 provid -1 eventual -1 play -1 play -1 play -1 play -1 play -1 play -1 play -1 play -1 play -1 play -1 play -1 new -1 part -1 toshib -1 toshib -1 sell -1 sell -1 sell -1 sell -1 sell -1 sell -1 electr -1 detail -1 detail -1 plan -1 plan -1 plan -1 -2
+corp -1 corp -1 corp -1 wednesday -1 spokesm -1 elabor -1 japan -1 japan -1 japan -1 japan -1 japan -1 dvd -1 dvd -1 dvd -1 dvd -1 dvd -1 dvd -1 dvd -1 dvd -1 dvd -1 dvd -1 late -1 late -1 stor -1 softwar -1 spring -1 spring -1 make -1 confer -1 asia -1 hold -1 -2
+sale -1 sale -1 electron -1 -2

@@ -1,0 +1,2 @@
+market -1 back -1 money -1 rate -1 rate -1 rate -1 rate -1 rate -1 pari -1 bank -1 bank -1 bank -1 bank -1 bank -1 point -1 franc -1 franc -1 franc -1 fund -1 percent -1 percent -1 percent -1 percent -1 expect -1 thursday -1 leav -1 august -1 august -1 pressur -1 cent -1 -2
+cut -1 cut -1 cut -1 continu -1 notabl -1 intervent -1 intervent -1 intervent -1 allocat -1 basi -1 day -1 day -1 post -1 tend -1 repo -1 unchang -1 unchang -1 newsroom -1 hold -1 -2

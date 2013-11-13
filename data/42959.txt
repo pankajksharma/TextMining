@@ -1,0 +1,4 @@
+payment -1 draw -1 juvenil -1 juvenil -1 gener -1 gener -1 fals -1 sentenc -1 guilt -1 guilt -1 guilt -1 schedul -1 plead -1 plead -1 bank -1 woman -1 woman -1 file -1 massachuset -1 fund -1 mrs -1 mrs -1 stat -1 stat -1 stat -1 stat -1 attorney -1 attorney -1 local -1 requir -1 -2
+steal -1 treasur -1 cash -1 check -1 check -1 check -1 deposit -1 pend -1 return -1 bear -1 made -1 foundat -1 foundat -1 jason -1 scot -1 court -1 harshbarg -1 signatur -1 signatur -1 insur -1 chapt -1 chapt -1 chapt -1 forg -1 forg -1 circumv -1 charg -1 char -1 char -1 char -1 char -1 -2
+char -1 person -1 wednesday -1 harriet -1 norfolk -1 diabet -1 diabet -1 account -1 account -1 memb -1 husband -1 husband -1 husband -1 expend -1 found -1 found -1 oct -1 withdraw -1 late -1 robert -1 robert -1 robert -1 robert -1 polic -1 bay -1 prosecut -1 embezzl -1 superior -1 larcen -1 ord -1 offic -1 -2
+offic -1 count -1 count -1 count -1 tax -1 tax -1 -2

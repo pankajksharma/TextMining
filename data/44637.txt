@@ -1,0 +1,4 @@
+payment -1 payment -1 payment -1 early -1 back -1 carry -1 money -1 saturday -1 record -1 year -1 year -1 year -1 start -1 start -1 start -1 billion -1 billion -1 billion -1 stand -1 war -1 gulf -1 huge -1 larg -1 issu -1 issu -1 issu -1 produc -1 stat -1 meet -1 pay -1 -2
+pay -1 special -1 special -1 bill -1 world -1 world -1 fell -1 pric -1 million -1 matur -1 contract -1 contract -1 oil -1 oil -1 oil -1 give -1 prior -1 decad -1 august -1 past -1 media -1 financ -1 financ -1 weak -1 farm -1 farm -1 farm -1 farm -1 minist -1 improv -1 certif -1 -2
+certif -1 export -1 earn -1 arabia -1 arabia -1 arabia -1 budget -1 budget -1 saud -1 saud -1 saud -1 saud -1 saud -1 riyal -1 riyal -1 worth -1 worth -1 kingdom -1 deficit -1 suppl -1 suppl -1 bond -1 spac -1 aver -1 due -1 owe -1 need -1 forecast -1 breath -1 hold -1 offic -1 -2
+offic -1 offic -1 mln -1 -2

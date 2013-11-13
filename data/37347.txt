@@ -1,0 +1,2 @@
+early -1 market -1 delm -1 tuesday -1 stock -1 body -1 pari -1 unit -1 franc -1 suspend -1 suspend -1 stat -1 percent -1 approv -1 decid -1 shar -1 shar -1 techn -1 remain -1 remain -1 buy -1 off -1 assoc -1 notic -1 sdv -1 scac -1 vieljeux -1 scv -1 scv -1 bollor -1 -2
+cbv -1 july -1 transport -1 plan -1 day -1 announc -1 accept -1 board -1 sbf -1 sbf -1 sbf -1 bours -1 watchdog -1 newsroom -1 hold -1 trad -1 -2

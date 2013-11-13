@@ -1,0 +1,4 @@
+recov -1 early -1 early -1 clos -1 clos -1 clos -1 high -1 high -1 low -1 low -1 revers -1 revers -1 nu -1 bank -1 point -1 trend -1 trend -1 firm -1 equit -1 maintain -1 fund -1 fund -1 domest -1 stat -1 lost -1 lost -1 delh -1 delh -1 delh -1 delh -1 -2
+level -1 level -1 index -1 bhush -1 bout -1 brok -1 brok -1 shar -1 shar -1 support -1 end -1 drop -1 monday -1 industr -1 increas -1 momentum -1 buy -1 buy -1 financ -1 rose -1 hectic -1 purchas -1 acc -1 india -1 upward -1 altern -1 heavy -1 take -1 fail -1 specul -1 specul -1 -2
+specul -1 bharat -1 reli -1 sell -1 sell -1 sell -1 book -1 book -1 institut -1 profit -1 profit -1 profit -1 dcm -1 dcm -1 rupee -1 rupee -1 rupee -1 rupee -1 rupee -1 rupee -1 driv -1 tisc -1 sens -1 telc -1 era -1 daewoo -1 daewoo -1 mutual -1 mutual -1 newsroom -1 trad -1 -2
+establ -1 -2

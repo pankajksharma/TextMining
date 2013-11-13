@@ -1,0 +1,4 @@
+elect -1 small -1 remov -1 retail -1 back -1 accur -1 carry -1 union -1 body -1 doct -1 own -1 race -1 declar -1 citiz -1 newspap -1 agree -1 firm -1 firm -1 cris -1 cris -1 finland -1 cultur -1 stat -1 report -1 report -1 digest -1 sonumileht -1 reut -1 paevaleht -1 vahi -1 -2
+futur -1 reform -1 shar -1 thursday -1 european -1 european -1 riga -1 chech -1 party -1 party -1 postim -1 tallin -1 termin -1 aripaev -1 eston -1 eston -1 eston -1 eston -1 eston -1 eston -1 polit -1 polit -1 swed -1 murd -1 press -1 press -1 fuel -1 fuel -1 mayor -1 traff -1 verif -1 -2
+vouch -1 transpl -1 assoc -1 eest -1 eest -1 prim -1 minist -1 servic -1 visit -1 bid -1 parlia -1 parlia -1 valf -1 organ -1 sell -1 aug -1 failur -1 relat -1 coop -1 charg -1 dead -1 septemb -1 intern -1 memb -1 memb -1 narv -1 raiv -1 kirsipuu -1 kutus -1 transoil -1 friday -1 -2
+mp -1 rule -1 newsroom -1 enter -1 presid -1 presid -1 nest -1 possibl -1 sign -1 -2

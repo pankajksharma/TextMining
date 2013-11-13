@@ -1,0 +1,2 @@
+gener -1 rumor -1 ag -1 stock -1 high -1 high -1 high -1 frankfurt -1 frankfurt -1 good -1 deal -1 gmt -1 germ -1 report -1 report -1 expect -1 expect -1 conglom -1 million -1 thursday -1 shar -1 shar -1 shar -1 end -1 end -1 drop -1 industr -1 buy -1 reason -1 mahon -1 -2
+logic -1 fact -1 half -1 daiml -1 daiml -1 daiml -1 daiml -1 benz -1 sell -1 h1 -1 session -1 profit -1 result -1 comment -1 catherin -1 pfennig -1 newsroom -1 operat -1 top -1 top -1 mark -1 mark -1 mark -1 trad -1 trad -1 group -1 -2

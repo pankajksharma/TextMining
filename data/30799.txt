@@ -1,0 +1,3 @@
+tight -1 market -1 recent -1 recent -1 dlr -1 clos -1 low -1 low -1 monet -1 year -1 year -1 yr -1 yr -1 yr -1 yr -1 sydney -1 point -1 standard -1 poor -1 invest -1 usd -1 spread -1 spread -1 spread -1 spread -1 yield -1 bloc -1 bloc -1 propect -1 subdu -1 -2
+cash -1 outlook -1 outlook -1 rally -1 futur -1 remain -1 give -1 tone -1 aud -1 aud -1 weak -1 aftermath -1 austral -1 austral -1 austral -1 austral -1 inflat -1 posit -1 basi -1 widen -1 revis -1 profit -1 dollar -1 bond -1 bond -1 bond -1 cad -1 nzd -1 polic -1 newsroom -1 trad -1 -2
+eas -1 -2

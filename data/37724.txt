@@ -1,0 +1,4 @@
+recov -1 compan -1 market -1 quiet -1 thin -1 high -1 high -1 low -1 own -1 year -1 mor -1 mor -1 mor -1 mor -1 debr -1 sherm -1 york -1 point -1 point -1 longtim -1 suit -1 tobacc -1 tobacc -1 firm -1 firm -1 file -1 unit -1 deal -1 deal -1 smok -1 -2
+gmt -1 gmt -1 report -1 treasur -1 philip -1 philip -1 philip -1 philip -1 gain -1 law -1 futur -1 futur -1 shar -1 shar -1 shar -1 shar -1 open -1 liabl -1 end -1 jury -1 jury -1 contract -1 contract -1 industr -1 die -1 lung -1 canc -1 widow -1 august -1 confid -1 rose -1 -2
+london -1 london -1 london -1 fami -1 brown -1 williamson -1 americ -1 reynold -1 consum -1 ligget -1 septemb -1 septemb -1 favor -1 favor -1 friday -1 bond -1 bond -1 dow -1 dow -1 due -1 rule -1 rule -1 releas -1 newsroom -1 globex -1 indian -1 yesterday -1 yesterday -1 amid -1 trad -1 trad -1 -2
+trad -1 group -1 -2

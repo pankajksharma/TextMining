@@ -1,0 +1,3 @@
+limit -1 market -1 econom -1 tuesday -1 clos -1 clos -1 rate -1 year -1 year -1 fundament -1 point -1 point -1 ifo -1 german -1 deal -1 spread -1 domest -1 domest -1 debt -1 germ -1 report -1 strong -1 help -1 expect -1 govern -1 index -1 busi -1 brok -1 futur -1 reced -1 -2
+support -1 support -1 european -1 span -1 span -1 span -1 narrow -1 weak -1 import -1 underpin -1 loss -1 cut -1 figur -1 basi -1 july -1 july -1 announc -1 climat -1 septemb -1 prev -1 budget -1 bond -1 bond -1 bond -1 bund -1 bund -1 repo -1 peset -1 hope -1 interbank -1 trad -1 -2
+surplus -1 -2

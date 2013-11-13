@@ -1,0 +1,2 @@
+grain -1 market -1 market -1 acp -1 union -1 manag -1 free -1 free -1 sourc -1 stat -1 oat -1 oat -1 main -1 soft -1 soft -1 eu -1 european -1 minim -1 maxim -1 rye -1 rye -1 cereal -1 commit -1 wheat -1 wheat -1 wheat -1 refund -1 barley -1 barley -1 grant -1 -2
+grant -1 ton -1 ton -1 export -1 tend -1 tend -1 licent -1 ecus -1 trad -1 tax -1 -2

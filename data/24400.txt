@@ -1,0 +1,1 @@
+compan -1 compan -1 stock -1 nil -1 nil -1 today -1 today -1 dividend -1 dividend -1 rtr -1 exchang -1 austral -1 austral -1 -2

@@ -1,0 +1,2 @@
+spoil -1 liber -1 elect -1 elect -1 march -1 year -1 year -1 year -1 term -1 term -1 howard -1 howard -1 howard -1 howard -1 howard -1 full -1 full -1 writ -1 radio -1 peopl -1 govern -1 dissolut -1 dissolut -1 dissolut -1 end -1 nation -1 bureau -1 rtr -1 austral -1 austral -1 -2
+prim -1 minist -1 canber -1 won -1 serv -1 doubl -1 doubl -1 doubl -1 interview -1 labor -1 wednesday -1 john -1 gb -1 rule -1 coal -1 don -1 -2

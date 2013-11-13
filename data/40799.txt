@@ -1,0 +1,3 @@
+jakart -1 jakart -1 stock -1 countr -1 own -1 own -1 year -1 year -1 year -1 ahead -1 term -1 bank -1 bank -1 bank -1 bank -1 billion -1 billion -1 invest -1 unit -1 equit -1 list -1 list -1 list -1 larg -1 capit -1 gross -1 report -1 stat -1 stat -1 stat -1 -2
+percent -1 meet -1 impl -1 roadshow -1 roadshow -1 ratio -1 float -1 europ -1 europ -1 long -1 suhart -1 public -1 conclud -1 told -1 rupiah -1 exchang -1 declin -1 move -1 bni -1 bni -1 bni -1 bni -1 bni -1 direct -1 adequ -1 detail -1 gave -1 plan -1 plan -1 profit -1 post -1 -2
+wednesday -1 proceed -1 japan -1 japan -1 achief -1 pt -1 glob -1 indones -1 indones -1 indones -1 indones -1 negar -1 newsroom -1 widigd -1 sukarm -1 sukarm -1 presid -1 presid -1 prepar -1 -2

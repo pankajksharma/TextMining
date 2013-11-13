@@ -1,0 +1,4 @@
+market -1 launch -1 sect -1 sect -1 sect -1 sect -1 retail -1 ag -1 raymund -1 nutr -1 nutr -1 nutr -1 pharm -1 pharm -1 baby -1 billion -1 resourc -1 unit -1 franc -1 franc -1 franc -1 franc -1 key -1 produc -1 produc -1 report -1 percent -1 percent -1 strong -1 gerb -1 -2
+busi -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 shar -1 strength -1 control -1 increas -1 swiss -1 swiss -1 consid -1 rise -1 financ -1 rose -1 margin -1 margin -1 margin -1 infant -1 continu -1 declin -1 growth -1 improv -1 improv -1 half -1 half -1 half -1 -2
+chief -1 period -1 cost -1 cost -1 breu -1 program -1 incom -1 incom -1 mbt -1 h1 -1 exclud -1 divestitur -1 compar -1 phramaceutic -1 profit -1 profit -1 profit -1 profit -1 pharmaceutic -1 sandoz -1 sandoz -1 sandoz -1 sandoz -1 agribus -1 zurich -1 editor -1 due -1 measur -1 operat -1 operat -1 operat -1 -2
+offic -1 group -1 group -1 -2

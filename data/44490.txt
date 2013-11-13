@@ -1,0 +1,4 @@
+market -1 market -1 market -1 bolst -1 stock -1 stock -1 stock -1 clos -1 clos -1 clos -1 ricard -1 low -1 ahead -1 bank -1 billion -1 good -1 invest -1 de -1 de -1 week -1 suspend -1 carabob -1 capit -1 issu -1 percent -1 lost -1 expect -1 govern -1 govern -1 digest -1 -2
+fell -1 sent -1 banc -1 banc -1 index -1 volum -1 brok -1 million -1 million -1 million -1 million -1 shar -1 shar -1 shar -1 trig -1 end -1 long -1 monday -1 rise -1 venezuel -1 venezuel -1 venezuel -1 extend -1 foreign -1 ibc -1 rose -1 priv -1 success -1 move -1 slid -1 buoy -1 -2
+bols -1 bols -1 bolivar -1 bolivar -1 sile -1 ramirez -1 day -1 carac -1 carac -1 carac -1 ala -1 labor -1 hand -1 wednesday -1 airlin -1 aeropost -1 caut -1 ceram -1 worth -1 friday -1 friday -1 chang -1 marin -1 marin -1 consort -1 shock -1 holiday -1 make -1 letdown -1 nois -1 unchang -1 -2
+newsroom -1 delay -1 sale -1 sale -1 sale -1 sale -1 slow -1 trad -1 trad -1 trad -1 trad -1 trad -1 cross -1 -2

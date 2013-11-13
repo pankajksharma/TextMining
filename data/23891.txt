@@ -1,0 +1,2 @@
+early -1 early -1 newsdesk -1 stock -1 stock -1 applic -1 month -1 data -1 york -1 prefer -1 common -1 common -1 stockhold -1 debt -1 debt -1 discontinu -1 discontinu -1 extraordin -1 oper -1 shar -1 shar -1 shar -1 shar -1 end -1 dividend -1 rise -1 outstand -1 loss -1 loss -1 loss -1 -2
+loss -1 loss -1 loss -1 loss -1 continu -1 continu -1 net -1 net -1 net -1 net -1 weight -1 thousand -1 incom -1 incom -1 incom -1 incom -1 incom -1 july -1 july -1 extingu -1 extingu -1 q1 -1 dollar -1 alpin -1 aver -1 operat -1 operat -1 operat -1 operat -1 sale -1 group -1 -2

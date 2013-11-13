@@ -1,0 +1,3 @@
+market -1 market -1 market -1 back -1 tuesday -1 clos -1 high -1 high -1 high -1 rate -1 lira -1 lira -1 lira -1 gram -1 gram -1 term -1 bank -1 bank -1 firm -1 deal -1 deal -1 free -1 free -1 intact -1 slight -1 slight -1 percent -1 percent -1 forex -1 transf -1 -2
+world -1 pric -1 pric -1 pric -1 gain -1 volum -1 volum -1 end -1 end -1 drop -1 drop -1 drop -1 versus -1 abroad -1 sum -1 monday -1 gold -1 gold -1 gold -1 gold -1 increas -1 increas -1 rise -1 weak -1 cent -1 istanbul -1 istanbul -1 istanbul -1 turnov -1 jewel -1 ounc -1 -2
+demand -1 demand -1 dollar -1 dollar -1 dollar -1 total -1 due -1 morn -1 afternoon -1 newsroom -1 activ -1 kilo -1 kilo -1 kilo -1 sale -1 amid -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

@@ -1,0 +1,3 @@
+market -1 sect -1 stg -1 interest -1 year -1 year -1 octob -1 privat -1 prefer -1 select -1 list -1 pay -1 britain -1 expect -1 transf -1 squar -1 shortlist -1 vita -1 million -1 million -1 dss -1 dss -1 ubs -1 end -1 rent -1 contract -1 whittl -1 initiat -1 social -1 social -1 -2
+extend -1 met -1 exchang -1 head -1 propert -1 propert -1 propert -1 propert -1 nationsbank -1 prim -1 london -1 autumn -1 servic -1 bid -1 bid -1 depart -1 plc -1 cost -1 purpos -1 run -1 plan -1 express -1 charg -1 wednesday -1 reduc -1 uk -1 intern -1 intern -1 pro -1 secur -1 secur -1 -2
+secur -1 spac -1 spac -1 consort -1 spring -1 adequat -1 goldm -1 nomur -1 sach -1 newsroom -1 singl -1 natw -1 hope -1 hold -1 offic -1 group -1 -2

@@ -1,0 +1,3 @@
+market -1 market -1 market -1 newsdesk -1 outnumb -1 slip -1 rate -1 rate -1 ahead -1 nerv -1 point -1 trim -1 eoe -1 eoe -1 deal -1 deal -1 deal -1 quart -1 today -1 aex -1 meet -1 amsterdam -1 index -1 index -1 index -1 thursday -1 shar -1 shar -1 shar -1 european -1 -2
+contract -1 contract -1 contract -1 guild -1 rose -1 exchang -1 call -1 quick -1 strik -1 strik -1 step -1 uncertain -1 dip -1 put -1 put -1 put -1 put -1 put -1 led -1 turnov -1 particip -1 wednesday -1 septemb -1 septemb -1 prem -1 prem -1 demand -1 expend -1 total -1 bundesbank -1 bundesbank -1 -2
+late -1 repo -1 afternoon -1 add -1 activ -1 creat -1 count -1 trad -1 trad -1 trad -1 option -1 option -1 option -1 -2

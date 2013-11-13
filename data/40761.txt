@@ -1,0 +1,4 @@
+compan -1 rival -1 econom -1 accur -1 carry -1 money -1 interest -1 interest -1 interest -1 interest -1 rate -1 rate -1 rate -1 month -1 atroc -1 year -1 page -1 batch -1 bank -1 bank -1 bank -1 bank -1 bank -1 newspap -1 newspap -1 point -1 select -1 acknowledg -1 fax -1 unit -1 -2
+peopl -1 larg -1 fund -1 slam -1 stat -1 stat -1 stat -1 percent -1 percent -1 percent -1 natur -1 lead -1 digest -1 check -1 reut -1 reut -1 guarant -1 lower -1 busi -1 telephon -1 reform -1 deposit -1 deposit -1 sum -1 chin -1 chin -1 chin -1 chin -1 chin -1 chin -1 chin -1 -2
+chin -1 chin -1 chin -1 chin -1 time -1 reserv -1 polit -1 august -1 press -1 daily -1 financ -1 made -1 paid -1 cent -1 occupat -1 cut -1 cut -1 cut -1 purchas -1 levy -1 front -1 ton -1 sell -1 taiw -1 story -1 story -1 earn -1 institut -1 beij -1 criticis -1 editor -1 -2
+secur -1 army -1 rub -1 japan -1 major -1 aver -1 set -1 arm -1 boost -1 commerc -1 tax -1 prepar -1 -2

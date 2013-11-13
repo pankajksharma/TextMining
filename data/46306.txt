@@ -1,0 +1,4 @@
+negot -1 upris -1 dahl -1 elect -1 netanyahu -1 protest -1 roadblock -1 saturday -1 saturday -1 sunday -1 sunday -1 even -1 peac -1 ring -1 pray -1 meet -1 meet -1 advanc -1 world -1 al -1 aqsa -1 telephon -1 david -1 hass -1 resurrect -1 nation -1 discuss -1 rise -1 tension -1 foreign -1 -2
+foreign -1 met -1 call -1 call -1 city -1 city -1 prim -1 senior -1 minist -1 minist -1 minist -1 osam -1 baz -1 moham -1 visit -1 move -1 cair -1 cair -1 levy -1 levy -1 mediterranean -1 fail -1 chief -1 mosqu -1 thwart -1 alexandr -1 relat -1 arab -1 hosn -1 mubarak -1 mubarak -1 -2
+mubarak -1 mubarak -1 benjamin -1 el -1 secur -1 asfour -1 ventur -1 egypt -1 egypt -1 egypt -1 friday -1 friday -1 rule -1 palestin -1 palestin -1 palestin -1 palestin -1 palestin -1 palestin -1 palestin -1 israel -1 israel -1 israel -1 israel -1 israel -1 polic -1 mass -1 advis -1 presid -1 presid -1 presid -1 -2
+jerusalem -1 yass -1 arafat -1 arafat -1 arafat -1 offic -1 offic -1 offic -1 -2

@@ -1,0 +1,2 @@
+market -1 month -1 month -1 month -1 bracket -1 term -1 bank -1 bank -1 nil -1 mkt -1 stat -1 omo -1 show -1 million -1 million -1 open -1 open -1 feder -1 august -1 short -1 cent -1 cut -1 offer -1 figur -1 bln -1 take -1 pakist -1 pakist -1 outright -1 result -1 -2
+rupee -1 rupee -1 rupee -1 wednesday -1 accept -1 accept -1 total -1 bond -1 repo -1 repo -1 repo -1 ibrahim -1 khan -1 operat -1 max -1 sale -1 pct -1 pct -1 pct -1 -2

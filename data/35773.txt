@@ -1,0 +1,4 @@
+market -1 market -1 market -1 market -1 market -1 tight -1 tight -1 tight -1 jakart -1 situat -1 carry -1 high -1 high -1 kg -1 kg -1 kg -1 kg -1 month -1 brief -1 damp -1 forward -1 olein -1 olein -1 olein -1 olein -1 cpo -1 cpo -1 cpo -1 medan -1 medan -1 -2
+medan -1 week -1 domest -1 report -1 expect -1 govern -1 govern -1 govern -1 pric -1 pric -1 pric -1 pric -1 anticip -1 deliv -1 end -1 crud -1 crud -1 oil -1 oil -1 oil -1 oil -1 oil -1 remain -1 stead -1 stead -1 java -1 stabl -1 sustain -1 tone -1 august -1 side -1 -2
+import -1 rupiah -1 rupiah -1 rupiah -1 rupiah -1 rupiah -1 purchas -1 offer -1 quot -1 quot -1 upbeat -1 continu -1 continu -1 export -1 announc -1 caus -1 ready -1 septemb -1 septemb -1 septemb -1 tend -1 effect -1 suppl -1 suppl -1 suppl -1 indones -1 indones -1 cond -1 morn -1 palm -1 palm -1 -2
+palm -1 palm -1 jakartr -1 newsroom -1 ling -1 cook -1 cook -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 tax -1 -2

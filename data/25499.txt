@@ -1,0 +1,4 @@
+diplom -1 diplom -1 study -1 market -1 econom -1 econom -1 ping -1 kun -1 stock -1 plung -1 gas -1 fly -1 lien -1 lien -1 chan -1 chan -1 privat -1 bank -1 newspap -1 newspap -1 petroleum -1 point -1 tie -1 tie -1 headlin -1 unit -1 peopl -1 ukrain -1 capit -1 stat -1 -2
+meet -1 injur -1 govern -1 digest -1 outflow -1 nige -1 nige -1 nige -1 control -1 oil -1 chin -1 chin -1 chin -1 chin -1 chin -1 stead -1 renew -1 time -1 time -1 august -1 press -1 daily -1 daily -1 cent -1 head -1 head -1 visit -1 move -1 uncertain -1 new -1 new -1 -2
+direct -1 seve -1 seve -1 develop -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taipei -1 strait -1 burst -1 council -1 plan -1 plan -1 mainland -1 corp -1 relat -1 relat -1 relat -1 chang -1 due -1 chiang -1 newsroom -1 vice -1 vice -1 presid -1 presid -1 pace -1 hung -1 -2
+commerc -1 kief -1 -2

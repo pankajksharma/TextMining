@@ -1,0 +1,2 @@
+congress -1 eduard -1 light -1 light -1 mine -1 rio -1 approv -1 govern -1 conglom -1 bill -1 bill -1 blat -1 sacrific -1 party -1 hors -1 priv -1 green -1 green -1 sen -1 vale -1 work -1 companh -1 doce -1 selloff -1 selloff -1 senat -1 senat -1 part -1 brazil -1 brazil -1 -2
+wing -1 propos -1 jose -1 wednesday -1 cvrd -1 cvrd -1 cvrd -1 dutr -1 dutr -1 subject -1 subject -1 withdraw -1 afternoon -1 surpr -1 sale -1 left -1 trad -1 block -1 sought -1 -2

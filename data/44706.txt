@@ -1,0 +1,2 @@
+market -1 usda -1 usda -1 cdt -1 estb -1 ut -1 ut -1 ut -1 brk -1 yg -1 low -1 carlot -1 mkt -1 week -1 light -1 report -1 bng -1 bng -1 pric -1 end -1 unq -1 august -1 omah -1 beef -1 cent -1 cut -1 cut -1 cut -1 offer -1 cow -1 -2
+util -1 rang -1 load -1 fob -1 lds -1 demand -1 carcass -1 carcass -1 late -1 moderat -1 moderat -1 bull -1 bull -1 trad -1 establ -1 -2

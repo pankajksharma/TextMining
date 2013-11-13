@@ -1,0 +1,2 @@
+privat -1 bank -1 appoint -1 manag -1 manag -1 manag -1 manag -1 invest -1 equit -1 equit -1 name -1 name -1 name -1 chas -1 chas -1 chas -1 manhat -1 research -1 pamel -1 carlton -1 goodwin -1 direct -1 direct -1 direct -1 direct -1 divid -1 corp -1 announc -1 wednesday -1 asset -1 -2
+asset -1 asset -1 glob -1 glob -1 arm -1 terry -1 trad -1 -2

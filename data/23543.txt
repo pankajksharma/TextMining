@@ -1,0 +1,2 @@
+compan -1 nov -1 nov -1 sharehold -1 interest -1 month -1 yr -1 shr -1 div -1 regist -1 retain -1 amount -1 food -1 fund -1 debt -1 stat -1 pay -1 payabl -1 million -1 million -1 million -1 dividend -1 kerry -1 kerry -1 goodwill -1 goodwill -1 punt -1 net -1 net -1 pound -1 -2
+plc -1 pre -1 half -1 note -1 date -1 date -1 base -1 penc -1 incom -1 turnov -1 profit -1 profit -1 profit -1 profit -1 pretax -1 includ -1 charg -1 charg -1 june -1 june -1 irish -1 irish -1 operat -1 amort -1 defer -1 tax -1 tax -1 tax -1 group -1 pct -1 -2

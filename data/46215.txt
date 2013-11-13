@@ -1,0 +1,4 @@
+elect -1 elect -1 gener -1 gener -1 regret -1 marxist -1 rank -1 retir -1 retir -1 hospit -1 hospit -1 hospit -1 junt -1 junt -1 junt -1 junt -1 year -1 year -1 kill -1 line -1 gustav -1 turn -1 cesar -1 issu -1 ill -1 ill -1 stat -1 govern -1 lead -1 lead -1 -2
+pinochet -1 pinochet -1 pinochet -1 pinochet -1 allend -1 main -1 coup -1 coup -1 chilean -1 chilean -1 toribio -1 lymphat -1 tremor -1 hour -1 long -1 long -1 control -1 honor -1 remain -1 age -1 die -1 die -1 die -1 die -1 valparais -1 canc -1 polit -1 polit -1 august -1 pow -1 admir -1 -2
+civil -1 health -1 visit -1 chief -1 chief -1 chil -1 jose -1 milit -1 milit -1 milit -1 milit -1 milit -1 dry -1 merin -1 merin -1 merin -1 merin -1 merin -1 merin -1 merin -1 merin -1 mendoz -1 disdain -1 memb -1 memb -1 memb -1 leigh -1 salvador -1 friday -1 friday -1 port -1 -2
+rule -1 rule -1 presid -1 presid -1 humor -1 navy -1 navy -1 navy -1 surviv -1 death -1 diagnos -1 -2

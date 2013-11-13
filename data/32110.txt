@@ -1,0 +1,4 @@
+early -1 market -1 market -1 market -1 market -1 market -1 recent -1 finanz -1 repurcuss -1 publ -1 econom -1 econom -1 gener -1 money -1 money -1 money -1 money -1 saturday -1 clos -1 clos -1 clos -1 interest -1 rate -1 rate -1 low -1 liquid -1 term -1 term -1 bank -1 apr -1 -2
+edition -1 rich -1 rich -1 franc -1 week -1 domest -1 yld -1 yield -1 report -1 percent -1 euro -1 confirm -1 cash -1 pric -1 thursday -1 thursday -1 european -1 comi -1 end -1 nation -1 remain -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 swiss -1 press -1 short -1 robust -1 respect -1 -2
+ground -1 cent -1 cut -1 inflat -1 inflat -1 conf -1 move -1 medium -1 georg -1 chief -1 retrac -1 interview -1 wirtschaft -1 day -1 dang -1 snb -1 snb -1 snb -1 snb -1 zurich -1 editor -1 friday -1 bond -1 bond -1 bond -1 bond -1 bond -1 sept -1 sept -1 sept -1 action -1 -2
+releas -1 add -1 pct -1 pct -1 -2

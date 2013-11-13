@@ -1,0 +1,3 @@
+market -1 syndic -1 tuesday -1 month -1 currenc -1 currenc -1 bank -1 bank -1 ufuk -1 soylemez -1 soylemez -1 soylemez -1 turk -1 turk -1 billion -1 billion -1 club -1 club -1 denomin -1 borrow -1 borrow -1 borrow -1 deal -1 deal -1 deal -1 deal -1 deal -1 loan -1 loan -1 domest -1 -2
+domest -1 domest -1 stat -1 expect -1 govern -1 govern -1 treasur -1 burd -1 reut -1 million -1 million -1 matur -1 short -1 foreign -1 foreign -1 told -1 ankar -1 minist -1 minist -1 part -1 realis -1 aim -1 final -1 turkey -1 turkey -1 plan -1 relief -1 servet -1 septemb -1 septemb -1 yildirim -1 -2
+worth -1 bond -1 newsroom -1 transact -1 -2

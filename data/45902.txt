@@ -1,0 +1,2 @@
+compan -1 compan -1 stock -1 stock -1 stock -1 stock -1 record -1 record -1 declar -1 declar -1 div -1 peso -1 percent -1 cash -1 cash -1 fix -1 dividend -1 dividend -1 dividend -1 dividend -1 commit -1 exchang -1 exchang -1 notic -1 date -1 date -1 earn -1 philippin -1 philippin -1 philippin -1 -2
+corp -1 septemb -1 fphc -1 secur -1 june -1 friday -1 set -1 hold -1 surplus -1 pct -1 -2

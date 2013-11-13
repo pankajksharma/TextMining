@@ -1,0 +1,2 @@
+compan -1 tuesday -1 manil -1 resort -1 uniw -1 uniw -1 uniw -1 baguio -1 baguio -1 build -1 build -1 build -1 billion -1 resourc -1 fax -1 unit -1 peso -1 stat -1 govern -1 design -1 leas -1 arrang -1 propert -1 city -1 city -1 city -1 complex -1 complex -1 hectar -1 realt -1 -2
+shop -1 corp -1 built -1 newsroom -1 mall -1 mountain -1 hold -1 sale -1 subsid -1 -2

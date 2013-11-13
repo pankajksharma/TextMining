@@ -1,0 +1,2 @@
+cdt -1 system -1 gmt -1 treasur -1 advanc -1 fix -1 reut -1 telephon -1 futur -1 futur -1 futur -1 open -1 open -1 open -1 hour -1 hour -1 hour -1 minim -1 contract -1 contract -1 contract -1 wil -1 monday -1 monday -1 give -1 chicag -1 unspecif -1 indefinit -1 financ -1 financ -1 -2
+cbot -1 cbot -1 cbot -1 cbot -1 exchang -1 phon -1 notic -1 mail -1 note -1 problem -1 minut -1 derivat -1 derivat -1 board -1 spokesm -1 bond -1 desk -1 norm -1 delay -1 delay -1 delay -1 delay -1 trad -1 trad -1 -2

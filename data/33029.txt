@@ -1,0 +1,3 @@
+payment -1 credit -1 credit -1 tuesday -1 rumor -1 kun -1 kun -1 kun -1 kun -1 kun -1 kun -1 stock -1 immed -1 halt -1 halt -1 construc -1 construc -1 construc -1 receiv -1 default -1 default -1 billion -1 recief -1 file -1 wait -1 dongsung -1 loan -1 debt -1 approv -1 promit -1 -2
+seoulbank -1 seoulbank -1 seoulbank -1 shar -1 talk -1 off -1 off -1 exchang -1 exchang -1 prim -1 court -1 court -1 won -1 hear -1 note -1 rescu -1 led -1 day -1 corp -1 comment -1 reject -1 spokesm -1 refus -1 friday -1 consort -1 takeov -1 young -1 young -1 young -1 young -1 young -1 -2
+young -1 korea -1 offic -1 trad -1 trad -1 -2

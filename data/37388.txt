@@ -1,0 +1,4 @@
+compan -1 retail -1 tuesday -1 tuesday -1 stock -1 stock -1 stock -1 stock -1 clos -1 clos -1 clos -1 ahead -1 supervis -1 supervis -1 fax -1 de -1 indicat -1 usual -1 report -1 report -1 percent -1 attent -1 expect -1 amsterdam -1 amsterdam -1 amsterdam -1 amsterdam -1 decid -1 prob -1 pric -1 -2
+million -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 insid -1 insid -1 monday -1 monday -1 monday -1 monday -1 guild -1 guild -1 guild -1 prior -1 august -1 public -1 daily -1 investig -1 rose -1 rose -1 exchang -1 exchang -1 exchang -1 numb -1 net -1 heavy -1 pre -1 half -1 -2
+half -1 sharp -1 doubl -1 put -1 herm -1 turnov -1 turnov -1 unusual -1 unusual -1 day -1 profit -1 result -1 result -1 result -1 spokesm -1 bours -1 bours -1 bours -1 cetec -1 cetec -1 cetec -1 cetec -1 watchdog -1 aver -1 late -1 ranitz -1 releas -1 newsroom -1 signific -1 trad -1 trad -1 -2
+trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 pick -1 -2

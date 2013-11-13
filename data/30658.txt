@@ -1,0 +1,2 @@
+tabl -1 munich -1 frankfurt -1 fax -1 dresd -1 berlin -1 germ -1 germ -1 germ -1 percent -1 stuttgart -1 volum -1 show -1 leipzig -1 airfreight -1 cologn -1 rise -1 adv -1 hall -1 airport -1 airport -1 flow -1 flow -1 assoc -1 tegel -1 tempelhof -1 schoenefeld -1 hannov -1 koeln -1 figur -1 -2
+muenst -1 nuremberg -1 osnabrueck -1 saarbrueck -1 duessseldorf -1 ton -1 exclud -1 brem -1 july -1 july -1 includ -1 hamburg -1 truck -1 transit -1 carg -1 carg -1 carg -1 carg -1 intern -1 air -1 air -1 air -1 air -1 total -1 total -1 total -1 newsroom -1 tel -1 handl -1 pct -1 -2

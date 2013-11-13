@@ -1,0 +1,2 @@
+civic -1 nov -1 elect -1 elect -1 elect -1 elect -1 recomend -1 carry -1 tuesday -1 year -1 year -1 year -1 term -1 term -1 appoint -1 capit -1 tallahass -1 tallahass -1 meet -1 approv -1 decid -1 lead -1 florid -1 provis -1 choos -1 panel -1 elimin -1 urg -1 mayor -1 mayor -1 -2
+mayor -1 mayor -1 mayor -1 commit -1 commit -1 commit -1 commit -1 commit -1 commit -1 made -1 city -1 city -1 fla -1 serv -1 jane -1 sutton -1 propos -1 propos -1 vote -1 vote -1 sept -1 recommend -1 recommend -1 advis -1 advis -1 allow -1 allow -1 ballot -1 sunset -1 -2

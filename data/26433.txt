@@ -1,0 +1,1 @@
+stock -1 record -1 shr -1 amount -1 quart -1 quart -1 pay -1 dividend -1 industr -1 prior -1 kop -1 note -1 aug -1 sept -1 late -1 late -1 reflect -1 split -1 qtly -1 -2

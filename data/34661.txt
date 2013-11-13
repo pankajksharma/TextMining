@@ -1,0 +1,2 @@
+market -1 market -1 stock -1 clos -1 clos -1 climb -1 climb -1 bank -1 bank -1 fall -1 usual -1 stat -1 percent -1 lead -1 fell -1 pric -1 index -1 index -1 index -1 volum -1 volum -1 volum -1 million -1 million -1 million -1 shar -1 shar -1 riga -1 monday -1 tallin -1 -2
+eston -1 eston -1 nudg -1 hans -1 exchang -1 infant -1 compar -1 hand -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 instru -1 bours -1 bours -1 worth -1 friday -1 friday -1 chang -1 newsroom -1 trad -1 -2

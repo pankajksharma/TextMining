@@ -1,0 +1,2 @@
+market -1 kerb -1 kerb -1 saturday -1 clos -1 clos -1 clos -1 rate -1 low -1 currenc -1 bank -1 fall -1 deal -1 deprec -1 stat -1 percent -1 percent -1 thursday -1 open -1 open -1 remain -1 weekend -1 august -1 buy -1 bear -1 foreign -1 cent -1 exchang -1 pakist -1 certif -1 -2
+pakistan -1 pakistan -1 compar -1 rupee -1 rupee -1 rupee -1 prem -1 dollar -1 dollar -1 friday -1 spur -1 set -1 unchang -1 ibrahim -1 khan -1 fear -1 closur -1 -2

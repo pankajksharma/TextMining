@@ -1,0 +1,4 @@
+fire -1 wimbledon -1 wimbledon -1 draw -1 gallop -1 superb -1 clos -1 bottom -1 team -1 howard -1 start -1 forward -1 leed -1 leed -1 leed -1 leed -1 manag -1 poor -1 turn -1 unit -1 rush -1 huge -1 slic -1 penalt -1 lee -1 ian -1 wilkinson -1 home -1 england -1 england -1 -2
+manchest -1 million -1 million -1 shot -1 unfavor -1 insid -1 leav -1 monday -1 give -1 edg -1 win -1 win -1 leagu -1 area -1 fan -1 socc -1 jeer -1 pressur -1 feed -1 side -1 corn -1 frequ -1 cut -1 repaid -1 success -1 cheer -1 premy -1 anchor -1 servic -1 net -1 strik -1 -2
+strik -1 match -1 half -1 pound -1 sharp -1 sharp -1 sharp -1 sharp -1 sharp -1 arc -1 wing -1 wing -1 liverpool -1 hap -1 relief -1 welsh -1 hand -1 hand -1 hand -1 goal -1 goal -1 goal -1 boo -1 hit -1 hit -1 foot -1 set -1 season -1 season -1 season -1 brought -1 -2
+defeat -1 top -1 fee -1 sign -1 eas -1 -2

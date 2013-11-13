@@ -1,0 +1,4 @@
+early -1 televis -1 televis -1 televis -1 elect -1 gener -1 french -1 french -1 french -1 year -1 kill -1 kill -1 kill -1 kill -1 kill -1 algy -1 blast -1 de -1 stat -1 violent -1 alger -1 alger -1 alger -1 alger -1 alger -1 alger -1 alger -1 alger -1 govern -1 lead -1 -2
+lead -1 rebel -1 rebel -1 rebel -1 pit -1 claverie -1 claverie -1 oran -1 thursday -1 charet -1 support -1 shot -1 hour -1 slain -1 assassin -1 give -1 author -1 guerrill -1 august -1 cathol -1 herv -1 foreign -1 foreign -1 met -1 western -1 western -1 city -1 forc -1 forc -1 forc -1 forc -1 -2
+minist -1 visit -1 resid -1 estimat -1 moslem -1 moslem -1 moslem -1 detail -1 run -1 islam -1 radic -1 dead -1 dead -1 bishop -1 bishop -1 bishop -1 bomb -1 cancel -1 pier -1 men -1 men -1 arrest -1 arrest -1 secur -1 secur -1 secur -1 tv -1 command -1 roman -1 confess -1 suspect -1 -2
+suspect -1 sought -1 -2

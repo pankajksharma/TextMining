@@ -1,0 +1,4 @@
+early -1 clear -1 flight -1 flight -1 flight -1 carry -1 carry -1 tuesday -1 faa -1 faa -1 faa -1 target -1 target -1 stop -1 valujet -1 valujet -1 valujet -1 valujet -1 inspect -1 fly -1 fly -1 month -1 everglad -1 begin -1 begin -1 safet -1 safet -1 safet -1 review -1 review -1 -2
+fite -1 newspap -1 manag -1 discount -1 wait -1 week -1 issu -1 sourc -1 report -1 report -1 approv -1 atlant -1 appear -1 florid -1 administ -1 face -1 end -1 volunt -1 feder -1 feder -1 financ -1 ground -1 health -1 aircraft -1 prov -1 crash -1 procedur -1 obtain -1 quot -1 washington -1 depart -1 -2
+depart -1 depart -1 ago -1 certif -1 program -1 date -1 base -1 run -1 day -1 day -1 transport -1 transport -1 transport -1 post -1 post -1 unidentif -1 wednesday -1 regulat -1 septemb -1 concern -1 airlin -1 airlin -1 airlin -1 airlin -1 aviat -1 resum -1 resum -1 resum -1 mainten -1 june -1 friday -1 -2
+found -1 set -1 overs -1 defic -1 fleet -1 execut -1 operat -1 operat -1 delay -1 -2

@@ -1,0 +1,5 @@
+newsdesk -1 indic -1 interest -1 interest -1 rate -1 rate -1 month -1 month -1 soar -1 revers -1 celesc -1 celesc -1 year -1 centrai -1 eletric -1 catarin -1 pasep -1 cofin -1 york -1 shr -1 good -1 deprec -1 equit -1 de -1 gross -1 stat -1 level -1 pric -1 contribut -1 provis -1 -2
+provis -1 personnel -1 million -1 shar -1 shar -1 adjust -1 end -1 end -1 party -1 social -1 return -1 financ -1 financ -1 made -1 exchang -1 exchang -1 ebitd -1 margin -1 margin -1 margin -1 loss -1 loss -1 loss -1 loss -1 loss -1 purchas -1 inflat -1 servic -1 util -1 net -1 net -1 -2
+net -1 net -1 net -1 net -1 partial -1 period -1 period -1 thousand -1 thousand -1 note -1 final -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 h1 -1 consum -1 electr -1 earn -1 profit -1 express -1 charg -1 regulat -1 -2
+revenu -1 revenu -1 revenu -1 expend -1 expend -1 expend -1 expend -1 expend -1 june -1 june -1 june -1 june -1 june -1 add -1 operat -1 operat -1 operat -1 operat -1 operat -1 sant -1 reai -1 reai -1 reai -1 boost -1 sale -1 sale -1 amort -1 icm -1 tax -1 tax -1 tax -1 -2
+tax -1 tax -1 tax -1 -2

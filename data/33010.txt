@@ -1,0 +1,3 @@
+approach -1 tight -1 market -1 market -1 jakart -1 jakart -1 jakart -1 money -1 money -1 money -1 money -1 money -1 rate -1 rate -1 month -1 month -1 month -1 liquid -1 term -1 bank -1 bank -1 bank -1 billion -1 swap -1 firm -1 modest -1 deal -1 deal -1 deal -1 week -1 -2
+week -1 light -1 salar -1 fund -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 govern -1 transf -1 overnight -1 thursday -1 face -1 matur -1 end -1 end -1 edg -1 edg -1 short -1 foreign -1 civil -1 inject -1 cent -1 rupiah -1 suffic -1 call -1 call -1 continu -1 fact -1 -2
+serv -1 excess -1 compar -1 wednesday -1 demand -1 fill -1 friday -1 suppl -1 suppl -1 aver -1 due -1 newsroom -1 operat -1 inflow -1 interbank -1 eas -1 prepar -1 bit -1 -2

@@ -1,0 +1,3 @@
+negot -1 accur -1 medic -1 prescrib -1 countr -1 javy -1 newspap -1 headlin -1 spain -1 de -1 de -1 assess -1 govern -1 govern -1 govern -1 govern -1 pension -1 digest -1 dia -1 accus -1 reut -1 pai -1 chilean -1 mund -1 diario -1 cinc -1 case -1 nation -1 nation -1 gacet -1 -2
+negocio -1 lasa -1 bch -1 abc -1 press -1 reason -1 investig -1 victim -1 verif -1 obstruc -1 obstruc -1 vouch -1 emigrat -1 fisc -1 prim -1 minist -1 servic -1 judg -1 judg -1 posit -1 basqu -1 scen -1 lybrand -1 catal -1 story -1 jose -1 justic -1 aug -1 gal -1 coop -1 charg -1 -2
+gomez -1 expand -1 el -1 el -1 budget -1 hive -1 maria -1 major -1 los -1 zabal -1 set -1 lian -1 aznar -1 -2

@@ -1,0 +1,2 @@
+immed -1 liquid -1 bank -1 bank -1 billion -1 week -1 week -1 gross -1 cnb -1 cnb -1 yield -1 yield -1 yield -1 yield -1 percent -1 bill -1 bill -1 matur -1 nation -1 auction -1 crown -1 crown -1 crown -1 off -1 czech -1 czech -1 pragu -1 figur -1 bid -1 net -1 -2
+net -1 tranch -1 bln -1 bln -1 aug -1 compar -1 hit -1 newsroom -1 pct -1 pct -1 pct -1 -2

@@ -1,0 +1,4 @@
+market -1 novemb -1 gener -1 carry -1 carry -1 carry -1 high -1 immed -1 sharehold -1 own -1 year -1 year -1 privat -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 agree -1 agree -1 manag -1 spain -1 list -1 larg -1 complet -1 capit -1 capit -1 capit -1 -2
+capit -1 issu -1 debt -1 debt -1 debt -1 debt -1 report -1 percent -1 pay -1 expect -1 margaret -1 banc -1 banc -1 banc -1 banc -1 banc -1 banc -1 banc -1 million -1 million -1 million -1 shar -1 face -1 end -1 control -1 increas -1 increas -1 increas -1 increas -1 increas -1 increas -1 -2
+rise -1 public -1 financ -1 financ -1 financ -1 paid -1 told -1 cent -1 cent -1 cent -1 cent -1 santand -1 repaid -1 repay -1 chil -1 chil -1 plan -1 plan -1 expand -1 plac -1 board -1 orgill -1 santiag -1 x212 -1 concepc -1 concepc -1 concepc -1 concepc -1 concepc -1 selum -1 selum -1 -2
+suscrib -1 infis -1 infis -1 osorn -1 rule -1 process -1 owe -1 newsroom -1 allow -1 jorg -1 sign -1 group -1 group -1 -2

@@ -1,0 +1,4 @@
+metal -1 metal -1 market -1 tight -1 life -1 clear -1 kerb -1 kerb -1 kerb -1 cop -1 cop -1 stop -1 clos -1 clos -1 broker -1 month -1 ahead -1 start -1 pictur -1 comex -1 comex -1 lme -1 lme -1 nickel -1 nickel -1 deal -1 confus -1 week -1 assess -1 gmt -1 -2
+gmt -1 strong -1 confin -1 int -1 int -1 subdu -1 level -1 slowdown -1 gain -1 busi -1 busi -1 rally -1 show -1 thursday -1 thursday -1 rudolf -1 hour -1 end -1 end -1 end -1 versus -1 sum -1 remain -1 weekend -1 buy -1 buy -1 extend -1 exchang -1 call -1 wolff -1 london -1 -2
+london -1 bid -1 bid -1 take -1 rang -1 entrench -1 session -1 alumin -1 day -1 day -1 day -1 profit -1 resist -1 labor -1 wednesday -1 uk -1 suppl -1 chang -1 band -1 late -1 late -1 late -1 holiday -1 afternoon -1 unchang -1 newsroom -1 mount -1 activ -1 activ -1 activ -1 uninspir -1 -2
+boost -1 offic -1 offic -1 trad -1 slow -1 restrict -1 surplus -1 pick -1 -2

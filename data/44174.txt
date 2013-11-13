@@ -1,0 +1,2 @@
+early -1 notch -1 market -1 tight -1 kerb -1 cop -1 cop -1 carry -1 clos -1 clos -1 high -1 high -1 month -1 month -1 even -1 even -1 even -1 namib -1 cover -1 lme -1 lme -1 firm -1 spread -1 gmt -1 mine -1 help -1 int -1 pric -1 pric -1 gain -1 -2
+rally -1 thursday -1 end -1 techn -1 remain -1 remain -1 edg -1 short -1 finish -1 quot -1 spark -1 london -1 strik -1 heavy -1 sharp -1 chil -1 ton -1 smelt -1 alumin -1 break -1 prev -1 tsumeb -1 salvador -1 friday -1 newsroom -1 peak -1 hold -1 offic -1 trad -1 trad -1 -2

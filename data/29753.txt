@@ -1,0 +1,5 @@
+compan -1 compan -1 fire -1 upris -1 upris -1 upris -1 incid -1 protest -1 correct -1 correct -1 jail -1 texa -1 texa -1 texa -1 texa -1 texa -1 reach -1 month -1 facil -1 hospit -1 begin -1 convict -1 safet -1 midday -1 notif -1 spokeswom -1 spokeswom -1 privat -1 start -1 blast -1 -2
+food -1 prison -1 prison -1 prison -1 prison -1 prison -1 west -1 rock -1 stat -1 southeast -1 helicopt -1 local -1 local -1 injur -1 injur -1 injur -1 melee -1 nashvill -1 brok -1 thursday -1 hour -1 hour -1 hour -1 end -1 insid -1 jaw -1 tenness -1 rais -1 sex -1 patrol -1 public -1 -2
+offend -1 told -1 cent -1 shotgun -1 san -1 wound -1 call -1 work -1 complain -1 numb -1 numb -1 casualt -1 depart -1 depart -1 mile -1 riot -1 rang -1 houston -1 americ -1 base -1 cloth -1 inmat -1 inmat -1 inmat -1 inmat -1 inmat -1 aug -1 detent -1 run -1 run -1 corp -1 -2
+corp -1 wednesday -1 concern -1 eden -1 eden -1 eden -1 comment -1 spokesm -1 guard -1 guard -1 guard -1 guard -1 guard -1 laureen -1 chernow -1 chernow -1 chernow -1 perimet -1 floodlight -1 cond -1 angel -1 throw -1 polic -1 polic -1 polic -1 polic -1 escap -1 escap -1 operat -1 operat -1 exact -1 -2
+quell -1 offic -1 -2

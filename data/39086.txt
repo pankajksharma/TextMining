@@ -1,0 +1,3 @@
+stay -1 early -1 market -1 quiet -1 quiet -1 back -1 back -1 texa -1 stock -1 ahead -1 data -1 data -1 york -1 headlin -1 deal -1 spot -1 wait -1 gulf -1 today -1 today -1 difficult -1 parcel -1 kans -1 pric -1 futur -1 sold -1 crud -1 oil -1 ve -1 ve -1 -2
+remain -1 industr -1 stead -1 mont -1 gaug -1 stood -1 pressur -1 past -1 cent -1 cent -1 cent -1 cent -1 cent -1 mater -1 pret -1 loss -1 iraq -1 salisbur -1 play -1 play -1 play -1 coast -1 energ -1 lpg -1 lpg -1 settl -1 laney -1 day -1 day -1 wednesday -1 propan -1 -2
+gallon -1 conway -1 conway -1 belvieu -1 intraday -1 due -1 late -1 unchang -1 unchang -1 add -1 desk -1 hub -1 hub -1 hold -1 trad -1 trad -1 -2

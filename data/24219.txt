@@ -1,0 +1,2 @@
+market -1 market -1 market -1 gener -1 dlr -1 slip -1 slip -1 immed -1 low -1 low -1 low -1 retreat -1 currenc -1 currenc -1 bank -1 bank -1 bank -1 bank -1 fall -1 deal -1 deal -1 deal -1 deal -1 client -1 expect -1 volum -1 volum -1 behalf -1 open -1 sofia -1 -2
+off -1 foreign -1 foreign -1 pressur -1 grow -1 cent -1 cent -1 bid -1 detect -1 put -1 final -1 lev -1 lev -1 lev -1 lev -1 lev -1 bulg -1 bulg -1 comment -1 dollar -1 dollar -1 suppl -1 due -1 morn -1 make -1 newsroom -1 interbank -1 offic -1 reluc -1 commerc -1 -2

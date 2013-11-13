@@ -1,0 +1,2 @@
+limit -1 small -1 jakart -1 jakart -1 jakart -1 tuesday -1 high -1 kg -1 kg -1 kg -1 month -1 quant -1 olein -1 olein -1 olein -1 cpo -1 cpo -1 medan -1 capit -1 meet -1 pric -1 sold -1 crud -1 oil -1 oil -1 monday -1 remain -1 stabl -1 stabl -1 stabl -1 -2
+stabl -1 buy -1 rose -1 rupiah -1 rupiah -1 rupiah -1 export -1 tend -1 tend -1 suppl -1 indones -1 indones -1 due -1 late -1 palm -1 palm -1 palm -1 palm -1 newsroom -1 trad -1 trad -1 trad -1 trad -1 -2

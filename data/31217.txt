@@ -1,0 +1,2 @@
+draw -1 draw -1 uefa -1 cup -1 cup -1 cup -1 team -1 lyngb -1 club -1 club -1 club -1 norway -1 austr -1 euro -1 bergen -1 brug -1 brug -1 eker -1 denmark -1 molenbeek -1 anderlecht -1 cercl -1 european -1 round -1 round -1 vladikavkaz -1 alania -1 win -1 russia -1 socc -1 -2
+socc -1 made -1 graz -1 compet -1 compet -1 denot -1 turkey -1 seed -1 bran -1 besikt -1 friday -1 casin -1 belg -1 belg -1 belg -1 belg -1 belg -1 -2

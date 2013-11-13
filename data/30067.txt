@@ -1,0 +1,2 @@
+market -1 recent -1 welcom -1 fledgl -1 tuesday -1 tuesday -1 stock -1 buchar -1 buchar -1 buchar -1 low -1 week -1 gmt -1 stat -1 local -1 suff -1 pric -1 pric -1 volum -1 brok -1 thursday -1 thursday -1 open -1 strength -1 hour -1 hour -1 hour -1 hour -1 time -1 exchang -1 -2
+exchang -1 effort -1 cut -1 continu -1 continu -1 continu -1 move -1 half -1 pre -1 take -1 part -1 session -1 session -1 minut -1 minut -1 expand -1 prev -1 bours -1 bours -1 bours -1 newsroom -1 boost -1 trad -1 trad -1 trad -1 trad -1 -2

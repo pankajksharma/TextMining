@@ -1,0 +1,4 @@
+compan -1 compan -1 stak -1 market -1 clear -1 carry -1 carry -1 interest -1 interest -1 interest -1 mauricio -1 month -1 countr -1 countr -1 year -1 cover -1 north -1 firm -1 firm -1 firm -1 bellsouth -1 bellsouth -1 bellsouth -1 bellsouth -1 bellsouth -1 wior -1 wior -1 wior -1 entel -1 entel -1 -2
+motorol -1 bought -1 percent -1 concess -1 concess -1 atlant -1 local -1 govern -1 govern -1 decid -1 telephon -1 telephon -1 futur -1 chilean -1 chilean -1 alli -1 long -1 control -1 control -1 talk -1 talk -1 dist -1 increas -1 telecommun -1 telecommun -1 prior -1 prior -1 extend -1 cent -1 network -1 phon -1 -2
+award -1 court -1 servic -1 move -1 appeal -1 telecom -1 telecom -1 telecom -1 telecom -1 mobil -1 chil -1 chil -1 chil -1 south -1 americ -1 base -1 plan -1 latin -1 corp -1 relat -1 person -1 regulat -1 santiag -1 major -1 cellul -1 cellul -1 rule -1 suprem -1 vice -1 pact -1 presid -1 -2
+operat -1 operat -1 region -1 delay -1 commerc -1 -2

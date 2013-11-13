@@ -1,0 +1,5 @@
+negot -1 compan -1 stak -1 stak -1 market -1 clear -1 texa -1 stop -1 gas -1 gas -1 union -1 union -1 union -1 interest -1 liquid -1 liquid -1 liquid -1 merg -1 own -1 own -1 resourc -1 war -1 war -1 war -1 unit -1 gulf -1 gulf -1 key -1 produc -1 percent -1 -2
+stifl -1 natur -1 natur -1 natur -1 requir -1 janu -1 sold -1 enterpr -1 ftc -1 ftc -1 gather -1 long -1 leav -1 mont -1 mont -1 mont -1 feder -1 area -1 fuel -1 fuel -1 commit -1 purchas -1 purchas -1 compet -1 serv -1 coast -1 coast -1 energ -1 settl -1 propos -1 propos -1 -2
+propos -1 propos -1 propos -1 sell -1 sell -1 plan -1 dupont -1 conoc -1 corp -1 corp -1 corp -1 corp -1 corp -1 announc -1 charg -1 plant -1 plant -1 plant -1 plant -1 plant -1 plant -1 plant -1 plant -1 plant -1 wednesday -1 septemb -1 ngl -1 trident -1 trident -1 trident -1 trident -1 -2
+belvieu -1 belvieu -1 belvieu -1 chevron -1 chevron -1 chevron -1 chevron -1 process -1 allow -1 fraction -1 fraction -1 fraction -1 resign -1 operat -1 operat -1 operat -1 operat -1 operat -1 operat -1 pacif -1 pacif -1 pacif -1 hub -1 subsid -1 trad -1 ngc -1 ngc -1 ngc -1 ngc -1 ngc -1 ngc -1 -2
+ngc -1 group -1 -2

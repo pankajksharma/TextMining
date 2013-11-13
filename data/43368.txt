@@ -1,0 +1,2 @@
+back -1 stall -1 clos -1 interest -1 interest -1 currenc -1 currenc -1 currenc -1 line -1 deal -1 doornail -1 complet -1 complet -1 expect -1 overnight -1 index -1 thursday -1 open -1 end -1 finish -1 austral -1 nz -1 zealand -1 lack -1 lack -1 loos -1 weight -1 jame -1 rang -1 gray -1 -2
+day -1 auckland -1 dead -1 dollar -1 dollar -1 dollar -1 due -1 band -1 unchang -1 unchang -1 becalm -1 drift -1 trad -1 trad -1 trad -1 trad -1 eas -1 -2

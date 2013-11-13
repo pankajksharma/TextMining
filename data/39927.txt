@@ -1,0 +1,3 @@
+compan -1 carry -1 carry -1 stop -1 broker -1 fraud -1 bankruptc -1 bankruptc -1 liquid -1 liquid -1 liquid -1 york -1 club -1 club -1 trust -1 appoint -1 firm -1 common -1 file -1 file -1 file -1 percent -1 percent -1 percent -1 baron -1 baron -1 baron -1 baron -1 protect -1 solicit -1 -2
+accus -1 custom -1 custom -1 sold -1 sold -1 shar -1 shar -1 shar -1 imag -1 outstand -1 outstand -1 outstand -1 commit -1 innovir -1 innovir -1 paperclip -1 paperclip -1 jockey -1 jockey -1 exchang -1 court -1 jame -1 posit -1 laborat -1 july -1 dispos -1 asset -1 asset -1 secur -1 secur -1 held -1 -2
+order -1 sec -1 sec -1 gid -1 softwar -1 transact -1 sale -1 -2

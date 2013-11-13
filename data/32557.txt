@@ -1,0 +1,5 @@
+gilt -1 tight -1 market -1 market -1 market -1 market -1 thin -1 money -1 clos -1 clos -1 clos -1 occur -1 interest -1 perform -1 rate -1 rate -1 rate -1 month -1 low -1 unruffl -1 fortun -1 term -1 currenc -1 currenc -1 currenc -1 cover -1 point -1 fall -1 good -1 turn -1 -2
+deal -1 deal -1 deal -1 deal -1 deal -1 peopl -1 week -1 key -1 light -1 slight -1 gmt -1 stat -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 bump -1 lead -1 decid -1 govern -1 jump -1 thursday -1 thursday -1 thursday -1 european -1 end -1 -2
+remain -1 remain -1 edg -1 edg -1 rise -1 short -1 short -1 short -1 durabl -1 rose -1 focus -1 focus -1 focus -1 focus -1 cut -1 figur -1 fact -1 improv -1 improv -1 risen -1 risen -1 rang -1 basi -1 lot -1 penc -1 revis -1 session -1 july -1 day -1 relat -1 dami -1 -2
+intern -1 intern -1 intern -1 dollar -1 dollar -1 dollar -1 lynch -1 june -1 friday -1 irish -1 irish -1 bond -1 bond -1 bond -1 bond -1 chang -1 bund -1 respons -1 aver -1 due -1 due -1 bundesbank -1 late -1 late -1 repo -1 unchang -1 newsroom -1 add -1 switch -1 switch -1 activ -1 -2
+ord -1 ord -1 dublin -1 trad -1 trad -1 -2

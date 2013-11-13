@@ -1,0 +1,2 @@
+allot -1 market -1 money -1 money -1 interest -1 interest -1 rate -1 rate -1 rate -1 liquid -1 liquid -1 bank -1 amount -1 amount -1 amount -1 percent -1 advanc -1 fix -1 brussel -1 expir -1 nation -1 monday -1 belgian -1 belgian -1 virtual -1 bid -1 bid -1 bln -1 bln -1 bln -1 -2
+date -1 aug -1 aug -1 detail -1 bfr -1 bfr -1 day -1 tend -1 tend -1 tend -1 prev -1 accept -1 drain -1 total -1 sept -1 unchang -1 unchang -1 newsroom -1 left -1 pct -1 pct -1 pct -1 -2

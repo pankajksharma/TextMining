@@ -1,0 +1,5 @@
+market -1 market -1 market -1 heav -1 overbought -1 feel -1 tuesday -1 tuesday -1 send -1 high -1 rate -1 rate -1 month -1 month -1 low -1 year -1 year -1 room -1 climb -1 undermin -1 point -1 point -1 ifo -1 ifo -1 ifo -1 german -1 fax -1 franc -1 spread -1 spread -1 -2
+germ -1 yield -1 yield -1 yield -1 yield -1 percent -1 percent -1 percent -1 meet -1 strong -1 strong -1 steepl -1 expect -1 treasur -1 overnight -1 jump -1 fell -1 dash -1 index -1 busi -1 spat -1 futur -1 futur -1 thursday -1 confound -1 brussel -1 ensur -1 trig -1 trig -1 matur -1 end -1 -2
+contract -1 benchmark -1 rocket -1 belgian -1 belgian -1 belgian -1 rais -1 narrow -1 narrow -1 rise -1 buy -1 margin -1 cut -1 cut -1 comfort -1 declin -1 declin -1 declin -1 figur -1 figur -1 olo -1 olo -1 move -1 linear -1 sharp -1 certif -1 front -1 pape -1 basi -1 basi -1 sell -1 -2
+council -1 july -1 compar -1 day -1 wednesday -1 climat -1 chanc -1 expend -1 june -1 bond -1 bond -1 bund -1 bund -1 bund -1 bund -1 bundesbank -1 bundesbank -1 repo -1 repo -1 afternoon -1 make -1 newsroom -1 add -1 mark -1 hope -1 reluc -1 sign -1 trad -1 trad -1 trad -1 lag -1 -2
+lag -1 -2

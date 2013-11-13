@@ -1,0 +1,1 @@
+newsdesk -1 record -1 amount -1 quart -1 bancshar -1 pay -1 reut -1 reut -1 nation -1 prior -1 chicag -1 payout -1 city -1 ind -1 evansvill -1 aug -1 oct -1 sept -1 late -1 set -1 -2

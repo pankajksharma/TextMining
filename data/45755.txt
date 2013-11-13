@@ -1,0 +1,4 @@
+hous -1 territ -1 oversold -1 clos -1 low -1 simex -1 simex -1 ahead -1 rebound -1 rebound -1 fresh -1 gap -1 bank -1 fall -1 fall -1 fall -1 unwind -1 deal -1 deal -1 deal -1 deal -1 peopl -1 week -1 larg -1 today -1 report -1 nikkei -1 nikkei -1 nikkei -1 nikkei -1 -2
+nikkei -1 lee -1 overnight -1 sent -1 sent -1 level -1 futur -1 test -1 thursday -1 open -1 open -1 trig -1 end -1 end -1 arbitr -1 arbitr -1 contract -1 contract -1 contract -1 gloom -1 techn -1 benchmark -1 takan -1 short -1 finish -1 bear -1 pressur -1 head -1 senior -1 heavy -1 heavy -1 -2
+take -1 sharp -1 sharp -1 posit -1 ent -1 estimat -1 valerie -1 hand -1 wednesday -1 wall -1 septemb -1 septemb -1 septemb -1 street -1 depress -1 japan -1 japan -1 friday -1 friday -1 bat -1 chang -1 due -1 releas -1 add -1 hefty -1 activ -1 mark -1 dent -1 sale -1 sale -1 sale -1 -2
+trad -1 -2

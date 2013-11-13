@@ -1,0 +1,1 @@
+market -1 money -1 rate -1 liquid -1 lisbon -1 bank -1 bank -1 portug -1 portug -1 fund -1 percent -1 fix -1 off -1 off -1 certif -1 day -1 drain -1 drain -1 demand -1 demand -1 newsroom -1 -2

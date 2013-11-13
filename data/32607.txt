@@ -1,0 +1,2 @@
+market -1 market -1 market -1 gener -1 money -1 money -1 money -1 rate -1 liquid -1 liquid -1 liquid -1 bank -1 bank -1 amount -1 week -1 enquir -1 thursday -1 thursday -1 european -1 trig -1 nation -1 swiss -1 respect -1 cent -1 cut -1 cut -1 continu -1 move -1 signif -1 new -1 -2
+simil -1 snb -1 snb -1 snb -1 snb -1 ready -1 spokesm -1 spokesm -1 spokesm -1 zurich -1 editor -1 respons -1 bundesbank -1 late -1 repurchas -1 action -1 need -1 add -1 add -1 add -1 -2

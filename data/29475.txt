@@ -1,0 +1,2 @@
+draw -1 attend -1 cup -1 cup -1 tie -1 euro -1 european -1 aggreg -1 round -1 swed -1 socc -1 champ -1 andersson -1 ferencvaro -1 ferencvaro -1 ferencvaro -1 ifk -1 ifk -1 gothenburg -1 gothenburg -1 gothenburg -1 gothenburg -1 ferent -1 horvath -1 play -1 andre -1 scor -1 put -1 prelimin -1 wednesday -1 -2
+leg -1 hung -1 -2

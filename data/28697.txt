@@ -1,0 +1,4 @@
+market -1 econom -1 econom -1 econom -1 businessm -1 businessm -1 reach -1 body -1 romul -1 romul -1 romul -1 romul -1 abac -1 abac -1 view -1 mind -1 firm -1 unit -1 larg -1 larg -1 comprom -1 stat -1 meet -1 lead -1 sent -1 world -1 world -1 world -1 world -1 hawaii -1 -2
+busi -1 busi -1 thursday -1 push -1 nation -1 secret -1 give -1 weekend -1 chin -1 chin -1 chin -1 chin -1 chin -1 chin -1 polit -1 press -1 foreign -1 commit -1 met -1 side -1 call -1 call -1 entry -1 wto -1 wto -1 wto -1 wto -1 wto -1 wto -1 play -1 part -1 -2
+organ -1 interview -1 philippin -1 admit -1 admit -1 admit -1 apec -1 apec -1 apec -1 council -1 want -1 coop -1 forum -1 goal -1 object -1 memb -1 memb -1 major -1 achief -1 glob -1 chairm -1 set -1 robert -1 access -1 advis -1 advis -1 execut -1 asia -1 asia -1 asia -1 pacif -1 -2
+pacif -1 pacif -1 top -1 top -1 top -1 region -1 exec -1 trad -1 trad -1 block -1 -2

@@ -1,0 +1,2 @@
+stay -1 newsdesk -1 month -1 month -1 data -1 york -1 shr -1 shr -1 shr -1 fund -1 gain -1 oper -1 oper -1 oper -1 oper -1 oper -1 shar -1 shar -1 shar -1 shar -1 shar -1 flat -1 loss -1 loss -1 numb -1 figur -1 figur -1 net -1 net -1 net -1 -2
+note -1 exclud -1 exclud -1 profit -1 q1 -1 q1 -1 total -1 total -1 real -1 real -1 indones -1 unreal -1 unreal -1 -2

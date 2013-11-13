@@ -1,0 +1,1 @@
+stock -1 clos -1 clos -1 privat -1 system -1 unit -1 unit -1 percent -1 big -1 pric -1 open -1 warsaw -1 warsaw -1 zloty -1 continu -1 continu -1 continu -1 bph -1 debic -1 rolimpex -1 bours -1 mass -1 nfi -1 nfi -1 newsroom -1 elektrim -1 trad -1 trad -1 trad -1 -2

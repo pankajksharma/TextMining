@@ -1,0 +1,2 @@
+draw -1 montros -1 saturday -1 fife -1 stirl -1 stirl -1 ross -1 point -1 stand -1 stand -1 clyd -1 dundee -1 hamilton -1 east -1 east -1 lost -1 st -1 st -1 livingston -1 leagu -1 leagu -1 socc -1 scot -1 scot -1 airdrieon -1 greenock -1 falkirk -1 partick -1 berwick -1 won -1 -2
+match -1 stenhousemuir -1 play -1 brechin -1 dumbarton -1 stranra -1 alloa -1 arbroath -1 cowdenbeath -1 forfar -1 inver -1 south -1 mir -1 thistl -1 divid -1 divid -1 divid -1 queen -1 queen -1 albion -1 goal -1 goal -1 morton -1 tabulat -1 ayr -1 johnston -1 clydebank -1 park -1 count -1 -2

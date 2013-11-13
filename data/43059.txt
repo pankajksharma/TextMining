@@ -1,0 +1,2 @@
+carry -1 interest -1 own -1 full -1 shr -1 fax -1 road -1 fran -1 fran -1 fran -1 stat -1 maa -1 maa -1 maa -1 percent -1 amsterdam -1 minor -1 million -1 dutch -1 guild -1 guild -1 grow -1 nv -1 klm -1 net -1 net -1 net -1 half -1 groep -1 note -1 -2
+note -1 h1 -1 turnov -1 royal -1 transport -1 profit -1 profit -1 profit -1 charg -1 charg -1 airlin -1 flag -1 koninklijk -1 newsroom -1 operat -1 tax -1 group -1 -2

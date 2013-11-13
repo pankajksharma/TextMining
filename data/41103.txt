@@ -1,0 +1,2 @@
+ag -1 ag -1 merg -1 merg -1 year -1 year -1 full -1 full -1 agree -1 billion -1 franc -1 stat -1 percent -1 approv -1 special -1 ciba -1 geigy -1 swiss -1 swiss -1 pend -1 confid -1 rose -1 continu -1 growth -1 growth -1 growth -1 net -1 net -1 net -1 half -1 -2
+half -1 half -1 incom -1 incom -1 develop -1 develop -1 develop -1 h1 -1 simil -1 compar -1 compar -1 profit -1 result -1 relat -1 pharmaceutic -1 regulat -1 item -1 sandoz -1 sandoz -1 sandoz -1 sandoz -1 sandoz -1 zurich -1 editor -1 favor -1 make -1 allow -1 see -1 operat -1 group -1 -2

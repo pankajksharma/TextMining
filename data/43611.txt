@@ -1,0 +1,3 @@
+compan -1 early -1 motor -1 motor -1 stock -1 broker -1 high -1 low -1 year -1 year -1 yen -1 mid -1 report -1 percent -1 expect -1 jump -1 interim -1 interim -1 volum -1 qingl -1 qingl -1 qingl -1 futur -1 brok -1 million -1 million -1 million -1 shar -1 shar -1 chin -1 -2
+chin -1 increas -1 hk -1 hk -1 buy -1 weak -1 rose -1 rose -1 import -1 underpin -1 jason -1 sharp -1 sharp -1 period -1 part -1 cost -1 south -1 earn -1 profit -1 profit -1 profit -1 mainland -1 post -1 assembl -1 truck -1 hong -1 kong -1 tang -1 japan -1 japan -1 morn -1 -2
+newsroom -1 yuan -1 yuan -1 surg -1 trad -1 -2

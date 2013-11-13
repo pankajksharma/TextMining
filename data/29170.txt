@@ -1,0 +1,2 @@
+iii -1 iii -1 iii -1 iii -1 ii -1 ii -1 ii -1 study -1 launch -1 launch -1 drug -1 reach -1 reach -1 agree -1 agree -1 select -1 food -1 recept -1 treat -1 treat -1 meet -1 gel -1 design -1 design -1 administ -1 administ -1 phas -1 phas -1 phas -1 phas -1 -2
+thursday -1 august -1 ligand -1 ligand -1 ligand -1 evaluat -1 cutan -1 lymphom -1 targretin -1 targretin -1 targretin -1 retinoid -1 subtyp -1 agonist -1 endpoint -1 capsul -1 ctcl -1 topic -1 fda -1 pharmaceutic -1 cell -1 clinic -1 oral -1 trial -1 trial -1 trial -1 trial -1 trial -1 -2

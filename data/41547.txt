@@ -1,0 +1,2 @@
+novemb -1 elect -1 elect -1 senegal -1 carry -1 seneg -1 seneg -1 year -1 ahead -1 ahead -1 interior -1 stat -1 categ -1 local -1 local -1 home -1 thursday -1 end -1 party -1 nation -1 ammun -1 ammun -1 gun -1 gun -1 polit -1 rise -1 tension -1 foreign -1 minist -1 resid -1 -2
+forbid -1 permit -1 apply -1 weapon -1 ban -1 ban -1 ban -1 transport -1 arm -1 hold -1 -2

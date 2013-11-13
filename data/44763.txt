@@ -1,0 +1,3 @@
+early -1 tight -1 market -1 market -1 market -1 market -1 newsdesk -1 evident -1 quiet -1 texa -1 texa -1 clos -1 high -1 portland -1 portland -1 ahead -1 octob -1 north -1 good -1 decemb -1 unit -1 deal -1 deal -1 deal -1 light -1 ship -1 ship -1 ship -1 ship -1 ship -1 -2
+stat -1 report -1 kans -1 pric -1 pric -1 mode -1 versus -1 versus -1 remain -1 remain -1 weekend -1 chicag -1 off -1 car -1 feed -1 cent -1 cove -1 offer -1 offer -1 work -1 city -1 quot -1 bid -1 nearb -1 posit -1 rail -1 rail -1 cost -1 bulk -1 ton -1 ton -1 -2
+day -1 day -1 watch -1 post -1 labor -1 millfeed -1 millfeed -1 millfeed -1 prem -1 suppl -1 friday -1 prompt -1 prompt -1 holiday -1 activ -1 left -1 sought -1 -2

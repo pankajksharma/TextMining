@@ -1,0 +1,2 @@
+bratislav -1 bratislav -1 stock -1 skk -1 skk -1 skk -1 bank -1 list -1 equit -1 equit -1 fund -1 issu -1 pric -1 pric -1 volum -1 shar -1 min -1 monday -1 exchang -1 bse -1 direct -1 direct -1 vsz -1 aug -1 turnov -1 naft -1 vub -1 vub -1 newsroom -1 slovak -1 -2
+kupon -1 kupon -1 plastik -1 max -1 tatr -1 trad -1 trad -1 -2

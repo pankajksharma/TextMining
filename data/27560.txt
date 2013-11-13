@@ -1,0 +1,2 @@
+early -1 sect -1 slip -1 slip -1 stock -1 downgrad -1 downgrad -1 downgrad -1 low -1 low -1 barclay -1 bank -1 sbc -1 warburg -1 warburg -1 gmt -1 anal -1 brok -1 shar -1 shar -1 shar -1 push -1 nation -1 buy -1 declin -1 london -1 plc -1 plc -1 take -1 profit -1 -2
+wednesday -1 comment -1 newsroom -1 natw -1 natw -1 westminst -1 hold -1 trad -1 trad -1 -2

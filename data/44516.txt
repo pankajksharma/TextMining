@@ -1,0 +1,5 @@
+bring -1 bound -1 cop -1 cop -1 look -1 stock -1 stock -1 stock -1 clos -1 union -1 potrerillo -1 potrerillo -1 own -1 shown -1 full -1 start -1 start -1 form -1 automat -1 employ -1 employ -1 peopl -1 gmt -1 gmt -1 produc -1 mine -1 mine -1 mine -1 mine -1 mine -1 -2
+mine -1 stat -1 percent -1 local -1 local -1 local -1 local -1 shift -1 shift -1 pit -1 mean -1 level -1 level -1 atwood -1 x211 -1 code -1 telephon -1 barquit -1 absentee -1 absentee -1 absentee -1 open -1 end -1 roge -1 time -1 time -1 time -1 paral -1 off -1 chuquicam -1 work -1 -2
+work -1 work -1 work -1 continu -1 figur -1 strik -1 strik -1 strik -1 strik -1 strik -1 won -1 evaluat -1 northern -1 chil -1 outcom -1 smelt -1 smelt -1 divid -1 divid -1 divid -1 run -1 day -1 day -1 day -1 wag -1 labor -1 midnight -1 refin -1 refin -1 refin -1 codelc -1 -2
+codelc -1 codelc -1 codelc -1 codelc -1 codelc -1 codelc -1 accept -1 santiag -1 total -1 friday -1 friday -1 salvador -1 salvador -1 salvador -1 salvador -1 port -1 hit -1 late -1 newsroom -1 arid -1 norm -1 concent -1 concent -1 concent -1 pacif -1 region -1 offic -1 offic -1 offic -1 offic -1 offic -1 -2
+offic -1 offic -1 offic -1 -2

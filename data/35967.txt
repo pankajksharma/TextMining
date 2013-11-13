@@ -1,0 +1,4 @@
+compan -1 market -1 market -1 incid -1 incid -1 incid -1 ag -1 occur -1 encour -1 year -1 receiv -1 isolat -1 octob -1 agent -1 agent -1 agent -1 frankfurt -1 sueddeutsch -1 spokeswom -1 spokeswom -1 spokeswom -1 newspap -1 agree -1 north -1 north -1 north -1 stand -1 german -1 edition -1 manag -1 -2
+manag -1 mid -1 mid -1 suggest -1 decemb -1 bavar -1 bavar -1 bavar -1 bavar -1 today -1 germ -1 germ -1 germ -1 report -1 percent -1 approv -1 protect -1 quest -1 reut -1 busi -1 shar -1 shar -1 case -1 deutsch -1 monday -1 monday -1 author -1 consequ -1 pressur -1 pressur -1 pressur -1 -2
+pressur -1 told -1 lufthans -1 lufthans -1 lufthans -1 lufthans -1 lufthans -1 lufthans -1 airway -1 man -1 northern -1 put -1 risk -1 deny -1 divid -1 divid -1 wors -1 travel -1 travel -1 travel -1 airlin -1 airlin -1 inform -1 brit -1 cond -1 strateg -1 withdraw -1 action -1 polic -1 polic -1 polic -1 -2
+newsroom -1 add -1 zeitung -1 let -1 let -1 cartel -1 sale -1 sale -1 -2

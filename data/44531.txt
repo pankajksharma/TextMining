@@ -1,0 +1,2 @@
+soybean -1 grain -1 flint -1 oat -1 avg -1 fix -1 fix -1 rosario -1 pric -1 unq -1 unq -1 unq -1 unq -1 unq -1 unq -1 unq -1 unq -1 unq -1 unq -1 unq -1 august -1 daily -1 maiz -1 maiz -1 wheat -1 argentin -1 bueno -1 bueno -1 millet -1 arbitral -1 -2
+quequ -1 bahia -1 blanc -1 sorghum -1 sunseed -1 camar -1 air -1 air -1 newsroom -1 dent -1 -2

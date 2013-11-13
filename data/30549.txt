@@ -1,0 +1,1 @@
+high -1 municip -1 rate -1 rate -1 facil -1 hospit -1 hospit -1 hospit -1 invest -1 deal -1 issu -1 stat -1 moody -1 moody -1 pa -1 author -1 friend -1 friend -1 servic -1 baa -1 baa -1 educat -1 announc -1 philadelph -1 philadelph -1 desk -1 -2

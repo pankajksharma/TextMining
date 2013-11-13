@@ -1,0 +1,4 @@
+ambassador -1 diplom -1 embarg -1 econom -1 visa -1 visa -1 belgrad -1 belgrad -1 protocol -1 countr -1 countr -1 froz -1 yugoslav -1 yugoslav -1 yugoslav -1 yugoslav -1 yugoslav -1 yugoslav -1 year -1 agent -1 agent -1 april -1 agree -1 tie -1 invest -1 punish -1 seek -1 moribund -1 cultur -1 understand -1 -2
+dariusz -1 report -1 meet -1 requir -1 govern -1 protect -1 level -1 polish -1 poland -1 poland -1 poland -1 support -1 pap -1 end -1 feder -1 avoid -1 polit -1 foreign -1 foreign -1 foreign -1 foreign -1 quot -1 minist -1 minist -1 minist -1 minist -1 serb -1 visit -1 visit -1 visit -1 trip -1 -2
+crim -1 dialog -1 doubl -1 new -1 note -1 grant -1 taxat -1 link -1 rosat -1 rosat -1 rosat -1 coop -1 septemb -1 effect -1 serbian -1 pole -1 friday -1 cond -1 slobod -1 milosev -1 impos -1 mutual -1 fight -1 republ -1 bosnian -1 montenegr -1 reviv -1 reviv -1 pact -1 presid -1 offic -1 -2
+sign -1 trad -1 clinch -1 eas -1 -2

@@ -1,0 +1,1 @@
+oilseed -1 early -1 early -1 grain -1 grain -1 stock -1 stock -1 durum -1 month -1 year -1 domest -1 maiz -1 wheat -1 wheat -1 figur -1 figur -1 agricultur -1 barley -1 argentin -1 argentin -1 ton -1 july -1 july -1 sorghum -1 bread -1 secretariat -1 -2

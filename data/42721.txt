@@ -1,0 +1,1 @@
+metal -1 metal -1 floor -1 cop -1 cop -1 pallad -1 platin -1 york -1 prec -1 futur -1 futur -1 open -1 open -1 gold -1 commod -1 cent -1 call -1 ounc -1 ounc -1 silf -1 chang -1 chang -1 lb -1 unchang -1 unchang -1 unchang -1 forecast -1 desk -1 trad -1 -2

@@ -1,0 +1,5 @@
+follow -1 payment -1 interest -1 rate -1 month -1 month -1 march -1 bg3016096003 -1 dec -1 bg3016196001 -1 bg3016296025 -1 data -1 bank -1 billion -1 billion -1 billion -1 billion -1 discount -1 discount -1 discount -1 discount -1 fund -1 issu -1 issu -1 issu -1 issu -1 issu -1 issu -1 issu -1 issu -1 -2
+percent -1 treasur -1 bill -1 bill -1 bill -1 bill -1 bill -1 advanc -1 reut -1 pric -1 float -1 show -1 minim -1 matur -1 matur -1 matur -1 matur -1 matur -1 nation -1 monday -1 auction -1 auction -1 auction -1 cir -1 cir -1 rais -1 sofia -1 off -1 off -1 coupon -1 coupon -1 -2
+coupon -1 coupon -1 financ -1 typ -1 told -1 cent -1 cove -1 offer -1 minist -1 minist -1 numb -1 bulgar -1 bulgar -1 bln -1 bln -1 bln -1 bln -1 period -1 part -1 equal -1 date -1 date -1 date -1 date -1 lev -1 lev -1 lev -1 lev -1 lev -1 lev -1 lev -1 -2
+lev -1 bulg -1 bnb -1 bnb -1 bnb -1 bnb -1 bnb -1 aug -1 aug -1 aug -1 detail -1 day -1 par -1 par -1 par -1 par -1 septemb -1 septemb -1 septemb -1 prev -1 prev -1 accept -1 worth -1 total -1 total -1 total -1 friday -1 oct -1 sept -1 sept -1 sept -1 -2
+sept -1 sept -1 due -1 separat -1 set -1 set -1 newsroom -1 offic -1 -2

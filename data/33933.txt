@@ -1,0 +1,2 @@
+market -1 dlr -1 slip -1 money -1 clos -1 clos -1 clos -1 rate -1 bank -1 bank -1 deal -1 deal -1 deal -1 seek -1 bought -1 slight -1 percent -1 percent -1 easy -1 open -1 end -1 long -1 weekend -1 bangladesh -1 bangladesh -1 weak -1 import -1 call -1 posit -1 taka -1 -2
+taka -1 taka -1 compar -1 prev -1 demand -1 dollar -1 dollar -1 dollar -1 glob -1 unchang -1 closur -1 interbank -1 interbank -1 trad -1 -2

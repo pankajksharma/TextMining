@@ -1,0 +1,4 @@
+homeland -1 nationw -1 compan -1 compan -1 compan -1 compan -1 compan -1 bring -1 clear -1 sect -1 pipelin -1 pipelin -1 stock -1 union -1 chain -1 merg -1 merg -1 year -1 baltic -1 invest -1 invest -1 firm -1 firm -1 firm -1 larg -1 capit -1 key -1 bought -1 stat -1 stat -1 -2
+stat -1 percent -1 percent -1 govern -1 belief -1 million -1 million -1 lita -1 lita -1 shar -1 shar -1 thursday -1 riga -1 enterpr -1 party -1 nation -1 nation -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 termin -1 press -1 press -1 row -1 foreign -1 made -1 procedur -1 success -1 -2
+servic -1 servic -1 servic -1 postpon -1 parlia -1 parlia -1 parlia -1 russian -1 emit -1 wing -1 sell -1 valu -1 exclud -1 vote -1 vote -1 vote -1 vote -1 lietuvo -1 lietuvo -1 lietuvo -1 mazheikiu -1 buting -1 includ -1 kura -1 refin -1 septemb -1 station -1 strateg -1 oppos -1 lithuan -1 lithuan -1 -2
+lithuan -1 naft -1 naft -1 naft -1 newsroom -1 hold -1 delay -1 delay -1 -2

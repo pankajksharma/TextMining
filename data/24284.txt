@@ -1,0 +1,4 @@
+market -1 market -1 market -1 market -1 tuesday -1 illeg -1 clos -1 clos -1 rate -1 romin -1 nicaret -1 fluctu -1 greenback -1 greenback -1 currenc -1 bank -1 bank -1 bank -1 deal -1 bought -1 percent -1 percent -1 percent -1 local -1 expect -1 confirm -1 fell -1 level -1 float -1 lower -1 -2
+show -1 million -1 support -1 open -1 end -1 contract -1 drop -1 auction -1 short -1 buy -1 foreign -1 foreign -1 financ -1 weak -1 cent -1 cent -1 cent -1 exchang -1 exchang -1 figur -1 brazil -1 brazil -1 sell -1 prelimin -1 paul -1 sao -1 prev -1 dollar -1 dollar -1 dollar -1 dollar -1 -2
+dollar -1 dollar -1 friday -1 mini -1 mini -1 mini -1 mini -1 real -1 real -1 real -1 real -1 real -1 real -1 late -1 late -1 band -1 band -1 band -1 band -1 set -1 set -1 set -1 parallel -1 afternoon -1 afternoon -1 newsroom -1 reai -1 reai -1 interbank -1 commerc -1 commerc -1 -2
+trad -1 trad -1 surplus -1 pct -1 -2

@@ -1,0 +1,3 @@
+soybean -1 soybean -1 acquir -1 acquir -1 acquir -1 acquir -1 grain -1 usda -1 nil -1 nil -1 nil -1 nil -1 nil -1 nil -1 nil -1 nil -1 nil -1 nil -1 nil -1 nil -1 nil -1 nil -1 nil -1 redeem -1 redeem -1 redeem -1 redeem -1 week -1 week -1 loan -1 -2
+loan -1 loan -1 loan -1 loan -1 loan -1 report -1 report -1 oat -1 mo -1 mo -1 mo -1 mo -1 million -1 crop -1 crop -1 crop -1 crop -1 end -1 rye -1 bale -1 ccc -1 ccc -1 ccc -1 ccc -1 outstand -1 outstand -1 outstand -1 outstand -1 rice -1 els -1 corn -1 -2
+corn -1 wheat -1 wheat -1 bu -1 agricultur -1 barley -1 aug -1 run -1 sorghum -1 cotton -1 cotton -1 total -1 lb -1 activ -1 -2

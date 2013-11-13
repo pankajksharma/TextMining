@@ -1,0 +1,2 @@
+tuesday -1 sery -1 municip -1 municip -1 municip -1 lien -1 lien -1 amount -1 deal -1 yield -1 yield -1 percent -1 aaa -1 aaa -1 janu -1 pric -1 pric -1 pric -1 moody -1 million -1 million -1 matur -1 ambac -1 princip -1 coupon -1 coupon -1 financ -1 call -1 propert -1 propert -1 -2
+insur -1 subordin -1 subordin -1 tentat -1 date -1 prelimin -1 july -1 corp -1 corp -1 par -1 septemb -1 revenu -1 revenu -1 yuma -1 yuma -1 yuma -1 secur -1 ariz -1 ariz -1 bond -1 bond -1 excis -1 excis -1 due -1 desk -1 top -1 tax -1 tax -1 pct -1 pct -1 mln -1 -2

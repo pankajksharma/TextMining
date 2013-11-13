@@ -1,0 +1,2 @@
+market -1 immed -1 alert -1 rate -1 rate -1 month -1 point -1 system -1 kotobuk -1 kotobuk -1 upgrad -1 key -1 issu -1 sourc -1 grad -1 percent -1 expect -1 nikkei -1 assign -1 outperform -1 shar -1 industr -1 rais -1 matsushit -1 matsushit -1 research -1 research -1 research -1 valu -1 institut -1 -2
+institut -1 wednesday -1 prev -1 comment -1 aver -1 nomur -1 nomur -1 offic -1 electron -1 -2

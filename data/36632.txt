@@ -1,0 +1,4 @@
+recov -1 ambassador -1 early -1 back -1 tuesday -1 target -1 overdon -1 clos -1 gas -1 gas -1 gas -1 gas -1 high -1 high -1 high -1 low -1 low -1 low -1 insist -1 octob -1 brent -1 brent -1 supervis -1 firm -1 food -1 deal -1 deal -1 unit -1 unit -1 unit -1 -2
+gmt -1 stat -1 stat -1 ipe -1 ipe -1 upsid -1 felt -1 jump -1 accus -1 brok -1 futur -1 futur -1 shot -1 end -1 contract -1 crud -1 nation -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 deput -1 cent -1 cent -1 loss -1 iraq -1 iraq -1 iraq -1 -2
+iraq -1 iraq -1 london -1 imple -1 imple -1 sharp -1 dip -1 new -1 new -1 put -1 americ -1 ton -1 ton -1 plan -1 day -1 day -1 day -1 day -1 day -1 hind -1 septemb -1 septemb -1 comment -1 barrel -1 barrel -1 monit -1 friday -1 make -1 newsroom -1 yesterday -1 boost -1 -2
+sale -1 sale -1 trad -1 trad -1 trad -1 trad -1 block -1 -2

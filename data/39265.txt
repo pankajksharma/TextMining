@@ -1,0 +1,4 @@
+limit -1 market -1 market -1 market -1 market -1 gener -1 quiet -1 stock -1 stock -1 stock -1 clos -1 interest -1 interest -1 month -1 low -1 own -1 composit -1 receib -1 undermin -1 undermin -1 undermin -1 york -1 point -1 fall -1 system -1 system -1 kmt -1 free -1 week -1 week -1 -2
+report -1 percent -1 percent -1 britain -1 fell -1 level -1 mean -1 pric -1 float -1 index -1 david -1 shar -1 deposit -1 deposit -1 short -1 buy -1 foreign -1 foreign -1 feed -1 exchang -1 cut -1 bombay -1 london -1 lack -1 india -1 mobil -1 underl -1 americ -1 problem -1 problem -1 plan -1 -2
+day -1 includ -1 gdr -1 gdr -1 gdr -1 labor -1 chanc -1 prem -1 prem -1 prem -1 proceed -1 glob -1 holiday -1 holiday -1 holiday -1 access -1 newsroom -1 allow -1 indian -1 asia -1 korea -1 korea -1 korea -1 adr -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2
+trad -1 trad -1 -2

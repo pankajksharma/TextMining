@@ -1,0 +1,3 @@
+market -1 back -1 high -1 seoul -1 low -1 currenc -1 cover -1 bank -1 bank -1 bank -1 bank -1 bank -1 doesn -1 fall -1 fall -1 fall -1 deal -1 local -1 local -1 interv -1 interv -1 interv -1 level -1 push -1 prior -1 short -1 rise -1 pressur -1 import -1 cent -1 -2
+cent -1 cent -1 cent -1 intervent -1 intervent -1 won -1 won -1 won -1 won -1 won -1 play -1 deny -1 settl -1 resist -1 wednesday -1 dollar -1 dollar -1 dollar -1 dollar -1 intraday -1 hit -1 morn -1 newsroom -1 korea -1 korea -1 interbank -1 sign -1 slow -1 trad -1 trad -1 trad -1 -2
+eas -1 -2

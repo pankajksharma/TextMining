@@ -1,0 +1,4 @@
+stay -1 credit -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 paol -1 paol -1 paol -1 paol -1 di -1 di -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 point -1 -2
+fall -1 commercial -1 larg -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 italy -1 italy -1 italy -1 italy -1 italy -1 banc -1 banc -1 italian -1 italian -1 italian -1 level -1 lower -1 turin -1 monday -1 monday -1 torin -1 ambrovenet -1 -2
+caripl -1 cent -1 san -1 san -1 san -1 san -1 cut -1 cut -1 cut -1 cut -1 cut -1 prim -1 prim -1 prim -1 prim -1 prim -1 prim -1 save -1 base -1 july -1 july -1 roma -1 announc -1 includ -1 reduc -1 reduc -1 reduc -1 prev -1 major -1 major -1 unchang -1 -2
+newsroom -1 milan -1 top -1 top -1 group -1 -2

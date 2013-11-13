@@ -1,0 +1,1 @@
+compan -1 tuesday -1 stock -1 stock -1 div -1 div -1 firm -1 pric -1 shar -1 shar -1 open -1 cosmet -1 greek -1 drachm -1 dividend -1 dividend -1 coupon -1 exchang -1 bell -1 georg -1 georgiopoulo -1 athen -1 athen -1 tue -1 sarant -1 sarant -1 newsroom -1 trad -1 trad -1 -2

@@ -1,0 +1,2 @@
+recov -1 recov -1 disclos -1 term -1 form -1 system -1 system -1 system -1 manag -1 busi -1 custom -1 custom -1 techn -1 techn -1 off -1 comput -1 comput -1 servic -1 servic -1 servic -1 event -1 disast -1 rang -1 run -1 corp -1 announc -1 inform -1 ventur -1 friday -1 softwar -1 -2
+partn -1 partn -1 sungard -1 sungard -1 sungard -1 sungard -1 sct -1 sct -1 sct -1 -2

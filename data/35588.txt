@@ -1,0 +1,4 @@
+grain -1 grain -1 ignor -1 warehous -1 french -1 french -1 french -1 hard -1 saturday -1 high -1 bottom -1 low -1 dec -1 countr -1 octob -1 pari -1 pictur -1 system -1 mid -1 firm -1 deal -1 franc -1 franc -1 franc -1 franc -1 week -1 week -1 week -1 larg -1 bought -1 -2
+ship -1 yield -1 appear -1 level -1 pric -1 pric -1 pric -1 soft -1 eu -1 crop -1 deliv -1 deliv -1 contract -1 contract -1 monday -1 stabl -1 stabl -1 august -1 harvest -1 pressur -1 commit -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 cove -1 quot -1 refund -1 -2
+continu -1 award -1 move -1 sharp -1 rebat -1 northern -1 new -1 grant -1 rouen -1 ton -1 ton -1 ton -1 export -1 fob -1 incom -1 offset -1 aug -1 run -1 tend -1 depress -1 memb -1 egypt -1 egypt -1 egypt -1 friday -1 sept -1 sept -1 spac -1 stor -1 unchang -1 newsroom -1 -2
+add -1 forecast -1 reluc -1 offic -1 sale -1 sale -1 trad -1 trad -1 -2

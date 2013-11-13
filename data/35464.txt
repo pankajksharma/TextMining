@@ -1,0 +1,3 @@
+compan -1 compan -1 market -1 market -1 market -1 study -1 accur -1 stock -1 month -1 build -1 bank -1 firm -1 firm -1 deal -1 maintain -1 local -1 lead -1 lead -1 digest -1 al -1 al -1 al -1 reut -1 pric -1 million -1 shar -1 wat -1 wat -1 monday -1 yaum -1 -2
+riyad -1 press -1 press -1 verif -1 vouch -1 comput -1 cut -1 cement -1 minist -1 agricultur -1 agricultur -1 ethyl -1 petrochem -1 new -1 ibm -1 americ -1 ton -1 story -1 story -1 aug -1 plan -1 plan -1 upset -1 arabia -1 arabia -1 plant -1 plant -1 arab -1 saud -1 saud -1 saud -1 -2
+saud -1 saud -1 saud -1 saud -1 arabian -1 jubail -1 project -1 riyal -1 joint -1 riyadh -1 ventur -1 polyethyl -1 operat -1 sign -1 trad -1 establ -1 -2

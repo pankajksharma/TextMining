@@ -1,0 +1,2 @@
+eps -1 linen -1 year -1 year -1 yen -1 yen -1 yen -1 nil -1 nil -1 div -1 billion -1 decemb -1 million -1 million -1 current -1 sen -1 sen -1 net -1 ago -1 note -1 actual -1 teikoku -1 teikoku -1 late -1 manufactur -1 parent -1 parent -1 forecast -1 forecast -1 ord -1 -2
+sale -1 -2

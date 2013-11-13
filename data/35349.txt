@@ -1,0 +1,2 @@
+negot -1 compan -1 compan -1 compan -1 compan -1 compan -1 market -1 credit -1 stock -1 stock -1 stock -1 stock -1 stock -1 gas -1 facil -1 month -1 own -1 privat -1 common -1 common -1 common -1 deal -1 de -1 franc -1 franc -1 fund -1 stat -1 natur -1 cash -1 million -1 -2
+shar -1 shar -1 shar -1 shar -1 class -1 class -1 class -1 class -1 open -1 monday -1 reserv -1 author -1 corp -1 corp -1 tpc -1 tpc -1 tpc -1 tpc -1 tpc -1 board -1 gaz -1 present -1 held -1 repurchas -1 repurchas -1 set -1 buyback -1 buyback -1 mln -1 -2

@@ -1,0 +1,5 @@
+novemb -1 market -1 market -1 market -1 market -1 market -1 refer -1 refer -1 situat -1 cap -1 clos -1 high -1 month -1 fair -1 low -1 low -1 merg -1 receiv -1 agree -1 form -1 fall -1 system -1 system -1 statut -1 war -1 stat -1 percent -1 meet -1 govern -1 decid -1 -2
+decid -1 decid -1 raw -1 level -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 federat -1 aspect -1 open -1 assur -1 domin -1 round -1 round -1 refe -1 refe -1 contract -1 industr -1 time -1 off -1 commit -1 made -1 monopo -1 dairy -1 complain -1 -2
+success -1 inflat -1 intervent -1 london -1 mmc -1 mmc -1 mmc -1 marqu -1 marqu -1 marqu -1 marqu -1 marqu -1 marqu -1 marqu -1 bid -1 bid -1 bid -1 move -1 sky -1 posit -1 sweep -1 sell -1 transport -1 coop -1 coop -1 deregul -1 deregul -1 includ -1 concern -1 board -1 board -1 -2
+uk -1 uk -1 monit -1 brit -1 suppl -1 suppl -1 abus -1 major -1 chang -1 aver -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 milk -1 set -1 make -1 newsroom -1 -2
+oft -1 oft -1 oft -1 oft -1 oft -1 operat -1 operat -1 hold -1 offic -1 trad -1 -2

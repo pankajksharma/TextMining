@@ -1,0 +1,4 @@
+compan -1 acquir -1 small -1 recent -1 recent -1 tuesday -1 stock -1 resort -1 interest -1 fract -1 low -1 low -1 low -1 bank -1 start -1 point -1 unoffic -1 manag -1 firm -1 invest -1 invest -1 invest -1 unit -1 week -1 week -1 week -1 week -1 fund -1 dhab -1 attent -1 -2
+uae -1 uae -1 dirham -1 dirham -1 dirham -1 level -1 al -1 pric -1 pric -1 pric -1 index -1 brok -1 brok -1 million -1 thursday -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 end -1 end -1 end -1 nation -1 arrang -1 remain -1 short -1 public -1 buy -1 buy -1 -2
+pressur -1 pressur -1 cent -1 focus -1 offer -1 subscrib -1 subscrib -1 insur -1 insur -1 altern -1 signif -1 emirat -1 half -1 period -1 flotat -1 sell -1 sell -1 sell -1 dubai -1 dubai -1 except -1 run -1 day -1 khazn -1 resist -1 abu -1 arab -1 prev -1 demand -1 unmov -1 unchang -1 -2
+newsroom -1 dic -1 wav -1 hold -1 -2

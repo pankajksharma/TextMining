@@ -1,0 +1,4 @@
+nov -1 nov -1 carry -1 weekday -1 month -1 month -1 sep -1 sep -1 dec -1 dec -1 tabl -1 year -1 year -1 term -1 term -1 jul -1 jul -1 jul -1 jul -1 jun -1 jun -1 jun -1 jun -1 mar -1 mar -1 mar -1 mar -1 apr -1 apr -1 apr -1 -2
+apr -1 indust -1 pty -1 sydney -1 feb -1 feb -1 feb -1 feb -1 manag -1 list -1 equit -1 equit -1 capit -1 fund -1 domest -1 domest -1 percent -1 st -1 st -1 cash -1 cash -1 jan -1 jan -1 jan -1 reut -1 index -1 rtr -1 nomin -1 austral -1 work -1 res -1 -2
+propert -1 propert -1 allocat -1 allocat -1 allocat -1 allocat -1 allocat -1 weight -1 weight -1 direct -1 aug -1 aug -1 aug -1 july -1 express -1 result -1 survey -1 survey -1 survey -1 asset -1 asset -1 asset -1 asset -1 asset -1 asset -1 intern -1 intern -1 total -1 ventur -1 bond -1 bond -1 -2
+oct -1 oct -1 aver -1 aver -1 aver -1 late -1 newsroom -1 intech -1 consult -1 -2

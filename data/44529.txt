@@ -1,0 +1,3 @@
+early -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 market -1 market -1 econom -1 stock -1 stock -1 high -1 interest -1 rate -1 nosed -1 nosed -1 year -1 year -1 data -1 point -1 invest -1 deal -1 peso -1 peso -1 peso -1 peopl -1 yield -1 percent -1 percent -1 -2
+strong -1 expect -1 treasur -1 treasur -1 fell -1 level -1 main -1 pric -1 index -1 hour -1 hour -1 open -1 contract -1 polit -1 attract -1 attract -1 buy -1 foreign -1 foreign -1 weak -1 weak -1 worry -1 rose -1 exchang -1 altern -1 fact -1 take -1 sharp -1 sharp -1 risk -1 risk -1 -2
+risk -1 scrambl -1 day -1 concern -1 demand -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 friday -1 bond -1 bond -1 respons -1 trad -1 trad -1 trad -1 centavo -1 centavo -1 centavo -1 pure -1 -2

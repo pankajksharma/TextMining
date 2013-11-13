@@ -1,0 +1,2 @@
+early -1 bpi -1 bpi -1 bpi -1 bpi -1 climb -1 lisbon -1 lisbon -1 fall -1 fall -1 portug -1 deal -1 deal -1 deal -1 de -1 de -1 week -1 suspend -1 suspend -1 suspend -1 gmt -1 percent -1 expect -1 investiment -1 banc -1 banc -1 escudo -1 escudo -1 escudo -1 escudo -1 -2
+escudo -1 pric -1 shar -1 shar -1 shar -1 shar -1 portugu -1 rise -1 rise -1 foment -1 exterior -1 bfe -1 bfe -1 bfe -1 bfe -1 offer -1 quot -1 success -1 initial -1 bid -1 new -1 lift -1 lift -1 announc -1 editor -1 bours -1 trad -1 trad -1 -2

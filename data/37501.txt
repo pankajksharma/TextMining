@@ -1,0 +1,2 @@
+market -1 tuesday -1 interest -1 interest -1 rate -1 rate -1 rate -1 month -1 bank -1 finland -1 larg -1 larg -1 key -1 percent -1 helsink -1 fix -1 fix -1 fix -1 mth -1 mth -1 mth -1 mth -1 mth -1 mth -1 stead -1 august -1 august -1 daily -1 helibor -1 helibor -1 -2
+helibor -1 helibor -1 helibor -1 helibor -1 helibor -1 helibor -1 unchang -1 unchang -1 newsroom -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 -2

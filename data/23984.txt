@@ -1,0 +1,2 @@
+hous -1 repret -1 union -1 union -1 monet -1 monet -1 particp -1 newspap -1 bank -1 bank -1 bank -1 report -1 govt -1 britain -1 britain -1 decid -1 opt -1 govern -1 treasur -1 european -1 time -1 damag -1 foreign -1 foreign -1 foreign -1 financ -1 financ -1 financ -1 told -1 cent -1 -2
+warn -1 call -1 city -1 assoc -1 assoc -1 london -1 london -1 london -1 london -1 posit -1 uncertain -1 pape -1 emu -1 harm -1 institut -1 abil -1 plan -1 uk -1 uk -1 memb -1 secur -1 role -1 argu -1 make -1 newsroom -1 let -1 -2

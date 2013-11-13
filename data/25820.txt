@@ -1,0 +1,3 @@
+small -1 emigr -1 territ -1 instruc -1 clos -1 interest -1 rate -1 rate -1 hotel -1 lisbon -1 bank -1 newspap -1 form -1 fall -1 regist -1 portug -1 portug -1 comerc -1 invest -1 occup -1 de -1 de -1 jaim -1 client -1 fund -1 domest -1 stat -1 percent -1 anal -1 expect -1 -2
+govern -1 govern -1 lead -1 pension -1 digest -1 banc -1 main -1 busi -1 diario -1 diario -1 secret -1 panic -1 portugu -1 bureau -1 rise -1 press -1 public -1 remit -1 financ -1 spark -1 notic -1 half -1 half -1 half -1 transl -1 period -1 coast -1 book -1 story -1 aug -1 compar -1 -2
+incorrect -1 headach -1 economic -1 favor -1 favor -1 hypermarket -1 andrez -1 estoril -1 bcm -1 bcm -1 macau -1 macau -1 yesterday -1 creat -1 branch -1 commerc -1 -2

@@ -1,0 +1,3 @@
+soybean -1 market -1 tight -1 bean -1 sunflow -1 sunflow -1 march -1 rain -1 nerv -1 good -1 good -1 spot -1 spot -1 spot -1 spot -1 bought -1 slight -1 slight -1 cash -1 cash -1 pric -1 janu -1 volum -1 volum -1 volum -1 crop -1 plent -1 weekend -1 stead -1 stead -1 -2
+stead -1 off -1 pressur -1 weak -1 maiz -1 maiz -1 wheat -1 quick -1 take -1 needy -1 argentin -1 argentin -1 anxi -1 bueno -1 seed -1 seed -1 dry -1 caut -1 air -1 suppl -1 suppl -1 hit -1 moderat -1 moderat -1 moderat -1 weather -1 newsroom -1 forecast -1 bite -1 sag -1 trad -1 -2
+trad -1 trad -1 trad -1 -2

@@ -1,0 +1,4 @@
+early -1 popul -1 elect -1 elect -1 elect -1 gener -1 gener -1 back -1 saturday -1 union -1 opinion -1 consist -1 demonstr -1 year -1 year -1 conserv -1 conserv -1 seat -1 seek -1 scotland -1 scotland -1 issu -1 decid -1 lead -1 vict -1 quest -1 quest -1 main -1 support -1 party -1 -2
+party -1 party -1 party -1 party -1 party -1 nation -1 win -1 rais -1 narrow -1 narrow -1 pow -1 platform -1 tony -1 blair -1 blair -1 abrupt -1 suffic -1 engl -1 prim -1 minist -1 scot -1 scot -1 scot -1 scot -1 scot -1 scot -1 scot -1 parlia -1 parlia -1 parlia -1 parlia -1 -2
+parlia -1 parlia -1 won -1 won -1 poll -1 pledg -1 vote -1 run -1 want -1 dismay -1 plan -1 labor -1 labor -1 labor -1 labor -1 john -1 plank -1 memb -1 held -1 favor -1 brit -1 major -1 separat -1 separat -1 separat -1 set -1 argu -1 singl -1 execut -1 activ -1 referendum -1 -2
+referendum -1 referendum -1 referendum -1 hold -1 tax -1 independ -1 -2

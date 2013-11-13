@@ -1,0 +1,2 @@
+market -1 market -1 market -1 cop -1 cop -1 warehous -1 look -1 tuesday -1 thin -1 stock -1 stock -1 stock -1 clos -1 high -1 high -1 ahead -1 potent -1 comex -1 comex -1 lme -1 lme -1 week -1 mine -1 report -1 report -1 britain -1 anal -1 expect -1 eye -1 talk -1 -2
+monday -1 weekend -1 remain -1 chin -1 increas -1 bet -1 raptopoulo -1 bare -1 dull -1 uncertain -1 direct -1 settl -1 settl -1 prudent -1 secur -1 friday -1 due -1 holiday -1 slow -1 trad -1 chop -1 -2

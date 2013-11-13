@@ -1,0 +1,2 @@
+bratislav -1 midpoint -1 midpoint -1 tuesday -1 tuesday -1 rate -1 bank -1 bank -1 imply -1 gmt -1 percent -1 percent -1 percent -1 minus -1 fix -1 fix -1 fix -1 fix -1 nation -1 crown -1 crown -1 crown -1 daily -1 basket -1 calcul -1 announc -1 cet -1 cet -1 deviat -1 deviat -1 -2
+dollar -1 dollar -1 dollar -1 newsroom -1 slovak -1 slovak -1 nbs -1 mark -1 mark -1 -2

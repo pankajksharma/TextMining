@@ -1,0 +1,2 @@
+dlr -1 back -1 clos -1 high -1 low -1 touch -1 bank -1 bank -1 bank -1 bank -1 forward -1 deal -1 deal -1 deal -1 larg -1 premia -1 report -1 stat -1 stat -1 stat -1 pay -1 requir -1 cash -1 fell -1 level -1 reserv -1 foreign -1 pressur -1 weak -1 weak -1 -2
+cut -1 bombay -1 initial -1 india -1 move -1 dip -1 run -1 run -1 run -1 day -1 rupee -1 rupee -1 rupee -1 rupee -1 prev -1 demand -1 demand -1 demand -1 dollar -1 dollar -1 dollar -1 friday -1 late -1 band -1 morn -1 afternoon -1 newsroom -1 indian -1 trad -1 trad -1 -2

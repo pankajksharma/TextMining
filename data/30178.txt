@@ -1,0 +1,3 @@
+shoe -1 veget -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 sect -1 hous -1 breakdown -1 gas -1 high -1 low -1 henry -1 bank -1 tobacc -1 good -1 food -1 decemb -1 de -1 de -1 de -1 week -1 domest -1 percent -1 percent -1 percent -1 local -1 govern -1 -2
+trick -1 banc -1 banc -1 banc -1 level -1 pric -1 pric -1 pric -1 pric -1 index -1 index -1 index -1 telephon -1 furnitur -1 thursday -1 increas -1 august -1 august -1 health -1 rose -1 rose -1 care -1 cent -1 basket -1 city -1 inflat -1 inflat -1 inflat -1 cpi -1 cpi -1 servic -1 -2
+servic -1 half -1 half -1 half -1 chief -1 period -1 egg -1 educat -1 cloth -1 consum -1 consum -1 drink -1 electr -1 gave -1 basic -1 july -1 transport -1 compar -1 person -1 gasolin -1 fruit -1 due -1 newsroom -1 pct -1 -2

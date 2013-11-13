@@ -1,0 +1,3 @@
+hous -1 attend -1 attend -1 stop -1 low -1 countr -1 countr -1 point -1 poor -1 troubl -1 hussein -1 hussein -1 seek -1 unrest -1 unrest -1 week -1 suspend -1 jord -1 jord -1 meet -1 meet -1 meet -1 decid -1 decid -1 govern -1 govern -1 reut -1 pric -1 show -1 thursday -1 -2
+palac -1 sum -1 author -1 deput -1 deput -1 deput -1 deput -1 deput -1 rais -1 rise -1 loyal -1 told -1 told -1 fist -1 spark -1 vow -1 parlia -1 parlia -1 parlia -1 parlia -1 invit -1 scor -1 doubl -1 senat -1 riot -1 king -1 king -1 king -1 king -1 south -1 summon -1 -2
+majest -1 session -1 session -1 royal -1 threat -1 wednesday -1 memb -1 kingdom -1 oppos -1 withdraw -1 iron -1 bread -1 bread -1 bread -1 boycot -1 polic -1 worst -1 region -1 southern -1 offic -1 offic -1 count -1 -2

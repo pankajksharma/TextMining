@@ -1,0 +1,4 @@
+payment -1 early -1 elector -1 elect -1 elect -1 elect -1 sect -1 econom -1 gener -1 gener -1 accur -1 folk -1 union -1 union -1 way -1 ahead -1 newspap -1 newspap -1 system -1 fall -1 suggest -1 alban -1 alban -1 alban -1 alban -1 tiran -1 koha -1 local -1 local -1 lead -1 -2
+confirm -1 balanc -1 govern -1 digest -1 monitor -1 sarand -1 rilindj -1 demokratik -1 reut -1 main -1 aid -1 million -1 million -1 european -1 european -1 party -1 nation -1 gazet -1 polit -1 assist -1 assist -1 press -1 public -1 pow -1 financ -1 verif -1 vouch -1 cut -1 work -1 compet -1 move -1 -2
+improv -1 upcom -1 job -1 poll -1 grant -1 program -1 base -1 story -1 story -1 electr -1 aug -1 institut -1 institut -1 septemb -1 comment -1 town -1 intern -1 held -1 shqiptar -1 suppl -1 friday -1 music -1 jone -1 process -1 morn -1 boycot -1 make -1 republ -1 reconstruc -1 ecus -1 southern -1 -2
+offic -1 -2

@@ -1,0 +1,2 @@
+early -1 territ -1 stock -1 stock -1 indic -1 high -1 mix -1 mix -1 reut -1 index -1 index -1 futur -1 futur -1 futur -1 thursday -1 end -1 end -1 lacklust -1 durabl -1 loss -1 loss -1 cut -1 cut -1 job -1 mail -1 claim -1 note -1 direct -1 await -1 aug -1 -2
+day -1 derivat -1 derivat -1 friday -1 bond -1 sept -1 late -1 late -1 action -1 negat -1 desk -1 slug -1 trad -1 trad -1 chop -1 -2

@@ -1,0 +1,2 @@
+recov -1 compan -1 capac -1 ocean -1 ocean -1 rate -1 term -1 good -1 upgrad -1 fax -1 ship -1 ship -1 amsterdam -1 expect -1 expect -1 effectenbank -1 nedlloyd -1 nedlloyd -1 q2 -1 pric -1 brok -1 shar -1 long -1 sum -1 time -1 short -1 buy -1 buy -1 buy -1 pressur -1 -2
+research -1 research -1 figur -1 put -1 note -1 aug -1 robec -1 robec -1 run -1 result -1 expand -1 comment -1 due -1 newsroom -1 prospect -1 -2

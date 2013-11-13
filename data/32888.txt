@@ -1,0 +1,4 @@
+metal -1 market -1 market -1 market -1 market -1 market -1 market -1 tight -1 tight -1 tight -1 recent -1 cop -1 cop -1 cop -1 cop -1 cop -1 warehous -1 lieu -1 stop -1 target -1 month -1 term -1 cover -1 lme -1 mid -1 firm -1 backward -1 unit -1 impress -1 stat -1 -2
+report -1 report -1 report -1 report -1 expect -1 outlook -1 sent -1 pric -1 pric -1 push -1 talk -1 chin -1 remain -1 renew -1 commod -1 august -1 short -1 fuel -1 buy -1 buy -1 focus -1 exchang -1 loss -1 continu -1 continu -1 scrap -1 scrap -1 scrap -1 london -1 shanghai -1 upward -1 -2
+toky -1 note -1 date -1 rang -1 rang -1 ton -1 ton -1 ton -1 ton -1 propel -1 breach -1 breach -1 corp -1 relat -1 resist -1 septemb -1 septemb -1 cathod -1 june -1 suppl -1 bish -1 mitsubish -1 sept -1 weigh -1 prompt -1 late -1 desk -1 asia -1 hold -1 onward -1 trad -1 -2
+option -1 -2

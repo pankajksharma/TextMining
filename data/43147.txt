@@ -1,0 +1,2 @@
+market -1 countr -1 free -1 germ -1 germ -1 soft -1 thursday -1 ecu -1 rye -1 rye -1 restitut -1 wheat -1 wheat -1 intervent -1 intervent -1 intervent -1 bid -1 bid -1 bid -1 bid -1 bid -1 barley -1 barley -1 rang -1 lot -1 ton -1 ton -1 ton -1 ton -1 export -1 -2
+export -1 board -1 board -1 ble -1 ble -1 total -1 newsroom -1 bon -1 ecus -1 trad -1 trad -1 tax -1 -2

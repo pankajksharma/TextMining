@@ -1,0 +1,4 @@
+early -1 market -1 market -1 market -1 quiet -1 quiet -1 quiet -1 quiet -1 tapi -1 tapi -1 tapi -1 tapi -1 tuesday -1 tuesday -1 high -1 high -1 octob -1 octob -1 octob -1 brent -1 brent -1 brent -1 firm -1 firm -1 firm -1 backward -1 deal -1 indicat -1 assess -1 produc -1 -2
+premia -1 grad -1 oman -1 fell -1 fell -1 level -1 level -1 pric -1 sold -1 talk -1 crud -1 crud -1 crud -1 intermonth -1 discuss -1 stead -1 wet -1 singapor -1 notion -1 notion -1 cent -1 cent -1 cent -1 cent -1 cent -1 offer -1 quot -1 toky -1 put -1 pape -1 pape -1 -2
+pape -1 pape -1 date -1 rang -1 basi -1 lot -1 dubai -1 dubai -1 dubai -1 dubai -1 except -1 mpm -1 fullick -1 differ -1 oshim -1 day -1 compar -1 asian -1 asian -1 chall -1 refin -1 septemb -1 prem -1 prem -1 prem -1 barrel -1 barrel -1 barrel -1 friday -1 japan -1 major -1 -2
+major -1 indones -1 miri -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

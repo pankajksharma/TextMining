@@ -1,0 +1,2 @@
+cop -1 fin -1 municip -1 rate -1 rate -1 baa1 -1 baa1 -1 invest -1 issu -1 stat -1 fac -1 proj -1 moody -1 moody -1 moren -1 moren -1 moren -1 ctf -1 con -1 con -1 public -1 hall -1 city -1 ca -1 servic -1 valley -1 valley -1 valley -1 part -1 ser -1 -2
+corp -1 announc -1 desk -1 calif -1 -2

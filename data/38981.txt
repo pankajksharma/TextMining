@@ -1,0 +1,3 @@
+compan -1 capac -1 capac -1 newsdesk -1 reach -1 reach -1 protocol -1 countr -1 year -1 unit -1 annual -1 mine -1 mine -1 produc -1 produc -1 produc -1 produc -1 produc -1 stat -1 meet -1 approv -1 anal -1 special -1 reut -1 tripl -1 tripl -1 busi -1 million -1 million -1 million -1 -2
+perfluorocarbon -1 hydrofluoroether -1 ihlenfeld -1 ihlenfeld -1 chlorofluorocarbon -1 productioin -1 anbd -1 hfe -1 proeduc -1 chicag -1 rise -1 replac -1 replac -1 replac -1 replac -1 told -1 montreal -1 devot -1 devot -1 half -1 half -1 direct -1 estimat -1 divid -1 ban -1 specialt -1 plan -1 includ -1 chemic -1 chemic -1 chemic -1 -2
+wednesday -1 cfc -1 cfc -1 minnesot -1 minnesot -1 manufactur -1 see -1 pfc -1 sale -1 sale -1 sale -1 jay -1 -2

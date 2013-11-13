@@ -1,0 +1,2 @@
+market -1 retail -1 clos -1 pharmaceut -1 high -1 low -1 low -1 low -1 fresh -1 point -1 billion -1 fax -1 franc -1 lost -1 percent -1 percent -1 strong -1 reshuffl -1 index -1 index -1 volum -1 shar -1 shar -1 shar -1 brussel -1 brussel -1 end -1 end -1 wil -1 belgian -1 -2
+belgian -1 buy -1 lack -1 play -1 weight -1 cord -1 ucb -1 new -1 bfx -1 steel -1 profit -1 bel -1 bel -1 wednesday -1 septemb -1 reduc -1 histor -1 bours -1 worth -1 moderat -1 make -1 bay -1 colruyt -1 newsroom -1 bekaert -1 group -1 -2

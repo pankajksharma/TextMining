@@ -1,0 +1,2 @@
+market -1 stock -1 clos -1 clos -1 bank -1 bank -1 list -1 slight -1 stat -1 percent -1 forex -1 lead -1 index -1 index -1 index -1 volum -1 volum -1 volum -1 million -1 million -1 million -1 million -1 shar -1 thursday -1 thursday -1 thursday -1 riga -1 tallin -1 eston -1 eston -1 -2
+rise -1 hans -1 krron -1 rose -1 exchang -1 crept -1 dip -1 dip -1 compar -1 compar -1 compar -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 bours -1 bours -1 worth -1 friday -1 newsroom -1 activ -1 activ -1 trad -1 -2

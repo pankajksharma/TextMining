@@ -1,0 +1,4 @@
+protest -1 tuesday -1 clos -1 clos -1 interest -1 rate -1 month -1 own -1 own -1 review -1 cheap -1 smuggl -1 smuggl -1 agree -1 agree -1 agree -1 peopl -1 mill -1 mill -1 week -1 produc -1 percent -1 percent -1 strong -1 govern -1 govern -1 govern -1 govern -1 govern -1 textil -1 -2
+textil -1 textil -1 textil -1 textil -1 textil -1 reut -1 restor -1 entrepreneur -1 assur -1 open -1 open -1 end -1 industr -1 industr -1 industr -1 increas -1 rais -1 financ -1 made -1 told -1 import -1 import -1 care -1 work -1 assoc -1 prim -1 senior -1 minist -1 minist -1 realist -1 india -1 -2
+india -1 strik -1 fact -1 fact -1 fact -1 mahesh -1 pradh -1 pradh -1 pradh -1 ntia -1 shes -1 propos -1 bahadur -1 deub -1 costl -1 nepal -1 nepal -1 nepal -1 nepal -1 valuat -1 relat -1 hike -1 hike -1 plant -1 demand -1 throw -1 polic -1 make -1 measur -1 presid -1 lal -1 -2
+offic -1 sale -1 sale -1 sale -1 tibet -1 tax -1 tax -1 tax -1 tax -1 tax -1 -2

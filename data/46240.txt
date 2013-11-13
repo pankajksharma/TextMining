@@ -1,0 +1,2 @@
+target -1 high -1 billion -1 billion -1 firm -1 firm -1 firm -1 larg -1 stat -1 stat -1 st -1 int -1 janu -1 million -1 comput -1 comput -1 refund -1 net -1 net -1 net -1 half -1 note -1 taiw -1 taipei -1 turnov -1 profit -1 profit -1 profit -1 profit -1 pretax -1 -2
+pretax -1 pretax -1 intern -1 june -1 set -1 newsroom -1 sale -1 tax -1 pct -1 -2

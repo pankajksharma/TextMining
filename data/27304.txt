@@ -1,0 +1,4 @@
+market -1 lpc -1 lpc -1 lpc -1 credit -1 credit -1 syndic -1 syndic -1 citicorp -1 grenfel -1 rank -1 cs -1 union -1 union -1 walsh -1 barclay -1 year -1 full -1 agent -1 lehm -1 brother -1 bankamer -1 morg -1 morg -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 -2
+bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 york -1 york -1 toront -1 trust -1 borrow -1 borrow -1 deal -1 deal -1 deal -1 cibc -1 loan -1 loan -1 lead -1 lead -1 canad -1 chas -1 manhat -1 well -1 boston -1 boston -1 lend -1 lend -1 lend -1 administ -1 pric -1 -2
+volum -1 bk -1 bk -1 abn -1 shar -1 commerzbank -1 domin -1 deutsch -1 swiss -1 chicag -1 august -1 gundy -1 compil -1 montreal -1 nationsbank -1 nbd -1 swtzrlnd -1 scotia -1 indstrl -1 award -1 suntrust -1 plc -1 amro -1 bln -1 nova -1 date -1 pnc -1 farg -1 royal -1 corp -1 corp -1 -2
+dai -1 ichi -1 kangy -1 titl -1 editor -1 japan -1 michel -1 natw -1 lyonnai -1 wood -1 docu -1 group -1 -2

@@ -1,0 +1,2 @@
+interest -1 own -1 bank -1 meespierson -1 meespierson -1 meespierson -1 unit -1 stat -1 percent -1 million -1 million -1 abn -1 abn -1 merch -1 guild -1 guild -1 increas -1 financ -1 net -1 net -1 net -1 half -1 amro -1 amro -1 note -1 incom -1 incom -1 incom -1 h1 -1 profit -1 -2
+profit -1 whol -1 expend -1 total -1 operat -1 operat -1 fee -1 pct -1 -2

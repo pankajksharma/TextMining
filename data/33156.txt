@@ -1,0 +1,4 @@
+compan -1 compan -1 compan -1 stak -1 market -1 market -1 motor -1 motor -1 motor -1 ford -1 ford -1 ford -1 saturday -1 sharehold -1 vehicl -1 vehicl -1 own -1 term -1 provinc -1 jiangl -1 jiangl -1 start -1 newspap -1 billion -1 edition -1 firm -1 light -1 produc -1 produc -1 stat -1 -2
+stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 fell -1 fell -1 jv -1 sold -1 million -1 million -1 million -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 drop -1 drop -1 drop -1 chin -1 chin -1 chin -1 chin -1 short -1 weak -1 blam -1 jiangx -1 net -1 -2
+net -1 net -1 improv -1 half -1 half -1 period -1 period -1 h1 -1 earn -1 differ -1 turnov -1 profit -1 profit -1 profit -1 result -1 corp -1 post -1 post -1 post -1 plant -1 truck -1 truck -1 engin -1 asset -1 explain -1 secur -1 major -1 make -1 unchang -1 yuan -1 yuan -1 -2
+yuan -1 yuan -1 yuan -1 yuan -1 southern -1 tax -1 group -1 trial -1 -2

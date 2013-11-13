@@ -1,0 +1,3 @@
+fat -1 market -1 quiet -1 correct -1 correct -1 stock -1 stock -1 clos -1 high -1 year -1 glass -1 bank -1 bank -1 fall -1 invest -1 firm -1 week -1 fund -1 issu -1 issu -1 strong -1 advanc -1 mix -1 gain -1 gain -1 gain -1 gain -1 index -1 volum -1 million -1 -2
+shar -1 shar -1 shar -1 stead -1 stead -1 crown -1 crown -1 crown -1 crown -1 crown -1 past -1 czech -1 exchang -1 pragu -1 pragu -1 loss -1 px50 -1 komercn -1 declin -1 cesk -1 sporiteln -1 exper -1 heavy -1 dip -1 opatovic -1 elektrarn -1 vertex -1 vertex -1 vertex -1 setuz -1 led -1 -2
+offset -1 fibr -1 turnov -1 july -1 result -1 wednesday -1 bours -1 total -1 major -1 major -1 battl -1 consecut -1 process -1 takeov -1 broad -1 make -1 unchang -1 peak -1 hold -1 -2

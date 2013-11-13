@@ -1,0 +1,4 @@
+warhurst -1 bohin -1 solksja -1 draw -1 draw -1 back -1 smart -1 sunday -1 game -1 game -1 ahead -1 come -1 dalgl -1 shear -1 point -1 club -1 forward -1 turn -1 colin -1 reclaim -1 unit -1 unit -1 unit -1 unit -1 week -1 jord -1 trafford -1 steal -1 lead -1 penalt -1 -2
+squar -1 equalis -1 england -1 manchest -1 manchest -1 manchest -1 footbal -1 shar -1 mistak -1 dutch -1 give -1 leagu -1 press -1 norweg -1 norweg -1 socc -1 rove -1 cent -1 champ -1 champ -1 champ -1 lar -1 loss -1 substitut -1 forc -1 premy -1 ole -1 strik -1 match -1 half -1 pre -1 -2
+scor -1 appeal -1 put -1 direct -1 deserv -1 paul -1 minut -1 minut -1 minut -1 minut -1 minut -1 goal -1 goal -1 departur -1 intern -1 hendr -1 season -1 season -1 cruyff -1 cruyff -1 cruyff -1 allow -1 allow -1 alan -1 newcastl -1 kenny -1 sign -1 blackburn -1 blackburn -1 blackburn -1 blackburn -1 -2
+solskja -1 solskja -1 gunnar -1 -2

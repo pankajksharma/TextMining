@@ -1,0 +1,4 @@
+compan -1 market -1 market -1 market -1 retail -1 gener -1 gener -1 gener -1 gener -1 asthm -1 feel -1 drug -1 herb -1 month -1 low -1 safet -1 nutr -1 nutr -1 nutr -1 nutr -1 nutr -1 review -1 octob -1 agent -1 agent -1 agent -1 data -1 vendor -1 mid -1 euphor -1 -2
+food -1 food -1 decemb -1 free -1 free -1 seek -1 key -1 comprom -1 produc -1 produc -1 produc -1 produc -1 produc -1 produc -1 decid -1 level -1 cos -1 administ -1 thursday -1 ephedrin -1 ephedrin -1 panel -1 party -1 remain -1 off -1 off -1 work -1 work -1 continu -1 continu -1 continu -1 -2
+success -1 stimul -1 note -1 final -1 ohio -1 ingred -1 led -1 fda -1 fda -1 fda -1 ban -1 medicin -1 overdos -1 scrutin -1 vitamin -1 compl -1 suppl -1 suppl -1 suppl -1 found -1 found -1 rule -1 version -1 version -1 gnc -1 advis -1 make -1 ephedr -1 ephedr -1 ephedr -1 ephedr -1 -2
+ephedr -1 ephedr -1 ephedr -1 ephedr -1 ephedr -1 allow -1 sale -1 trad -1 death -1 group -1 -2

@@ -1,0 +1,3 @@
+acquir -1 acquir -1 disclos -1 gener -1 sharehold -1 sharehold -1 sharehold -1 applic -1 amalgam -1 toront -1 deal -1 week -1 suspend -1 suspend -1 suspend -1 suspend -1 suspend -1 today -1 today -1 percent -1 approv -1 meet -1 meet -1 meet -1 meet -1 special -1 special -1 decid -1 decid -1 decid -1 -2
+decid -1 videotron -1 videotron -1 videotron -1 reut -1 shar -1 shar -1 rend -1 delib -1 pend -1 bureau -1 petit -1 commit -1 made -1 quebec -1 subordin -1 cfcf -1 cfcf -1 cfcf -1 cfcf -1 cfcf -1 cfcf -1 debenturehold -1 qsc -1 qsc -1 crtc -1 invalid -1 motiv -1 vote -1 vote -1 announc -1 -2
+impact -1 secur -1 friday -1 respons -1 respons -1 multipl -1 subsid -1 group -1 -2

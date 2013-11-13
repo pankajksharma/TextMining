@@ -1,0 +1,4 @@
+febru -1 nov -1 nov -1 market -1 grain -1 novemb -1 novemb -1 novemb -1 novemb -1 stop -1 stop -1 clos -1 sep -1 dec -1 dec -1 climb -1 octob -1 octob -1 octob -1 mar -1 cover -1 doesn -1 good -1 decemb -1 week -1 spread -1 spread -1 larg -1 bought -1 bought -1 -2
+fund -1 fund -1 fund -1 strong -1 oat -1 oat -1 cash -1 cash -1 overnight -1 canad -1 jan -1 jan -1 janu -1 busi -1 volum -1 volum -1 volum -1 volum -1 volum -1 futur -1 europ -1 european -1 end -1 end -1 end -1 ve -1 weekend -1 short -1 buy -1 buy -1 buy -1 -2
+buy -1 buy -1 buy -1 harvest -1 feed -1 feed -1 commit -1 commit -1 rose -1 rose -1 wheat -1 western -1 loss -1 loss -1 le -1 heavy -1 heavy -1 flax -1 pea -1 pea -1 barley -1 gilbert -1 gra -1 lot -1 ton -1 ton -1 ton -1 ton -1 export -1 export -1 valu -1 -2
+wce -1 wce -1 canol -1 canol -1 canol -1 day -1 sens -1 septemb -1 dollar -1 japan -1 oct -1 late -1 make -1 commerc -1 commerc -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

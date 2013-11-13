@@ -1,0 +1,4 @@
+recov -1 stak -1 waxy -1 manil -1 manil -1 reach -1 reach -1 own -1 start -1 start -1 petroleum -1 petroleum -1 petroleum -1 resourc -1 complet -1 produc -1 dragon -1 drill -1 drill -1 drill -1 stat -1 east -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 expect -1 -2
+expect -1 miner -1 miner -1 spud -1 test -1 test -1 feet -1 feet -1 million -1 million -1 crud -1 oil -1 oil -1 onshor -1 reserv -1 maniguin -1 maniguin -1 maniguin -1 maniguin -1 extend -1 pnoc -1 pnoc -1 pnoc -1 mindor -1 drillstem -1 petrofield -1 cent -1 flow -1 southw -1 ec -1 depart -1 -2
+depart -1 depart -1 explor -1 explor -1 explor -1 orient -1 depth -1 depth -1 cost -1 estimat -1 energ -1 bpd -1 bpd -1 develop -1 philippin -1 basic -1 island -1 day -1 day -1 corp -1 corp -1 corp -1 corp -1 includ -1 asian -1 wednesday -1 barrel -1 barrel -1 do -1 memb -1 project -1 -2
+total -1 consort -1 newsroom -1 prospect -1 prospect -1 operat -1 -2

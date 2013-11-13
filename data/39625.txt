@@ -1,0 +1,4 @@
+oilseed -1 soybean -1 soybean -1 soybean -1 soybean -1 soybean -1 birdseed -1 nov -1 pell -1 grain -1 wholemeal -1 refer -1 cottonseed -1 cottonseed -1 cottonseed -1 linseed -1 linseed -1 linseed -1 linseed -1 linseed -1 sunflow -1 sep -1 sep -1 dec -1 bracket -1 mar -1 apr -1 feb -1 ship -1 ship -1 -2
+ship -1 ship -1 ship -1 ship -1 ship -1 ship -1 ship -1 ship -1 ship -1 ship -1 fix -1 jan -1 pric -1 pric -1 adjust -1 adjust -1 oil -1 oil -1 oil -1 oil -1 oil -1 maiz -1 wheat -1 expel -1 expel -1 expel -1 expel -1 expel -1 peanut -1 peanut -1 peanut -1 -2
+peanut -1 pellet -1 pellet -1 pellet -1 pellet -1 pellet -1 agricultur -1 rebat -1 argentin -1 argentin -1 ton -1 fob -1 export -1 millet -1 aug -1 aug -1 sorghum -1 sunseed -1 sunseed -1 sunseed -1 sunseed -1 sunseed -1 prev -1 cotton -1 dollar -1 meal -1 meal -1 meal -1 meal -1 meal -1 secretariat -1 -2
+sole -1 sole -1 sole -1 sole -1 sole -1 sole -1 sole -1 sole -1 sole -1 sole -1 sole -1 sole -1 -2

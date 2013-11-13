@@ -1,0 +1,2 @@
+market -1 french -1 full -1 full -1 unit -1 annual -1 employ -1 peopl -1 franc -1 franc -1 amoc -1 amoc -1 flam -1 million -1 long -1 control -1 control -1 consid -1 august -1 financ -1 typ -1 rhon -1 rhon -1 rhon -1 rhon -1 poulent -1 poulent -1 poulent -1 poulent -1 kermel -1 -2
+kermel -1 kermel -1 thermost -1 metaram -1 kelm -1 colmar -1 take -1 take -1 garment -1 part -1 divid -1 fibr -1 fibr -1 detail -1 gave -1 resist -1 sa -1 chemic -1 heat -1 object -1 polym -1 joint -1 ventur -1 strateg -1 make -1 transact -1 locat -1 sale -1 group -1 -2

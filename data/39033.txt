@@ -1,0 +1,4 @@
+mmbtu -1 mmbtu -1 tuesday -1 tuesday -1 thin -1 sulphur -1 sulphur -1 sulphur -1 isn -1 gas -1 gas -1 gas -1 high -1 high -1 low -1 low -1 nyh -1 nyh -1 mild -1 cheap -1 york -1 york -1 york -1 deal -1 spot -1 spot -1 natg -1 gulf -1 slight -1 slight -1 -2
+sourc -1 report -1 report -1 grad -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 east -1 harbor -1 residual -1 cash -1 england -1 pric -1 pric -1 pric -1 pric -1 pric -1 usg -1 sold -1 support -1 deliv -1 versus -1 oil -1 industr -1 stead -1 stead -1 stead -1 stead -1 -2
+equival -1 fuel -1 pow -1 fade -1 city -1 horizon -1 continu -1 enemy -1 util -1 util -1 resid -1 resid -1 gate -1 coast -1 coast -1 pape -1 temp -1 wednesday -1 wednesday -1 septemb -1 barrel -1 barrel -1 held -1 demand -1 demand -1 demand -1 chang -1 chang -1 sept -1 prompt -1 weather -1 -2
+mass -1 add -1 desk -1 silh -1 trad -1 trad -1 trad -1 trad -1 eas -1 -2

@@ -1,0 +1,4 @@
+stay -1 compan -1 massiv -1 rome -1 fresh -1 octob -1 octob -1 bank -1 di -1 di -1 di -1 hist -1 billion -1 writ -1 equit -1 list -1 peopl -1 complet -1 capit -1 capit -1 fund -1 issu -1 debt -1 stat -1 subsequ -1 chalk -1 govern -1 cash -1 cash -1 cash -1 -2
+banc -1 banc -1 banc -1 banc -1 italian -1 big -1 ordin -1 ordin -1 ordin -1 ordin -1 ordin -1 ordin -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 afloat -1 give -1 increas -1 increas -1 lire -1 lire -1 lire -1 lire -1 lire -1 -2
+lire -1 current -1 buy -1 inject -1 nomin -1 nomin -1 loss -1 loss -1 cut -1 call -1 call -1 call -1 offer -1 right -1 subscrib -1 trill -1 trill -1 save -1 save -1 save -1 save -1 save -1 napol -1 napol -1 napol -1 napol -1 underwrit -1 kick -1 portfolio -1 run -1 july -1 -2
+septemb -1 septemb -1 bad -1 bours -1 held -1 held -1 held -1 worth -1 sept -1 set -1 set -1 make -1 newsroom -1 rump -1 hefty -1 milan -1 group -1 option -1 -2

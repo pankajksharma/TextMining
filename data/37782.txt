@@ -1,0 +1,2 @@
+market -1 sect -1 sect -1 slip -1 tuesday -1 rate -1 rate -1 rate -1 rate -1 rate -1 low -1 liquid -1 privat -1 bank -1 maintain -1 week -1 week -1 slight -1 percent -1 percent -1 percent -1 percent -1 overnight -1 overnight -1 overnight -1 lend -1 minim -1 monday -1 stead -1 stead -1 -2
+public -1 cair -1 pound -1 pound -1 egypt -1 egypt -1 newsroom -1 interbank -1 -2

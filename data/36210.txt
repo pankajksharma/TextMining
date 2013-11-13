@@ -1,0 +1,3 @@
+night -1 capac -1 sect -1 sect -1 sect -1 econom -1 econom -1 clos -1 spa -1 encour -1 monarch -1 agent -1 privat -1 privat -1 privat -1 privat -1 point -1 invest -1 annual -1 rich -1 gulf -1 week -1 report -1 stat -1 percent -1 meet -1 local -1 govern -1 govern -1 tell -1 -2
+less -1 rest -1 wat -1 support -1 oil -1 oil -1 monday -1 industr -1 cabinet -1 decad -1 press -1 attract -1 urg -1 foreign -1 import -1 call -1 quot -1 continu -1 growth -1 diversif -1 resid -1 king -1 king -1 king -1 aim -1 develop -1 develop -1 electr -1 electr -1 arabia -1 arabia -1 -2
+fahd -1 great -1 spar -1 arab -1 revenu -1 saud -1 saud -1 saud -1 saud -1 demand -1 demand -1 demand -1 kingdom -1 depend -1 forecast -1 surg -1 boost -1 ord -1 offic -1 -2

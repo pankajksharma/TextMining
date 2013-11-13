@@ -1,0 +1,2 @@
+market -1 money -1 month -1 sep -1 sep -1 liquid -1 liquid -1 liquid -1 bank -1 bank -1 bank -1 billion -1 finland -1 finland -1 requir -1 requir -1 requir -1 balanc -1 balanc -1 helsink -1 fim -1 fim -1 markk -1 rest -1 minim -1 remain -1 reserv -1 reserv -1 august -1 daily -1 -2
+daily -1 daily -1 cent -1 figur -1 bln -1 period -1 estimat -1 gave -1 friday -1 sept -1 aver -1 newsroom -1 mln -1 -2

@@ -1,0 +1,2 @@
+compan -1 soybean -1 soybean -1 soybean -1 grain -1 usda -1 usda -1 usda -1 money -1 progress -1 year -1 citiz -1 privat -1 privat -1 food -1 loan -1 loan -1 siber -1 siber -1 thursday -1 contract -1 russia -1 russia -1 russia -1 rais -1 foreign -1 made -1 provid -1 provid -1 network -1 -2
+farm -1 farm -1 fisc -1 agricultur -1 depart -1 period -1 program -1 ton -1 affair -1 char -1 char -1 char -1 proceed -1 equip -1 donat -1 donat -1 donat -1 expend -1 suppl -1 meal -1 meal -1 meal -1 operat -1 sale -1 sale -1 sale -1 sign -1 trad -1 -2

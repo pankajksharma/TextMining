@@ -1,0 +1,2 @@
+residu -1 early -1 jersey -1 emerg -1 emerg -1 tempor -1 month -1 agent -1 standard -1 standard -1 food -1 food -1 pestic -1 pestic -1 approv -1 decid -1 protect -1 protect -1 level -1 level -1 environ -1 law -1 law -1 act -1 maxim -1 permissibl -1 epa -1 epa -1 epa -1 epa -1 -2
+health -1 rid -1 call -1 qual -1 signif -1 grant -1 risk -1 base -1 consum -1 virgin -1 septemb -1 friday -1 set -1 set -1 action -1 pose -1 allow -1 delawar -1 mark -1 pyridab -1 pyridab -1 pyridab -1 mite -1 pesit -1 sign -1 appl -1 appl -1 -2

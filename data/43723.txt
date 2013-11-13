@@ -1,0 +1,4 @@
+mechan -1 market -1 market -1 attend -1 rumor -1 fin -1 fin -1 clos -1 rate -1 monet -1 juusel -1 bank -1 bank -1 bank -1 whereabout -1 whereabout -1 deal -1 ant -1 finland -1 finland -1 finland -1 finland -1 key -1 key -1 meet -1 erm -1 erm -1 forex -1 forex -1 decid -1 -2
+decid -1 decid -1 decid -1 helsink -1 helsink -1 markk -1 markk -1 reut -1 futur -1 futur -1 eu -1 anticip -1 europ -1 thursday -1 thursday -1 thursday -1 abroad -1 abroad -1 weekend -1 financ -1 financ -1 commit -1 commit -1 akerholm -1 akerholm -1 akerholm -1 told -1 cent -1 rife -1 exchang -1 minist -1 -2
+minist -1 minist -1 minist -1 move -1 play -1 vanhal -1 vanhal -1 chief -1 link -1 link -1 mat -1 immin -1 watch -1 travel -1 comment -1 board -1 board -1 board -1 spokesm -1 john -1 memb -1 memb -1 memb -1 memb -1 memb -1 friday -1 due -1 polic -1 polic -1 make -1 make -1 -2
+newsroom -1 add -1 operat -1 offic -1 offic -1 reveal -1 -2

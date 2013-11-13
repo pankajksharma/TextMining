@@ -1,0 +1,2 @@
+gener -1 clos -1 low -1 low -1 color -1 firm -1 firm -1 firm -1 advanc -1 mix -1 mix -1 easy -1 main -1 pric -1 pric -1 gain -1 gain -1 open -1 keny -1 keny -1 shed -1 monday -1 auction -1 auction -1 tea -1 tea -1 fan -1 buy -1 cent -1 cent -1 -2
+cent -1 cent -1 cent -1 cent -1 bp1 -1 pf1 -1 pdust -1 pdust -1 dust1 -1 bmf -1 pakist -1 medium -1 medium -1 medium -1 medium -1 bright -1 bright -1 bright -1 bright -1 export -1 sort -1 apprec -1 apprec -1 apprec -1 irregul -1 egypt -1 plain -1 plain -1 mombas -1 trad -1 -2

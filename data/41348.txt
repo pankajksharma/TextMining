@@ -1,0 +1,3 @@
+compan -1 dacia -1 martin -1 hard -1 clos -1 buchar -1 buchar -1 sun -1 sun -1 sun -1 sun -1 favorit -1 festiv -1 bucurest -1 spy -1 list -1 list -1 cultur -1 sourc -1 decid -1 sat -1 sat -1 sat -1 sat -1 lumin -1 fri -1 palac -1 cinem -1 cinem -1 august -1 -2
+periscop -1 luceafarul -1 gaddaar -1 olymp -1 palatului -1 birdc -1 miorit -1 excelsior -1 floreasc -1 cors -1 gloria -1 sergent -1 jurror -1 drumul -1 sarii -1 desperad -1 flamur -1 dreed -1 romaniafilm -1 sala -1 patria -1 bilk -1 judg -1 aug -1 aug -1 hill -1 sud -1 brooklyn -1 studio -1 studio -1 stol -1 -2
+bever -1 danc -1 heart -1 monkey -1 execut -1 vampir -1 terror -1 scal -1 distribut -1 death -1 auror -1 -2

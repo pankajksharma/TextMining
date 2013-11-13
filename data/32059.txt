@@ -1,0 +1,2 @@
+market -1 french -1 french -1 interest -1 octob -1 slat -1 ship -1 expect -1 soft -1 futur -1 talk -1 weekend -1 chicag -1 buy -1 wheat -1 wheat -1 wheat -1 ton -1 export -1 dori -1 frankel -1 tend -1 tend -1 board -1 egypt -1 egypt -1 egypt -1 friday -1 whit -1 trad -1 -2
+trad -1 trad -1 -2

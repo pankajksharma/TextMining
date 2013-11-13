@@ -1,0 +1,4 @@
+night -1 night -1 televis -1 acclam -1 back -1 bridg -1 clos -1 countr -1 ahead -1 ahead -1 term -1 gore -1 gore -1 gore -1 gore -1 gore -1 gore -1 common -1 join -1 join -1 seek -1 seek -1 peopl -1 peopl -1 ticket -1 bill -1 al -1 futur -1 reform -1 thursday -1 -2
+speech -1 support -1 hour -1 party -1 party -1 party -1 nation -1 nominat -1 nominat -1 nominat -1 convent -1 convent -1 renomin -1 time -1 short -1 urg -1 confid -1 network -1 friend -1 prim -1 success -1 fami -1 half -1 posit -1 appeal -1 claim -1 americ -1 americ -1 americ -1 deserv -1 summon -1 -2
+gave -1 session -1 day -1 day -1 accept -1 accept -1 accept -1 memb -1 memb -1 clinton -1 clinton -1 clinton -1 set -1 broad -1 make -1 allow -1 republ -1 republ -1 spok -1 heart -1 vice -1 vice -1 presid -1 presid -1 presid -1 marsh -1 campaign -1 thank -1 demo -1 demo -1 trad -1 -2
+cross -1 independ -1 independ -1 -2

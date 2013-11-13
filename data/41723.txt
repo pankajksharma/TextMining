@@ -1,0 +1,4 @@
+diplom -1 early -1 televis -1 oslobodjenj -1 elect -1 elect -1 econom -1 dnevn -1 avaz -1 accur -1 stop -1 vecernj -1 send -1 novin -1 begin -1 begin -1 countr -1 countr -1 supervis -1 fikret -1 abdic -1 abdic -1 hamp -1 dispers -1 overrun -1 issu -1 stat -1 meet -1 meet -1 govern -1 -2
+govern -1 lead -1 lead -1 digest -1 rebel -1 sarajev -1 sarajev -1 sarajev -1 reut -1 bihac -1 thursday -1 discuss -1 assist -1 bilater -1 press -1 press -1 foreign -1 verif -1 vouch -1 bosnia -1 bosnia -1 bosnia -1 network -1 warn -1 forc -1 arriv -1 improv -1 miss -1 izetbegov -1 izetbegov -1 alij -1 -2
+alij -1 poll -1 moslem -1 story -1 story -1 sponsor -1 aug -1 relat -1 person -1 septemb -1 septemb -1 septemb -1 ran -1 serbian -1 intern -1 intern -1 army -1 station -1 mini -1 due -1 slobod -1 milosev -1 newsroom -1 renegad -1 bosnian -1 bosnian -1 northw -1 presid -1 presid -1 presid -1 absent -1 -2
+let -1 offic -1 trial -1 independ -1 prepar -1 prepar -1 -2

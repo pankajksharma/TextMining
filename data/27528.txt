@@ -1,0 +1,2 @@
+allot -1 market -1 market -1 money -1 money -1 rate -1 rate -1 rate -1 facil -1 facil -1 start -1 bank -1 bank -1 bank -1 amount -1 week -1 week -1 loan -1 gmt -1 percent -1 england -1 thursday -1 matur -1 matur -1 matur -1 london -1 date -1 apply -1 day -1 day -1 -2
+announc -1 septemb -1 septemb -1 uk -1 secur -1 boe -1 set -1 set -1 repo -1 repo -1 repo -1 repo -1 unchang -1 newsroom -1 pct -1 -2

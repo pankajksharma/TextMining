@@ -1,0 +1,5 @@
+congress -1 emerg -1 hous -1 situat -1 tuesday -1 tuesday -1 conspir -1 sentenc -1 sentenc -1 sentenc -1 sentenc -1 sentenc -1 year -1 year -1 year -1 ahead -1 poor -1 video -1 prison -1 prison -1 unrest -1 sourc -1 sourc -1 stat -1 meet -1 meet -1 custod -1 lead -1 lead -1 govern -1 -2
+govern -1 fabric -1 reut -1 reut -1 law -1 act -1 restor -1 aid -1 ident -1 party -1 party -1 party -1 nation -1 crackdown -1 crackdown -1 remain -1 win -1 win -1 win -1 win -1 time -1 leagu -1 imprison -1 polit -1 polit -1 assist -1 assist -1 assist -1 august -1 pow -1 made -1 -2
+told -1 told -1 san -1 burm -1 burm -1 prevent -1 farm -1 section -1 fami -1 suu -1 suu -1 suu -1 suu -1 kyi -1 kyi -1 kyi -1 kyi -1 kyi -1 aung -1 nld -1 nld -1 nld -1 nld -1 nld -1 nld -1 nld -1 take -1 htein -1 htein -1 htein -1 slorc -1 -2
+slorc -1 aye -1 anarch -1 rangoon -1 sweep -1 insein -1 part -1 council -1 milit -1 relat -1 includ -1 charg -1 person -1 person -1 hand -1 plac -1 su -1 arrest -1 arrest -1 arrest -1 arrest -1 memb -1 memb -1 memb -1 memb -1 releas -1 impos -1 thought -1 ord -1 demo -1 demo -1 -2
+demo -1 -2

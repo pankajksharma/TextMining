@@ -1,0 +1,2 @@
+rank -1 stg -1 stg -1 own -1 year -1 year -1 declar -1 full -1 shr -1 stat -1 special -1 expect -1 gain -1 million -1 million -1 shar -1 shrink -1 dividend -1 dividend -1 dividend -1 austral -1 plc -1 new -1 new -1 new -1 new -1 new -1 note -1 note -1 final -1 -2
+penc -1 penc -1 turnov -1 corp -1 corp -1 pretax -1 pretax -1 dispos -1 septemb -1 effect -1 intern -1 intern -1 intern -1 june -1 major -1 schem -1 hold -1 -2

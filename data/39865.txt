@@ -1,0 +1,5 @@
+soybean -1 benson -1 limit -1 early -1 novemb -1 market -1 frost -1 tuesday -1 mge -1 mge -1 mge -1 mge -1 mge -1 clos -1 clos -1 clos -1 idea -1 high -1 bushel -1 bushel -1 bushel -1 bushel -1 bushel -1 low -1 low -1 low -1 low -1 dec -1 dec -1 dec -1 -2
+dec -1 dec -1 countr -1 melt -1 line -1 greg -1 tick -1 bought -1 bought -1 bought -1 fund -1 fund -1 fund -1 produc -1 report -1 lost -1 lost -1 help -1 world -1 kans -1 big -1 atwood -1 induc -1 volum -1 futur -1 futur -1 sold -1 million -1 million -1 million -1 million -1 -2
+million -1 million -1 end -1 end -1 end -1 versus -1 chicag -1 chicag -1 buy -1 buy -1 pressur -1 pressur -1 typ -1 cent -1 cent -1 cent -1 cent -1 cent -1 cbot -1 cbot -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 loss -1 city -1 quin -1 -2
+fail -1 peavey -1 barley -1 estimat -1 estimat -1 kind -1 sell -1 sell -1 break -1 resist -1 wednesday -1 effect -1 hundredweight -1 sept -1 sept -1 sept -1 spring -1 spring -1 spring -1 spring -1 brought -1 unchang -1 unchang -1 kcbt -1 sag -1 sag -1 commerc -1 commerc -1 trad -1 trad -1 trad -1 -2
+trad -1 trad -1 hedg -1 -2

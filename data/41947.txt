@@ -1,0 +1,4 @@
+early -1 market -1 market -1 hous -1 clos -1 clos -1 clos -1 kg -1 kg -1 kg -1 begin -1 revers -1 cover -1 cover -1 middl -1 deal -1 deal -1 deal -1 indicat -1 slight -1 produc -1 east -1 local -1 local -1 raw -1 cv -1 smr20 -1 smr20 -1 rss1 -1 smr10 -1 -2
+smr5 -1 smr -1 smr -1 smr -1 pric -1 pric -1 drum -1 gain -1 gain -1 latex -1 inro -1 futur -1 benchmark -1 chin -1 wet -1 reserv -1 current -1 current -1 short -1 buy -1 buy -1 singapor -1 extend -1 extend -1 daily -1 pressur -1 weak -1 rose -1 rose -1 cent -1 cent -1 -2
+cent -1 cent -1 cent -1 cent -1 exchang -1 mater -1 offer -1 quot -1 fail -1 toky -1 fob -1 aug -1 aug -1 malays -1 malays -1 malays -1 malays -1 day -1 wednesday -1 septemb -1 septemb -1 board -1 rub -1 rub -1 rub -1 rub -1 uptrend -1 suppl -1 aver -1 weather -1 ringgit -1 -2
+licens -1 sale -1 trad -1 trad -1 -2

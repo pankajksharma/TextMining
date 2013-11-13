@@ -1,0 +1,2 @@
+tight -1 market -1 back -1 slip -1 thin -1 tuesday -1 heard -1 slack -1 low -1 unit -1 assess -1 produc -1 stat -1 shaxson -1 nymex -1 mtb -1 fell -1 window -1 rest -1 brok -1 futur -1 futur -1 nichol -1 europ -1 open -1 end -1 arbitr -1 talk -1 monday -1 consid -1 -2
+consid -1 time -1 august -1 numb -1 numb -1 london -1 slid -1 slid -1 fob -1 fob -1 day -1 gasolin -1 gasolin -1 carg -1 demand -1 chang -1 morn -1 nwe -1 nwe -1 newsroom -1 eurograd -1 ara -1 ara -1 barg -1 trad -1 trad -1 trad -1 -2

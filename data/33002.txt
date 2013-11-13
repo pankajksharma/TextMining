@@ -1,0 +1,4 @@
+nationw -1 compan -1 capac -1 recent -1 back -1 tapi -1 shutdown -1 rate -1 rate -1 rate -1 month -1 countr -1 own -1 affect -1 peninsul -1 bintulu -1 mid -1 unit -1 outag -1 week -1 light -1 domest -1 sourc -1 sourc -1 distill -1 stat -1 stat -1 east -1 east -1 percent -1 -2
+subsequ -1 condens -1 precaut -1 namepl -1 restor -1 restor -1 crud -1 crud -1 techn -1 oil -1 prior -1 august -1 august -1 august -1 singapor -1 pow -1 pow -1 pow -1 pow -1 pow -1 past -1 gradual -1 paka -1 trip -1 terengganu -1 pre -1 coast -1 coast -1 shut -1 shut -1 bpd -1 -2
+bpd -1 bpd -1 bpd -1 bpd -1 blackout -1 blackout -1 blackout -1 problem -1 malays -1 malays -1 malays -1 run -1 run -1 run -1 run -1 day -1 day -1 day -1 petron -1 plant -1 plant -1 refin -1 refin -1 refin -1 refin -1 refin -1 refin -1 refin -1 refin -1 barrel -1 malacc -1 -2
+malacc -1 malacc -1 friday -1 due -1 prompt -1 process -1 sweet -1 newsroom -1 operat -1 operat -1 locat -1 -2

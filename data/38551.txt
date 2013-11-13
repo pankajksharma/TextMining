@@ -1,0 +1,2 @@
+nasdaq -1 early -1 early -1 stock -1 stock -1 high -1 high -1 year -1 mor -1 yield -1 percent -1 strong -1 treasur -1 philip -1 cos -1 index -1 index -1 gain -1 busi -1 open -1 open -1 open -1 push -1 industr -1 industr -1 stead -1 stead -1 machin -1 corp -1 wednesday -1 -2
+wall -1 wall -1 street -1 street -1 intern -1 bond -1 dow -1 dow -1 unchang -1 trad -1 -2

@@ -1,0 +1,4 @@
+rival -1 back -1 back -1 carry -1 carry -1 mr -1 saturday -1 saturday -1 agent -1 agree -1 comrad -1 hussein -1 accord -1 stat -1 stat -1 meet -1 govern -1 decid -1 decid -1 lead -1 lead -1 lead -1 int -1 troop -1 troop -1 troop -1 troop -1 troop -1 rebel -1 administ -1 -2
+aid -1 tank -1 support -1 support -1 pull -1 party -1 discuss -1 massoud -1 barzan -1 barzan -1 author -1 area -1 jalal -1 polit -1 talaban -1 short -1 return -1 extend -1 made -1 kurd -1 kurd -1 kurd -1 kurd -1 kurd -1 forc -1 forc -1 city -1 city -1 arbil -1 arbil -1 iraq -1 -2
+iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 agress -1 baath -1 saddam -1 posit -1 northern -1 northern -1 new -1 period -1 iranian -1 autonom -1 council -1 revolut -1 plan -1 chair -1 resist -1 resum -1 spokesm -1 spokesm -1 spokesm -1 spokesm -1 joint -1 rule -1 withdraw -1 withdraw -1 -2
+rcc -1 rcc -1 ina -1 ina -1 fight -1 arm -1 presid -1 faction -1 operat -1 command -1 region -1 captur -1 offic -1 -2

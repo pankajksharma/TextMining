@@ -1,0 +1,3 @@
+stak -1 compan -1 limit -1 launch -1 stock -1 stock -1 high -1 sharehold -1 bpi -1 privat -1 privat -1 lisbon -1 lisbon -1 bank -1 cimpor -1 cimpor -1 cimpor -1 cimpor -1 cimento -1 portug -1 discount -1 de -1 de -1 capit -1 stat -1 stat -1 percent -1 percent -1 percent -1 expect -1 -2
+expect -1 investiment -1 banc -1 banc -1 escudo -1 escudo -1 escudo -1 pric -1 pric -1 pric -1 pric -1 gain -1 gain -1 opa -1 shar -1 shar -1 control -1 remain -1 portugu -1 bureau -1 buy -1 public -1 off -1 off -1 rose -1 foment -1 exterior -1 bfe -1 bfe -1 bfe -1 cement -1 -2
+success -1 new -1 announc -1 break -1 impact -1 bours -1 major -1 hold -1 sale -1 trad -1 trad -1 -2

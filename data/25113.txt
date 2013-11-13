@@ -1,0 +1,2 @@
+merrill -1 alert -1 rate -1 low -1 prefer -1 common -1 maintain -1 maintain -1 quart -1 quart -1 produc -1 report -1 expect -1 pric -1 anticip -1 shar -1 weak -1 research -1 brazil -1 estimat -1 estimat -1 pape -1 pape -1 accumul -1 paul -1 paul -1 earn -1 earn -1 earn -1 result -1 -2
+reduc -1 sao -1 sao -1 prev -1 fatim -1 cristin -1 bours -1 lynch -1 morn -1 klabin -1 klabin -1 klabin -1 klabin -1 klabin -1 newsroom -1 add -1 reflect -1 adr -1 adr -1 adr -1 trad -1 -2

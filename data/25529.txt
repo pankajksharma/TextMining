@@ -1,0 +1,3 @@
+follow -1 stay -1 tuesday -1 clos -1 clos -1 high -1 high -1 low -1 rebound -1 fundament -1 build -1 poor -1 invest -1 complet -1 meet -1 strong -1 fell -1 level -1 level -1 volum -1 futur -1 support -1 open -1 end -1 end -1 long -1 contract -1 techn -1 techn -1 monday -1 -2
+buy -1 rice -1 rice -1 rice -1 rice -1 past -1 continu -1 intr -1 shanghai -1 shanghai -1 lack -1 posit -1 ton -1 ton -1 institut -1 day -1 day -1 resist -1 septemb -1 hit -1 due -1 due -1 risky -1 unchang -1 unchang -1 unchang -1 yuan -1 yuan -1 yuan -1 sidelin -1 trad -1 -2
+trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 slow -1 slow -1 -2

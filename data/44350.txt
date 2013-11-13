@@ -1,0 +1,4 @@
+pain -1 money -1 clos -1 month -1 monet -1 countr -1 countr -1 year -1 year -1 term -1 bank -1 bank -1 bank -1 agree -1 manag -1 cris -1 expenditur -1 interior -1 free -1 free -1 free -1 fund -1 stat -1 govern -1 govern -1 govern -1 govern -1 collect -1 big -1 defend -1 -2
+skel -1 skel -1 skel -1 contribut -1 million -1 million -1 million -1 million -1 andr -1 riga -1 end -1 increas -1 increas -1 increas -1 avoid -1 august -1 stood -1 cut -1 fisc -1 prim -1 minist -1 minist -1 imf -1 aim -1 aim -1 educat -1 incom -1 latvia -1 latvia -1 lat -1 lat -1 -2
+lat -1 lat -1 plan -1 plan -1 latvian -1 sud -1 caus -1 revenu -1 revenu -1 reduc -1 baltiy -1 exceed -1 budget -1 budget -1 budget -1 budget -1 budget -1 budget -1 budget -1 intern -1 stick -1 friday -1 deficit -1 deficit -1 deficit -1 deficit -1 deficit -1 newsroom -1 aftershock -1 hope -1 offic -1 -2
+tax -1 tax -1 prepar -1 -2

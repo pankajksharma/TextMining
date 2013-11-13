@@ -1,0 +1,2 @@
+stock -1 broker -1 broker -1 broker -1 own -1 manag -1 decemb -1 unit -1 stat -1 govern -1 name -1 name -1 istv -1 citibank -1 citibank -1 citibank -1 citibank -1 citibank -1 administ -1 deput -1 financ -1 exchang -1 head -1 minist -1 es -1 direct -1 ertekpapir -1 kft -1 fark -1 fark -1 -2
+whol -1 septemb -1 memb -1 befektetes -1 newsroom -1 budap -1 budap -1 hung -1 hung -1 hung -1 -2

@@ -1,0 +1,4 @@
+temper -1 pennsylvan -1 illinoi -1 high -1 low -1 year -1 year -1 year -1 york -1 output -1 output -1 amount -1 larg -1 week -1 week -1 week -1 week -1 week -1 week -1 west -1 west -1 west -1 wisconsin -1 domest -1 produc -1 michig -1 report -1 stat -1 percent -1 percent -1 -2
+percent -1 percent -1 percent -1 cool -1 level -1 contigu -1 show -1 show -1 million -1 hour -1 end -1 deliv -1 deliv -1 drop -1 industr -1 increas -1 missor -1 unseason -1 gigawat -1 stood -1 pow -1 pow -1 pow -1 pow -1 contin -1 cent -1 declin -1 southw -1 section -1 ago -1 ago -1 -2
+half -1 sharp -1 period -1 period -1 period -1 eei -1 eei -1 eei -1 eei -1 eei -1 part -1 date -1 blanket -1 scorch -1 ohio -1 aug -1 electr -1 electr -1 electr -1 electr -1 institut -1 compar -1 compar -1 dry -1 virgin -1 includ -1 great -1 wednesday -1 gwh -1 gwh -1 gwh -1 -2
+gwh -1 prev -1 edison -1 heat -1 rocky -1 total -1 eastern -1 suppl -1 due -1 late -1 indian -1 desk -1 pacif -1 pct -1 -2

@@ -1,0 +1,2 @@
+indic -1 rate -1 rate -1 rate -1 rate -1 fe -1 nopac -1 nopac -1 nopac -1 skaw -1 skaw -1 baltic -1 baltic -1 bfi -1 spot -1 gulf -1 gulf -1 today -1 ship -1 east -1 tubarao -1 jan -1 reut -1 index -1 index -1 index -1 index -1 usg -1 rotterdam -1 rotterdam -1 -2
+rotterdam -1 transatl -1 rose -1 rose -1 london -1 freight -1 freight -1 equal -1 ton -1 base -1 base -1 aug -1 aug -1 dry -1 prev -1 carg -1 dollar -1 japan -1 japan -1 japan -1 japan -1 rout -1 rb -1 hr -1 hr -1 hr -1 ara -1 rv -1 rv -1 qland -1 sk -1 -2

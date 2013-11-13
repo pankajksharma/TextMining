@@ -1,0 +1,2 @@
+stock -1 stock -1 low -1 low -1 year -1 quart -1 gross -1 domest -1 slight -1 produc -1 yield -1 percent -1 treasur -1 treasur -1 trig -1 open -1 open -1 industr -1 pressur -1 numb -1 gdp -1 upward -1 sell -1 revis -1 revis -1 wall -1 wall -1 street -1 street -1 bond -1 -2
+dow -1 hefty -1 -2

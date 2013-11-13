@@ -1,0 +1,3 @@
+stay -1 midrat -1 market -1 money -1 rate -1 rate -1 low -1 term -1 fresh -1 bank -1 bank -1 shortfal -1 amount -1 deal -1 slight -1 loan -1 loan -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 overnight -1 jump -1 croat -1 croat -1 croat -1 fell -1 lend -1 -2
+lend -1 million -1 million -1 million -1 thursday -1 long -1 nation -1 versus -1 rise -1 foreign -1 kuna -1 kuna -1 kuna -1 kuna -1 rose -1 exchang -1 call -1 zagerb -1 prolong -1 settl -1 day -1 newsrom -1 demand -1 demand -1 dollar -1 total -1 total -1 friday -1 due -1 aver -1 metk -1 -2
+jelent -1 mark -1 transact -1 trad -1 trad -1 eas -1 -2

@@ -1,0 +1,2 @@
+apertur -1 apertur -1 carril -1 banfield -1 estudiant -1 velez -1 la -1 sarsfield -1 union -1 hurac -1 hurac -1 corrient -1 gimnas -1 gimnas -1 jujuy -1 platens -1 race -1 lanus -1 team -1 oest -1 club -1 meet -1 rosario -1 boca -1 junior -1 open -1 monday -1 weekend -1 socc -1 cent -1 -2
+champ -1 champ -1 champ -1 champ -1 san -1 plat -1 plat -1 independient -1 match -1 play -1 play -1 argentin -1 argentin -1 argentin -1 note -1 newel -1 tourna -1 lorenz -1 rive -1 colon -1 result -1 result -1 boy -1 espanol -1 season -1 deportiv -1 fer -1 -2

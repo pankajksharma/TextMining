@@ -1,0 +1,2 @@
+retail -1 rate -1 fast -1 month -1 low -1 low -1 year -1 year -1 year -1 year -1 year -1 year -1 year -1 year -1 year -1 year -1 year -1 newspap -1 newspap -1 expert -1 capit -1 percent -1 percent -1 percent -1 rest -1 administ -1 pric -1 pric -1 pric -1 busi -1 -2
+monday -1 rise -1 rise -1 rose -1 quot -1 inflat -1 inflat -1 inflat -1 inflat -1 growth -1 shanghai -1 shanghai -1 shanghai -1 shanghai -1 half -1 half -1 resid -1 new -1 incom -1 compar -1 result -1 actual -1 measur -1 yuan -1 -2

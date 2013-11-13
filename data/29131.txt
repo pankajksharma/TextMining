@@ -1,0 +1,2 @@
+sharehold -1 month -1 jul -1 jul -1 jul -1 jul -1 jul -1 gateway -1 data -1 data -1 data -1 data -1 data -1 equit -1 capit -1 quart -1 stat -1 balanc -1 scient -1 cash -1 cash -1 sheet -1 q2 -1 jan -1 shar -1 shar -1 end -1 end -1 sum -1 rise -1 -2
+equival -1 financ -1 work -1 servic -1 net -1 net -1 thousand -1 consolid -1 incom -1 incom -1 incom -1 earn -1 asset -1 revenu -1 revenu -1 revenu -1 total -1 total -1 softwar -1 operat -1 -2

@@ -1,0 +1,2 @@
+negot -1 compan -1 limit -1 term -1 term -1 term -1 bank -1 bank -1 del -1 trust -1 issu -1 issu -1 issu -1 debt -1 debt -1 debt -1 debt -1 approv -1 banc -1 pric -1 sold -1 million -1 million -1 million -1 million -1 end -1 short -1 short -1 short -1 axel -1 -2
+subscrib -1 argentin -1 argentin -1 argentin -1 part -1 part -1 direct -1 program -1 program -1 program -1 bueno -1 sud -1 sud -1 announc -1 sa -1 air -1 june -1 total -1 friday -1 bug -1 bond -1 bond -1 bond -1 due -1 newsroom -1 bansud -1 bansud -1 bansud -1 mln -1 -2

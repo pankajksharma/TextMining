@@ -1,0 +1,2 @@
+market -1 econom -1 rand -1 interest -1 year -1 yr -1 yr -1 shr -1 shr -1 div -1 div -1 div -1 regist -1 domest -1 distill -1 distill -1 stat -1 expect -1 expect -1 attrib -1 cts -1 cts -1 payabl -1 million -1 cape -1 gradual -1 declin -1 satisfact -1 growth -1 posit -1 -2
+note -1 final -1 lift -1 incom -1 corpor -1 earn -1 earn -1 turnov -1 turnov -1 sa -1 town -1 intern -1 june -1 real -1 oct -1 sept -1 make -1 activ -1 advant -1 opportun -1 tax -1 tax -1 group -1 -2

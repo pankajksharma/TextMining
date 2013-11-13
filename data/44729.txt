@@ -1,0 +1,3 @@
+market -1 quiet -1 bean -1 carry -1 thin -1 stock -1 clos -1 high -1 high -1 interest -1 bag -1 bag -1 damp -1 ahead -1 ahead -1 ahead -1 wisdom -1 york -1 ny -1 physic -1 physic -1 decemb -1 deal -1 deal -1 spot -1 spot -1 spot -1 spot -1 spot -1 spot -1 -2
+intermit -1 peopl -1 week -1 week -1 report -1 pay -1 pric -1 busi -1 thursday -1 open -1 deliv -1 contract -1 contract -1 coffee -1 coffee -1 coffee -1 coffee -1 coffee -1 coffee -1 expir -1 monday -1 short -1 equival -1 buy -1 grow -1 rose -1 cent -1 deferred -1 roast -1 certif -1 put -1 -2
+cost -1 lot -1 day -1 labor -1 septemb -1 septemb -1 septemb -1 concern -1 concern -1 prem -1 prem -1 prem -1 csc -1 csc -1 csc -1 holiday -1 holiday -1 holiday -1 activ -1 surg -1 hold -1 hold -1 slow -1 trad -1 trad -1 -2

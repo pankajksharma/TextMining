@@ -1,0 +1,2 @@
+market -1 ag -1 ag -1 high -1 build -1 frankfurt -1 mast -1 point -1 point -1 seek -1 capit -1 fund -1 gmt -1 germ -1 percent -1 percent -1 special -1 gain -1 shar -1 shar -1 shar -1 drop -1 techn -1 monday -1 swiss -1 rise -1 buy -1 financ -1 purchas -1 skw -1 -2
+skw -1 skw -1 skw -1 trostberg -1 trostberg -1 trostberg -1 trostberg -1 mbt -1 mbt -1 mbt -1 specialt -1 plan -1 plan -1 chemic -1 chemic -1 sandoz -1 bours -1 takeov -1 newsroom -1 mark -1 mark -1 boost -1 trad -1 group -1 group -1 group -1 -2

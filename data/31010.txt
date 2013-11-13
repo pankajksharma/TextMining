@@ -1,0 +1,2 @@
+stock -1 vehicl -1 buchar -1 month -1 year -1 standard -1 lei -1 lei -1 list -1 capit -1 capit -1 gross -1 debt -1 report -1 report -1 stat -1 million -1 shar -1 shar -1 end -1 exchang -1 figur -1 figur -1 net -1 half -1 part -1 note -1 uamt -1 uamt -1 run -1 -2
+turnov -1 profit -1 profit -1 profit -1 sa -1 asset -1 account -1 total -1 june -1 make -1 newsroom -1 see -1 roman -1 roman -1 -2

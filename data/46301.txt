@@ -1,0 +1,4 @@
+early -1 early -1 hous -1 rival -1 rival -1 back -1 back -1 situat -1 clos -1 saturday -1 union -1 review -1 stand -1 assault -1 hussein -1 understand -1 meet -1 veter -1 expect -1 decid -1 lead -1 lead -1 lead -1 rebel -1 advanc -1 monitor -1 reut -1 act -1 act -1 seiz -1 -2
+telephon -1 hour -1 party -1 control -1 time -1 jalal -1 talaban -1 talaban -1 talaban -1 talaban -1 told -1 kurd -1 kurd -1 kurd -1 kurdist -1 kurdist -1 warn -1 warn -1 kdp -1 puk -1 puk -1 city -1 city -1 forc -1 forc -1 forc -1 forc -1 forc -1 arbil -1 arbil -1 arbil -1 -2
+arbil -1 intervent -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 washington -1 washington -1 casualt -1 heavy -1 saddam -1 saddam -1 patriot -1 event -1 northern -1 northern -1 attack -1 attack -1 attack -1 americ -1 kind -1 thing -1 day -1 plan -1 watch -1 elabor -1 held -1 joint -1 promis -1 -2
+whit -1 morn -1 action -1 add -1 presid -1 faction -1 hope -1 demo -1 prepar -1 -2

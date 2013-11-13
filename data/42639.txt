@@ -1,0 +1,4 @@
+febru -1 compan -1 novemb -1 newsdesk -1 graphsoft -1 gener -1 interest -1 exercis -1 month -1 year -1 year -1 year -1 full -1 york -1 war -1 deprec -1 q4 -1 complet -1 quart -1 gross -1 percent -1 percent -1 administ -1 gain -1 dilut -1 provis -1 shar -1 shar -1 shar -1 shar -1 -2
+end -1 end -1 end -1 approxim -1 diehl -1 expirat -1 prior -1 public -1 outstand -1 outstand -1 outstand -1 loss -1 research -1 offer -1 success -1 prim -1 fisc -1 numb -1 initial -1 figur -1 net -1 net -1 weight -1 period -1 period -1 note -1 note -1 cost -1 date -1 base -1 incom -1 -2
+incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 incom -1 develop -1 earn -1 compar -1 profit -1 result -1 audit -1 dispos -1 effect -1 unaudit -1 equip -1 expend -1 expend -1 expend -1 expend -1 total -1 total -1 due -1 aver -1 operat -1 operat -1 operat -1 fourth -1 sale -1 -2
+sale -1 amort -1 tax -1 tax -1 -2

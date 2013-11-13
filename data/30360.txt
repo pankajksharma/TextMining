@@ -1,0 +1,5 @@
+minh -1 chinh -1 early -1 congress -1 vietnam -1 vietnam -1 vietnam -1 vietnam -1 vietnam -1 coven -1 jail -1 clos -1 sentenc -1 rank -1 violat -1 high -1 begin -1 year -1 year -1 year -1 term -1 view -1 radio -1 voic -1 human -1 human -1 dissid -1 dissid -1 report -1 stat -1 -2
+stat -1 lead -1 govern -1 facsimil -1 decid -1 pair -1 quest -1 accus -1 accus -1 law -1 academ -1 thursday -1 thursday -1 support -1 face -1 open -1 ha -1 ha -1 ha -1 ha -1 ha -1 ha -1 divulg -1 party -1 party -1 party -1 secret -1 crackdown -1 dissent -1 time -1 polit -1 -2
+polit -1 foreign -1 foreign -1 foreign -1 civil -1 right -1 right -1 right -1 amnest -1 amnest -1 expel -1 minist -1 le -1 le -1 le -1 london -1 organ -1 interview -1 base -1 base -1 commun -1 commun -1 commun -1 run -1 day -1 watch -1 announc -1 condemn -1 condemn -1 promin -1 plac -1 -2
+spokesm -1 signat -1 criticis -1 intern -1 intern -1 intern -1 intern -1 arrest -1 arrest -1 memb -1 hong -1 hong -1 hong -1 station -1 eighth -1 due -1 broad -1 hanoi -1 hanoi -1 si -1 si -1 si -1 asia -1 amid -1 phu -1 phu -1 phu -1 group -1 group -1 trial -1 trial -1 -2
+trial -1 trial -1 hoang -1 -2

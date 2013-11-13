@@ -1,0 +1,3 @@
+tuesday -1 target -1 stock -1 clos -1 alert -1 rate -1 tariff -1 month -1 year -1 telebr -1 telebr -1 telebr -1 telebr -1 ads -1 ads -1 view -1 line -1 firm -1 firm -1 fax -1 percent -1 percent -1 local -1 reit -1 pric -1 million -1 million -1 shar -1 end -1 end -1 -2
+deposit -1 remain -1 increas -1 increas -1 rais -1 rais -1 rais -1 buy -1 bear -1 bear -1 daily -1 stearn -1 stearn -1 research -1 research -1 comfort -1 subscrib -1 subscrib -1 servic -1 brazil -1 estimat -1 estimat -1 estimat -1 estimat -1 americ -1 base -1 base -1 earn -1 earn -1 earn -1 earn -1 -2
+jeff -1 blu -1 chip -1 cellul -1 wirelin -1 daeschn -1 forecast -1 assum -1 adr -1 -2

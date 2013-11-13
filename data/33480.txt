@@ -1,0 +1,4 @@
+recov -1 stak -1 compan -1 angl -1 acquir -1 market -1 market -1 market -1 retail -1 retail -1 stop -1 hard -1 stg -1 stg -1 stg -1 high -1 fair -1 brew -1 brew -1 brew -1 undertak -1 year -1 consensus -1 form -1 discount -1 common -1 lost -1 percent -1 percent -1 pay -1 -2
+anal -1 anal -1 level -1 pric -1 volum -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 long -1 give -1 august -1 domecq -1 danish -1 reason -1 carlsberg -1 carlsberg -1 carlsberg -1 tetley -1 cite -1 margin -1 loss -1 effort -1 half -1 ent -1 embark -1 ally -1 ally -1 ally -1 -2
+ally -1 ally -1 ally -1 pub -1 divid -1 profit -1 profit -1 profit -1 profit -1 estat -1 relief -1 dispos -1 reduc -1 accept -1 barrel -1 highlight -1 joint -1 joint -1 joint -1 ventur -1 ventur -1 ventur -1 hit -1 withdraw -1 impos -1 underperform -1 exit -1 forecast -1 aggress -1 campaign -1 operat -1 -2
+boost -1 ord -1 ord -1 beer -1 beer -1 beer -1 offic -1 sale -1 trad -1 trad -1 -2

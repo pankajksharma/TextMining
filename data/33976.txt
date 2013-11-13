@@ -1,0 +1,4 @@
+early -1 market -1 market -1 clear -1 recent -1 stock -1 stock -1 clos -1 memor -1 memor -1 memor -1 memor -1 memor -1 high -1 low -1 low -1 low -1 variabl -1 megabyt -1 megabyt -1 megabyt -1 york -1 micron -1 micron -1 micron -1 micron -1 micron -1 micron -1 fall -1 fall -1 -2
+fall -1 fall -1 line -1 common -1 spot -1 wint -1 week -1 week -1 week -1 issu -1 produc -1 produc -1 anal -1 anal -1 fell -1 main -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 random -1 instal -1 dynam -1 ubs -1 shar -1 shar -1 shar -1 convert -1 -2
+drop -1 drop -1 techn -1 monday -1 reason -1 comput -1 comput -1 exchang -1 semiconduc -1 declin -1 declin -1 ago -1 ago -1 slid -1 heavy -1 new -1 cost -1 bouch -1 bouch -1 sell -1 charl -1 day -1 asian -1 dram -1 dram -1 dram -1 dram -1 person -1 person -1 prev -1 secur -1 -2
+chip -1 chip -1 chip -1 chip -1 chip -1 chip -1 japan -1 access -1 make -1 make -1 afternoon -1 manufactur -1 activ -1 sign -1 tandem -1 trad -1 trad -1 -2

@@ -1,0 +1,5 @@
+pain -1 gener -1 jail -1 alleg -1 sery -1 clos -1 opinion -1 langu -1 langu -1 convict -1 year -1 year -1 birl -1 birl -1 birl -1 octob -1 conserv -1 privat -1 newspap -1 newspap -1 newspap -1 newspap -1 turk -1 turk -1 stand -1 cris -1 file -1 file -1 individual -1 correspons -1 -2
+ill -1 sourc -1 sourc -1 sourc -1 stat -1 denial -1 lead -1 govern -1 govern -1 govern -1 protract -1 fate -1 unavail -1 solut -1 face -1 print -1 party -1 case -1 case -1 case -1 dist -1 monday -1 polit -1 public -1 public -1 public -1 articl -1 articl -1 insult -1 daily -1 daily -1 -2
+commit -1 sue -1 call -1 complain -1 forc -1 engl -1 engl -1 declin -1 ankar -1 court -1 critic -1 hear -1 hear -1 hear -1 take -1 take -1 wrangl -1 chief -1 new -1 new -1 aegean -1 hayr -1 claim -1 islet -1 greec -1 pape -1 turkey -1 turkey -1 turkey -1 mat -1 run -1 -2
+milit -1 milit -1 milit -1 milit -1 july -1 day -1 charg -1 charg -1 survey -1 survey -1 septemb -1 concern -1 effect -1 comment -1 plac -1 power -1 caretak -1 army -1 june -1 edit -1 coal -1 arm -1 coupl -1 presid -1 ilnur -1 cevik -1 cevik -1 cevik -1 thought -1 offic -1 offic -1 -2
+handl -1 staff -1 staff -1 influ -1 -2

@@ -1,0 +1,4 @@
+televis -1 back -1 tuesday -1 saturday -1 high -1 high -1 sunday -1 doct -1 doct -1 patient -1 hudson -1 newspap -1 agree -1 mum -1 baby -1 baby -1 baby -1 baby -1 slim -1 woman -1 view -1 pregn -1 pregn -1 pregn -1 pregn -1 pregn -1 foetus -1 foetus -1 foetus -1 abort -1 -2
+abort -1 gynaec -1 kypro -1 nicolaid -1 nicolaid -1 nicolaid -1 mandy -1 mandy -1 allwood -1 allwood -1 allwood -1 allwood -1 miscar -1 week -1 week -1 week -1 survivor -1 treat -1 boyfriend -1 issu -1 foet -1 foet -1 handicap -1 decid -1 world -1 abandon -1 sold -1 deliv -1 deliv -1 expir -1 give -1 -2
+die -1 respect -1 confid -1 health -1 health -1 told -1 told -1 continu -1 sky -1 partial -1 new -1 outcom -1 realis -1 story -1 paul -1 paul -1 child -1 resolut -1 examin -1 reduc -1 reduc -1 chanc -1 chanc -1 chanc -1 chanc -1 chanc -1 determin -1 brit -1 found -1 process -1 make -1 -2
+add -1 persuad -1 surviv -1 surviv -1 hope -1 consult -1 ord -1 -2

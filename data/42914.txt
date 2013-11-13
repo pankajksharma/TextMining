@@ -1,0 +1,4 @@
+compan -1 early -1 mexic -1 mexic -1 market -1 affil -1 motor -1 stock -1 stock -1 vehicl -1 vehicl -1 facil -1 facil -1 own -1 year -1 ring -1 york -1 line -1 unit -1 unit -1 unit -1 unit -1 complet -1 stat -1 stat -1 muskegon -1 spw -1 dcn -1 special -1 expect -1 -2
+lead -1 cylind -1 busi -1 million -1 million -1 europ -1 europ -1 intent -1 thursday -1 end -1 dana -1 dana -1 dana -1 industr -1 industr -1 edg -1 pow -1 pow -1 pow -1 pow -1 cent -1 exchang -1 compon -1 servic -1 mich -1 serv -1 ohio -1 base -1 base -1 sell -1 sell -1 -2
+seal -1 seal -1 seal -1 seal -1 divid -1 divid -1 divid -1 corp -1 corp -1 includ -1 includ -1 toled -1 equip -1 piston -1 joint -1 tool -1 ventur -1 glob -1 make -1 unchang -1 manufactur -1 manufactur -1 manufactur -1 operat -1 let -1 sale -1 sale -1 distribut -1 origin -1 sign -1 spx -1 -2
+spx -1 spx -1 spx -1 -2

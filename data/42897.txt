@@ -1,0 +1,4 @@
+du -1 market -1 recent -1 high -1 downgrad -1 downgrad -1 interest -1 perform -1 rate -1 rate -1 rate -1 month -1 merg -1 own -1 term -1 term -1 term -1 agent -1 agent -1 agent -1 agent -1 privat -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 -2
+bank -1 waleed -1 view -1 invest -1 unit -1 unit -1 profil -1 larg -1 capit -1 capit -1 capit -1 capit -1 bought -1 fund -1 fund -1 loan -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 minus -1 talal -1 confirm -1 outlook -1 level -1 level -1 unsatisfact -1 al -1 provis -1 -2
+scenario -1 shar -1 long -1 control -1 banqu -1 princ -1 cyprus -1 stabl -1 short -1 public -1 respect -1 lack -1 bin -1 cair -1 cair -1 cair -1 cair -1 diversif -1 medium -1 posit -1 base -1 base -1 base -1 bbb -1 bbb -1 intellig -1 intellig -1 arabia -1 saud -1 saud -1 saud -1 -2
+saud -1 saud -1 saud -1 saud -1 compl -1 eighth -1 chairm -1 scb -1 scb -1 scb -1 scb -1 prospect -1 commerc -1 -2

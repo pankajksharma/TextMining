@@ -1,0 +1,3 @@
+hous -1 attend -1 buchar -1 pdsr -1 start -1 appoint -1 headlin -1 headlin -1 radio -1 radio -1 debat -1 debat -1 cultur -1 treat -1 treat -1 treat -1 treat -1 meet -1 meet -1 meet -1 decid -1 govern -1 lead -1 upp -1 party -1 party -1 discuss -1 cabinet -1 cabinet -1 social -1 -2
+foreign -1 foreign -1 foreign -1 foreign -1 commit -1 commit -1 commit -1 health -1 minist -1 minist -1 minist -1 minist -1 pm -1 pm -1 parlia -1 sorin -1 ducaru -1 ducaru -1 draft -1 draft -1 draft -1 senat -1 senat -1 new -1 sergiu -1 nicolaescu -1 teodor -1 melescanu -1 melescanu -1 propos -1 board -1 -2
+spokesm -1 present -1 present -1 friday -1 due -1 rule -1 chairm -1 polic -1 polic -1 afternoon -1 afternoon -1 newsroom -1 roman -1 roman -1 roman -1 roman -1 hung -1 hung -1 demo -1 -2

@@ -1,0 +1,2 @@
+recov -1 market -1 market -1 recent -1 clos -1 cif -1 cif -1 high -1 retain -1 firm -1 assess -1 assess -1 report -1 strong -1 ipe -1 ipe -1 ipe -1 ipe -1 level -1 jet -1 jet -1 pric -1 futur -1 party -1 benchmark -1 stead -1 fuel -1 fuel -1 loss -1 offer -1 -2
+london -1 strenght -1 ton -1 fob -1 prem -1 prem -1 prem -1 prem -1 prem -1 carg -1 carg -1 carg -1 sept -1 sept -1 sept -1 sept -1 nwe -1 nwe -1 nwe -1 nwe -1 newsroom -1 barg -1 trad -1 trad -1 -2

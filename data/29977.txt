@@ -1,0 +1,4 @@
+stay -1 market -1 sect -1 stock -1 high -1 high -1 barclay -1 privat -1 bank -1 rare -1 point -1 point -1 seat -1 nickel -1 invest -1 firm -1 firm -1 unrest -1 larg -1 today -1 key -1 key -1 produc -1 mine -1 strong -1 local -1 local -1 implic -1 eye -1 advanc -1 -2
+mix -1 path -1 gain -1 gain -1 index -1 index -1 brok -1 brok -1 thursday -1 thursday -1 shar -1 shar -1 shar -1 outstrip -1 push -1 industr -1 industr -1 industr -1 industr -1 industr -1 buy -1 buy -1 return -1 foreign -1 foreign -1 zimbabw -1 zimbabw -1 rose -1 rose -1 civil -1 cent -1 -2
+cent -1 cent -1 exchang -1 lose -1 ongo -1 comfort -1 continu -1 spark -1 strik -1 strik -1 play -1 predict -1 serv -1 zimbabwean -1 zimbabwean -1 note -1 wary -1 simil -1 attribut -1 run -1 day -1 watch -1 wag -1 includ -1 driv -1 newsroom -1 finhold -1 fear -1 zse -1 bindur -1 cri -1 -2
+boost -1 chinak -1 harar -1 count -1 trad -1 keep -1 group -1 -2

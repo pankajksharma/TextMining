@@ -1,0 +1,2 @@
+early -1 early -1 clear -1 cif -1 year -1 year -1 yen -1 yen -1 yen -1 yen -1 yen -1 yen -1 billion -1 billion -1 billion -1 free -1 percent -1 percent -1 st -1 custom -1 monday -1 august -1 financ -1 rose -1 rose -1 import -1 minist -1 insur -1 trill -1 trill -1 -2
+bln -1 freight -1 period -1 cost -1 export -1 fob -1 aug -1 revis -1 july -1 compar -1 compar -1 day -1 day -1 day -1 post -1 board -1 deficit -1 japan -1 japan -1 trad -1 trad -1 trad -1 surplus -1 surplus -1 surplus -1 -2

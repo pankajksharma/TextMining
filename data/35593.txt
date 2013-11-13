@@ -1,0 +1,2 @@
+compan -1 compan -1 market -1 market -1 small -1 sect -1 target -1 eps -1 bottom -1 rate -1 pvs -1 bank -1 bank -1 german -1 good -1 discount -1 fax -1 cycl -1 germ -1 strong -1 amsterdam -1 brand -1 reit -1 pric -1 pric -1 brok -1 furnitur -1 netherland -1 dividend -1 dutch -1 -2
+sum -1 guild -1 time -1 buy -1 buy -1 buy -1 dfl -1 ahrend -1 ahrend -1 ahrend -1 loss -1 research -1 growth -1 posit -1 estimat -1 aim -1 aug -1 justif -1 profit -1 actual -1 general -1 general -1 prem -1 comment -1 intern -1 excel -1 newsroom -1 distribut -1 offic -1 pct -1 pct -1 -2

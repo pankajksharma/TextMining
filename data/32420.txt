@@ -1,0 +1,4 @@
+columb -1 vietnam -1 vietnam -1 bound -1 jail -1 jail -1 train -1 medic -1 journey -1 william -1 climb -1 start -1 north -1 extrem -1 food -1 larg -1 week -1 lock -1 sound -1 sleep -1 overnight -1 alask -1 alask -1 alask -1 alask -1 canad -1 canad -1 terrif -1 uniform -1 thursday -1 -2
+wat -1 open -1 rupert -1 dan -1 soup -1 monday -1 princ -1 princ -1 snooz -1 snooz -1 boxcar -1 boxcar -1 boxcar -1 boxcar -1 boxcar -1 tuan -1 quac -1 care -1 phan -1 phan -1 phan -1 phan -1 phan -1 famish -1 western -1 lumb -1 head -1 dehydr -1 breakfast -1 fish -1 man -1 -2
+man -1 search -1 depart -1 trip -1 take -1 take -1 job -1 load -1 load -1 sail -1 gave -1 thing -1 railway -1 transport -1 day -1 coop -1 jewel -1 jewel -1 jewel -1 fed -1 fed -1 brit -1 found -1 found -1 found -1 port -1 port -1 whit -1 whit -1 whit -1 late -1 -2
+weather -1 polic -1 polic -1 sgt -1 coupl -1 barg -1 barg -1 offic -1 offic -1 slow -1 accid -1 -2

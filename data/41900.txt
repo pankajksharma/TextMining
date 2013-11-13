@@ -1,0 +1,2 @@
+econom -1 stock -1 alert -1 rate -1 rate -1 rate -1 rate -1 month -1 point -1 system -1 issu -1 grad -1 percent -1 expect -1 assign -1 assign -1 outperform -1 index -1 himik -1 himik -1 exchang -1 research -1 research -1 research -1 section -1 yamaich -1 topix -1 toky -1 valu -1 institut -1 -2
+institut -1 secur -1 -2

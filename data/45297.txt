@@ -1,0 +1,3 @@
+launch -1 immed -1 kill -1 provinc -1 newspap -1 newspap -1 newspap -1 individual -1 peopl -1 larg -1 stat -1 stat -1 report -1 lead -1 govern -1 govern -1 toppl -1 al -1 al -1 al -1 al -1 satel -1 city -1 sharqiyah -1 rami -1 saadan -1 interrog -1 cair -1 gama -1 gama -1 -2
+moslem -1 detain -1 detain -1 struggl -1 detail -1 gave -1 milit -1 milit -1 milit -1 institut -1 purist -1 islam -1 islam -1 hosn -1 promin -1 plac -1 mubarak -1 comment -1 islamiy -1 plot -1 men -1 men -1 secur -1 arrest -1 memb -1 egypt -1 egypt -1 eastern -1 friday -1 strateg -1 polic -1 -2
+polic -1 polic -1 arm -1 akhbar -1 presid -1 captur -1 suspect -1 suspect -1 offic -1 group -1 group -1 establ -1 -2

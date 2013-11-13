@@ -1,0 +1,4 @@
+econom -1 econom -1 econom -1 correct -1 greb -1 funda -1 mathi -1 high -1 reach -1 haffn -1 rate -1 rate -1 rate -1 rate -1 month -1 month -1 month -1 low -1 year -1 year -1 year -1 year -1 gerhard -1 term -1 spokeswom -1 data -1 frankfurt -1 frankfurt -1 frankfurt -1 bank -1 -2
+german -1 view -1 view -1 annual -1 west -1 west -1 west -1 slight -1 bzw -1 germ -1 germ -1 germ -1 germ -1 stat -1 fit -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 expect -1 expect -1 julius -1 baer -1 outlook -1 provis -1 commerzbank -1 end -1 end -1 statist -1 -2
+feder -1 stabl -1 august -1 august -1 compil -1 continu -1 cpi -1 cpi -1 figur -1 figur -1 figur -1 figur -1 figur -1 upward -1 prelim -1 medium -1 posit -1 posit -1 posit -1 chief -1 inst -1 prelimin -1 aug -1 differ -1 basic -1 unusual -1 reduc -1 effect -1 comment -1 favor -1 friday -1 -2
+make -1 newsroom -1 forecast -1 forecast -1 offic -1 -2

@@ -1,0 +1,4 @@
+market -1 market -1 correct -1 slip -1 stock -1 stock -1 stock -1 stock -1 stock -1 idea -1 clos -1 clos -1 rate -1 gabriel -1 rebound -1 rebound -1 bank -1 york -1 billion -1 modest -1 invest -1 de -1 larg -1 week -1 week -1 week -1 week -1 week -1 key -1 today -1 -2
+issu -1 rathbon -1 slat -1 percent -1 percent -1 anal -1 banc -1 fell -1 fell -1 mix -1 like -1 index -1 gain -1 rally -1 brok -1 million -1 million -1 flat -1 shar -1 shar -1 adjust -1 adjust -1 trig -1 end -1 end -1 venezuel -1 return -1 past -1 ibc -1 rose -1 health -1 -2
+priv -1 priv -1 uptick -1 upward -1 rotat -1 take -1 take -1 take -1 take -1 front -1 posit -1 ten -1 succumb -1 succumb -1 base -1 paul -1 bar -1 bolivar -1 pattern -1 run -1 day -1 day -1 carac -1 carac -1 carac -1 profit -1 profit -1 profit -1 tem -1 airlin -1 aeropost -1 -2
+comment -1 resum -1 john -1 total -1 consecut -1 unchang -1 newsroom -1 surpr -1 swing -1 yesterday -1 ameriv -1 osio -1 elev -1 trad -1 trad -1 trad -1 -2

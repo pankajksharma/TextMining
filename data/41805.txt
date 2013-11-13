@@ -1,0 +1,4 @@
+stay -1 compan -1 capac -1 sect -1 sect -1 bound -1 econom -1 econom -1 carry -1 carry -1 month -1 month -1 come -1 privat -1 fall -1 invest -1 andean -1 quart -1 rathbon -1 produc -1 produc -1 percent -1 local -1 expect -1 expect -1 material -1 felt -1 outlook -1 conjunct -1 busi -1 -2
+busi -1 instal -1 show -1 show -1 flat -1 support -1 industr -1 industr -1 industr -1 industr -1 increas -1 increas -1 mess -1 venezuel -1 venezuel -1 venezuel -1 venezuel -1 told -1 sever -1 integr -1 upbeat -1 pedr -1 upturn -1 signif -1 improv -1 half -1 transl -1 recess -1 recess -1 new -1 poll -1 -2
+poll -1 poll -1 paul -1 simil -1 hasn -1 carac -1 compar -1 survey -1 survey -1 survey -1 survey -1 survey -1 optim -1 optim -1 optim -1 optim -1 essent -1 overwhelm -1 john -1 twelf -1 respons -1 coindustr -1 coindustr -1 carmon -1 newsroom -1 add -1 partn -1 confer -1 presid -1 activ -1 mercosur -1 -2
+trad -1 zone -1 cross -1 chamb -1 -2

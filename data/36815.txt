@@ -1,0 +1,4 @@
+popul -1 elector -1 clear -1 elect -1 elect -1 elect -1 elect -1 recent -1 rival -1 tuesday -1 arnold -1 enn -1 markvart -1 month -1 year -1 year -1 term -1 gmt -1 represent -1 stat -1 local -1 govern -1 suff -1 act -1 lennart -1 support -1 meri -1 meri -1 meri -1 meri -1 -2
+round -1 round -1 round -1 round -1 nation -1 candid -1 candid -1 candid -1 conv -1 secret -1 monday -1 give -1 win -1 eston -1 eston -1 polit -1 deput -1 abstent -1 pow -1 speak -1 speak -1 commit -1 won -1 won -1 parlia -1 parlia -1 parlia -1 parlia -1 parlia -1 parlia -1 parlia -1 -2
+take -1 fail -1 fail -1 fail -1 invalid -1 pape -1 vote -1 vote -1 vote -1 vote -1 vote -1 vote -1 vote -1 vote -1 vote -1 day -1 compar -1 ruutel -1 ruutel -1 assembl -1 mandat -1 plac -1 criticis -1 memb -1 memb -1 secur -1 secur -1 secur -1 colleg -1 major -1 mps -1 -2
+chairm -1 need -1 presid -1 presid -1 presid -1 presid -1 ballot -1 ballot -1 consult -1 incumb -1 offic -1 -2

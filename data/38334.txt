@@ -1,0 +1,2 @@
+refer -1 ag -1 bank -1 bank -1 war -1 war -1 war -1 spot -1 list -1 issu -1 issu -1 govern -1 sino -1 sino -1 pric -1 pric -1 law -1 million -1 shar -1 shar -1 min -1 control -1 deutsch -1 deutsch -1 expirat -1 hk -1 hk -1 hk -1 call -1 london -1 -2
+strik -1 ten -1 note -1 gear -1 americ -1 lot -1 paydat -1 aug -1 exer -1 land -1 land -1 announc -1 prem -1 hong -1 hong -1 hong -1 kong -1 kong -1 kong -1 styl -1 set -1 intend -1 newsroom -1 branch -1 pct -1 -2

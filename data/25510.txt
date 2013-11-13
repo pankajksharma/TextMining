@@ -1,0 +1,4 @@
+down -1 down -1 study -1 rival -1 fray -1 tuesday -1 high -1 month -1 peac -1 countr -1 schedul -1 tie -1 war -1 alexand -1 week -1 week -1 exil -1 issu -1 uran -1 uran -1 uran -1 uran -1 uran -1 axing -1 stat -1 report -1 mention -1 lead -1 sino -1 act -1 -2
+aid -1 ordin -1 sold -1 safeguard -1 nation -1 chin -1 chin -1 chin -1 chin -1 cabinet -1 commod -1 diplomat -1 pow -1 foreign -1 foreign -1 worry -1 civil -1 care -1 austral -1 austral -1 austral -1 austral -1 austral -1 austral -1 call -1 call -1 minist -1 minist -1 minist -1 washington -1 visit -1 -2
+visit -1 visit -1 util -1 canber -1 canber -1 won -1 event -1 export -1 sell -1 purpos -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taipei -1 mat -1 commun -1 plan -1 plan -1 express -1 prudent -1 prudent -1 beij -1 ask -1 great -1 sens -1 concern -1 concern -1 -2
+spokesm -1 secur -1 request -1 schem -1 pact -1 strain -1 dalai -1 lama -1 sale -1 sale -1 sale -1 tibet -1 spiritual -1 flee -1 -2

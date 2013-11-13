@@ -1,0 +1,5 @@
+early -1 understood -1 hous -1 hous -1 jail -1 jail -1 alleg -1 sentenc -1 norodom -1 norodom -1 norodom -1 opinion -1 fly -1 sihanouk -1 sihanouk -1 sihanouk -1 sihanouk -1 year -1 year -1 year -1 sin -1 sin -1 sin -1 sin -1 sin -1 pari -1 accord -1 interior -1 seek -1 chea -1 -2
+exil -1 stat -1 stat -1 mention -1 govern -1 lead -1 home -1 putsch -1 coup -1 coup -1 coup -1 belief -1 thursday -1 long -1 palac -1 remain -1 princ -1 princ -1 deput -1 return -1 return -1 sen -1 sen -1 mercy -1 amnest -1 prim -1 intervent -1 minist -1 minist -1 premy -1 premy -1 -2
+bid -1 plea -1 fami -1 parlia -1 serv -1 fail -1 chief -1 king -1 king -1 king -1 king -1 date -1 detain -1 song -1 song -1 song -1 song -1 propos -1 vanqu -1 july -1 plan -1 royal -1 includ -1 hun -1 hun -1 ranariddh -1 ranariddh -1 plot -1 chakrapong -1 chakrapong -1 chakrapong -1 -2
+arrest -1 arrest -1 attempt -1 favor -1 favor -1 friday -1 friday -1 thailand -1 thailand -1 role -1 coal -1 son -1 son -1 ringlead -1 releas -1 releas -1 releas -1 cambod -1 cambod -1 cambod -1 add -1 fled -1 allow -1 allow -1 escap -1 pardon -1 pardon -1 pardon -1 absent -1 let -1 let -1 -2
+offic -1 -2

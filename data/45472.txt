@@ -1,0 +1,2 @@
+bring -1 train -1 train -1 train -1 train -1 halt -1 begin -1 spain -1 join -1 de -1 franc -1 week -1 mainlin -1 usual -1 long -1 portugu -1 portugu -1 portugu -1 portugu -1 press -1 frequ -1 work -1 servic -1 servic -1 strik -1 strik -1 strik -1 improv -1 portugues -1 caminho -1 -2
+ferro -1 railway -1 railway -1 run -1 run -1 run -1 driv -1 driv -1 driv -1 spokesm -1 passeng -1 intern -1 intern -1 suburb -1 friday -1 cond -1 standstill -1 region -1 unclear -1 delay -1 cp -1 -2

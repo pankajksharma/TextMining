@@ -1,0 +1,4 @@
+compan -1 elect -1 elect -1 christ -1 accur -1 carry -1 stock -1 rate -1 month -1 stag -1 year -1 octob -1 privat -1 bank -1 newspap -1 system -1 edition -1 list -1 peopl -1 today -1 report -1 report -1 report -1 attent -1 attent -1 percent -1 pay -1 pay -1 special -1 digest -1 -2
+reut -1 reform -1 million -1 million -1 lita -1 lita -1 riga -1 open -1 open -1 party -1 party -1 nation -1 candid -1 auction -1 monday -1 weekend -1 discuss -1 august -1 press -1 platform -1 unemploy -1 unemploy -1 verif -1 hb -1 vouch -1 exchang -1 exchang -1 agricultur -1 net -1 parlia -1 put -1 -2
+program -1 ryta -1 story -1 herm -1 july -1 lietuvo -1 profit -1 anders -1 labor -1 audit -1 asset -1 intern -1 june -1 promis -1 major -1 corrupt -1 arthur -1 lithuan -1 lithuan -1 lithuan -1 lithuan -1 lithuan -1 lithuan -1 impos -1 newsroom -1 fight -1 ord -1 demo -1 demo -1 respublik -1 reveal -1 -2
+tax -1 -2

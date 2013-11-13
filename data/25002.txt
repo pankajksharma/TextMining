@@ -1,0 +1,1 @@
+warehous -1 tuesday -1 stock -1 year -1 year -1 approv -1 monday -1 chicag -1 chicag -1 pork -1 pork -1 belly -1 belly -1 daily -1 aug20 -1 net -1 move -1 move -1 move -1 ago -1 ago -1 cme -1 aug -1 aug -1 post -1 hand -1 hand -1 lbs -1 stor -1 stor -1 -2

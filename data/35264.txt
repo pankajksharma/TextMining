@@ -1,0 +1,2 @@
+metal -1 metal -1 quiet -1 cop -1 cop -1 back -1 thin -1 stock -1 trend -1 trend -1 physic -1 nickel -1 nickel -1 deal -1 lead -1 fell -1 pric -1 pric -1 gain -1 gain -1 monday -1 remain -1 stead -1 commod -1 quint -1 narrow -1 narrow -1 rise -1 short -1 buy -1 -2
+weak -1 bombay -1 tin -1 sharp -1 sharp -1 specul -1 rang -1 base -1 alumin -1 rupee -1 rupee -1 rupee -1 rupee -1 rupee -1 rupee -1 rupee -1 rupee -1 ready -1 demand -1 friday -1 suppl -1 zinc -1 glob -1 glob -1 unchang -1 indian -1 indian -1 slug -1 trad -1 trad -1 -2

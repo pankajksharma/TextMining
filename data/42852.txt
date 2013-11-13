@@ -1,0 +1,5 @@
+limit -1 limit -1 market -1 market -1 market -1 tuesday -1 tuesday -1 sery -1 high -1 lira -1 lira -1 lira -1 cukurov -1 ahead -1 ahead -1 start -1 huseyin -1 point -1 turk -1 turk -1 tie -1 select -1 select -1 select -1 drag -1 week -1 today -1 bought -1 percent -1 percent -1 -2
+percent -1 percent -1 pay -1 strong -1 minor -1 upp -1 cash -1 cash -1 cash -1 cash -1 level -1 index -1 index -1 gain -1 gain -1 gain -1 gain -1 volum -1 brok -1 brok -1 brok -1 brok -1 sold -1 sold -1 thursday -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 -2
+shar -1 shar -1 end -1 end -1 long -1 long -1 nation -1 versus -1 monday -1 monday -1 industr -1 weekend -1 weekend -1 stead -1 stabl -1 narrow -1 daily -1 financ -1 rose -1 lose -1 exchang -1 loss -1 continu -1 entry -1 entry -1 meks -1 util -1 trill -1 trill -1 fact -1 play -1 -2
+play -1 take -1 isbank -1 settl -1 istanbul -1 session -1 day -1 day -1 day -1 resist -1 post -1 wednesday -1 secur -1 imkb -1 demand -1 total -1 elektrik -1 friday -1 outdid -1 rule -1 due -1 pierc -1 pierc -1 repo -1 holiday -1 newsroom -1 activ -1 istanbullu -1 strain -1 advant -1 surg -1 -2
+trad -1 trad -1 trad -1 -2

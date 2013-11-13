@@ -1,0 +1,3 @@
+tuesday -1 steep -1 erosion -1 suit -1 tamp -1 produc -1 produc -1 produc -1 approv -1 requir -1 soap -1 textil -1 less -1 hemp -1 hemp -1 hemp -1 hemp -1 hemp -1 hemp -1 psychoact -1 big -1 renford -1 soil -1 soil -1 ensur -1 nation -1 cosmet -1 industr -1 industr -1 cabinet -1 -2
+jamaic -1 jamaic -1 jamaic -1 cultiv -1 cultiv -1 grow -1 marijuan -1 marijuan -1 typ -1 feed -1 agronom -1 farm -1 minist -1 minist -1 minist -1 anim -1 agricultur -1 put -1 hillsid -1 pape -1 basi -1 experi -1 experi -1 bake -1 announc -1 chemic -1 tend -1 plac -1 proceed -1 secur -1 project -1 -2
+found -1 measur -1 caribbean -1 offic -1 prepar -1 -2

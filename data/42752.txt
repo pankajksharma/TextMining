@@ -1,0 +1,2 @@
+early -1 market -1 econom -1 back -1 thin -1 record -1 high -1 interest -1 rate -1 low -1 low -1 climb -1 data -1 point -1 point -1 fall -1 fall -1 modest -1 deal -1 fts -1 fts -1 lead -1 exag -1 level -1 big -1 pric -1 pric -1 busi -1 index -1 brok -1 -2
+thursday -1 shar -1 end -1 drop -1 edg -1 rais -1 short -1 finish -1 spectr -1 continu -1 move -1 sharp -1 fail -1 posit -1 risen -1 session -1 july -1 day -1 chanc -1 uk -1 cond -1 afternoon -1 mark -1 hold -1 trad -1 -2

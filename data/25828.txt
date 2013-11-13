@@ -1,0 +1,4 @@
+compan -1 compan -1 compan -1 compan -1 early -1 vest -1 market -1 hous -1 hous -1 salmon -1 econom -1 municip -1 month -1 own -1 year -1 privat -1 agree -1 form -1 dump -1 suggest -1 debat -1 today -1 norway -1 norway -1 norway -1 produc -1 produc -1 meet -1 pract -1 lead -1 -2
+digest -1 busi -1 coca -1 exist -1 eu -1 support -1 european -1 brussel -1 party -1 party -1 discuss -1 discuss -1 area -1 swed -1 alt -1 current -1 norweg -1 norweg -1 norweg -1 norweg -1 press -1 wid -1 foreign -1 foreign -1 foreign -1 commit -1 worry -1 civil -1 cent -1 offer -1 senior -1 -2
+compet -1 postpon -1 insur -1 insur -1 parlia -1 parlia -1 serv -1 delegat -1 pape -1 agrar -1 organ -1 apply -1 base -1 story -1 aug -1 context -1 land -1 dagen -1 plant -1 labor -1 brit -1 rule -1 set -1 morn -1 aftenpost -1 naeringsliv -1 cola -1 accusat -1 accusat -1 subsidis -1 tax -1 -2
+tax -1 -2

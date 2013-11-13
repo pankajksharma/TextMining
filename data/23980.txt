@@ -1,0 +1,5 @@
+follow -1 market -1 market -1 hous -1 lce -1 stall -1 stall -1 clelia -1 carry -1 oziel -1 pod -1 funda -1 money -1 clos -1 clos -1 stg -1 stg -1 stg -1 stg -1 stg -1 stg -1 stg -1 stg -1 stg -1 high -1 high -1 high -1 high -1 encour -1 exercis -1 -2
+month -1 dec -1 rain -1 declar -1 cover -1 good -1 discount -1 discount -1 decemb -1 decemb -1 decemb -1 light -1 west -1 afric -1 report -1 aa -1 anal -1 expect -1 expect -1 expect -1 lead -1 lead -1 subdu -1 check -1 mix -1 level -1 cocoa -1 cocoa -1 busi -1 rally -1 rally -1 -2
+futur -1 end -1 end -1 end -1 end -1 round -1 contract -1 contract -1 expir -1 expir -1 techn -1 techn -1 shed -1 monday -1 august -1 short -1 buy -1 buy -1 pressur -1 ground -1 call -1 overhead -1 stimul -1 london -1 london -1 bid -1 move -1 play -1 new -1 note -1 rang -1 -2
+rang -1 rang -1 lift -1 lot -1 ton -1 led -1 turnov -1 july -1 day -1 dry -1 resist -1 impact -1 wednesday -1 septemb -1 septemb -1 sept -1 band -1 morn -1 explan -1 afternoon -1 newsroom -1 switch -1 activ -1 activ -1 top -1 top -1 smooth -1 hold -1 count -1 trad -1 trad -1 -2
+trad -1 trad -1 trad -1 trad -1 bit -1 tiny -1 option -1 option -1 -2

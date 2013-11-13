@@ -1,0 +1,2 @@
+absorb -1 high -1 rate -1 rate -1 rate -1 rate -1 month -1 month -1 month -1 month -1 revers -1 revers -1 year -1 start -1 bank -1 bank -1 discount -1 week -1 week -1 slight -1 slight -1 yield -1 yield -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 -2
+treasur -1 treasur -1 bill -1 bill -1 bill -1 bill -1 monday -1 malt -1 malt -1 august -1 august -1 stood -1 cent -1 cent -1 repo -1 repo -1 unchang -1 unchang -1 unchang -1 -2

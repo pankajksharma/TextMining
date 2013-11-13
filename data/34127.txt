@@ -1,0 +1,4 @@
+compan -1 compan -1 unexpect -1 gener -1 adopt -1 motor -1 motor -1 ford -1 ford -1 target -1 union -1 union -1 union -1 union -1 gm -1 gm -1 gm -1 fast -1 tabl -1 year -1 year -1 bargain -1 journ -1 wsj -1 york -1 agree -1 agree -1 fall -1 uaw -1 uaw -1 -2
+uaw -1 unit -1 issu -1 issu -1 report -1 meet -1 local -1 decid -1 lead -1 big -1 big -1 choos -1 choos -1 thursday -1 long -1 long -1 contract -1 contract -1 contract -1 contract -1 expir -1 nation -1 nation -1 monday -1 discuss -1 discuss -1 time -1 avoid -1 signal -1 current -1 extend -1 -2
+side -1 effort -1 work -1 move -1 chief -1 settl -1 confront -1 chrysl -1 chrysl -1 corp -1 corp -1 resolut -1 wall -1 street -1 held -1 auto -1 auto -1 auto -1 auto -1 sept -1 brought -1 fram -1 make -1 make -1 make -1 newsroom -1 execut -1 content -1 delay -1 offic -1 offic -1 -2
+trad -1 -2

@@ -1,0 +1,4 @@
+market -1 market -1 anti -1 tuesday -1 tuesday -1 stock -1 stock -1 stock -1 stock -1 plung -1 low -1 low -1 begin -1 ali -1 karach -1 point -1 billion -1 billion -1 invest -1 deal -1 deal -1 capit -1 stat -1 percent -1 govern -1 tumbl -1 pric -1 gain -1 index -1 index -1 -2
+volum -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 open -1 end -1 end -1 end -1 party -1 oil -1 monday -1 pressur -1 pressur -1 rose -1 rose -1 lose -1 exchang -1 declin -1 insur -1 insur -1 pakist -1 sharp -1 sharp -1 sharp -1 pakistan -1 pakistan -1 sell -1 day -1 -2
+core -1 rupee -1 rupee -1 rupee -1 rupee -1 kse -1 kse -1 wednesday -1 pso -1 pso -1 adamj -1 adamj -1 raza -1 prev -1 colm -1 mooney -1 dawood -1 hercul -1 reckit -1 account -1 hubc -1 blu -1 blu -1 chip -1 chip -1 oppos -1 ibrahim -1 khan -1 campaign -1 ptcl -1 amid -1 -2
+trad -1 -2

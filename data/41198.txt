@@ -1,0 +1,2 @@
+recov -1 market -1 market -1 econom -1 econom -1 stock -1 stock -1 clos -1 bottom -1 low -1 low -1 retreat -1 data -1 point -1 point -1 peopl -1 key -1 lost -1 percent -1 anal -1 expect -1 nikkei -1 futur -1 brok -1 tank -1 shar -1 thursday -1 end -1 end -1 shed -1 -2
+buy -1 gaug -1 finish -1 weak -1 continu -1 senior -1 toky -1 toky -1 wednesday -1 septemb -1 septemb -1 concern -1 concern -1 secur -1 japan -1 aver -1 ling -1 drift -1 sidelin -1 trad -1 slug -1 kenz -1 doi -1 kokusai -1 -2

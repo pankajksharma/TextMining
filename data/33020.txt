@@ -1,0 +1,2 @@
+high -1 rate -1 rate -1 rate -1 rate -1 month -1 midday -1 midday -1 yen -1 yen -1 point -1 system -1 view -1 firm -1 firm -1 key -1 issu -1 grad -1 percent -1 east -1 east -1 east -1 expect -1 nikkei -1 assign -1 outperform -1 brok -1 shar -1 shar -1 shar -1 -2
+shar -1 research -1 research -1 jr -1 jr -1 valu -1 railway -1 institut -1 institut -1 relief -1 reconsid -1 friday -1 japan -1 aver -1 due -1 nomur -1 nomur -1 unchang -1 unchang -1 left -1 -2

@@ -1,0 +1,4 @@
+tuesday -1 progress -1 begin -1 touch -1 agent -1 start -1 seek -1 wait -1 alexand -1 week -1 capit -1 meet -1 rebel -1 km -1 itar -1 tass -1 tass -1 seiz -1 seiz -1 chechny -1 grozn -1 open -1 chech -1 chech -1 chech -1 vikt -1 chernomyrdin -1 round -1 talk -1 talk -1 -2
+talk -1 talk -1 talk -1 talk -1 aslan -1 maskhadov -1 maskhadov -1 monday -1 monday -1 monday -1 discuss -1 weekend -1 ammun -1 russia -1 russia -1 breakaway -1 lebe -1 lebe -1 polit -1 finish -1 return -1 return -1 met -1 made -1 vyacheslav -1 tikhomirov -1 prim -1 minist -1 postpon -1 russian -1 russian -1 -2
+russian -1 russian -1 russian -1 moscow -1 take -1 chief -1 chief -1 new -1 bori -1 put -1 yeltsin -1 mile -1 south -1 aim -1 settl -1 settl -1 weapon -1 seal -1 milit -1 novy -1 atag -1 plac -1 secur -1 army -1 separat -1 holiday -1 renegad -1 arm -1 soldy -1 presid -1 command -1 -2
+region -1 ceasefir -1 staff -1 group -1 -2

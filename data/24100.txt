@@ -1,0 +1,3 @@
+market -1 niger -1 instruc -1 stock -1 kg -1 month -1 month -1 month -1 sack -1 low -1 provinc -1 billion -1 manag -1 good -1 calendar -1 interior -1 franc -1 cfa -1 cfa -1 cfa -1 cfa -1 cfa -1 cfa -1 capit -1 stat -1 stat -1 stat -1 percent -1 percent -1 local -1 -2
+govern -1 govern -1 treasur -1 fix -1 pric -1 pric -1 pric -1 pric -1 pric -1 lower -1 nige -1 nige -1 nige -1 merch -1 monday -1 author -1 rise -1 rise -1 harvest -1 past -1 civil -1 provid -1 rose -1 import -1 blam -1 minist -1 inflat -1 inflat -1 serv -1 risen -1 neighbor -1 -2
+cost -1 date -1 stapl -1 ton -1 millet -1 millet -1 millet -1 buff -1 niamey -1 arrear -1 compar -1 wag -1 town -1 deficit -1 deficit -1 suppl -1 lb -1 owe -1 abidj -1 newsroom -1 fight -1 fight -1 offic -1 trad -1 tax -1 -2

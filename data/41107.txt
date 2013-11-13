@@ -1,0 +1,3 @@
+market -1 gener -1 ag -1 interest -1 month -1 currenc -1 full -1 billion -1 franc -1 gross -1 stat -1 percent -1 percent -1 percent -1 anal -1 minor -1 cash -1 administ -1 gain -1 million -1 end -1 end -1 ciba -1 ciba -1 geigy -1 swiss -1 rise -1 rise -1 financ -1 financ -1 -2
+financ -1 loss -1 loss -1 loss -1 research -1 net -1 net -1 net -1 net -1 pre -1 note -1 cost -1 rang -1 incom -1 develop -1 h1 -1 sfr -1 profit -1 profit -1 profit -1 profit -1 profit -1 profit -1 result -1 pharmaceutic -1 asset -1 zurich -1 editor -1 expend -1 expend -1 total -1 -2
+total -1 june -1 june -1 aver -1 forecast -1 forecast -1 operat -1 distribut -1 sale -1 sale -1 tax -1 tax -1 group -1 group -1 group -1 -2

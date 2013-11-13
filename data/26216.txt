@@ -1,0 +1,3 @@
+mexic -1 televis -1 reach -1 chain -1 cup -1 cup -1 stag -1 year -1 year -1 year -1 team -1 club -1 club -1 club -1 spain -1 profil -1 smok -1 cesar -1 veter -1 local -1 local -1 local -1 vict -1 world -1 world -1 like -1 boca -1 junior -1 footbal -1 federat -1 -2
+support -1 span -1 round -1 nation -1 socc -1 return -1 side -1 spent -1 work -1 work -1 plat -1 menot -1 menot -1 menot -1 menot -1 independient -1 independient -1 botar -1 atletic -1 stint -1 host -1 event -1 take -1 argentin -1 argentin -1 bueno -1 rive -1 led -1 differ -1 charg -1 charg -1 -2
+charg -1 charg -1 wednesday -1 air -1 station -1 madrid -1 jorg -1 presid -1 absent -1 lui -1 ideal -1 barcelon -1 left -1 group -1 coach -1 -2

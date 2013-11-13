@@ -1,0 +1,2 @@
+compan -1 market -1 motor -1 ford -1 ford -1 ford -1 ford -1 ford -1 high -1 vehicl -1 vehicl -1 compact -1 sport -1 sport -1 year -1 full -1 york -1 line -1 manag -1 produc -1 discontinu -1 expect -1 expect -1 brand -1 debut -1 anticip -1 current -1 girard -1 girard -1 girard -1 -2
+speak -1 offer -1 success -1 exped -1 exped -1 exped -1 exped -1 exped -1 util -1 util -1 explor -1 size -1 bob -1 cannib -1 quadrupl -1 quadrupl -1 bronc -1 bronc -1 bronc -1 see -1 sale -1 sale -1 -2

@@ -1,0 +1,2 @@
+soybean -1 soybean -1 soybean -1 newsdesk -1 ag -1 high -1 high -1 high -1 high -1 high -1 bushel -1 low -1 trend -1 overnight -1 overnight -1 overnight -1 volum -1 volum -1 futur -1 contract -1 contract -1 contract -1 contract -1 contract -1 chicag -1 chicag -1 corn -1 corn -1 cent -1 cent -1 -2
+cent -1 cent -1 cent -1 cbot -1 cbot -1 wheat -1 wheat -1 wheat -1 call -1 call -1 agricultur -1 soymeal -1 soymeal -1 ton -1 board -1 project -1 project -1 total -1 soyoil -1 soyoil -1 lb -1 trad -1 trad -1 trad -1 option -1 -2

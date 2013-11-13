@@ -1,0 +1,2 @@
+attach -1 exercis -1 exercis -1 sep -1 sep -1 sep -1 bank -1 del -1 stok -1 sumitom -1 manag -1 war -1 war -1 war -1 war -1 common -1 borrow -1 equit -1 franc -1 issu -1 pay -1 lead -1 mabe -1 mabe -1 gottard -1 tasak -1 fix -1 shinju -1 banc -1 pric -1 -2
+pric -1 guarant -1 entitl -1 shar -1 matur -1 swiss -1 coupon -1 typ -1 purchas -1 london -1 period -1 note -1 note -1 date -1 sfr -1 link -1 aug -1 announc -1 intern -1 bond -1 oct -1 set -1 newsroom -1 amt -1 iss -1 hold -1 pct -1 mln -1 mln -1 -2

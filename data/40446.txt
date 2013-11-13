@@ -1,0 +1,2 @@
+market -1 clear -1 clear -1 retail -1 drug -1 ivy -1 skin -1 month -1 own -1 ivyblock -1 ivyblock -1 ivyblock -1 ivyblock -1 suggest -1 food -1 unit -1 approv -1 expect -1 protect -1 pric -1 administ -1 thursday -1 win -1 won -1 sumac -1 enviroderm -1 enviroderm -1 enviroderm -1 bottl -1 catal -1 -2
+oak -1 sell -1 fda -1 pharmaceutic -1 regulat -1 ounc -1 poison -1 poison -1 poison -1 count -1 -2

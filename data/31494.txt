@@ -1,0 +1,2 @@
+market -1 tight -1 tight -1 tight -1 recent -1 situat -1 cif -1 middl -1 north -1 retain -1 firm -1 fetch -1 strong -1 ipe -1 ipe -1 jet -1 jet -1 gain -1 futur -1 thursday -1 benchmark -1 remain -1 remain -1 fuel -1 london -1 mediterranean -1 mediterranean -1 put -1 put -1 fob -1 -2
+fob -1 fob -1 liby -1 liby -1 gobbl -1 med -1 med -1 prem -1 carg -1 carg -1 demand -1 suppl -1 eastern -1 friday -1 sept -1 sept -1 avail -1 avail -1 nwe -1 nwe -1 newsroom -1 ara -1 barg -1 trad -1 trad -1 trad -1 -2

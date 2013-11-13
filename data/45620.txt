@@ -1,0 +1,2 @@
+market -1 back -1 cap -1 cap -1 cap -1 clos -1 low -1 low -1 halt -1 nil -1 nil -1 chg -1 equit -1 week -1 key -1 claw -1 pric -1 index -1 index -1 index -1 soft -1 rally -1 volum -1 futur -1 million -1 shar -1 shar -1 end -1 end -1 ground -1 -2
+nz -1 nz -1 zealand -1 move -1 move -1 await -1 sell -1 aug -1 result -1 bond -1 nzs -1 nzs -1 nzsc -1 -2

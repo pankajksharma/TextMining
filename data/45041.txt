@@ -1,0 +1,2 @@
+rate -1 rate -1 month -1 mgr -1 vendor -1 manag -1 firm -1 employ -1 indicat -1 slight -1 produc -1 report -1 expect -1 expect -1 pric -1 pric -1 pric -1 show -1 show -1 show -1 support -1 deliv -1 deliv -1 nation -1 increas -1 increas -1 increas -1 commod -1 rise -1 august -1 -2
+august -1 buy -1 purchas -1 purchas -1 purchas -1 assoc -1 declin -1 servic -1 signif -1 improv -1 chapt -1 basi -1 cincinnat -1 cincinnat -1 chang -1 chang -1 need -1 ord -1 ord -1 group -1 -2

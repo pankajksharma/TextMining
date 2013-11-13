@@ -1,0 +1,2 @@
+month -1 year -1 fall -1 common -1 q4 -1 gross -1 stat -1 condens -1 bill -1 shar -1 shar -1 adjust -1 adjust -1 end -1 end -1 outstand -1 net -1 net -1 net -1 weight -1 consolid -1 americ -1 americ -1 incom -1 incom -1 incom -1 incom -1 incom -1 revenu -1 fron -1 -2
+fron -1 aver -1 operat -1 licens -1 subsid -1 tax -1 -2

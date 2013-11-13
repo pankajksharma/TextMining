@@ -1,0 +1,2 @@
+retail -1 publ -1 econom -1 econom -1 cbs -1 indicat -1 indicat -1 indicat -1 week -1 week -1 key -1 gmt -1 amsterdam -1 balanc -1 cash -1 dutch -1 dutch -1 statist -1 bureau -1 cent -1 dfl -1 bln -1 period -1 date -1 july -1 plan -1 prev -1 june -1 june -1 friday -1 -2
+sept -1 newsroom -1 sale -1 trad -1 pct -1 -2

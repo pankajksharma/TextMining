@@ -1,0 +1,4 @@
+oilseed -1 recov -1 fat -1 market -1 stock -1 stock -1 stock -1 stock -1 high -1 high -1 month -1 rape -1 low -1 countr -1 crush -1 output -1 output -1 regist -1 view -1 week -1 quart -1 domest -1 world -1 world -1 world -1 world -1 pric -1 soft -1 end -1 end -1 -2
+versus -1 versus -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 oil -1 chin -1 give -1 renew -1 consid -1 author -1 short -1 august -1 rise -1 buy -1 attract -1 vera -1 eckert -1 foreign -1 import -1 newslet -1 porl -1 soya -1 put -1 ton -1 ton -1 -2
+ton -1 offset -1 attribut -1 malays -1 malays -1 malays -1 july -1 hamburg -1 septemb -1 reduc -1 reduc -1 demand -1 demand -1 demand -1 june -1 suppl -1 sept -1 glob -1 depend -1 season -1 septmeb -1 make -1 palm -1 palm -1 palm -1 palm -1 palm -1 newsroom -1 see -1 forecast -1 forecast -1 -2
+licens -1 peak -1 amid -1 precis -1 slow -1 trad -1 independ -1 -2

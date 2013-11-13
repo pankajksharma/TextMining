@@ -1,0 +1,2 @@
+market -1 market -1 market -1 sect -1 gener -1 quiet -1 quiet -1 month -1 start -1 select -1 select -1 german -1 portug -1 franc -1 bought -1 sourc -1 afric -1 italy -1 requir -1 crop -1 europ -1 europ -1 european -1 long -1 industr -1 remain -1 pend -1 proport -1 buy -1 cent -1 -2
+western -1 qual -1 autumn -1 lack -1 spin -1 medium -1 fine -1 stapl -1 export -1 asian -1 cotton -1 insignif -1 egypt -1 eastern -1 featur -1 sale -1 trad -1 zone -1 -2

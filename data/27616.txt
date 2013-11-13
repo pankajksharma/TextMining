@@ -1,0 +1,2 @@
+du -1 market -1 tuesday -1 tuni -1 tuni -1 stock -1 clos -1 clos -1 clos -1 high -1 bank -1 bank -1 bdet -1 monoprix -1 sourc -1 slight -1 percent -1 percent -1 percent -1 percent -1 percent -1 index -1 volum -1 million -1 million -1 shar -1 banqu -1 exchang -1 sud -1 wednesday -1 -2
+dinar -1 dinar -1 dinar -1 dinar -1 dinar -1 dinar -1 bours -1 bours -1 retal -1 stor -1 trad -1 trad -1 btei -1 -2

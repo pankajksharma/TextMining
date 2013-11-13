@@ -1,0 +1,4 @@
+stak -1 compan -1 compan -1 compan -1 awar -1 early -1 early -1 early -1 retail -1 back -1 rumor -1 rumor -1 target -1 stock -1 clos -1 idea -1 idea -1 immed -1 high -1 own -1 year -1 touch -1 suit -1 suggest -1 deal -1 capit -1 capit -1 today -1 stat -1 percent -1 -2
+percent -1 mention -1 pric -1 pric -1 pric -1 pric -1 pric -1 volum -1 million -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 increas -1 singapor -1 singapor -1 singapor -1 met -1 met -1 met -1 met -1 met -1 met -1 rose -1 rose -1 exchang -1 mater -1 propert -1 -2
+net -1 slid -1 risen -1 direct -1 estimat -1 led -1 circumst -1 day -1 corp -1 hand -1 septemb -1 asset -1 prev -1 comment -1 inform -1 friday -1 friday -1 friday -1 chang -1 intraday -1 takeov -1 takeov -1 newsroom -1 activ -1 activ -1 hold -1 hold -1 hold -1 offic -1 trad -1 trad -1 -2
+trad -1 trad -1 group -1 -2

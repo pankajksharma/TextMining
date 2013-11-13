@@ -1,0 +1,2 @@
+tuesday -1 stock -1 stock -1 stock -1 clos -1 even -1 low -1 ali -1 ahead -1 karach -1 karach -1 point -1 invest -1 deal -1 deal -1 unrest -1 light -1 percent -1 subdu -1 sent -1 fell -1 fell -1 pric -1 gain -1 index -1 index -1 rally -1 rally -1 volum -1 million -1 -2
+million -1 shar -1 thursday -1 open -1 end -1 remain -1 remain -1 polit -1 pressur -1 lose -1 exchang -1 pakist -1 posit -1 dull -1 new -1 pakistan -1 sell -1 session -1 wednesday -1 raza -1 major -1 due -1 oppos -1 oppos -1 amid -1 sidelin -1 trad -1 -2

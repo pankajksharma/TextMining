@@ -1,0 +1,5 @@
+stak -1 compan -1 compan -1 liber -1 sect -1 observ -1 ag -1 ag -1 ag -1 ag -1 immed -1 year -1 team -1 ahead -1 ahead -1 form -1 form -1 form -1 german -1 german -1 spain -1 bold -1 unit -1 unit -1 week -1 magazin -1 magazin -1 magazin -1 rwe -1 germ -1 -2
+switzerland -1 report -1 report -1 report -1 report -1 report -1 fix -1 big -1 reut -1 busi -1 telephon -1 custom -1 alli -1 alli -1 netherland -1 european -1 long -1 contract -1 deutsch -1 industr -1 win -1 telecommun -1 swed -1 gmbh -1 buy -1 public -1 bahn -1 provid -1 told -1 network -1 network -1 -2
+nv -1 phon -1 phon -1 call -1 work -1 award -1 viag -1 servic -1 bid -1 bid -1 bid -1 util -1 fact -1 step -1 specul -1 specul -1 new -1 aren -1 telecom -1 telecom -1 mobil -1 daiml -1 daiml -1 benz -1 debi -1 debi -1 debi -1 debi -1 debi -1 wirtschaft -1 woch -1 -2
+unisourc -1 unisourc -1 debitel -1 dbkom -1 e2 -1 e2 -1 railway -1 commun -1 plan -1 corp -1 wednesday -1 bad -1 comment -1 spokesm -1 brit -1 joint -1 ventur -1 friday -1 cellul -1 consort -1 licent -1 licent -1 licent -1 licent -1 mannesman -1 wir -1 make -1 releas -1 partn -1 operat -1 hope -1 -2
+thought -1 com -1 subsid -1 -2

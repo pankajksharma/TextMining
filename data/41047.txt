@@ -1,0 +1,3 @@
+gener -1 gener -1 attend -1 inspect -1 month -1 consist -1 countr -1 countr -1 countr -1 countr -1 receiv -1 joulw -1 north -1 portug -1 spain -1 annual -1 treat -1 stat -1 atlant -1 atlant -1 reut -1 iberia -1 defend -1 instal -1 europ -1 alli -1 alli -1 netherland -1 luxembourg -1 iceland -1 -2
+commit -1 commit -1 commit -1 forc -1 forc -1 tour -1 tour -1 visit -1 visit -1 sheeh -1 georg -1 chief -1 chief -1 organ -1 nato -1 nato -1 nato -1 ally -1 ally -1 milit -1 milit -1 milit -1 milit -1 wednesday -1 septemb -1 septemb -1 john -1 men -1 suprem -1 suprem -1 arm -1 -2
+command -1 command -1 top -1 top -1 offic -1 staff -1 belg -1 -2

@@ -1,0 +1,4 @@
+soybean -1 soybean -1 soybean -1 carry -1 tuesday -1 tuesday -1 clos -1 clos -1 clos -1 high -1 high -1 clavet -1 month -1 month -1 low -1 year -1 variabl -1 full -1 crush -1 crush -1 crush -1 crush -1 crush -1 crush -1 crush -1 crush -1 crush -1 start -1 manag -1 turn -1 -2
+produc -1 produc -1 expect -1 expect -1 kumar -1 kumar -1 material -1 cash -1 canad -1 canad -1 canad -1 bijay -1 futur -1 futur -1 futur -1 crop -1 crop -1 strength -1 end -1 oil -1 oil -1 oil -1 cargill -1 cargill -1 commod -1 chicag -1 attract -1 buy -1 harvest -1 pressur -1 pressur -1 -2
+cbot -1 exchang -1 pret -1 margin -1 margin -1 margin -1 margin -1 margin -1 sask -1 improv -1 improv -1 soymeal -1 new -1 cost -1 risk -1 ton -1 ton -1 ton -1 base -1 sell -1 valu -1 winnipeg -1 wce -1 canol -1 canol -1 canol -1 canol -1 canol -1 canol -1 canol -1 hap -1 -2
+plant -1 bad -1 board -1 favor -1 soyoil -1 lb -1 meal -1 meal -1 meal -1 prospect -1 trad -1 trad -1 hedg -1 -2

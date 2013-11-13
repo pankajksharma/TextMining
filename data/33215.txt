@@ -1,0 +1,2 @@
+draw -1 french -1 french -1 saturday -1 havr -1 marseill -1 guingamp -1 bordeau -1 pari -1 point -1 stand -1 stand -1 lyon -1 bastia -1 lost -1 ren -1 monac -1 metz -1 len -1 montpel -1 auxer -1 germain -1 leagu -1 leagu -1 socc -1 socc -1 nice -1 le -1 won -1 match -1 -2
+play -1 can -1 saint -1 nant -1 goal -1 goal -1 caen -1 lill -1 tabulat -1 strasbourg -1 nancy -1 -2

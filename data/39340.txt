@@ -1,0 +1,5 @@
+intens -1 stak -1 stak -1 angl -1 angl -1 angl -1 angl -1 angl -1 angl -1 angl -1 market -1 small -1 clos -1 clos -1 reeas -1 rand -1 high -1 high -1 high -1 reach -1 low -1 soar -1 brew -1 ahead -1 ahead -1 ahead -1 climb -1 agree -1 point -1 view -1 -2
+line -1 good -1 mind -1 deal -1 deal -1 deal -1 deal -1 deal -1 deal -1 larg -1 larg -1 knock -1 afric -1 afric -1 afric -1 gmt -1 percent -1 percent -1 percent -1 jump -1 appear -1 rest -1 index -1 index -1 volum -1 volum -1 empow -1 empow -1 anticip -1 shar -1 shar -1 -2
+shar -1 shar -1 shar -1 shar -1 shar -1 nation -1 industr -1 time -1 buy -1 finish -1 finish -1 media -1 side -1 cent -1 premy -1 specul -1 new -1 new -1 new -1 ride -1 part -1 nec -1 nec -1 nec -1 date -1 south -1 south -1 south -1 final -1 americ -1 hasn -1 -2
+day -1 day -1 result -1 corp -1 announc -1 announc -1 announc -1 includ -1 black -1 hand -1 wednesday -1 wednesday -1 asset -1 john -1 john -1 john -1 john -1 john -1 john -1 john -1 chear -1 joint -1 joint -1 ventur -1 chang -1 consort -1 johannesburg -1 newsroom -1 melanie -1 toyot -1 confer -1 -2
+hold -1 trad -1 trad -1 trad -1 trad -1 group -1 -2

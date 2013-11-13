@@ -1,0 +1,2 @@
+market -1 retail -1 clos -1 clos -1 high -1 high -1 low -1 disappoint -1 yr -1 affect -1 week -1 slight -1 slight -1 debt -1 debt -1 anal -1 expect -1 reut -1 index -1 futur -1 futur -1 rise -1 redbook -1 mail -1 note -1 consolid -1 consolid -1 aug -1 derivat -1 derivat -1 -2
+desk -1 sale -1 sale -1 pct -1 -2

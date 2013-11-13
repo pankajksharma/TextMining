@@ -1,0 +1,3 @@
+market -1 market -1 recent -1 recent -1 quiet -1 econom -1 tuesday -1 high -1 interest -1 interest -1 rate -1 monet -1 ahead -1 damp -1 data -1 data -1 start -1 point -1 deal -1 week -1 week -1 today -1 germ -1 meet -1 meet -1 fts -1 expect -1 lead -1 decid -1 mix -1 -2
+m4 -1 index -1 fomc -1 fomc -1 anticip -1 shar -1 shar -1 shar -1 open -1 open -1 open -1 open -1 monday -1 remain -1 stead -1 stead -1 feder -1 reserv -1 pressur -1 commit -1 worry -1 inflat -1 london -1 outcom -1 session -1 wednesday -1 caut -1 uk -1 uk -1 chang -1 polic -1 -2
+activ -1 trad -1 eas -1 -2

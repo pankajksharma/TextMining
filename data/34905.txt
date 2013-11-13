@@ -1,0 +1,4 @@
+stay -1 label -1 compan -1 compan -1 compan -1 protest -1 promot -1 sichu -1 provinc -1 newspap -1 newspap -1 newspap -1 pictur -1 war -1 red -1 exquisit -1 capit -1 indign -1 produc -1 lost -1 veter -1 enjoy -1 lead -1 zedong -1 troop -1 cash -1 blood -1 boom -1 miner -1 miner -1 -2
+miner -1 ang -1 telephon -1 wartim -1 wat -1 wat -1 wat -1 trig -1 gimmick -1 party -1 youth -1 nation -1 monday -1 chin -1 chin -1 mao -1 daily -1 civil -1 drank -1 tast -1 tast -1 tast -1 quot -1 city -1 resid -1 reput -1 fine -1 claim -1 king -1 southwestern -1 settl -1 -2
+bottl -1 bottl -1 taiw -1 consum -1 exclud -1 word -1 contact -1 commun -1 commun -1 beij -1 hand -1 army -1 army -1 memb -1 outcr -1 styl -1 late -1 chiang -1 chiang -1 chiang -1 chiang -1 chiang -1 chiang -1 chiang -1 mass -1 kai -1 kai -1 kai -1 shek -1 shek -1 shek -1 -2
+fled -1 presid -1 presid -1 presid -1 advert -1 sale -1 offic -1 chongq -1 chongq -1 chongq -1 backfir -1 stain -1 -2

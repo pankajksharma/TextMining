@@ -1,0 +1,4 @@
+stak -1 compan -1 compan -1 compan -1 compan -1 retail -1 quiet -1 quiet -1 thin -1 rumor -1 tuesday -1 stock -1 stock -1 target -1 idea -1 sharehold -1 high -1 high -1 touch -1 start -1 point -1 invest -1 invest -1 key -1 key -1 percent -1 upp -1 gain -1 gain -1 index -1 -2
+index -1 index -1 volum -1 volum -1 volum -1 volum -1 volum -1 brok -1 sold -1 million -1 million -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 transmarc -1 transmarc -1 end -1 end -1 tycoon -1 puter -1 sampoern -1 sampoern -1 miel -1 industr -1 -2
+telecommun -1 time -1 sukamt -1 sukamt -1 sia -1 sia -1 rise -1 rise -1 rise -1 buy -1 singapor -1 singapor -1 singapor -1 finish -1 foreign -1 pin -1 met -1 met -1 met -1 rose -1 rose -1 margin -1 continu -1 declin -1 punt -1 bid -1 new -1 led -1 led -1 strait -1 includ -1 -2
+dominat -1 friday -1 major -1 indones -1 morn -1 takeov -1 takeov -1 hope -1 hold -1 hold -1 trad -1 trad -1 trad -1 block -1 -2

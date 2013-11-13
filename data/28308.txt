@@ -1,0 +1,3 @@
+tough -1 accur -1 train -1 clos -1 inspect -1 violat -1 skin -1 year -1 ayam -1 bank -1 video -1 gulf -1 gulf -1 issu -1 lead -1 digest -1 monitor -1 protect -1 environ -1 al -1 al -1 reut -1 law -1 law -1 wat -1 ensur -1 control -1 discuss -1 press -1 press -1 -2
+surgeon -1 daily -1 verif -1 health -1 health -1 vouch -1 cent -1 cent -1 green -1 forc -1 minist -1 minist -1 new -1 inaugur -1 arad -1 shop -1 develop -1 pollut -1 story -1 story -1 sitr -1 electr -1 aug -1 plan -1 wednesday -1 septemb -1 plast -1 bahrain -1 bahrain -1 bahrain -1 bahrain -1 -2
+late -1 set -1 akhbar -1 khaleej -1 electron -1 -2

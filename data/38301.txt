@@ -1,0 +1,4 @@
+stay -1 credit -1 econom -1 reschedul -1 reschedul -1 tuesday -1 manil -1 manil -1 rate -1 rate -1 consist -1 march -1 countr -1 countr -1 year -1 review -1 agent -1 bank -1 bank -1 bank -1 ocamp -1 ocamp -1 ocamp -1 invest -1 invest -1 fax -1 de -1 de -1 de -1 lent -1 -2
+fund -1 debt -1 loan -1 loan -1 loan -1 loan -1 loan -1 loan -1 grad -1 report -1 percent -1 percent -1 requir -1 requir -1 requir -1 govern -1 mean -1 lend -1 provis -1 provis -1 exposur -1 case -1 case -1 secret -1 remain -1 wataru -1 kubo -1 urg -1 urg -1 financ -1 financ -1 -2
+text -1 cite -1 loss -1 revisit -1 minist -1 heavy -1 improv -1 toky -1 disincent -1 buff -1 philippin -1 philippin -1 philippin -1 philippin -1 philippin -1 philippin -1 institut -1 climat -1 worthwhil -1 prev -1 japan -1 japan -1 japan -1 japan -1 japan -1 japan -1 rule -1 rule -1 rule -1 set -1 robert -1 -2
+releas -1 impos -1 impos -1 newsroom -1 add -1 let -1 let -1 eas -1 -2

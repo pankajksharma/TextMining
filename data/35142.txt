@@ -1,0 +1,2 @@
+usda -1 market -1 market -1 texa -1 thin -1 own -1 midday -1 privat -1 inact -1 live -1 cattl -1 cattl -1 cattl -1 cattl -1 cattl -1 week -1 light -1 sourc -1 sourc -1 report -1 oklahom -1 kans -1 pric -1 pric -1 sold -1 monday -1 weekend -1 stead -1 area -1 pack -1 -2
+pack -1 cwt -1 western -1 head -1 bid -1 feedlot -1 feedlot -1 feedlot -1 panhandl -1 bulk -1 day -1 labor -1 hand -1 suppl -1 suppl -1 holiday -1 plain -1 plain -1 top -1 trad -1 trad -1 -2

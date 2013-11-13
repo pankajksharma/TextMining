@@ -1,0 +1,4 @@
+early -1 early -1 acquir -1 market -1 launch -1 ag -1 reach -1 year -1 year -1 form -1 form -1 fall -1 mid -1 invest -1 invest -1 invest -1 equit -1 equit -1 franc -1 franc -1 franc -1 franc -1 debt -1 debt -1 stat -1 switzerland -1 percent -1 expect -1 cash -1 fix -1 -2
+ratio -1 level -1 interim -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 million -1 matur -1 end -1 end -1 end -1 remain -1 swiss -1 swiss -1 swiss -1 swiss -1 current -1 eurobons -1 financ -1 provid -1 provid -1 rose -1 pack -1 half -1 half -1 half -1 -2
+alusuiss -1 alusuiss -1 alusuiss -1 alusuiss -1 alusuiss -1 alusuiss -1 alusuiss -1 alusuiss -1 lonz -1 cost -1 cost -1 gear -1 sfr -1 covert -1 alumin -1 includ -1 chemic -1 asset -1 convertibl -1 convertibl -1 zurich -1 editor -1 secur -1 june -1 june -1 bond -1 quad -1 ord -1 hold -1 group -1 group -1 -2
+group -1 mln -1 -2

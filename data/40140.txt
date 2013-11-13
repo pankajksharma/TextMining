@@ -1,0 +1,2 @@
+market -1 fin -1 interest -1 rate -1 rate -1 rate -1 rate -1 low -1 bank -1 fall -1 stat -1 percent -1 percent -1 expect -1 helsink -1 lower -1 aktia -1 aktia -1 aktia -1 cut -1 prim -1 prim -1 prim -1 inflat -1 base -1 wednesday -1 septemb -1 effect -1 saastopankk -1 moderat -1 -2
+newsroom -1 pct -1 pct -1 -2

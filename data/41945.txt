@@ -1,0 +1,4 @@
+market -1 recent -1 retail -1 gener -1 high -1 interest -1 interest -1 rate -1 rate -1 rate -1 month -1 low -1 monet -1 begin -1 countr -1 countr -1 year -1 year -1 year -1 year -1 currenc -1 currenc -1 currenc -1 currenc -1 fall -1 fall -1 deprec -1 deprec -1 stat -1 percent -1 -2
+percent -1 zhou -1 zhou -1 zhou -1 mean -1 pric -1 administ -1 thursday -1 thursday -1 face -1 face -1 control -1 obvi -1 versus -1 versus -1 chin -1 chin -1 chin -1 chin -1 chin -1 chin -1 stead -1 stead -1 stabl -1 stood -1 foreign -1 pressur -1 pressur -1 made -1 told -1 exchang -1 -2
+exchang -1 cut -1 cut -1 xiaochu -1 senior -1 inflat -1 inflat -1 inflat -1 inflat -1 inflat -1 shanghai -1 buoy -1 new -1 direct -1 presssur -1 july -1 ask -1 great -1 concern -1 comment -1 hong -1 kong -1 apprec -1 dollar -1 respons -1 spur -1 depend -1 extent -1 newsroom -1 yuan -1 yuan -1 -2
+yuan -1 yuan -1 confer -1 interbank -1 offic -1 offic -1 -2

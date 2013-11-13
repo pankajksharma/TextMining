@@ -1,0 +1,4 @@
+accur -1 record -1 interest -1 rate -1 countr -1 year -1 year -1 newspap -1 newspap -1 agree -1 billion -1 firm -1 fax -1 unit -1 contain -1 peopl -1 week -1 treat -1 human -1 human -1 stat -1 percent -1 strong -1 lead -1 digest -1 check -1 reut -1 reut -1 guarant -1 busi -1 -2
+telephon -1 reform -1 test -1 support -1 nation -1 nation -1 mahathir -1 mohamad -1 sum -1 jiang -1 chin -1 chin -1 chin -1 chin -1 chin -1 chin -1 chin -1 zemin -1 polit -1 august -1 press -1 public -1 daily -1 daily -1 financ -1 commit -1 told -1 western -1 cut -1 right -1 right -1 -2
+forc -1 prim -1 minist -1 tour -1 visit -1 dialog -1 half -1 step -1 step -1 gabon -1 new -1 attack -1 story -1 story -1 nuclear -1 ban -1 contact -1 malays -1 impass -1 coop -1 resolut -1 resist -1 beij -1 beij -1 revenu -1 secur -1 editor -1 editor -1 total -1 major -1 glob -1 -2
+presid -1 thank -1 prepar -1 -2

@@ -1,0 +1,2 @@
+compan -1 cartridg -1 cartridg -1 compatibl -1 retail -1 low -1 compact -1 color -1 color -1 color -1 color -1 page -1 produc -1 produc -1 introduc -1 introduc -1 home -1 jan -1 jet -1 jet -1 environ -1 window -1 window -1 dos -1 sold -1 print -1 print -1 print -1 techn -1 techn -1 -2
+techn -1 monday -1 machin -1 machin -1 comput -1 comput -1 peripher -1 pound -1 rebat -1 mail -1 cost -1 nec -1 nec -1 nec -1 nec -1 sell -1 corpor -1 minut -1 black -1 dispos -1 septemb -1 ink -1 ink -1 ink -1 ink -1 superscrib -1 monochrom -1 printout -1 separat -1 manufactur -1 subsid -1 -2

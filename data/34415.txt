@@ -1,0 +1,2 @@
+interest -1 interest -1 rate -1 rate -1 rate -1 month -1 month -1 month -1 month -1 month -1 year -1 bank -1 week -1 week -1 week -1 fund -1 govern -1 treasur -1 bill -1 mix -1 end -1 feder -1 feder -1 reserv -1 pape -1 aug -1 aug -1 compar -1 announc -1 accept -1 -2
+bond -1 aver -1 late -1 eurodol -1 cds -1 commerc -1 -2

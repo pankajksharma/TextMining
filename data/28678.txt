@@ -1,0 +1,2 @@
+compan -1 ping -1 ping -1 ping -1 stock -1 clos -1 month -1 shr -1 nil -1 nil -1 debt -1 stat -1 payabl -1 gain -1 interim -1 provis -1 million -1 end -1 dividend -1 dividend -1 hk -1 cent -1 cent -1 loss -1 loss -1 loss -1 loss -1 loss -1 tai -1 tai -1 -2
+tai -1 move -1 net -1 net -1 net -1 note -1 carpet -1 carpet -1 carpet -1 book -1 except -1 except -1 turnov -1 profit -1 post -1 item -1 intern -1 hong -1 kong -1 june -1 newsroom -1 manufactur -1 doubt -1 slow -1 -2

@@ -1,0 +1,3 @@
+stay -1 fire -1 fire -1 capac -1 capac -1 capac -1 market -1 bp -1 bp -1 bp -1 bp -1 jacquelin -1 wong -1 spokeswom -1 york -1 petroleum -1 unit -1 unit -1 week -1 strong -1 expect -1 pric -1 crack -1 crack -1 crack -1 crack -1 crack -1 status -1 brok -1 tank -1 -2
+thursday -1 crak -1 end -1 crud -1 crud -1 crud -1 remain -1 lima -1 lima -1 lima -1 lima -1 august -1 cat -1 cat -1 cat -1 cat -1 loss -1 midw -1 midw -1 declin -1 note -1 energ -1 shut -1 shut -1 shut -1 bpd -1 bpd -1 ohio -1 base -1 sell -1 link -1 -2
+day -1 day -1 day -1 wednesday -1 refin -1 refin -1 gasolin -1 comment -1 comment -1 barrel -1 brit -1 prompt -1 don -1 action -1 operat -1 desk -1 locat -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

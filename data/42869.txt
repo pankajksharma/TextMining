@@ -1,0 +1,4 @@
+early -1 thin -1 thin -1 stock -1 clos -1 clos -1 bank -1 bank -1 bank -1 point -1 regist -1 firm -1 firm -1 firm -1 invest -1 invest -1 unit -1 unit -1 gulf -1 gulf -1 week -1 week -1 week -1 week -1 week -1 stat -1 oman -1 fell -1 pric -1 index -1 -2
+index -1 index -1 volum -1 million -1 million -1 thursday -1 thursday -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 open -1 open -1 end -1 end -1 nation -1 nation -1 industr -1 stead -1 foreign -1 fil -1 fil -1 fil -1 fil -1 -2
+focus -1 exchang -1 ago -1 emirat -1 corp -1 arabia -1 dominat -1 arab -1 arab -1 kuwait -1 saud -1 bours -1 bours -1 bours -1 dinar -1 dinar -1 dinar -1 dinar -1 dinar -1 worth -1 worth -1 worth -1 worth -1 bahrain -1 bahrain -1 bahrain -1 bahrain -1 bahrain -1 bahrain -1 unchang -1 add -1 -2
+qatar -1 transact -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

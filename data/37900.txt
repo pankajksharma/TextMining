@@ -1,0 +1,2 @@
+calm -1 market -1 french -1 french -1 money -1 clos -1 clos -1 bp -1 bp -1 low -1 low -1 low -1 low -1 low -1 yr -1 uneas -1 franc -1 spread -1 unch -1 debt -1 gmt -1 yield -1 oat -1 fell -1 futur -1 futur -1 futur -1 finish -1 weak -1 call -1 -2
+pibor -1 pibor -1 day -1 day -1 bond -1 bond -1 bund -1 sept -1 sept -1 vol -1 mark -1 pct -1 pct -1 -2

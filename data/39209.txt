@@ -1,0 +1,2 @@
+healthcar -1 limit -1 market -1 newsdesk -1 medic -1 medic -1 medic -1 medic -1 privat -1 mast -1 mast -1 agree -1 system -1 roll -1 roll -1 produc -1 name -1 convert -1 chicag -1 finish -1 india -1 tape -1 tape -1 tape -1 tape -1 lectec -1 lectec -1 lectec -1 medtek -1 medtek -1 -2
+medtek -1 dermapor -1 dermasilk -1 dermasynth -1 sell -1 sell -1 corp -1 wednesday -1 manufactur -1 indian -1 execut -1 asia -1 asia -1 asia -1 trad -1 -2

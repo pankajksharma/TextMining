@@ -1,0 +1,2 @@
+compan -1 market -1 newsdesk -1 back -1 back -1 back -1 tech -1 stock -1 stock -1 medic -1 medic -1 medic -1 repret -1 sharehold -1 sharehold -1 opinion -1 month -1 york -1 manag -1 undervalu -1 approv -1 approv -1 million -1 shar -1 shar -1 shar -1 shar -1 shar -1 thursday -1 open -1 -2
+innovat -1 techn -1 techn -1 buy -1 buy -1 buy -1 outstand -1 financ -1 sever -1 chief -1 gill -1 direct -1 stev -1 resolut -1 board -1 set -1 offic -1 -2

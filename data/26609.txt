@@ -1,0 +1,2 @@
+naphth -1 back -1 gas -1 gas -1 low -1 screen -1 cargoe -1 firm -1 firm -1 produc -1 produc -1 strong -1 help -1 nymex -1 fell -1 mix -1 pric -1 pric -1 gain -1 futur -1 support -1 oil -1 oil -1 oil -1 oil -1 oil -1 buy -1 fuel -1 fuel -1 pressur -1 -2
+weak -1 weak -1 weak -1 qual -1 london -1 russian -1 problem -1 fob -1 fob -1 wednesday -1 effect -1 prem -1 gasolin -1 cancel -1 nwe -1 nwe -1 newsroom -1 ara -1 ara -1 activ -1 barg -1 barg -1 trad -1 trad -1 trad -1 trad -1 -2

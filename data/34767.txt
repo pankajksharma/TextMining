@@ -1,0 +1,2 @@
+soybean -1 early -1 linseed -1 month -1 year -1 bracket -1 nil -1 unit -1 holland -1 holland -1 ship -1 ship -1 italy -1 plt -1 plt -1 plt -1 plt -1 plt -1 janu -1 expl -1 expl -1 sunoil -1 soypellet -1 sunpellet -1 oil -1 chin -1 princip -1 groundnut -1 destin -1 figur -1 -2
+agricultur -1 soymeal -1 argentin -1 argentin -1 bueno -1 ton -1 ton -1 vegoil -1 sunseed -1 cotton -1 air -1 kingdom -1 total -1 june -1 june -1 june -1 thailand -1 secretariat -1 newsroom -1 subproduc -1 subproduc -1 iran -1 roman -1 -2

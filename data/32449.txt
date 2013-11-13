@@ -1,0 +1,1 @@
+market -1 stock -1 immed -1 alert -1 perform -1 rate -1 list -1 confirm -1 pric -1 drop -1 cut -1 cut -1 research -1 genet -1 genet -1 base -1 detail -1 institut -1 institut -1 recommend -1 goldm -1 sach -1 -2

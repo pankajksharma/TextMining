@@ -1,0 +1,2 @@
+stock -1 alert -1 rate -1 rate -1 rate -1 rate -1 month -1 point -1 system -1 issu -1 grad -1 percent -1 assign -1 assign -1 index -1 brok -1 exchang -1 research -1 research -1 research -1 section -1 move -1 topix -1 toky -1 direct -1 valu -1 institut -1 institut -1 corp -1 daiw -1 -2
+daiw -1 secur -1 friday -1 see -1 -2

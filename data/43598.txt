@@ -1,0 +1,2 @@
+compan -1 compan -1 market -1 rumor -1 rumor -1 broker -1 dev -1 fall -1 deal -1 percent -1 fell -1 fell -1 world -1 world -1 world -1 world -1 unavail -1 dilut -1 volum -1 brok -1 million -1 shar -1 shar -1 shar -1 shar -1 shar -1 trig -1 talk -1 hk -1 hk -1 -2
+propert -1 direct -1 develop -1 develop -1 detail -1 plan -1 plan -1 comment -1 plac -1 plac -1 plac -1 hong -1 kong -1 late -1 morn -1 morn -1 newsroom -1 fear -1 region -1 offic -1 trad -1 trad -1 -2

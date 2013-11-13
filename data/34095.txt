@@ -1,0 +1,3 @@
+compan -1 capac -1 small -1 small -1 stock -1 stock -1 stop -1 clos -1 facil -1 facil -1 facil -1 schedul -1 full -1 york -1 north -1 site -1 site -1 mid -1 mid -1 maintain -1 employ -1 peopl -1 produc -1 produc -1 expect -1 fell -1 world -1 phas -1 support -1 concept -1 -2
+monday -1 age -1 industr -1 time -1 machin -1 disadvant -1 cent -1 exchang -1 loss -1 continu -1 signif -1 put -1 job -1 part -1 final -1 americ -1 martinsvill -1 martinsvill -1 dupont -1 dupont -1 dupont -1 dupont -1 dupont -1 dupont -1 dupont -1 result -1 plant -1 plant -1 plant -1 plant -1 plant -1 -2
+impact -1 built -1 nylon -1 nylon -1 nylon -1 nylon -1 suppl -1 suppl -1 apparel -1 add -1 manufactur -1 operat -1 operat -1 precis -1 precis -1 va -1 staff -1 group -1 -2

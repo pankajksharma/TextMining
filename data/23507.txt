@@ -1,0 +1,3 @@
+compan -1 market -1 market -1 market -1 tuesday -1 fin -1 target -1 target -1 reach -1 fast -1 sep -1 year -1 year -1 year -1 year -1 year -1 manag -1 good -1 food -1 food -1 food -1 employ -1 oy -1 bought -1 produc -1 stat -1 percent -1 percent -1 percent -1 raisio -1 -2
+raisio -1 raisio -1 raisio -1 raisio -1 raisio -1 fim -1 fim -1 raision -1 tehtaat -1 markk -1 margarin -1 margarin -1 margarin -1 heinio -1 polsk -1 modern -1 olsen -1 polish -1 polish -1 polish -1 polish -1 polish -1 poland -1 poland -1 million -1 million -1 shar -1 shar -1 end -1 grow -1 grow -1 -2
+work -1 net -1 fact -1 direct -1 turnov -1 chemic -1 object -1 achief -1 spac -1 cond -1 sale -1 sale -1 subsid -1 subsid -1 group -1 mln -1 -2

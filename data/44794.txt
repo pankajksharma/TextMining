@@ -1,0 +1,3 @@
+compan -1 surf -1 capac -1 early -1 market -1 market -1 merrill -1 merrill -1 merrill -1 stock -1 year -1 schedul -1 schedul -1 system -1 wire -1 common -1 file -1 deal -1 deal -1 individual -1 week -1 lead -1 mci -1 mci -1 mci -1 million -1 million -1 class -1 nation -1 dieg -1 -2
+give -1 public -1 off -1 resal -1 network -1 san -1 offer -1 initial -1 servic -1 servic -1 telecom -1 telecom -1 pcs -1 propos -1 underwrit -1 commun -1 commun -1 plan -1 corp -1 announc -1 announc -1 includ -1 person -1 june -1 lynch -1 friday -1 connect -1 symbol -1 ipo -1 ipo -1 pact -1 -2
+top -1 nextwav -1 nextwav -1 nextwav -1 nextwav -1 -2

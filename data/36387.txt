@@ -1,0 +1,1 @@
+slip -1 immed -1 month -1 data -1 shr -1 shr -1 shr -1 shr -1 rev -1 rev -1 avg -1 avg -1 avg -1 q2 -1 shar -1 shar -1 industr -1 outstand -1 numb -1 figur -1 net -1 net -1 net -1 telecom -1 note -1 corp -1 -2

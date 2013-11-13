@@ -1,0 +1,1 @@
+stock -1 clos -1 clos -1 clos -1 low -1 light -1 gmt -1 fell -1 pric -1 pric -1 pric -1 gain -1 index -1 volum -1 shar -1 lose -1 exchang -1 edt -1 amex -1 amex -1 americ -1 prelimin -1 compar -1 wednesday -1 aver -1 aver -1 offic -1 trad -1 beat -1 -2

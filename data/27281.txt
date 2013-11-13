@@ -1,0 +1,2 @@
+excit -1 soybean -1 soybean -1 soybean -1 soybean -1 soybean -1 early -1 floor -1 floor -1 newsdesk -1 quiet -1 tuesday -1 bushel -1 midday -1 light -1 contract -1 contract -1 expir -1 expir -1 oil -1 expirat -1 chicag -1 chicag -1 short -1 august -1 august -1 august -1 august -1 august -1 august -1 -2
+cent -1 cent -1 cbot -1 soymeal -1 soycomplex -1 settl -1 ton -1 board -1 soyoil -1 lb -1 morn -1 meal -1 unchang -1 yesterday -1 amid -1 trad -1 trad -1 trad -1 trad -1 -2

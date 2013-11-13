@@ -1,0 +1,2 @@
+texa -1 municip -1 rate -1 rate -1 low -1 low -1 lien -1 amount -1 invest -1 issu -1 rev -1 stat -1 aa -1 aa -1 expect -1 moody -1 moody -1 junior -1 author -1 tx -1 servic -1 auth -1 date -1 rive -1 rive -1 announc -1 colorad -1 colorad -1 desk -1 sale -1 -2
+sale -1 -2

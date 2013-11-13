@@ -1,0 +1,2 @@
+carry -1 fin -1 rate -1 month -1 own -1 full -1 privat -1 system -1 invest -1 deprec -1 deprec -1 norway -1 slight -1 stat -1 govern -1 sas -1 scandinav -1 denmark -1 million -1 oslo -1 swed -1 swed -1 crown -1 rise -1 financ -1 exchang -1 net -1 pre -1 pre -1 note -1 -2
+h1 -1 differ -1 result -1 result -1 result -1 result -1 result -1 airlin -1 revenu -1 item -1 item -1 joint -1 expend -1 june -1 newsroom -1 operat -1 operat -1 operat -1 operat -1 tax -1 tax -1 group -1 group -1 -2

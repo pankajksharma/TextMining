@@ -1,0 +1,3 @@
+ampl -1 early -1 tight -1 market -1 jakart -1 jakart -1 jakart -1 back -1 tuesday -1 money -1 money -1 money -1 interest -1 rate -1 liquid -1 bilion -1 bank -1 bank -1 bank -1 bank -1 swap -1 deal -1 deal -1 deal -1 deal -1 repeat -1 week -1 salar -1 fund -1 stat -1 -2
+stat -1 percent -1 percent -1 percent -1 percent -1 help -1 govern -1 transf -1 overnight -1 overnight -1 overnight -1 thursday -1 afloat -1 remain -1 stabl -1 stabl -1 buy -1 foreign -1 worry -1 civil -1 inject -1 cent -1 rupiah -1 call -1 call -1 serv -1 hove -1 compar -1 wednesday -1 caut -1 held -1 -2
+friday -1 suppl -1 aver -1 cond -1 newsroom -1 operat -1 interbank -1 -2

@@ -1,0 +1,5 @@
+compan -1 limit -1 react -1 react -1 early -1 market -1 market -1 market -1 recent -1 tuesday -1 record -1 high -1 high -1 high -1 lira -1 lira -1 lira -1 year -1 start -1 start -1 point -1 turk -1 turk -1 select -1 fall -1 firm -1 firm -1 firm -1 week -1 week -1 -2
+week -1 week -1 week -1 quart -1 today -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 expect -1 expect -1 expect -1 expect -1 cash -1 jump -1 textil -1 level -1 index -1 index -1 index -1 index -1 gain -1 gain -1 gain -1 volum -1 volum -1 brok -1 brok -1 -2
+shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 dive -1 end -1 end -1 end -1 end -1 long -1 shed -1 monday -1 industr -1 increas -1 stabl -1 rise -1 buy -1 daily -1 financ -1 rose -1 rose -1 rose -1 rose -1 lose -1 entry -1 util -1 upward -1 -2
+trill -1 trill -1 move -1 half -1 sharp -1 akin -1 istanbul -1 session -1 turnov -1 july -1 downtrend -1 profit -1 profit -1 result -1 announc -1 caus -1 unaudit -1 fahr -1 arabacioglu -1 kentbank -1 imkb -1 horizont -1 tekstil -1 akta -1 elektrik -1 outdid -1 spur -1 tomorrow -1 don -1 newsroom -1 activ -1 -2
+sale -1 amid -1 trad -1 trad -1 pct -1 -2

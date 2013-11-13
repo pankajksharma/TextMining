@@ -1,0 +1,4 @@
+limit -1 market -1 market -1 market -1 market -1 market -1 market -1 market -1 tuesday -1 thin -1 thin -1 stop -1 clos -1 clos -1 clos -1 clos -1 owing -1 stg -1 stg -1 stg -1 stg -1 high -1 deliver -1 low -1 ballantyn -1 cover -1 start -1 mill -1 report -1 amsterdam -1 -2
+whimp -1 whimp -1 cash -1 cash -1 mix -1 busi -1 busi -1 rally -1 rally -1 futur -1 futur -1 futur -1 futur -1 push -1 end -1 jim -1 virtual -1 short -1 buy -1 harvest -1 finish -1 wheat -1 wheat -1 wheat -1 wheat -1 london -1 match -1 won -1 barley -1 lot -1 lot -1 -2
+lot -1 fob -1 fob -1 sell -1 valu -1 valu -1 contact -1 turnov -1 session -1 session -1 post -1 uk -1 uk -1 restart -1 morn -1 holiday -1 holiday -1 weather -1 bang -1 unchang -1 newsroom -1 add -1 standstill -1 activ -1 fright -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2
+trad -1 trad -1 trad -1 trad -1 -2

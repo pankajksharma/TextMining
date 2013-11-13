@@ -1,0 +1,4 @@
+febru -1 payment -1 compan -1 compan -1 emerg -1 tuesday -1 medic -1 rate -1 doct -1 heath -1 cover -1 newspap -1 agree -1 agree -1 manag -1 discount -1 lind -1 annual -1 seek -1 massachuset -1 massachuset -1 issu -1 stat -1 stat -1 report -1 approv -1 approv -1 approv -1 percent -1 attorney -1 -2
+requir -1 injur -1 oppon -1 worcest -1 boston -1 boston -1 academ -1 custom -1 custom -1 volunt -1 monday -1 bureau -1 off -1 car -1 car -1 sue -1 commit -1 provid -1 health -1 lawmak -1 care -1 care -1 care -1 care -1 network -1 cut -1 cut -1 work -1 premy -1 premy -1 premy -1 -2
+insur -1 insur -1 insur -1 insur -1 insur -1 insur -1 insur -1 hear -1 hear -1 save -1 propos -1 propos -1 propos -1 consum -1 divid -1 divid -1 link -1 link -1 wond -1 person -1 typic -1 prem -1 explain -1 legisl -1 reject -1 glob -1 withdraw -1 ruthardt -1 measur -1 hold -1 left -1 -2
+trial -1 testif -1 -2

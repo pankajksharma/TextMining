@@ -1,0 +1,2 @@
+obligat -1 gener -1 sery -1 municip -1 rate -1 bank -1 amount -1 standard -1 poor -1 issu -1 benton -1 benton -1 noncal -1 expect -1 pric -1 million -1 million -1 matur -1 deliv -1 nro -1 nro -1 nro -1 nro -1 dist -1 coupon -1 coupon -1 lin -1 lin -1 repric -1 repric -1 -2
+repric -1 district -1 ore -1 ore -1 date -1 commun -1 commun -1 corp -1 corp -1 par -1 secur -1 colleg -1 colleg -1 bond -1 bond -1 bond -1 seattl -1 qualif -1 northw -1 desk -1 scal -1 pct -1 -2

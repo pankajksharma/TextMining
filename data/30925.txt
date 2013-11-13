@@ -1,0 +1,2 @@
+market -1 stock -1 stock -1 clos -1 high -1 high -1 encour -1 rate -1 start -1 followthrough -1 april -1 point -1 point -1 point -1 point -1 stand -1 line -1 mid -1 squeez -1 deal -1 germ -1 britain -1 fts -1 fts -1 sizeabl -1 advanc -1 level -1 big -1 gain -1 open -1 -2
+open -1 august -1 rise -1 made -1 made -1 cut -1 fact -1 scor -1 prev -1 effect -1 blu -1 chip -1 friday -1 dow -1 late -1 repo -1 yesterday -1 yesterday -1 peak -1 peak -1 trad -1 trad -1 trad -1 beat -1 -2

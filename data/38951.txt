@@ -1,0 +1,2 @@
+draw -1 french -1 stock -1 stock -1 immed -1 langu -1 reach -1 agree -1 compaq -1 compaq -1 compaq -1 toront -1 deal -1 coreldraw -1 clipart -1 germ -1 ship -1 ship -1 ship -1 italian -1 shar -1 span -1 corel -1 corel -1 corel -1 dutch -1 chin -1 font -1 imag -1 swed -1 -2
+graph -1 exchang -1 pack -1 comput -1 comput -1 engl -1 presario -1 heavy -1 program -1 program -1 corp -1 corp -1 includ -1 includ -1 wednesday -1 worldw -1 japan -1 surg -1 trad -1 -2

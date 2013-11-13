@@ -1,0 +1,4 @@
+febru -1 react -1 nov -1 market -1 novemb -1 novemb -1 novemb -1 novemb -1 novemb -1 hous -1 slip -1 lfg -1 clos -1 high -1 high -1 soy -1 sep -1 liquid -1 octob -1 octob -1 richardson -1 greenshield -1 decemb -1 spread -1 light -1 bought -1 bought -1 report -1 report -1 lost -1 -2
+lost -1 oat -1 oat -1 canad -1 fell -1 fell -1 gain -1 volum -1 volum -1 volum -1 futur -1 futur -1 support -1 end -1 end -1 long -1 buy -1 pressur -1 feed -1 commit -1 rose -1 rose -1 cbot -1 cbot -1 wheat -1 western -1 le -1 ugg -1 flax -1 pea -1 pea -1 -2
+take -1 statsc -1 statsc -1 barley -1 soycomplex -1 gilbert -1 gra -1 ton -1 ton -1 lot -1 lot -1 lot -1 sell -1 sell -1 valu -1 valu -1 wce -1 wce -1 canol -1 canol -1 canol -1 profit -1 septemb -1 dollar -1 unchang -1 commerc -1 commerc -1 trad -1 trad -1 trad -1 trad -1 -2
+trad -1 hedg -1 hedg -1 hedg -1 hedg -1 hedg -1 -2

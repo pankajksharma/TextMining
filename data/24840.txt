@@ -1,0 +1,2 @@
+compan -1 shoe -1 market -1 back -1 correct -1 correct -1 tuesday -1 stock -1 stock -1 stock -1 clos -1 clos -1 high -1 fresh -1 point -1 issu -1 dhak -1 dhak -1 dhak -1 bata -1 lost -1 percent -1 beximc -1 expect -1 fell -1 pric -1 pric -1 sing -1 gain -1 gain -1 -2
+index -1 brok -1 brok -1 million -1 shar -1 end -1 end -1 remain -1 bangladesh -1 buy -1 bounc -1 rose -1 rose -1 exchang -1 move -1 taka -1 turnov -1 day -1 day -1 pharmaceutic -1 colm -1 reckit -1 total -1 unchang -1 coupl -1 amid -1 trad -1 pct -1 -2

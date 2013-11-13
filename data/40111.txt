@@ -1,0 +1,2 @@
+market -1 floor -1 volkswagen -1 volkswagen -1 volkswagen -1 volkswagen -1 ag -1 high -1 vehicl -1 climb -1 frankfurt -1 point -1 point -1 view -1 carmak -1 quart -1 quart -1 west -1 germ -1 percent -1 percent -1 percent -1 index -1 million -1 shar -1 shar -1 shar -1 european -1 deliv -1 deliv -1 -2
+deliv -1 car -1 rose -1 figur -1 figur -1 net -1 half -1 posit -1 doubl -1 profit -1 wednesday -1 bours -1 bours -1 dax -1 combin -1 newsroom -1 forecast -1 mark -1 mark -1 trad -1 trad -1 trad -1 trad -1 group -1 -2

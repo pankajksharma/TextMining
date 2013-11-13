@@ -1,0 +1,4 @@
+stay -1 stay -1 market -1 market -1 market -1 situat -1 situat -1 stock -1 stock -1 drug -1 high -1 interest -1 interest -1 rate -1 rate -1 hotel -1 hotel -1 dubravk -1 zganec -1 iisu -1 bank -1 bank -1 firm -1 invest -1 food -1 issu -1 issu -1 slight -1 awak -1 lost -1 -2
+confect -1 croat -1 croat -1 fell -1 mix -1 mix -1 zagreb -1 reut -1 pric -1 gain -1 ordin -1 volum -1 volum -1 volum -1 brok -1 brok -1 million -1 sold -1 sold -1 flat -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 thursday -1 edg -1 increas -1 stead -1 polit -1 -2
+polit -1 stabl -1 stabl -1 pliv -1 zagreback -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 kuna -1 grow -1 grow -1 rose -1 podravk -1 told -1 cent -1 jadrantur -1 exchang -1 lagun -1 assoc -1 declin -1 predict -1 sell -1 turnov -1 hand -1 impact -1 chang -1 chairm -1 -2
+process -1 unchang -1 unchang -1 newsroom -1 activ -1 activ -1 kra -1 metk -1 jelent -1 trad -1 -2

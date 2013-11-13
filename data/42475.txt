@@ -1,0 +1,2 @@
+stak -1 stak -1 stak -1 acquir -1 stock -1 exercis -1 anacond -1 york -1 war -1 invest -1 invest -1 firm -1 file -1 common -1 common -1 fost -1 fund -1 devic -1 percent -1 invis -1 invis -1 invis -1 pric -1 pric -1 million -1 shar -1 shar -1 shar -1 thursday -1 techn -1 -2
+commit -1 exchang -1 purchas -1 city -1 detect -1 covers -1 base -1 purpos -1 includ -1 explos -1 secur -1 aver -1 make -1 partn -1 opportun -1 hold -1 hold -1 hold -1 calif -1 group -1 group -1 group -1 pct -1 -2

@@ -1,0 +1,3 @@
+early -1 market -1 market -1 exchn -1 recent -1 recent -1 tuesday -1 tuesday -1 stock -1 clos -1 perform -1 month -1 race -1 bank -1 fall -1 deal -1 list -1 week -1 percent -1 anal -1 jump -1 index -1 index -1 volum -1 volum -1 million -1 million -1 million -1 shar -1 riga -1 -2
+tallin -1 remain -1 remain -1 stead -1 eston -1 eston -1 wak -1 rose -1 figur -1 play -1 play -1 half -1 crept -1 save -1 turnov -1 compar -1 day -1 day -1 profit -1 hand -1 impact -1 wednesday -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 bours -1 bours -1 bours -1 worth -1 -2
+major -1 consecut -1 newsroom -1 activ -1 presid -1 indecid -1 slug -1 slug -1 trad -1 trad -1 trad -1 -2

@@ -1,0 +1,2 @@
+metal -1 sint -1 tuesday -1 fin -1 year -1 belt -1 construc -1 provinc -1 schedul -1 deal -1 oy -1 oy -1 complet -1 afric -1 mine -1 stat -1 helsink -1 fim -1 markk -1 design -1 ferrochrom -1 million -1 end -1 contract -1 techn -1 techn -1 techn -1 pellet -1 won -1 propriet -1 -2
+samancor -1 samancor -1 south -1 outokumpu -1 outokumpu -1 outokumpu -1 ferrometal -1 witbank -1 ton -1 engineer -1 engineer -1 steel -1 plant -1 plant -1 involut -1 equip -1 project -1 worth -1 suppl -1 suppl -1 newsroom -1 mpumulang -1 outoumpu -1 ferrocrom -1 locat -1 ord -1 group -1 mln -1 -2

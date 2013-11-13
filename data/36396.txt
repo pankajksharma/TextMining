@@ -1,0 +1,2 @@
+compan -1 compan -1 healthcar -1 newsdesk -1 tuesday -1 tuesday -1 stock -1 clos -1 year -1 year -1 foreseeabl -1 system -1 system -1 manag -1 common -1 suspend -1 suspend -1 quart -1 quart -1 quart -1 report -1 stat -1 pay -1 futur -1 million -1 shar -1 shar -1 shar -1 shar -1 end -1 -2
+medicus -1 medicus -1 medicus -1 dividend -1 dividend -1 dividend -1 dividend -1 prior -1 chicag -1 indefinit -1 paid -1 loss -1 fisc -1 fisc -1 restructur -1 direct -1 compar -1 profit -1 corp -1 charg -1 charg -1 concern -1 board -1 inform -1 determin -1 fourth -1 -2

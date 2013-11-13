@@ -1,0 +1,2 @@
+gasoil -1 high -1 high -1 high -1 firm -1 firm -1 bunk -1 bunk -1 bunk -1 bunk -1 cst -1 cst -1 cst -1 requir -1 expect -1 level -1 pric -1 pric -1 pric -1 pric -1 brok -1 open -1 mdo -1 monday -1 rise -1 buy -1 singapor -1 singapor -1 singapor -1 singapor -1 -2
+colomb -1 cove -1 quot -1 quot -1 quot -1 scar -1 south -1 south -1 ton -1 ton -1 taiw -1 shipown -1 shipown -1 carg -1 carg -1 perceiv -1 dollar -1 friday -1 friday -1 intend -1 unchang -1 newsroom -1 korea -1 korea -1 amid -1 trad -1 -2

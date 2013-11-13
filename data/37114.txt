@@ -1,0 +1,2 @@
+capac -1 rfg -1 api -1 stock -1 stock -1 stock -1 stock -1 stock -1 stock -1 stock -1 stock -1 unit -1 week -1 distill -1 distill -1 produc -1 produc -1 produc -1 produc -1 produc -1 report -1 residual -1 jet -1 jet -1 crud -1 crud -1 crud -1 crud -1 oil -1 oil -1 -2
+fuel -1 fuel -1 fuel -1 fuel -1 fuel -1 import -1 resid -1 thousand -1 revis -1 run -1 run -1 day -1 gasolin -1 gasolin -1 barrel -1 process -1 pct -1 -2

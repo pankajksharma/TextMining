@@ -1,0 +1,4 @@
+early -1 market -1 market -1 back -1 rumor -1 stock -1 sulphur -1 gas -1 gas -1 gas -1 cif -1 cif -1 low -1 low -1 build -1 data -1 fall -1 german -1 backward -1 franc -1 stubborn -1 week -1 germ -1 germ -1 report -1 ipe -1 ipe -1 ipe -1 ipe -1 ipe -1 -2
+ipe -1 expect -1 requir -1 confirm -1 balanc -1 underton -1 underton -1 parcel -1 din -1 rosalind -1 soft -1 soft -1 show -1 scandinav -1 futur -1 rotterdam -1 deliv -1 talk -1 benchmark -1 oil -1 oil -1 oil -1 shed -1 stead -1 stead -1 stead -1 august -1 buy -1 buy -1 off -1 pressur -1 -2
+cent -1 cent -1 cent -1 mater -1 cove -1 offer -1 london -1 bid -1 bid -1 russel -1 russian -1 date -1 settl -1 ton -1 ton -1 sell -1 patch -1 peg -1 aug -1 brem -1 day -1 hamburg -1 hand -1 refin -1 refin -1 invent -1 diesel -1 prem -1 carg -1 demand -1 oct -1 -2
+sept -1 sept -1 sept -1 sept -1 sept -1 sept -1 sept -1 prompt -1 nwe -1 nwe -1 newsroom -1 ara -1 barg -1 hope -1 hold -1 trad -1 trad -1 trad -1 pick -1 -2

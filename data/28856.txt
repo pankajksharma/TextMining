@@ -1,0 +1,3 @@
+shinc -1 discharg -1 hss -1 hss -1 hss -1 buenaventur -1 garnac -1 grain -1 grain -1 astraguiller -1 amend -1 ocean -1 cruz -1 resp -1 tbn -1 tbn -1 grand -1 kavo -1 lisbon -1 midia -1 york -1 paranagua -1 nider -1 rio -1 report -1 report -1 fixtur -1 fixtur -1 fixtur -1 msk -1 -2
+usg -1 usg -1 usg -1 usg -1 lumpsum -1 dreyfus -1 long -1 chin -1 cargill -1 comb -1 comb -1 vera -1 corn -1 tradigrain -1 wheat -1 plat -1 london -1 london -1 brazil -1 cloud -1 load -1 load -1 rive -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ruby -1 -2
+day -1 day -1 day -1 hamburg -1 wednesday -1 wednesday -1 japan -1 japan -1 prompt -1 morn -1 meal -1 fourteen -1 elev -1 elev -1 fio -1 fio -1 fio -1 fio -1 fio -1 -2

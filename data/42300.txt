@@ -1,0 +1,4 @@
+grain -1 grain -1 floor -1 emerg -1 union -1 union -1 pari -1 german -1 manag -1 deal -1 deal -1 deal -1 week -1 week -1 bought -1 sourc -1 sourc -1 produc -1 germ -1 germ -1 germ -1 enjoy -1 pric -1 pric -1 pric -1 pric -1 pric -1 provis -1 eu -1 eu -1 -2
+eu -1 eu -1 sold -1 sold -1 thursday -1 thursday -1 european -1 european -1 european -1 european -1 minim -1 minim -1 august -1 cereal -1 equival -1 commit -1 subtract -1 purchas -1 intervent -1 intervent -1 intervent -1 destin -1 insur -1 freight -1 freight -1 freight -1 new -1 barley -1 barley -1 barley -1 barley -1 -2
+barley -1 barley -1 put -1 part -1 cost -1 cost -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 fob -1 fob -1 fob -1 includ -1 arabia -1 arabia -1 reduc -1 tend -1 saud -1 saud -1 saud -1 saud -1 worth -1 worth -1 worth -1 -2
+suppl -1 newsroom -1 substant -1 advant -1 ecus -1 ecus -1 offic -1 origin -1 sale -1 sale -1 trad -1 trad -1 trad -1 option -1 -2

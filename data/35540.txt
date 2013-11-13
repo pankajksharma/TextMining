@@ -1,0 +1,3 @@
+stay -1 fire -1 elect -1 train -1 carry -1 receiv -1 page -1 page -1 start -1 appoint -1 gore -1 weizm -1 partis -1 pay -1 kentuck -1 chug -1 digest -1 home -1 rhetor -1 al -1 custom -1 ashland -1 party -1 aboard -1 control -1 vacat -1 nominat -1 woo -1 chicag -1 chicag -1 -2
+press -1 utter -1 elevat -1 financ -1 city -1 washington -1 washington -1 washington -1 washington -1 visit -1 invit -1 sharp -1 front -1 rail -1 job -1 part -1 school -1 school -1 americ -1 base -1 story -1 aug -1 aug -1 run -1 ezer -1 day -1 travel -1 post -1 post -1 board -1 superintend -1 -2
+clinton -1 weigh -1 season -1 israel -1 republ -1 vice -1 presid -1 presid -1 presid -1 jerusalem -1 yass -1 arafat -1 demo -1 offic -1 sought -1 -2

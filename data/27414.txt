@@ -1,0 +1,2 @@
+market -1 market -1 market -1 tuesday -1 smart -1 thin -1 thin -1 stock -1 clos -1 clos -1 kg -1 high -1 high -1 gram -1 gram -1 ahead -1 fresh -1 festiv -1 physic -1 firm -1 deal -1 deal -1 deal -1 subdu -1 underton -1 world -1 aid -1 open -1 push -1 gold -1 -2
+gold -1 gold -1 gold -1 renew -1 short -1 buy -1 buy -1 upward -1 specul -1 note -1 settl -1 lift -1 rupee -1 rupee -1 rupee -1 rupee -1 ready -1 silf -1 silf -1 silf -1 uptrend -1 suppl -1 suppl -1 due -1 biscuit -1 indian -1 -2

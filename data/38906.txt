@@ -1,0 +1,4 @@
+compan -1 revalu -1 fin -1 month -1 full -1 nil -1 nil -1 nil -1 invest -1 invest -1 stat -1 anal -1 balanc -1 helsink -1 extraordin -1 extraordin -1 fim -1 markk -1 markk -1 markk -1 markk -1 markk -1 markk -1 gain -1 gain -1 gain -1 gain -1 gain -1 gain -1 provis -1 -2
+provis -1 million -1 million -1 million -1 million -1 adjust -1 shar -1 shar -1 shar -1 techn -1 paid -1 loss -1 loss -1 insur -1 net -1 net -1 half -1 claim -1 note -1 note -1 equal -1 equal -1 rang -1 samp -1 samp -1 incom -1 incom -1 h1 -1 earn -1 earn -1 profit -1 -2
+profit -1 profit -1 profit -1 profit -1 profit -1 result -1 charg -1 charg -1 charg -1 charg -1 charg -1 charg -1 asset -1 item -1 item -1 prem -1 appropr -1 account -1 expend -1 june -1 chang -1 chang -1 newsroom -1 forecast -1 unreal -1 operat -1 operat -1 operat -1 operat -1 vakuutusosakeyhtio -1 tax -1 -2
+tax -1 mln -1 -2

@@ -1,0 +1,3 @@
+study -1 small -1 niger -1 train -1 tuesday -1 countr -1 merg -1 captain -1 unit -1 unit -1 peopl -1 west -1 afric -1 stat -1 strong -1 lead -1 home -1 gendarmerie -1 coup -1 coup -1 million -1 strength -1 nation -1 nation -1 nation -1 nation -1 patrol -1 replac -1 forc -1 london -1 -2
+boat -1 decree -1 base -1 milit -1 milit -1 institut -1 yahy -1 jammeh -1 jammeh -1 jammeh -1 gambia -1 gambia -1 gambia -1 guard -1 guard -1 intern -1 army -1 army -1 army -1 army -1 army -1 inshor -1 strateg -1 marin -1 marin -1 rule -1 advis -1 navy -1 navy -1 creat -1 creat -1 -2
+offic -1 sign -1 -2

@@ -1,0 +1,2 @@
+react -1 market -1 tight -1 high -1 low -1 unit -1 deal -1 deal -1 deal -1 mill -1 light -1 slight -1 ship -1 stat -1 southeast -1 mix -1 level -1 kans -1 kans -1 pric -1 pric -1 pric -1 crop -1 remain -1 increas -1 edg -1 feed -1 corn -1 corn -1 continu -1 -2
+compet -1 bulk -1 valu -1 vary -1 run -1 millfeed -1 millfeed -1 millfeed -1 heat -1 demand -1 demand -1 suppl -1 suppl -1 suppl -1 prompt -1 unchang -1 locat -1 locat -1 bit -1 -2

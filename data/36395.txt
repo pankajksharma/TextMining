@@ -1,0 +1,4 @@
+novemb -1 small -1 econom -1 motor -1 ford -1 ford -1 ford -1 ford -1 ford -1 ford -1 tuesday -1 contour -1 segment -1 vehicl -1 vehicl -1 perform -1 bedi -1 year -1 line -1 appoint -1 unit -1 unit -1 unit -1 join -1 produc -1 report -1 stat -1 assign -1 name -1 dearborn -1 -2
+padill -1 padill -1 padill -1 padill -1 padill -1 gurmind -1 hagenlock -1 mystiqu -1 sabl -1 wheel -1 taurus -1 return -1 car -1 car -1 car -1 car -1 replac -1 cent -1 head -1 rear -1 jame -1 trac -1 posit -1 argentin -1 argentin -1 direct -1 direct -1 direct -1 brazil -1 brazil -1 brazil -1 -2
+program -1 program -1 escort -1 base -1 develop -1 develop -1 jaguar -1 engineer -1 engineer -1 paul -1 luxur -1 luxur -1 announc -1 chemic -1 driv -1 degree -1 sao -1 effect -1 spokesm -1 ed -1 held -1 automot -1 automak -1 set -1 manufactur -1 manufactur -1 vice -1 presid -1 presid -1 presid -1 operat -1 -2
+hold -1 locat -1 -2

@@ -1,0 +1,2 @@
+market -1 bullion -1 bullion -1 french -1 rate -1 rate -1 rate -1 currenc -1 currenc -1 yen -1 franc -1 franc -1 franc -1 today -1 germ -1 lead -1 canad -1 world -1 italian -1 reut -1 diff -1 dutch -1 guild -1 gold -1 gold -1 gold -1 swiss -1 belgian -1 lire -1 swed -1 -2
+crown -1 crown -1 crown -1 norweg -1 danish -1 buy -1 singapor -1 tourist -1 foreign -1 exchang -1 austral -1 quot -1 london -1 london -1 london -1 cost -1 sell -1 ounc -1 hong -1 kong -1 dollar -1 dollar -1 dollar -1 dollar -1 dollar -1 japan -1 sterl -1 mark -1 -2

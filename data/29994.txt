@@ -1,0 +1,3 @@
+early -1 market -1 market -1 market -1 market -1 dlr -1 money -1 hard -1 high -1 rate -1 rate -1 rate -1 low -1 liquid -1 currenc -1 bank -1 bank -1 bank -1 unit -1 deal -1 deal -1 deal -1 deal -1 nairob -1 larg -1 shill -1 shill -1 shill -1 shill -1 percent -1 -2
+local -1 overnight -1 appear -1 gain -1 thursday -1 strength -1 versus -1 keny -1 keny -1 keny -1 extend -1 pressur -1 import -1 cent -1 flow -1 unabat -1 continu -1 continu -1 move -1 pound -1 dictat -1 export -1 export -1 export -1 result -1 post -1 post -1 wednesday -1 wednesday -1 demand -1 dollar -1 -2
+dollar -1 dollar -1 aver -1 make -1 newsroom -1 activ -1 concent -1 inflow -1 inflow -1 inflow -1 amid -1 trickl -1 trad -1 -2

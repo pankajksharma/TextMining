@@ -1,0 +1,2 @@
+compan -1 floor -1 floor -1 floor -1 stock -1 stock -1 stock -1 stock -1 privat -1 firm -1 list -1 week -1 unlist -1 dem -1 volum -1 volum -1 volum -1 sold -1 shar -1 thursday -1 mse -1 mse -1 gradsk -1 targovsk -1 centar -1 august -1 rise -1 sofia -1 grow -1 rose -1 -2
+rose -1 exchang -1 exchang -1 offer -1 macedon -1 macedon -1 session -1 session -1 session -1 session -1 turnov -1 turnov -1 turnov -1 par -1 total -1 unchang -1 newsroom -1 denar -1 denar -1 denar -1 denar -1 denar -1 denar -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

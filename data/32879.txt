@@ -1,0 +1,2 @@
+eps -1 year -1 year -1 yen -1 yen -1 yen -1 yen -1 yen -1 div -1 billion -1 decemb -1 raw -1 silk -1 current -1 net -1 ago -1 diversif -1 part -1 note -1 estat -1 actual -1 real -1 late -1 shoei -1 shoei -1 parent -1 parent -1 forecast -1 forecast -1 ord -1 -2
+electron -1 sale -1 mln -1 mln -1 mln -1 -2

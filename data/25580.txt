@@ -1,0 +1,2 @@
+life -1 tuesday -1 cap -1 kg -1 kg -1 low -1 low -1 bargain -1 bargain -1 yen -1 yen -1 yen -1 yen -1 yen -1 invest -1 firm -1 firm -1 spot -1 spot -1 spot -1 spot -1 week -1 larg -1 expect -1 sent -1 janu -1 futur -1 futur -1 deliv -1 end -1 -2
+end -1 end -1 contract -1 contract -1 contract -1 contract -1 contract -1 contract -1 expir -1 benchmark -1 monday -1 remain -1 rise -1 rise -1 august -1 august -1 august -1 bear -1 hunt -1 hunt -1 fail -1 toky -1 toky -1 rang -1 sell -1 rub -1 rub -1 hit -1 due -1 trad -1 trad -1 -2

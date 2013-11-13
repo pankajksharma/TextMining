@@ -1,0 +1,2 @@
+compan -1 small -1 small -1 stock -1 stock -1 stock -1 clos -1 clos -1 high -1 receiv -1 bank -1 point -1 invest -1 invest -1 fund -1 issu -1 slight -1 dhak -1 dhak -1 dhak -1 percent -1 idlc -1 exch -1 pric -1 index -1 gain -1 gain -1 gain -1 icb -1 brok -1 -2
+brok -1 clink -1 million -1 shar -1 support -1 support -1 end -1 end -1 leas -1 leas -1 bangladesh -1 attract -1 buy -1 scrip -1 scrip -1 financ -1 financ -1 rose -1 rose -1 taka -1 taka -1 turnov -1 institut -1 institut -1 wednesday -1 chittagong -1 mutual -1 unchang -1 lamp -1 amid -1 trad -1 -2

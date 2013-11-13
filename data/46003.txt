@@ -1,0 +1,2 @@
+market -1 market -1 market -1 credit -1 clos -1 low -1 chri -1 fluctu -1 year -1 gap -1 point -1 point -1 point -1 fall -1 german -1 deal -1 deal -1 yield -1 stat -1 percent -1 strong -1 expect -1 minor -1 pric -1 thursday -1 copenhagen -1 open -1 open -1 open -1 open -1 -2
+minim -1 benchmark -1 crown -1 danish -1 danish -1 danish -1 focus -1 focus -1 noon -1 predict -1 dip -1 pape -1 basi -1 friday -1 bond -1 bond -1 bond -1 bond -1 behav -1 hit -1 due -1 oscill -1 follet -1 afternoon -1 unchang -1 newsroom -1 mortg -1 mortg -1 yesterday -1 mark -1 -2

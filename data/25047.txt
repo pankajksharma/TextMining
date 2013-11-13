@@ -1,0 +1,2 @@
+metal -1 metal -1 bullion -1 bullion -1 cop -1 cop -1 platin -1 platin -1 mar -1 mar -1 nickel -1 nickel -1 jan -1 jan -1 million -1 adjust -1 gold -1 gold -1 import -1 import -1 import -1 import -1 import -1 import -1 depart -1 export -1 export -1 export -1 export -1 export -1 -2
+export -1 alumin -1 alumin -1 silf -1 silf -1 dollar -1 june -1 season -1 commerc -1 -2

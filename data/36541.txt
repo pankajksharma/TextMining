@@ -1,0 +1,1 @@
+omit -1 newsdesk -1 full -1 york -1 shr -1 shr -1 rev -1 st -1 avg -1 shar -1 shanghai -1 shanghai -1 net -1 half -1 petrochem -1 petrochem -1 profit -1 result -1 yuan -1 -2

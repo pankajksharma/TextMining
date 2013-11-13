@@ -1,0 +1,3 @@
+follow -1 limit -1 limit -1 market -1 market -1 market -1 cdt -1 back -1 ahead -1 live -1 live -1 live -1 cattl -1 cattl -1 cattl -1 cattl -1 cattl -1 cattl -1 light -1 report -1 strong -1 anal -1 lead -1 jerry -1 cash -1 cash -1 level -1 hog -1 easy -1 support -1 -2
+support -1 support -1 open -1 open -1 techn -1 techn -1 stead -1 august -1 pork -1 pork -1 pork -1 belly -1 weak -1 weak -1 feed -1 feed -1 corn -1 cent -1 cent -1 cent -1 cent -1 call -1 call -1 call -1 continu -1 fact -1 cme -1 cme -1 pre -1 pre -1 complex -1 -2
+complex -1 held -1 bieszk -1 trad -1 -2

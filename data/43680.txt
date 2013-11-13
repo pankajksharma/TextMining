@@ -1,0 +1,5 @@
+early -1 market -1 market -1 market -1 market -1 recent -1 stop -1 sery -1 aviv -1 month -1 beneex -1 year -1 term -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 dump -1 fall -1 amount -1 huge -1 week -1 week -1 plight -1 fund -1 fund -1 fund -1 yield -1 -2
+yield -1 meet -1 attent -1 interv -1 interv -1 govern -1 govern -1 principl -1 pric -1 pric -1 pric -1 pric -1 pric -1 million -1 million -1 million -1 million -1 million -1 million -1 long -1 public -1 buy -1 buy -1 off -1 off -1 provid -1 provid -1 cent -1 cent -1 cent -1 cent -1 -2
+call -1 offer -1 net -1 part -1 save -1 criter -1 rang -1 aim -1 sell -1 redempt -1 announc -1 curv -1 caus -1 tend -1 tend -1 tend -1 tend -1 secur -1 held -1 worth -1 worth -1 worth -1 worth -1 worth -1 total -1 total -1 suppl -1 suppl -1 bond -1 bond -1 bond -1 -2
+bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 bond -1 cond -1 depend -1 repurchas -1 repurchas -1 repurchas -1 israel -1 israel -1 polic -1 newsroom -1 add -1 chos -1 tel -1 smooth -1 trad -1 tax -1 keep -1 shekel -1 shekel -1 shekel -1 shekel -1 shekel -1 shekel -1 -2
+mln -1 -2

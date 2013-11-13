@@ -1,0 +1,2 @@
+draw -1 halftim -1 halftim -1 game -1 game -1 game -1 point -1 stand -1 anyang -1 anyang -1 chonnam -1 chonnam -1 puchon -1 puchon -1 suwon -1 suwon -1 chon -1 pusan -1 chonbuk -1 lost -1 ulsan -1 pohang -1 socc -1 socc -1 socc -1 won -1 play -1 play -1 korean -1 korean -1 -2
+south -1 south -1 result -1 result -1 wednesday -1 wednesday -1 goal -1 goal -1 pro -1 pro -1 tabulat -1 -2

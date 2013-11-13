@@ -1,0 +1,4 @@
+early -1 usda -1 market -1 market -1 market -1 small -1 quiet -1 record -1 year -1 wholesal -1 live -1 cattl -1 cattl -1 cattl -1 cattl -1 cattl -1 cattl -1 cattl -1 larg -1 larg -1 week -1 week -1 week -1 week -1 week -1 week -1 week -1 slight -1 sourc -1 sourc -1 -2
+sourc -1 sourc -1 report -1 report -1 report -1 report -1 difficult -1 strong -1 expect -1 expect -1 pric -1 pric -1 pric -1 show -1 volum -1 sold -1 thursday -1 remain -1 remain -1 remain -1 remain -1 stead -1 buy -1 feed -1 feed -1 beef -1 box -1 surfac -1 cwt -1 pack -1 pack -1 -2
+bid -1 ago -1 feedlot -1 feedlot -1 feedlot -1 feedlot -1 bob -1 outcom -1 dictat -1 valu -1 july -1 compar -1 wednesday -1 invent -1 plac -1 suppl -1 suppl -1 friday -1 friday -1 showl -1 jani -1 set -1 standstill -1 standstill -1 activ -1 plain -1 plain -1 top -1 sale -1 trad -1 trad -1 -2
+influ -1 -2

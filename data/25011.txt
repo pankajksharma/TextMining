@@ -1,0 +1,5 @@
+early -1 track -1 texa -1 tuesday -1 thin -1 intermed -1 heard -1 wti -1 wti -1 wti -1 high -1 month -1 game -1 halt -1 begin -1 razor -1 provinc -1 wilmington -1 north -1 line -1 line -1 line -1 line -1 line -1 mid -1 deal -1 deal -1 deal -1 wait -1 week -1 -2
+light -1 bought -1 west -1 west -1 west -1 west -1 ship -1 kern -1 grad -1 report -1 report -1 ans -1 ans -1 ans -1 brinkerhoff -1 int -1 alask -1 cash -1 slop -1 canad -1 level -1 level -1 main -1 pric -1 pric -1 pric -1 pric -1 busi -1 david -1 sold -1 flat -1 -2
+flat -1 talk -1 nominat -1 nominat -1 crud -1 crud -1 diff -1 monday -1 monday -1 industr -1 bureau -1 august -1 rise -1 extr -1 buy -1 ground -1 notion -1 golf -1 midw -1 continu -1 uswc -1 move -1 ipl -1 play -1 pre -1 coast -1 coast -1 coast -1 rive -1 sell -1 valu -1 -2
+offset -1 basic -1 differ -1 july -1 result -1 post -1 refin -1 refin -1 refin -1 septemb -1 pipe -1 pipe -1 carg -1 carg -1 fill -1 major -1 chang -1 los -1 angel -1 late -1 depend -1 unchang -1 add -1 northw -1 activ -1 amid -1 left -1 trad -1 trad -1 trad -1 trad -1 -2
+trad -1 restrict -1 surplus -1 -2

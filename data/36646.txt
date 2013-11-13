@@ -1,0 +1,2 @@
+refer -1 credit -1 credit -1 exercis -1 sep -1 sep -1 suiss -1 suiss -1 war -1 war -1 war -1 spot -1 list -1 issu -1 reut -1 pric -1 million -1 min -1 time -1 time -1 call -1 call -1 call -1 london -1 strik -1 tranch -1 period -1 note -1 gear -1 equal -1 -2
+americ -1 lot -1 paydat -1 aug -1 exer -1 prem -1 ounc -1 silf -1 silf -1 styl -1 set -1 newsroom -1 iss -1 pct -1 pct -1 -2

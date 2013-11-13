@@ -1,0 +1,4 @@
+market -1 econom -1 econom -1 quiet -1 tempor -1 thin -1 clos -1 clos -1 clos -1 clos -1 clos -1 clos -1 interest -1 rate -1 month -1 month -1 countr -1 currenc -1 yen -1 yen -1 lo -1 lo -1 lo -1 billion -1 fall -1 wholesal -1 toront -1 firm -1 greg -1 unit -1 -2
+deal -1 week -1 week -1 slight -1 percent -1 percent -1 expect -1 fix -1 canad -1 canad -1 canad -1 canad -1 canad -1 fell -1 reut -1 reut -1 adjust -1 thursday -1 thursday -1 thursday -1 europ -1 face -1 support -1 strength -1 open -1 open -1 open -1 weekend -1 statist -1 bureau -1 tone -1 -2
+rise -1 short -1 pressur -1 weak -1 weak -1 weak -1 rose -1 head -1 cut -1 london -1 bid -1 slid -1 new -1 rang -1 incom -1 resist -1 survey -1 asian -1 prev -1 comment -1 dollar -1 dollar -1 dollar -1 june -1 june -1 friday -1 friday -1 season -1 holiday -1 forecast -1 forecast -1 -2
+mark -1 mark -1 sale -1 trad -1 trad -1 trad -1 cross -1 -2

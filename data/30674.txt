@@ -1,0 +1,2 @@
+ag -1 month -1 year -1 full -1 full -1 frankfurt -1 writ -1 dmk -1 good -1 domest -1 germ -1 stat -1 million -1 million -1 off -1 foreign -1 rose -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 net -1 half -1 note -1 pape -1 h1 -1 profit -1 zand -1 -2
+zand -1 feinpapier -1 workforc -1 june -1 due -1 stor -1 newsroom -1 manufactur -1 activ -1 mark -1 mark -1 ord -1 sale -1 group -1 group -1 group -1 group -1 group -1 group -1 mln -1 -2

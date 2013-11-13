@@ -1,0 +1,5 @@
+early -1 early -1 market -1 market -1 market -1 market -1 fledg -1 tuesday -1 money -1 money -1 money -1 clos -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 bp -1 low -1 liquid -1 moskw -1 revers -1 revers -1 revers -1 -2
+revers -1 revers -1 revers -1 rebound -1 term -1 full -1 bank -1 bank -1 affect -1 affect -1 mop -1 spot -1 deal -1 deal -1 huge -1 week -1 today -1 today -1 today -1 rev -1 yield -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 anal -1 anal -1 anal -1 overnight -1 -2
+cash -1 bill -1 main -1 polish -1 poland -1 thursday -1 thursday -1 open -1 deposit -1 deposit -1 deposit -1 long -1 maxim -1 warsaw -1 nation -1 benchmark -1 benchmark -1 consid -1 short -1 foreign -1 cut -1 cut -1 cut -1 cut -1 cut -1 move -1 move -1 marek -1 chief -1 period -1 day -1 -2
+day -1 day -1 day -1 day -1 result -1 result -1 caus -1 overliquid -1 nbp -1 nbp -1 nbp -1 nbp -1 drain -1 drain -1 drain -1 drain -1 friday -1 wieczorkiewicz -1 wieczorkiewicz -1 wojciech -1 pko -1 tomorrow -1 repo -1 repo -1 repo -1 repo -1 repo -1 repo -1 repo -1 add -1 operat -1 -2
+trad -1 surplus -1 -2

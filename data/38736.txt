@@ -1,0 +1,3 @@
+compan -1 televis -1 televis -1 televis -1 market -1 market -1 stock -1 spectacul -1 spectacul -1 march -1 color -1 color -1 color -1 sichu -1 changhong -1 billion -1 billion -1 vindic -1 war -1 list -1 domest -1 percent -1 percent -1 percent -1 pric -1 pric -1 million -1 million -1 shar -1 chin -1 -2
+chin -1 chin -1 chin -1 foreign -1 cut -1 city -1 compet -1 growth -1 growth -1 shanghai -1 depart -1 net -1 net -1 half -1 half -1 period -1 manufactu -1 appliac -1 electr -1 turnov -1 fierc -1 profit -1 profit -1 post -1 post -1 post -1 wednesday -1 account -1 june -1 major -1 major -1 -2
+stor -1 set -1 make -1 manufactur -1 yuan -1 yuan -1 tv -1 top -1 sale -1 sale -1 group -1 -2

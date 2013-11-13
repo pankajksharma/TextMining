@@ -1,0 +1,4 @@
+recov -1 compan -1 compan -1 compan -1 market -1 market -1 recent -1 counterpart -1 cop -1 cop -1 interest -1 month -1 low -1 franc -1 week -1 week -1 afric -1 mine -1 produc -1 produc -1 produc -1 zccm -1 zccm -1 zccm -1 zccm -1 zccm -1 zccm -1 zccm -1 meet -1 meet -1 -2
+meet -1 meet -1 meet -1 meet -1 level -1 pric -1 pric -1 musund -1 musund -1 telephon -1 cobalt -1 cobalt -1 cobalt -1 cobalt -1 cobalt -1 cobalt -1 cobalt -1 cobalt -1 discuss -1 time -1 zambian -1 stabl -1 august -1 zambia -1 zambia -1 quot -1 london -1 london -1 move -1 ago -1 shelf -1 -2
+inst -1 consolid -1 date -1 consum -1 plan -1 announc -1 announc -1 announc -1 wednesday -1 ready -1 concern -1 cathod -1 plac -1 plac -1 spokesm -1 present -1 attempt -1 joint -1 gecamin -1 gecamin -1 gecamin -1 gecamin -1 gecamin -1 zairean -1 lb -1 johannesburg -1 polic -1 make -1 make -1 newsroom -1 offic -1 -2
+trad -1 trad -1 -2

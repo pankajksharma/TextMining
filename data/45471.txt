@@ -1,0 +1,3 @@
+high -1 high -1 interest -1 interest -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 form -1 billion -1 decemb -1 franc -1 franc -1 gross -1 stat -1 switzerland -1 percent -1 percent -1 percent -1 percent -1 percent -1 million -1 million -1 million -1 million -1 rba -1 rba -1 -2
+rba -1 rba -1 swiss -1 swiss -1 swiss -1 digit -1 commit -1 rose -1 rose -1 coordin -1 assoc -1 growth -1 servic -1 exper -1 half -1 doubl -1 period -1 organ -1 umbrel -1 incom -1 incom -1 incom -1 h1 -1 compar -1 profit -1 profit -1 profit -1 profit -1 logist -1 post -1 asset -1 -2
+zurich -1 editor -1 memb -1 june -1 total -1 operat -1 region -1 region -1 region -1 region -1 region -1 hold -1 hold -1 hold -1 trad -1 trad -1 group -1 -2

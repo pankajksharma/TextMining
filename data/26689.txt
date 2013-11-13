@@ -1,0 +1,4 @@
+compan -1 market -1 stock -1 high -1 year -1 year -1 apiec -1 bank -1 bank -1 point -1 billion -1 billion -1 fall -1 good -1 good -1 good -1 deal -1 equit -1 indicat -1 capit -1 report -1 report -1 report -1 percent -1 percent -1 strong -1 help -1 jump -1 big -1 big -1 -2
+index -1 interim -1 interim -1 show -1 show -1 shar -1 shar -1 shar -1 shar -1 strength -1 end -1 dividend -1 oil -1 oil -1 pioneer -1 social -1 rise -1 off -1 finish -1 guin -1 payout -1 rose -1 rose -1 rose -1 rose -1 exchang -1 exchang -1 bid -1 goldfield -1 fact -1 half -1 -2
+half -1 buoy -1 mobil -1 mobil -1 mobil -1 lift -1 valu -1 ghan -1 ghan -1 ghan -1 ghan -1 turnov -1 alumin -1 result -1 estat -1 wednesday -1 cedi -1 cedi -1 cedi -1 cedi -1 cedi -1 cedi -1 cedi -1 cedi -1 cedi -1 cedi -1 cedi -1 ashant -1 ashant -1 gse -1 metalloplast -1 -2
+utc -1 exceed -1 secur -1 total -1 abidj -1 moderat -1 newsroom -1 boost -1 commerc -1 trad -1 trad -1 -2

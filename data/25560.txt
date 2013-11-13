@@ -1,0 +1,3 @@
+launch -1 credit -1 rate -1 rate -1 month -1 facil -1 facil -1 march -1 year -1 year -1 suiss -1 bank -1 bank -1 bank -1 tier -1 point -1 point -1 form -1 manag -1 annual -1 issu -1 issu -1 issu -1 pric -1 pric -1 float -1 float -1 million -1 million -1 matur -1 -2
+deposit -1 arrang -1 arrang -1 merch -1 merch -1 return -1 call -1 offer -1 london -1 certif -1 put -1 note -1 basi -1 basi -1 final -1 detail -1 futher -1 par -1 par -1 mandat -1 mandat -1 hong -1 kong -1 newsroom -1 hansol -1 hansol -1 asia -1 kdb -1 top -1 frcd -1 frcd -1 -2
+fee -1 interbank -1 group -1 option -1 option -1 mln -1 -2

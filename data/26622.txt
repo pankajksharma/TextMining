@@ -1,0 +1,3 @@
+early -1 market -1 tight -1 tight -1 life -1 lce -1 clos -1 clos -1 record -1 broker -1 high -1 octob -1 octob -1 pari -1 york -1 york -1 turn -1 decemb -1 decemb -1 spread -1 slight -1 slight -1 pep -1 confin -1 raw -1 pric -1 futur -1 futur -1 open -1 end -1 -2
+contract -1 contract -1 remain -1 give -1 stead -1 time -1 finish -1 weak -1 weak -1 health -1 cent -1 cent -1 exchang -1 margin -1 purchas -1 london -1 london -1 move -1 nearb -1 fail -1 posit -1 posit -1 front -1 sugar -1 sugar -1 sugar -1 direct -1 rang -1 rang -1 lot -1 lot -1 -2
+lot -1 outright -1 turnov -1 dominat -1 wednesday -1 matif -1 held -1 whit -1 whit -1 whit -1 broad -1 newsroom -1 switch -1 activ -1 trad -1 trad -1 trad -1 trad -1 cross -1 -2

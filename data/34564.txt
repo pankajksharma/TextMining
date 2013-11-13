@@ -1,0 +1,3 @@
+market -1 quiet -1 quiet -1 stock -1 bank -1 bank -1 point -1 billion -1 billion -1 list -1 equit -1 equit -1 capit -1 strong -1 advanc -1 fell -1 index -1 show -1 shar -1 shar -1 shar -1 shar -1 enterpr -1 oil -1 oil -1 monday -1 pioneer -1 rise -1 social -1 off -1 -2
+rose -1 rose -1 rose -1 rose -1 exchang -1 bid -1 insur -1 fact -1 mobil -1 mobil -1 mobil -1 ghan -1 ghan -1 ghan -1 ghan -1 turnov -1 session -1 alumin -1 result -1 cedi -1 cedi -1 cedi -1 cedi -1 cedi -1 cedi -1 cedi -1 gse -1 exceed -1 secur -1 bours -1 total -1 -2
+abidj -1 unchang -1 newsroom -1 activ -1 commerc -1 trad -1 trad -1 trad -1 cfao -1 -2

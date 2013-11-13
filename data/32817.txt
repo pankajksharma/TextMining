@@ -1,0 +1,4 @@
+stay -1 market -1 emerg -1 keen -1 heard -1 sulphur -1 high -1 high -1 low -1 come -1 come -1 fundament -1 fundament -1 line -1 cargoe -1 cargoe -1 firm -1 strong -1 cst -1 cst -1 expect -1 expect -1 overnight -1 prop -1 level -1 level -1 level -1 level -1 easy -1 pric -1 -2
+pric -1 pric -1 gain -1 mideast -1 thursday -1 thursday -1 deliv -1 push -1 crud -1 crud -1 crud -1 oil -1 oil -1 chin -1 chin -1 remain -1 rais -1 rais -1 rise -1 buy -1 buy -1 fuel -1 off -1 off -1 singapor -1 singapor -1 singapor -1 singapor -1 venezuel -1 western -1 work -1 -2
+bid -1 bid -1 bid -1 bid -1 bid -1 bid -1 korean -1 freight -1 viscos -1 cost -1 pape -1 south -1 south -1 lift -1 ton -1 ton -1 book -1 july -1 compar -1 hsfo -1 ask -1 hand -1 great -1 septemb -1 septemb -1 septemb -1 carg -1 demand -1 suppl -1 japan -1 friday -1 -2
+friday -1 chang -1 late -1 unchang -1 newsroom -1 asia -1 opportun -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2

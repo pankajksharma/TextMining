@@ -1,0 +1,2 @@
+mgt -1 conc -1 limit -1 ag -1 ag -1 rate -1 bp -1 bp -1 bp -1 sep -1 sep -1 year -1 full -1 und -1 german -1 manag -1 borrow -1 list -1 spread -1 issu -1 germ -1 dem -1 pay -1 wuestenrot -1 wuestenrot -1 lead -1 home -1 pric -1 law -1 float -1 -2
+stuttgart -1 million -1 flat -1 commerzbank -1 matur -1 hypo -1 hypothekenbank -1 pfandbrief -1 typ -1 frn -1 frn -1 libor -1 prov -1 london -1 date -1 base -1 sell -1 announc -1 gov -1 set -1 newsroom -1 amt -1 iss -1 mark -1 denom -1 fee -1 sale -1 tax -1 ctry -1 mln -1 -2

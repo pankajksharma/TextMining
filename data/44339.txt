@@ -1,0 +1,4 @@
+compan -1 compan -1 compan -1 limit -1 sect -1 sect -1 amend -1 hous -1 econom -1 econom -1 stock -1 stock -1 cap -1 month -1 low -1 own -1 privat -1 privat -1 privat -1 privat -1 retain -1 turn -1 firm -1 firm -1 firm -1 free -1 employ -1 peopl -1 fund -1 stat -1 -2
+percent -1 percent -1 introduc -1 govern -1 govern -1 treasur -1 bill -1 bill -1 bill -1 bill -1 bill -1 bill -1 jan -1 aleksand -1 pric -1 law -1 law -1 law -1 polish -1 code -1 poland -1 shar -1 shar -1 shar -1 enterpr -1 case -1 facilit -1 polit -1 strupczewsk -1 pressur -1 work -1 -2
+allocat -1 transform -1 initial -1 quick -1 parlia -1 parlia -1 parlia -1 critic -1 half -1 senat -1 put -1 thousand -1 basi -1 kwasniewsk -1 wag -1 pass -1 pass -1 pass -1 lobby -1 board -1 reject -1 subject -1 joint -1 joint -1 june -1 friday -1 coal -1 rule -1 aver -1 strateg -1 schem -1 -2
+separat -1 allow -1 allow -1 allow -1 measur -1 presid -1 creat -1 sign -1 commerc -1 slow -1 patron -1 group -1 -2

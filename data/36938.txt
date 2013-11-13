@@ -1,0 +1,4 @@
+mexic -1 mexic -1 mexic -1 mexic -1 mexic -1 market -1 quiet -1 clos -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 month -1 fair -1 low -1 low -1 low -1 liquid -1 bank -1 point -1 point -1 point -1 point -1 system -1 good -1 invest -1 decemb -1 deal -1 -2
+deal -1 deal -1 deal -1 deal -1 wait -1 de -1 de -1 percent -1 percent -1 percent -1 percent -1 anal -1 expect -1 expect -1 govern -1 cete -1 cete -1 cete -1 cete -1 cete -1 cete -1 karin -1 banc -1 banc -1 balder -1 level -1 volum -1 adjust -1 adjust -1 long -1 drop -1 -2
+auction -1 auction -1 auction -1 monday -1 monday -1 monday -1 stabl -1 rise -1 rose -1 rose -1 city -1 prim -1 prim -1 declin -1 declin -1 sharp -1 upcom -1 note -1 pape -1 basi -1 basi -1 basi -1 basi -1 thing -1 session -1 session -1 day -1 day -1 day -1 upset -1 pagar -1 -2
+includ -1 accept -1 bond -1 due -1 aver -1 newsroom -1 forecast -1 sidelin -1 trad -1 -2

@@ -1,0 +1,2 @@
+stay -1 stay -1 imm -1 imm -1 stall -1 idea -1 currenc -1 currenc -1 view -1 good -1 unit -1 light -1 buba -1 buba -1 mix -1 mix -1 pit -1 pit -1 reut -1 defend -1 futur -1 futur -1 end -1 insid -1 finish -1 durabl -1 rose -1 loss -1 cut -1 cut -1 -2
+mail -1 rang -1 aug -1 july -1 derivat -1 derivat -1 dollar -1 boc -1 morn -1 set -1 afternoon -1 desk -1 mark -1 trad -1 trad -1 trad -1 eas -1 eas -1 pct -1 pct -1 -2

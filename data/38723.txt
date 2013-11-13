@@ -1,0 +1,5 @@
+hsu -1 hsu -1 diplom -1 rival -1 train -1 train -1 train -1 train -1 tuesday -1 interest -1 countr -1 countr -1 begin -1 provinc -1 build -1 newspap -1 tuntex -1 petroleum -1 billion -1 billion -1 tie -1 firm -1 underway -1 larg -1 domest -1 afric -1 afric -1 afric -1 afric -1 afric -1 -2
+afric -1 report -1 stat -1 stat -1 local -1 local -1 world -1 jet -1 jet -1 jet -1 jet -1 rest -1 defend -1 li -1 telephon -1 talk -1 chin -1 give -1 industr -1 discuss -1 discuss -1 time -1 media -1 made -1 side -1 declin -1 hsiang -1 hsiang -1 accompan -1 premy -1 initial -1 -2
+initial -1 visit -1 visit -1 indigen -1 petrochem -1 petrochem -1 south -1 south -1 south -1 south -1 south -1 han -1 han -1 develop -1 sell -1 sell -1 sell -1 ally -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 detail -1 describ -1 run -1 run -1 -2
+island -1 island -1 island -1 day -1 want -1 corp -1 corp -1 relat -1 relat -1 beij -1 includ -1 wednesday -1 refus -1 project -1 aerospac -1 joint -1 ventur -1 teh -1 major -1 make -1 fight -1 fight -1 renegad -1 recogn -1 execut -1 vice -1 offic -1 offic -1 offic -1 offic -1 sale -1 -2
+commerc -1 distinct -1 zone -1 -2

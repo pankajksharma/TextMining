@@ -1,0 +1,2 @@
+attend -1 tuesday -1 fin -1 fin -1 countr -1 finland -1 issu -1 norway -1 gmt -1 stat -1 meet -1 meet -1 meet -1 meet -1 govern -1 govern -1 helsink -1 helsink -1 eu -1 denmark -1 iceland -1 sum -1 swed -1 august -1 prim -1 prim -1 prim -1 minist -1 minist -1 premy -1 -2
+new -1 energ -1 topic -1 aug -1 nordic -1 nordic -1 nordic -1 nordic -1 mart -1 held -1 minst -1 ahtisaar -1 polic -1 address -1 confer -1 presid -1 operat -1 region -1 hold -1 trad -1 -2

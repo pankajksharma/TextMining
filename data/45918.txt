@@ -1,0 +1,4 @@
+rthk -1 diplom -1 liaison -1 recent -1 back -1 reach -1 progress -1 chri -1 year -1 year -1 handov -1 handov -1 start -1 york -1 agree -1 agree -1 agree -1 form -1 unit -1 radio -1 radio -1 annual -1 accord -1 accord -1 sourc -1 report -1 meet -1 meet -1 britain -1 govern -1 -2
+govern -1 sino -1 outlin -1 end -1 governor -1 venu -1 arrang -1 nation -1 nation -1 discuss -1 discuss -1 chin -1 chin -1 chin -1 malcolm -1 hk -1 foreign -1 foreign -1 foreign -1 made -1 made -1 cent -1 minist -1 minist -1 minist -1 london -1 half -1 size -1 rifkind -1 pat -1 qich -1 -2
+forg -1 colon -1 differ -1 shap -1 session -1 basic -1 basic -1 beij -1 centur -1 midnight -1 hand -1 septemb -1 septemb -1 involut -1 inform -1 hong -1 hong -1 hong -1 kong -1 kong -1 kong -1 ceremon -1 ceremon -1 ceremon -1 ceremon -1 ceremon -1 joint -1 brit -1 brit -1 june -1 friday -1 -2
+role -1 sept -1 rule -1 late -1 late -1 add -1 mark -1 hope -1 hope -1 qian -1 group -1 -2

@@ -1,0 +1,2 @@
+limit -1 french -1 ffr -1 bp -1 bp -1 sep -1 sep -1 year -1 full -1 pari -1 morg -1 morg -1 morg -1 ny -1 standard -1 manag -1 borrow -1 list -1 franc -1 spread -1 jp -1 straight -1 aa -1 pay -1 lead -1 pric -1 law -1 moody -1 matur -1 coupon -1 -2
+typ -1 prov -1 london -1 aa2 -1 bln -1 bln -1 date -1 announc -1 fr -1 uk -1 gov -1 bond -1 bond -1 set -1 newsroom -1 amt -1 iss -1 reoff -1 denom -1 fee -1 neg -1 sale -1 plg -1 crs -1 tax -1 deflt -1 -2

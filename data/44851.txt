@@ -1,0 +1,4 @@
+payment -1 portion -1 hous -1 econom -1 french -1 interest -1 ffr -1 low -1 low -1 term -1 currenc -1 privat -1 newspap -1 trim -1 billion -1 billion -1 billion -1 billion -1 good -1 imply -1 suggest -1 employ -1 franc -1 franc -1 franc -1 franc -1 gross -1 debt -1 domest -1 produc -1 -2
+report -1 report -1 percent -1 govern -1 govern -1 govern -1 level -1 law -1 reform -1 reform -1 european -1 nation -1 time -1 social -1 social -1 public -1 financ -1 freez -1 scept -1 told -1 cent -1 cut -1 cut -1 cut -1 cut -1 fisc -1 prim -1 minist -1 figur -1 spend -1 spend -1 -2
+bln -1 size -1 part -1 cost -1 save -1 abil -1 plan -1 plan -1 septemb -1 reduc -1 reduc -1 reduc -1 reduc -1 explain -1 jup -1 jup -1 jup -1 jup -1 jup -1 budget -1 budget -1 alain -1 secur -1 present -1 deficit -1 promis -1 friday -1 real -1 wrap -1 incent -1 qualif -1 -2
+add -1 singl -1 hold -1 subsid -1 tax -1 tax -1 tax -1 tax -1 tax -1 tax -1 windfal -1 -2

@@ -1,0 +1,4 @@
+soybean -1 soybean -1 rainfal -1 early -1 early -1 early -1 grain -1 sunflow -1 progress -1 year -1 year -1 bracket -1 bracket -1 sow -1 rain -1 cordob -1 provinc -1 fe -1 poor -1 good -1 week -1 week -1 yield -1 yield -1 rio -1 report -1 percent -1 percent -1 percent -1 percent -1 -2
+level -1 million -1 thursday -1 crop -1 crop -1 crop -1 entr -1 quint -1 area -1 area -1 rise -1 august -1 harvest -1 harvest -1 maiz -1 maiz -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 farm -1 jason -1 quick -1 agricultur -1 sown -1 sown -1 sown -1 argentin -1 argentin -1 -2
+thousand -1 thousand -1 hectar -1 hectar -1 hectar -1 hectar -1 bueno -1 bueno -1 final -1 seed -1 develop -1 develop -1 web -1 shap -1 sorghum -1 plant -1 plant -1 plant -1 plant -1 plant -1 sunseed -1 cotton -1 discolor -1 air -1 air -1 total -1 total -1 displac -1 prompt -1 depend -1 intend -1 -2
+intend -1 secretariat -1 newsroom -1 sant -1 offic -1 slow -1 -2

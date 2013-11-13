@@ -1,0 +1,3 @@
+early -1 market -1 grain -1 clear -1 correct -1 heav -1 french -1 french -1 union -1 room -1 pari -1 stand -1 food -1 larg -1 bought -1 bought -1 germ -1 germ -1 germ -1 germ -1 germ -1 germ -1 germ -1 confirm -1 world -1 pric -1 soft -1 aid -1 eu -1 thursday -1 -2
+thursday -1 european -1 european -1 deliv -1 rye -1 current -1 wheat -1 intervent -1 intervent -1 intervent -1 allocat -1 allocat -1 figur -1 bid -1 doubl -1 barley -1 barley -1 barley -1 barley -1 barley -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 export -1 export -1 arabia -1 -2
+arabia -1 saud -1 saud -1 monit -1 suppl -1 suppl -1 avail -1 newsroom -1 boost -1 sale -1 offic -1 offic -1 offic -1 origin -1 left -1 count -1 trad -1 trad -1 trad -1 -2

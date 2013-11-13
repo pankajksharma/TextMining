@@ -1,0 +1,1 @@
+data -1 shr -1 headquart -1 brak -1 rev -1 q2 -1 reut -1 custom -1 long -1 city -1 net -1 net -1 net -1 note -1 settl -1 incom -1 incom -1 aug -1 island -1 reduc -1 action -1 reflect -1 -2

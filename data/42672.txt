@@ -1,0 +1,3 @@
+compan -1 newsdesk -1 richfood -1 richfood -1 richfood -1 richfood -1 richfood -1 stock -1 repret -1 record -1 record -1 sharehold -1 sharehold -1 declar -1 declar -1 york -1 common -1 common -1 maintain -1 quart -1 quart -1 quart -1 issu -1 percent -1 cash -1 cash -1 payabl -1 shar -1 shar -1 shar -1 -2
+shar -1 shar -1 shar -1 thursday -1 dividend -1 dividend -1 give -1 increas -1 equival -1 outstand -1 outstand -1 payout -1 payout -1 direct -1 direct -1 vote -1 septemb -1 septemb -1 septemb -1 septemb -1 ups -1 effect -1 effect -1 effect -1 present -1 set -1 add -1 hold -1 distribut -1 split -1 split -1 -2
+split -1 split -1 split -1 split -1 split -1 -2

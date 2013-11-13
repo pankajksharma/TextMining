@@ -1,0 +1,2 @@
+waf -1 w95 -1 ii -1 cpc -1 arzew -1 w65 -1 york -1 sea -1 sea -1 sea -1 gulf -1 red -1 west -1 afric -1 gmt -1 fixtur -1 fixtur -1 dirty -1 enquir -1 hemispher -1 usg -1 usg -1 tank -1 mideast -1 mideast -1 mideast -1 genoa -1 exxon -1 oil -1 commod -1 -2
+fuel -1 contin -1 samc -1 western -1 horizon -1 dorad -1 amuay -1 w127 -1 falcon -1 mobil -1 brazil -1 taiw -1 philippin -1 med -1 usac -1 petron -1 black -1 welsh -1 petrobr -1 carib -1 neptun -1 ventur -1 elf -1 w125 -1 desk -1 w62 -1 -2

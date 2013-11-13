@@ -1,0 +1,4 @@
+usda -1 market -1 market -1 market -1 back -1 tuesday -1 illinoi -1 high -1 loin -1 low -1 retreat -1 start -1 start -1 fall -1 iowa -1 deal -1 further -1 interior -1 sourc -1 produc -1 produc -1 report -1 backlog -1 expect -1 expect -1 cash -1 cash -1 hog -1 hog -1 hog -1 -2
+hog -1 hog -1 hog -1 hog -1 hog -1 pric -1 pric -1 pric -1 pric -1 pric -1 pric -1 hour -1 deliv -1 talk -1 monday -1 weekend -1 increas -1 increas -1 current -1 pork -1 buy -1 buy -1 buy -1 weak -1 pack -1 pack -1 cwt -1 head -1 cut -1 midw -1 midw -1 -2
+livestock -1 upcom -1 bob -1 direct -1 estimat -1 rang -1 sell -1 attribut -1 day -1 labor -1 plant -1 plant -1 plant -1 wednesday -1 wednesday -1 reduc -1 exceed -1 attempt -1 attempt -1 demand -1 major -1 minnesot -1 jani -1 process -1 holiday -1 indian -1 operat -1 top -1 top -1 top -1 advant -1 -2
+amid -1 trad -1 trad -1 -2

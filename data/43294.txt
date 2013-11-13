@@ -1,0 +1,2 @@
+emtn -1 rate -1 bp -1 sep -1 full -1 lehm -1 brother -1 manag -1 borrow -1 list -1 spread -1 issu -1 issu -1 pay -1 lead -1 pric -1 moody -1 float -1 aa3 -1 million -1 flat -1 matur -1 short -1 coupon -1 typ -1 frn -1 frn -1 libor -1 london -1 london -1 -2
+note -1 program -1 date -1 base -1 announc -1 intern -1 set -1 newsroom -1 amt -1 iss -1 fee -1 spintab -1 spintab -1 s10 -1 mln -1 -2

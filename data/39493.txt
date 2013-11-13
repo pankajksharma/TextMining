@@ -1,0 +1,2 @@
+market -1 stock -1 clos -1 clos -1 low -1 privat -1 system -1 unit -1 unit -1 percent -1 fix -1 big -1 main -1 warsaw -1 warsaw -1 zloty -1 zloty -1 continu -1 continu -1 continu -1 bph -1 debic -1 rolimpex -1 wednesday -1 bours -1 mass -1 nfi -1 nfi -1 newsroom -1 elektrim -1 -2
+trad -1 trad -1 trad -1 -2

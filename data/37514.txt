@@ -1,0 +1,2 @@
+stock -1 target -1 medic -1 medic -1 medic -1 alert -1 rate -1 month -1 cover -1 start -1 anal -1 pric -1 pric -1 shar -1 tex -1 initiat -1 public -1 research -1 offer -1 initial -1 underwrit -1 accumul -1 trex -1 trex -1 corp -1 conway -1 secur -1 june -1 natw -1 natw -1 -2
+marie -1 -2

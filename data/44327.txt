@@ -1,0 +1,3 @@
+wrongdo -1 early -1 carry -1 illeg -1 sentenc -1 violat -1 year -1 convict -1 bank -1 bank -1 bank -1 bank -1 pamul -1 pamul -1 pamul -1 pamul -1 manag -1 krakow -1 decemb -1 prison -1 stat -1 jan -1 act -1 code -1 poland -1 thursday -1 warsaw -1 deput -1 deput -1 deput -1 -2
+articl -1 made -1 handlow -1 work -1 senior -1 take -1 brib -1 brib -1 posit -1 crimin -1 bph -1 bph -1 bph -1 bph -1 vote -1 sa -1 impossibl -1 involut -1 proceed -1 board -1 memb -1 arrest -1 arrest -1 june -1 przemyslow -1 dismit -1 dismit -1 allegat -1 newsroom -1 presid -1 presid -1 -2
+presid -1 advant -1 suspect -1 -2

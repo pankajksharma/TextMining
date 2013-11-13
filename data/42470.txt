@@ -1,0 +1,2 @@
+market -1 quiet -1 month -1 york -1 york -1 firm -1 firm -1 spot -1 gulf -1 sourc -1 grad -1 grad -1 harbor -1 nymex -1 nymex -1 cash -1 agin -1 jump -1 jet -1 jet -1 jet -1 pric -1 pric -1 pric -1 gain -1 futur -1 futur -1 thursday -1 print -1 talk -1 -2
+contract -1 oil -1 industr -1 buy -1 fuel -1 fuel -1 fuel -1 rose -1 cent -1 cent -1 cent -1 offer -1 sharp -1 energ -1 lift -1 scrambl -1 paul -1 differ -1 septemb -1 concern -1 gallon -1 heat -1 demand -1 suppl -1 chang -1 season -1 desk -1 peak -1 franklin -1 -2

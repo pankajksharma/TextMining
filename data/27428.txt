@@ -1,0 +1,2 @@
+money -1 clos -1 clos -1 rate -1 currenc -1 yen -1 cover -1 bank -1 bank -1 firm -1 firm -1 deal -1 deal -1 slight -1 percent -1 overnight -1 pric -1 gain -1 overse -1 open -1 open -1 buy -1 colomb -1 foreign -1 cent -1 import -1 exchang -1 call -1 specul -1 sell -1 -2
+rupee -1 rupee -1 wednesday -1 sri -1 sri -1 lank -1 lank -1 dollar -1 dollar -1 unchang -1 newsroom -1 tel -1 left -1 -2

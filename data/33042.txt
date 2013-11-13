@@ -1,0 +1,3 @@
+negot -1 negot -1 limit -1 early -1 thai -1 thai -1 thai -1 own -1 cheap -1 spokeswom -1 start -1 agree -1 nihon -1 keizai -1 shimbun -1 system -1 tie -1 tie -1 firm -1 firm -1 firm -1 southeast -1 report -1 stat -1 approv -1 govern -1 busi -1 busi -1 busi -1 telephon -1 -2
+talk -1 convent -1 telecommun -1 area -1 daily -1 side -1 phon -1 phon -1 phon -1 phs -1 phs -1 phs -1 phs -1 handyphon -1 declin -1 bangkok -1 denshin -1 denw -1 kdd -1 kdd -1 kdd -1 kdd -1 kdd -1 telecom -1 part -1 mobil -1 mobil -1 pape -1 organ -1 aim -1 develop -1 -2
+plan -1 person -1 comment -1 intern -1 project -1 joint -1 ventur -1 friday -1 friday -1 japan -1 japan -1 japan -1 thailand -1 cell -1 set -1 asia -1 kokusai -1 -2

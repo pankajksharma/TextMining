@@ -1,0 +1,4 @@
+compan -1 nasdaq -1 nasdaq -1 nasdaq -1 nasdaq -1 market -1 market -1 market -1 small -1 emerg -1 sect -1 econom -1 econom -1 econom -1 econom -1 tech -1 stock -1 stock -1 stock -1 clos -1 clos -1 high -1 interest -1 rate -1 low -1 low -1 beneex -1 composit -1 composit -1 data -1 -2
+data -1 point -1 invest -1 alban -1 percent -1 strong -1 strong -1 strong -1 expect -1 expect -1 advanc -1 big -1 defend -1 defend -1 rest -1 rest -1 busi -1 index -1 volum -1 million -1 shar -1 shar -1 johnson -1 techn -1 industr -1 area -1 reawak -1 andrej -1 gustinc -1 weak -1 comput -1 -2
+semiconduc -1 semiconduc -1 declin -1 inflat -1 chief -1 modem -1 part -1 eceonom -1 led -1 electr -1 plan -1 profit -1 corp -1 corp -1 sens -1 sens -1 wall -1 street -1 concern -1 hugh -1 blu -1 chip -1 dow -1 exit -1 sier -1 activ -1 operat -1 desk -1 econ -1 offic -1 trad -1 -2
+bit -1 -2

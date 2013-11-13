@@ -1,0 +1,3 @@
+mechan -1 compan -1 compan -1 compan -1 femsoft -1 femsoft -1 femsoft -1 urethr -1 study -1 study -1 study -1 clear -1 newsdesk -1 submit -1 medic -1 medic -1 medic -1 drug -1 applic -1 month -1 demonstr -1 begin -1 patient -1 safet -1 come -1 receiv -1 data -1 manag -1 syring -1 food -1 -2
+devic -1 devic -1 devic -1 approv -1 approv -1 requir -1 populat -1 administ -1 soft -1 deflat -1 nation -1 chicag -1 assist -1 extend -1 anthon -1 insert -1 insert -1 weak -1 provid -1 inflat -1 premarket -1 signif -1 valf -1 stress -1 rochest -1 rochest -1 incontin -1 fluid -1 fda -1 conduc -1 institut -1 -2
+result -1 corp -1 optim -1 wednesday -1 effect -1 conway -1 femal -1 fill -1 clinic -1 clinic -1 recogn -1 presid -1 muscl -1 trial -1 -2

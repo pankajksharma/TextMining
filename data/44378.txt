@@ -1,0 +1,4 @@
+early -1 grain -1 grain -1 grain -1 grain -1 grain -1 grain -1 target -1 begin -1 begin -1 year -1 year -1 year -1 year -1 year -1 year -1 form -1 fall -1 fall -1 fertil -1 mill -1 mill -1 human -1 soviet -1 produc -1 produc -1 produc -1 expect -1 expect -1 expect -1 -2
+expect -1 govern -1 cash -1 prop -1 aid -1 reap -1 crop -1 crop -1 crop -1 increas -1 area -1 short -1 harvest -1 harvest -1 harvest -1 feed -1 import -1 maiz -1 maiz -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 minist -1 minist -1 minist -1 minist -1 minist -1 lack -1 -2
+agricultur -1 thresh -1 signif -1 sown -1 georg -1 georg -1 hectar -1 hectar -1 hectar -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 ton -1 led -1 consum -1 plan -1 plan -1 plant -1 spokesm -1 spokesm -1 total -1 friday -1 lacklustr -1 -2
+add -1 republ -1 republ -1 forecast -1 hope -1 southern -1 signific -1 signific -1 -2

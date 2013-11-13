@@ -1,0 +1,2 @@
+texa -1 cap -1 game -1 team -1 york -1 york -1 toront -1 atlant -1 st -1 loui -1 home -1 detroit -1 kans -1 florid -1 boston -1 nation -1 dieg -1 leagu -1 leagu -1 leagu -1 leagu -1 chicag -1 chicag -1 inn -1 inn -1 inn -1 inn -1 san -1 san -1 francisc -1 -2
+montreal -1 city -1 play -1 americ -1 houston -1 pittsburgh -1 result -1 result -1 wednesday -1 wednesday -1 cincinnat -1 colorad -1 major -1 major -1 baltimor -1 cleveland -1 minnesot -1 los -1 milwauk -1 angel -1 seattl -1 oakland -1 philadelph -1 basebal -1 basebal -1 californ -1 -2

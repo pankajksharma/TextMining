@@ -1,0 +1,2 @@
+idm -1 primary7 -1 primary7 -1 diluted7 -1 diluted7 -1 prof -1 prof0 -1 loss0 -1 loss747 -1 month -1 data -1 shr -1 shr -1 shr -1 shr -1 shr -1 shr -1 shr -1 shr -1 shr -1 nil -1 rev -1 rev -1 avg -1 avg -1 avg -1 avg -1 q2 -1 environ -1 dilut -1 -2
+dilut -1 shar -1 drop -1 loss -1 prim -1 prim -1 numb -1 net -1 net -1 profit -1 -2

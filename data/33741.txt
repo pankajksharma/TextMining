@@ -1,0 +1,3 @@
+compan -1 read -1 stop -1 clos -1 memor -1 memor -1 memor -1 memor -1 eras -1 march -1 march -1 march -1 march -1 begin -1 year -1 rom -1 spokeswom -1 spokeswom -1 form -1 line -1 line -1 produc -1 produc -1 produc -1 produc -1 random -1 random -1 dynam -1 sram -1 sram -1 -2
+sram -1 iwat -1 eprom -1 end -1 end -1 end -1 monday -1 flash -1 typ -1 typ -1 focus -1 semiconduc -1 scrap -1 northern -1 mask -1 program -1 plan -1 plant -1 plant -1 dram -1 chip -1 chip -1 chip -1 chip -1 chip -1 fujitsu -1 fujitsu -1 fujitsu -1 fujitsu -1 japan -1 withdraw -1 -2
+access -1 access -1 make -1 ord -1 static -1 -2

@@ -1,0 +1,5 @@
+febru -1 novemb -1 novemb -1 market -1 market -1 sect -1 retail -1 struck -1 slip -1 stock -1 stock -1 idea -1 gas -1 debit -1 octob -1 point -1 point -1 manag -1 sophist -1 imply -1 food -1 decemb -1 decemb -1 decemb -1 decemb -1 decemb -1 decemb -1 deal -1 deal -1 deal -1 -2
+deal -1 deal -1 deal -1 bought -1 bought -1 bought -1 gmt -1 produc -1 lost -1 fts -1 fts -1 fts -1 expect -1 conglom -1 cash -1 fell -1 tumbl -1 main -1 janu -1 index -1 index -1 index -1 index -1 brok -1 futur -1 futur -1 futur -1 futur -1 futur -1 futur -1 futur -1 -2
+shar -1 shar -1 shar -1 thursday -1 long -1 lasm -1 lasm -1 oil -1 increas -1 time -1 asda -1 asda -1 short -1 buy -1 buy -1 buy -1 buy -1 buy -1 volatil -1 volatil -1 volatil -1 volatil -1 call -1 call -1 call -1 call -1 flur -1 london -1 explor -1 net -1 slid -1 -2
+posit -1 period -1 put -1 put -1 put -1 put -1 direct -1 hanson -1 lot -1 lot -1 sell -1 sell -1 sell -1 wors -1 mat -1 profit -1 dominat -1 septemb -1 septemb -1 involut -1 tesc -1 tesc -1 total -1 chang -1 busy -1 strangl -1 trad -1 trad -1 trad -1 trad -1 trad -1 -2
+group -1 cross -1 hedg -1 option -1 option -1 option -1 option -1 -2

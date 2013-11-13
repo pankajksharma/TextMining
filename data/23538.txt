@@ -1,0 +1,4 @@
+market -1 econom -1 tuesday -1 stock -1 clos -1 interest -1 interest -1 month -1 low -1 low -1 chri -1 beneex -1 year -1 year -1 year -1 year -1 bank -1 bank -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 squeez -1 gmt -1 stat -1 percent -1 percent -1 percent -1 -2
+percent -1 anal -1 expect -1 lend -1 lend -1 lend -1 big -1 rest -1 slowdown -1 denmark -1 denmark -1 million -1 million -1 shar -1 copenhagen -1 deposit -1 monday -1 sustain -1 crown -1 crown -1 crown -1 crown -1 crown -1 crown -1 crown -1 danish -1 unidanmark -1 unidanmark -1 unidanmark -1 rose -1 rose -1 -2
+growth -1 growth -1 net -1 improv -1 pre -1 half -1 half -1 half -1 half -1 half -1 period -1 incom -1 earn -1 profit -1 profit -1 profit -1 profit -1 profit -1 result -1 result -1 result -1 project -1 unibank -1 unmov -1 follet -1 unchang -1 newsroom -1 mortg -1 forecast -1 forecast -1 operat -1 -2
+operat -1 fee -1 fee -1 trad -1 tax -1 group -1 pct -1 -2

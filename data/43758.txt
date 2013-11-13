@@ -1,0 +1,2 @@
+ag -1 year -1 baxt -1 baxt -1 agree -1 agree -1 firm -1 franc -1 complet -1 stat -1 approv -1 requir -1 million -1 european -1 immun -1 immun -1 immun -1 swiss -1 author -1 purchas -1 put -1 americ -1 link -1 coop -1 includ -1 board -1 intern -1 intern -1 worldw -1 joint -1 -2
+strateg -1 set -1 pact -1 transact -1 transact -1 cartel -1 -2

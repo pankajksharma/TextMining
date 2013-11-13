@@ -1,0 +1,4 @@
+stay -1 compan -1 market -1 market -1 market -1 econom -1 tuesday -1 stock -1 stock -1 stock -1 stock -1 stock -1 high -1 high -1 low -1 mor -1 yen -1 yen -1 data -1 start -1 start -1 good -1 modest -1 calendar -1 firm -1 firm -1 firm -1 firm -1 individual -1 issu -1 -2
+slight -1 meet -1 strong -1 strong -1 anal -1 anal -1 anal -1 expect -1 expect -1 treasur -1 treasur -1 overnight -1 philip -1 cos -1 gain -1 gain -1 volum -1 open -1 dividend -1 industr -1 increas -1 increas -1 tone -1 rise -1 weak -1 weak -1 continu -1 move -1 posit -1 posit -1 replic -1 -2
+direct -1 led -1 pattern -1 pattern -1 larry -1 larry -1 wachtel -1 wachtel -1 wachtel -1 day -1 prudent -1 prudent -1 announc -1 post -1 dominat -1 sens -1 wednesday -1 wall -1 wall -1 street -1 street -1 secur -1 secur -1 dollar -1 dollar -1 dollar -1 dollar -1 bond -1 bond -1 bond -1 bond -1 -2
+bond -1 dow -1 activ -1 doldr -1 yesterday -1 yesterday -1 boost -1 split -1 -2

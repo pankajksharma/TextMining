@@ -1,0 +1,5 @@
+stay -1 limit -1 televis -1 emerg -1 back -1 back -1 instruc -1 medic -1 union -1 union -1 month -1 sack -1 doct -1 doct -1 hospit -1 year -1 fall -1 live -1 radio -1 radio -1 red -1 salar -1 report -1 stat -1 stat -1 stat -1 stat -1 stat -1 percent -1 percent -1 -2
+pay -1 pay -1 lead -1 govern -1 govern -1 govern -1 quest -1 administ -1 junior -1 frank -1 personnel -1 end -1 assist -1 hurt -1 rise -1 rise -1 social -1 social -1 public -1 public -1 public -1 return -1 grief -1 zimbabw -1 ground -1 met -1 told -1 civil -1 civil -1 sever -1 work -1 -2
+work -1 assoc -1 senior -1 senior -1 defy -1 defy -1 minist -1 mugab -1 vow -1 servic -1 servic -1 servic -1 servic -1 strik -1 strik -1 strik -1 strik -1 magist -1 serv -1 serv -1 zimbabwean -1 job -1 thousand -1 cost -1 welfar -1 florent -1 earn -1 justif -1 day -1 threat -1 threat -1 -2
+threat -1 wag -1 includ -1 labor -1 essent -1 street -1 comment -1 chamunorw -1 army -1 demand -1 demand -1 friday -1 friday -1 respons -1 aver -1 robert -1 dismit -1 dismit -1 dismit -1 stretch -1 chitaur -1 address -1 psa -1 psa -1 vice -1 presid -1 presid -1 nur -1 nur -1 handl -1 offic -1 -2
+left -1 cross -1 -2

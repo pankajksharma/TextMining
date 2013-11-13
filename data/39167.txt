@@ -1,0 +1,1 @@
+record -1 amount -1 quart -1 pay -1 dividend -1 prior -1 harleysvill -1 qrtly -1 ups -1 sept -1 sept -1 late -1 group -1 -2

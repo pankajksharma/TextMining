@@ -1,0 +1,4 @@
+televis -1 early -1 untreat -1 contamin -1 hiv -1 hiv -1 hiv -1 doct -1 doct -1 hospit -1 patient -1 swoop -1 abe -1 abe -1 abe -1 abe -1 abe -1 file -1 treat -1 human -1 produc -1 produc -1 produc -1 produc -1 nhk -1 profess -1 blood -1 blood -1 blood -1 quest -1 -2
+aid -1 aid -1 aid -1 thursday -1 thursday -1 long -1 contract -1 case -1 univers -1 decad -1 takesh -1 public -1 public -1 investig -1 health -1 head -1 research -1 work -1 complain -1 minist -1 search -1 suspic -1 fami -1 serv -1 resid -1 neglig -1 district -1 taint -1 crimin -1 toky -1 toky -1 -2
+scand -1 scand -1 immunodefic -1 virus -1 virus -1 teiky -1 plan -1 charg -1 heat -1 spokesm -1 arrest -1 arrest -1 arrest -1 arrest -1 arrest -1 japan -1 japan -1 japan -1 morn -1 polic -1 polic -1 know -1 prosecut -1 prosecut -1 prosecut -1 vice -1 presid -1 haemophiliac -1 haemophiliac -1 haemophiliac -1 haemophiliac -1 -2
+offic -1 death -1 -2

@@ -1,0 +1,4 @@
+congress -1 elect -1 elect -1 elect -1 elect -1 elect -1 amend -1 publ -1 publ -1 clos -1 ibop -1 maluf -1 year -1 term -1 term -1 schedul -1 octob -1 newspap -1 tie -1 seek -1 franc -1 peopl -1 today -1 today -1 error -1 report -1 percent -1 percent -1 percent -1 percent -1 -2
+lead -1 govern -1 pollst -1 eye -1 mci -1 da -1 thursday -1 support -1 party -1 nation -1 henriqu -1 august -1 cardos -1 cardos -1 cardos -1 cardos -1 cardos -1 cardos -1 wid -1 mayor -1 provid -1 margin -1 margin -1 work -1 luiz -1 halfway -1 serv -1 constitut -1 put -1 poll -1 poll -1 -2
+poll -1 poll -1 sarney -1 brazil -1 brazil -1 brazil -1 brazil -1 brazil -1 brazil -1 inacio -1 lula -1 lula -1 fernand -1 jose -1 sponsor -1 trail -1 vote -1 vote -1 vote -1 paul -1 paul -1 run -1 run -1 run -1 survey -1 survey -1 predecess -1 sao -1 plac -1 silf -1 held -1 -2
+request -1 itamar -1 activ -1 presid -1 presid -1 presid -1 presid -1 presid -1 presid -1 hold -1 offic -1 offic -1 offic -1 -2

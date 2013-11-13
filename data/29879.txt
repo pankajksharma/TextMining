@@ -1,0 +1,2 @@
+apt -1 apt -1 apt -1 gilt -1 eurolir -1 euroswiss -1 clos -1 clos -1 euromark -1 month -1 sep -1 sep -1 sep -1 sep -1 sep -1 sep -1 sep -1 sep -1 tabl -1 automat -1 germ -1 govt -1 govt -1 fts -1 pit -1 italian -1 pric -1 futur -1 futur -1 long -1 -2
+contract -1 short -1 financ -1 exchang -1 london -1 london -1 settl -1 settl -1 detail -1 prev -1 intern -1 bond -1 bond -1 liff -1 sterl -1 trad -1 -2

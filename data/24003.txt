@@ -1,0 +1,2 @@
+market -1 recent -1 lce -1 tuesday -1 stop -1 clos -1 clos -1 high -1 high -1 octob -1 octob -1 pari -1 firm -1 firm -1 firm -1 decemb -1 decemb -1 strong -1 expect -1 pric -1 gain -1 gain -1 brok -1 futur -1 support -1 strength -1 challeng -1 end -1 gather -1 lurk -1 -2
+finish -1 finish -1 cent -1 london -1 london -1 sugar -1 sugar -1 consolid -1 rang -1 lot -1 ton -1 peg -1 turnov -1 day -1 resist -1 prev -1 whit -1 whit -1 newsroom -1 add -1 add -1 activ -1 trad -1 trad -1 trad -1 -2

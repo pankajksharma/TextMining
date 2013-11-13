@@ -1,0 +1,2 @@
+market -1 immed -1 union -1 rate -1 cover -1 bank -1 bank -1 bank -1 start -1 start -1 bancorp -1 bancorp -1 bancorp -1 sourc -1 sourc -1 outperform -1 outperform -1 nation -1 smith -1 smith -1 smith -1 barney -1 barney -1 barney -1 initiat -1 initiat -1 americ -1 hibern -1 detail -1 summit -1 -2
+corp -1 corp -1 corp -1 corp -1 corp -1 corp -1 plant -1 neutr -1 neutr -1 bancorpor -1 signet -1 amsouth -1 southtrust -1 commerc -1 commerc -1 commerc -1 -2

@@ -1,0 +1,3 @@
+compan -1 clos -1 march -1 room -1 year -1 year -1 year -1 hotel -1 construc -1 agree -1 shr -1 cheung -1 cheung -1 cheung -1 nil -1 nil -1 nil -1 nil -1 nil -1 manag -1 invest -1 stat -1 local -1 payabl -1 provis -1 million -1 million -1 million -1 end -1 kee -1 -2
+kee -1 kee -1 dividend -1 dividend -1 dividend -1 fung -1 fung -1 fung -1 chin -1 chin -1 termin -1 hk -1 hk -1 hk -1 hk -1 diminut -1 cent -1 cent -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 net -1 net -1 net -1 resid -1 new -1 -2
+note -1 cost -1 cost -1 book -1 except -1 except -1 turnov -1 relat -1 item -1 hong -1 project -1 kong -1 total -1 perman -1 hold -1 group -1 group -1 mln -1 -2

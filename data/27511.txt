@@ -1,0 +1,2 @@
+grain -1 ocean -1 panamax -1 baltic -1 bfi -1 bfi -1 point -1 point -1 firm -1 road -1 gulf -1 fixtur -1 atlant -1 msk -1 fix -1 fix -1 hampton -1 index -1 brok -1 rotterdam -1 kleimar -1 long -1 long -1 pawnee -1 comb -1 rise -1 conclud -1 rose -1 cape -1 london -1 -2
+heavy -1 freight -1 note -1 ton -1 ton -1 ruby -1 wednesday -1 septemb -1 septemb -1 japan -1 coal -1 cond -1 cond -1 newsroom -1 slow -1 slow -1 -2

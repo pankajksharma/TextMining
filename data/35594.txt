@@ -1,0 +1,4 @@
+mechan -1 econom -1 attend -1 fin -1 union -1 rate -1 monet -1 countr -1 countr -1 schedul -1 start -1 join -1 voic -1 finland -1 finland -1 finland -1 finland -1 finland -1 meet -1 meet -1 expect -1 erm -1 erm -1 erm -1 erm -1 erm -1 decid -1 decid -1 decid -1 helsink -1 -2
+helsink -1 quest -1 markk -1 phas -1 europ -1 end -1 sum -1 monday -1 democrat -1 paav -1 lippon -1 lippon -1 lippon -1 reserv -1 swed -1 swed -1 swed -1 swed -1 swed -1 swed -1 swed -1 timet -1 social -1 made -1 told -1 exchang -1 veer -1 persson -1 declin -1 prim -1 prim -1 -2
+prim -1 minist -1 minist -1 minist -1 autumn -1 autumn -1 new -1 new -1 new -1 criter -1 emu -1 emu -1 emu -1 emu -1 emu -1 converg -1 link -1 day -1 plan -1 plan -1 plan -1 nordic -1 goran -1 comment -1 object -1 elabor -1 held -1 joint -1 joint -1 joint -1 respons -1 -2
+rule -1 set -1 newsroom -1 heinon -1 confer -1 confer -1 confer -1 -2

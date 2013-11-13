@@ -1,0 +1,4 @@
+market -1 market -1 market -1 grain -1 grain -1 grain -1 grain -1 grain -1 grain -1 grain -1 clear -1 gener -1 carry -1 stanc -1 countr -1 fluctu -1 year -1 agent -1 agent -1 data -1 amount -1 calendar -1 food -1 food -1 unit -1 bought -1 stat -1 yuuk -1 canad -1 world -1 -2
+world -1 reut -1 pric -1 pric -1 rally -1 show -1 disrupt -1 thursday -1 chin -1 remain -1 remain -1 remain -1 avoid -1 stabl -1 stabl -1 stabl -1 buy -1 buy -1 buy -1 buy -1 financ -1 told -1 import -1 import -1 import -1 import -1 wheat -1 wheat -1 wheat -1 austral -1 cut -1 -2
+senior -1 senior -1 minist -1 minist -1 minist -1 minist -1 agricultur -1 ll -1 barley -1 barley -1 barley -1 direct -1 ton -1 ton -1 takag -1 tend -1 friday -1 japan -1 japan -1 japan -1 japan -1 polic -1 afternoon -1 regul -1 regul -1 arm -1 sole -1 ord -1 offic -1 offic -1 trad -1 -2
+unlik -1 -2

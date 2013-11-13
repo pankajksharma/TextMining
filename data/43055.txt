@@ -1,0 +1,2 @@
+early -1 bijenkorf -1 retail -1 plung -1 interest -1 month -1 year -1 full -1 shr -1 billion -1 kbb -1 issu -1 produc -1 stat -1 percent -1 special -1 special -1 anal -1 amsterdam -1 expect -1 million -1 million -1 million -1 guild -1 guild -1 guild -1 margin -1 assoc -1 depart -1 depart -1 -2
+net -1 net -1 net -1 net -1 half -1 note -1 incom -1 turnov -1 july -1 profit -1 profit -1 profit -1 result -1 charg -1 stor -1 stor -1 stor -1 stor -1 newsroom -1 forecast -1 operat -1 operat -1 tax -1 group -1 -2

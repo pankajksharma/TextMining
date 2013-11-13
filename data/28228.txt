@@ -1,0 +1,4 @@
+mgt -1 launch -1 lip -1 sharehold -1 rate -1 bp -1 bp -1 bp -1 bp -1 sep -1 provinc -1 kwantung -1 keb -1 yr -1 yr -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 schrod -1 schrod -1 manag -1 manag -1 standard -1 amount -1 borrow -1 list -1 reply -1 -2
+issu -1 ml -1 austr -1 pay -1 lead -1 home -1 level -1 pric -1 law -1 matur -1 arrang -1 arrang -1 arrang -1 chin -1 chin -1 chin -1 bullet -1 hk -1 coupon -1 financ -1 typ -1 call -1 engl -1 forc -1 repay -1 wk -1 put -1 note -1 date -1 yrs -1 aug -1 -2
+def -1 announc -1 par -1 hong -1 hong -1 hong -1 hong -1 hong -1 hong -1 gov -1 kong -1 kong -1 kong -1 kong -1 kong -1 kong -1 major -1 lmt -1 jardin -1 flem -1 set -1 newsroom -1 landesbank -1 bayerisch -1 asia -1 asia -1 asia -1 iss -1 frcd -1 frcd -1 fee -1 -2
+denom -1 neg -1 sale -1 plg -1 crs -1 maj -1 ctry -1 mln -1 mln -1 mln -1 mln -1 mln -1 -2

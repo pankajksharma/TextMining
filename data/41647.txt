@@ -1,0 +1,2 @@
+smrzovk -1 stock -1 list -1 czk -1 issu -1 bv -1 st -1 st -1 st -1 pric -1 pric -1 volum -1 min -1 financ -1 czech -1 made -1 pse -1 exchang -1 pragu -1 pragu -1 zivnobank -1 cez -1 cez -1 cez -1 okd -1 direct -1 direct -1 aug -1 turnov -1 dluhop -1 -2
+dluhop -1 dluhop -1 chemapol -1 bond -1 bond -1 newsroom -1 max -1 csob -1 csob -1 trad -1 trad -1 pct -1 pct -1 -2

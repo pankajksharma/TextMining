@@ -1,0 +1,4 @@
+intl -1 stock -1 slot -1 low -1 low -1 countr -1 year -1 icac -1 icac -1 icac -1 unit -1 larg -1 huge -1 error -1 produc -1 produc -1 produc -1 produc -1 produc -1 stat -1 decid -1 world -1 big -1 big -1 lower -1 million -1 million -1 million -1 million -1 million -1 -2
+crop -1 approxim -1 chin -1 chin -1 chin -1 chin -1 chin -1 chin -1 consid -1 statist -1 area -1 buy -1 stood -1 harvest -1 caution -1 commit -1 import -1 lose -1 cut -1 declin -1 agricultur -1 depart -1 match -1 predict -1 townsend -1 townsend -1 townsend -1 townsend -1 townsend -1 note -1 hectar -1 -2
+estimat -1 estimat -1 estimat -1 rang -1 interview -1 ton -1 ton -1 ton -1 ton -1 base -1 revis -1 plant -1 plant -1 impact -1 wednesday -1 reduc -1 prev -1 cotton -1 cotton -1 cotton -1 cotton -1 cotton -1 cotton -1 cotton -1 intern -1 make -1 advis -1 tremend -1 forecast -1 forecast -1 forecast -1 -2
+forecast -1 terry -1 thought -1 lag -1 group -1 group -1 group -1 -2

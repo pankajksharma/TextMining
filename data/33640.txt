@@ -1,0 +1,3 @@
+draw -1 saturday -1 sunday -1 north -1 north -1 point -1 point -1 sydney -1 sydney -1 sydney -1 stand -1 stand -1 west -1 west -1 percent -1 lost -1 st -1 st -1 weekend -1 austral -1 austral -1 won -1 match -1 play -1 play -1 play -1 play -1 play -1 brisban -1 brisban -1 -2
+geelong -1 geelong -1 adelaid -1 adelaid -1 carlton -1 carlton -1 coast -1 coast -1 fitzroy -1 fitzroy -1 kild -1 kild -1 afl -1 result -1 result -1 fremantl -1 fremantl -1 total -1 tabulat -1 friday -1 rule -1 rule -1 melbourn -1 melbourn -1 melbourn -1 melbourn -1 hawthorn -1 hawthorn -1 footscray -1 footscray -1 newsroom -1 -2
+collingwood -1 collingwood -1 essendon -1 essendon -1 richmons -1 richmons -1 -2

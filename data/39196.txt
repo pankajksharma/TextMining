@@ -1,0 +1,3 @@
+back -1 flight -1 flight -1 flight -1 fly -1 own -1 own -1 agree -1 agree -1 agree -1 newark -1 dundee -1 edinburgh -1 scotland -1 scotland -1 scotland -1 scotland -1 ticket -1 ticket -1 convers -1 approv -1 britain -1 england -1 design -1 manchest -1 manchest -1 busi -1 busi -1 busi -1 busi -1 -2
+code -1 code -1 shar -1 midland -1 arrang -1 daily -1 contin -1 contin -1 contin -1 contin -1 contin -1 contin -1 cove -1 airway -1 city -1 abh -1 abh -1 destin -1 bus -1 depart -1 book -1 transport -1 transport -1 wednesday -1 septemb -1 whol -1 airlin -1 airlin -1 airlin -1 effect -1 plac -1 -2
+passeng -1 air -1 air -1 air -1 air -1 subject -1 brit -1 major -1 aberdeen -1 connect -1 glasgow -1 enter -1 pact -1 subsid -1 group -1 -2

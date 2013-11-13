@@ -1,0 +1,2 @@
+money -1 clos -1 clos -1 clos -1 clos -1 rate -1 deal -1 deal -1 percent -1 percent -1 percent -1 easy -1 easy -1 open -1 remain -1 stead -1 bangladesh -1 bangladesh -1 call -1 taka -1 taka -1 taka -1 prev -1 prev -1 demand -1 dollar -1 dollar -1 dollar -1 interbank -1 interbank -1 -2
+trad -1 pick -1 -2

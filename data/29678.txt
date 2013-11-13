@@ -1,0 +1,2 @@
+compan -1 capac -1 facil -1 bank -1 bank -1 agree -1 system -1 upgrad -1 invest -1 invest -1 ammon -1 loan -1 produc -1 percent -1 int -1 int -1 lend -1 environ -1 million -1 million -1 million -1 thursday -1 urea -1 control -1 pasa -1 pasa -1 pasa -1 iic -1 increas -1 win -1 -2
+financ -1 financ -1 spend -1 ethyl -1 petrochem -1 petrochem -1 argentin -1 part -1 mobil -1 benz -1 americ -1 americ -1 develop -1 corpor -1 sa -1 sa -1 plant -1 expand -1 equip -1 project -1 project -1 commerc -1 group -1 mln -1 -2

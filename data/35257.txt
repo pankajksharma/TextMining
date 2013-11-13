@@ -1,0 +1,2 @@
+market -1 shin -1 correct -1 stock -1 stock -1 stock -1 clos -1 clos -1 clos -1 high -1 low -1 point -1 fall -1 invest -1 invest -1 issu -1 dhak -1 dhak -1 dhak -1 lost -1 percent -1 meghn -1 pukur -1 fell -1 fell -1 pric -1 index -1 rally -1 brok -1 brok -1 -2
+million -1 shar -1 shar -1 end -1 end -1 monday -1 remain -1 galvan -1 rose -1 exchang -1 continu -1 cement -1 book -1 book -1 taka -1 taka -1 session -1 turnov -1 anwar -1 day -1 profit -1 profit -1 colm -1 reckit -1 dse -1 unchang -1 hold -1 trad -1 -2

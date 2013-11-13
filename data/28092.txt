@@ -1,0 +1,2 @@
+market -1 clos -1 clos -1 high -1 high -1 high -1 month -1 year -1 appetit -1 good -1 mid -1 deal -1 key -1 key -1 produc -1 strong -1 expect -1 cash -1 futur -1 mth -1 auction -1 underpin -1 jgb -1 jgb -1 jgb -1 result -1 septemb -1 bond -1 sept -1 hit -1 -2
+hit -1 afternoon -1 -2

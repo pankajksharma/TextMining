@@ -1,0 +1,5 @@
+floor -1 floor -1 incid -1 jail -1 tuesday -1 send -1 sentenc -1 immed -1 wouldn -1 month -1 hospit -1 demonstr -1 year -1 year -1 year -1 crush -1 brother -1 fall -1 fall -1 punish -1 longd -1 prison -1 prison -1 xiaoy -1 xiaoy -1 chen -1 chen -1 chen -1 chen -1 chen -1 -2
+chen -1 repeat -1 today -1 today -1 dissid -1 dissid -1 injur -1 injur -1 squar -1 jump -1 suff -1 reut -1 camp -1 camp -1 administ -1 telephon -1 hangzhou -1 hangzhou -1 hangzhou -1 brok -1 brok -1 maxim -1 nation -1 endang -1 monday -1 age -1 chin -1 chin -1 chin -1 chin -1 prior -1 -2
+polit -1 august -1 pelf -1 petit -1 charact -1 told -1 told -1 cent -1 phon -1 call -1 city -1 recours -1 visit -1 court -1 fami -1 fami -1 parlia -1 permit -1 bone -1 deny -1 rang -1 storey -1 educat -1 educat -1 sist -1 sist -1 led -1 contact -1 contact -1 hap -1 beij -1 -2
+labor -1 labor -1 labor -1 comment -1 army -1 student -1 secur -1 attempt -1 attempt -1 attempt -1 demand -1 demand -1 june -1 eastern -1 role -1 teeth -1 polic -1 polic -1 polic -1 polic -1 polic -1 polic -1 polic -1 releas -1 impos -1 prosecut -1 suic -1 suic -1 suic -1 demo -1 offic -1 -2
+tiananm -1 beat -1 -2

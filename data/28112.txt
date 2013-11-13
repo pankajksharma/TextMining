@@ -1,0 +1,4 @@
+tight -1 market -1 target -1 interest -1 interest -1 interest -1 interest -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 rate -1 monet -1 year -1 year -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 point -1 point -1 trim -1 -2
+trim -1 peopl -1 peopl -1 loan -1 sourc -1 stat -1 stat -1 stat -1 percent -1 percent -1 anal -1 quest -1 lend -1 deposit -1 deposit -1 governor -1 talk -1 chin -1 chin -1 chin -1 chin -1 made -1 made -1 xianglong -1 cent -1 cent -1 cent -1 cent -1 cent -1 cut -1 cut -1 -2
+cut -1 cut -1 cut -1 cut -1 inflat -1 inflat -1 stress -1 specul -1 specul -1 specul -1 note -1 plan -1 ask -1 dai -1 wednesday -1 reduc -1 comment -1 comment -1 spokesm -1 friday -1 friday -1 friday -1 friday -1 chang -1 respons -1 aver -1 late -1 set -1 set -1 polic -1 advis -1 -2
+offic -1 eas -1 eas -1 -2

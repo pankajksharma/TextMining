@@ -1,0 +1,2 @@
+market -1 market -1 unexpect -1 econom -1 record -1 interest -1 interest -1 rate -1 rate -1 low -1 low -1 climb -1 data -1 point -1 point -1 suit -1 manag -1 week -1 percent -1 strong -1 strong -1 fts -1 lead -1 jump -1 tumbl -1 index -1 thursday -1 shar -1 shar -1 end -1 -2
+end -1 renew -1 chicag -1 rise -1 finish -1 purchas -1 spark -1 spin -1 fact -1 slid -1 sharp -1 sell -1 hike -1 uk -1 uk -1 uk -1 pmi -1 friday -1 bond -1 dow -1 forecast -1 fear -1 fear -1 ord -1 trad -1 -2

@@ -1,0 +1,2 @@
+high -1 appli -1 firm -1 stat -1 jan -1 big -1 janu -1 million -1 tatung -1 tatung -1 refund -1 net -1 net -1 net -1 note -1 taiw -1 taiw -1 taipei -1 electr -1 turnov -1 profit -1 profit -1 profit -1 pretax -1 pretax -1 june -1 june -1 due -1 make -1 newsroom -1 -2
+tax -1 pct -1 -2

@@ -1,0 +1,4 @@
+devast -1 back -1 volkswagen -1 grav -1 tuesday -1 tuesday -1 star -1 star -1 high -1 fly -1 doct -1 doct -1 hospit -1 team -1 kill -1 woman -1 hijack -1 manag -1 superstar -1 hero -1 radio -1 unit -1 rush -1 profil -1 caught -1 afric -1 afric -1 afric -1 afric -1 stat -1 -2
+violent -1 local -1 home -1 quest -1 stun -1 jet -1 alkiem -1 shot -1 khumal -1 khumal -1 khumal -1 kaiz -1 kaiz -1 motaung -1 nation -1 die -1 leagu -1 fan -1 sowet -1 sowet -1 gunm -1 socc -1 socc -1 socc -1 socc -1 socc -1 car -1 car -1 car -1 sad -1 made -1 -2
+wound -1 wound -1 move -1 play -1 play -1 play -1 crim -1 chief -1 new -1 direct -1 attack -1 south -1 south -1 south -1 south -1 columbus -1 untim -1 driv -1 black -1 wednesday -1 dead -1 town -1 stol -1 arrest -1 pro -1 crew -1 celebr -1 sprawl -1 son -1 son -1 son -1 -2
+late -1 late -1 shock -1 season -1 johannesburg -1 johannesburg -1 polic -1 polic -1 top -1 father -1 father -1 father -1 father -1 left -1 death -1 -2

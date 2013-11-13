@@ -1,0 +1,3 @@
+credit -1 credit -1 fin -1 interest -1 interest -1 month -1 receiv -1 anla -1 full -1 bank -1 billion -1 loan -1 loan -1 stat -1 expect -1 reut -1 personnel -1 million -1 handelsbank -1 handelsbank -1 shar -1 leas -1 dividend -1 crown -1 crown -1 crown -1 rise -1 commit -1 commit -1 loss -1 -2
+loss -1 loss -1 propert -1 res -1 net -1 net -1 net -1 stockholm -1 poll -1 note -1 cost -1 cost -1 cost -1 cost -1 cost -1 cost -1 incom -1 incom -1 incom -1 incom -1 h1 -1 profit -1 profit -1 profit -1 profit -1 profit -1 charg -1 charg -1 total -1 total -1 june -1 -2
+svensk -1 newsroom -1 operat -1 operat -1 transact -1 commerc -1 tax -1 pct -1 -2

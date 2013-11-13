@@ -1,0 +1,4 @@
+metal -1 metal -1 payment -1 compan -1 compan -1 compan -1 market -1 market -1 sect -1 sect -1 niger -1 niger -1 niger -1 niger -1 tuesday -1 stock -1 clos -1 clos -1 clos -1 high -1 perform -1 portland -1 glass -1 firm -1 food -1 food -1 delt -1 mill -1 larg -1 west -1 -2
+afric -1 produc -1 unsold -1 cmb -1 nair -1 nair -1 nair -1 nair -1 nair -1 nair -1 nair -1 nair -1 nair -1 nair -1 nair -1 flour -1 lead -1 lago -1 pric -1 gain -1 gain -1 gain -1 index -1 volum -1 adjust -1 shar -1 shar -1 shar -1 cadbur -1 nation -1 dividend -1 -2
+oil -1 oil -1 oil -1 remain -1 rise -1 finish -1 rose -1 rose -1 rose -1 rose -1 box -1 pack -1 exchang -1 margin -1 cement -1 cement -1 cement -1 cement -1 cement -1 northern -1 mobil -1 bottl -1 wednesday -1 kobo -1 kobo -1 kobo -1 kobo -1 kobo -1 kobo -1 kobo -1 kobo -1 -2
+kobo -1 kobo -1 kobo -1 unipetrol -1 depress -1 bours -1 carnaud -1 vono -1 moderat -1 make -1 newsroom -1 activ -1 trad -1 trad -1 ashak -1 -2

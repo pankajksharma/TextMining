@@ -1,0 +1,3 @@
+usda -1 usda -1 market -1 newsdesk -1 clos -1 clos -1 interest -1 year -1 year -1 select -1 select -1 select -1 select -1 select -1 select -1 iowa -1 cattl -1 week -1 week -1 light -1 light -1 light -1 grad -1 confirm -1 slaught -1 slaught -1 test -1 test -1 test -1 min -1 -2
+monday -1 monday -1 chicag -1 offer -1 ago -1 ago -1 ago -1 ago -1 weight -1 weight -1 weight -1 heif -1 heif -1 heif -1 heif -1 wk -1 holstein -1 holstein -1 date -1 basi -1 sell -1 compar -1 compar -1 ld -1 ld -1 ld -1 ld -1 demand -1 carcass -1 lbs -1 lbs -1 -2
+lbs -1 lbs -1 lbs -1 lbs -1 lbs -1 moderat -1 steer -1 steer -1 steer -1 steer -1 slow -1 trad -1 choic -1 choic -1 choic -1 choic -1 choic -1 choic -1 -2

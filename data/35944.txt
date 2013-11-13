@@ -1,0 +1,3 @@
+payment -1 popul -1 draw -1 adopt -1 thawr -1 accur -1 read -1 festiv -1 meddl -1 jumhouriy -1 qadissiy -1 franc -1 week -1 slam -1 meet -1 meet -1 lead -1 digest -1 protect -1 canad -1 canad -1 level -1 environ -1 reut -1 open -1 end -1 monday -1 renew -1 press -1 press -1 -2
+foodstuff -1 financ -1 verif -1 vouch -1 cent -1 kurd -1 baghdad -1 minist -1 minist -1 minist -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 iraq -1 take -1 northern -1 greec -1 turkey -1 story -1 story -1 aug -1 sanct -1 commun -1 transport -1 chair -1 affair -1 ready -1 babylon -1 inform -1 -2
+editor -1 project -1 held -1 suppl -1 mp -1 attitud -1 measur -1 iran -1 offic -1 offic -1 commerc -1 trad -1 defer -1 prepar -1 -2

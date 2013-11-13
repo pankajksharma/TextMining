@@ -1,0 +1,3 @@
+emtn -1 emtn -1 launch -1 launch -1 stock -1 sep -1 sep -1 sep -1 year -1 commenc -1 commenc -1 commenc -1 bank -1 feb -1 feb -1 feb -1 spread -1 spread -1 today -1 issu -1 debt -1 loan -1 straight -1 govern -1 million -1 million -1 million -1 matur -1 matur -1 matur -1 -2
+dutch -1 guild -1 august -1 august -1 prevail -1 coupon -1 typ -1 typ -1 typ -1 aib -1 frn -1 frn -1 libor -1 dfl -1 reset -1 iep -1 dibor -1 call -1 call -1 call -1 london -1 subordin -1 pound -1 plc -1 note -1 note -1 note -1 note -1 program -1 program -1 base -1 -2
+base -1 ally -1 aug -1 worth -1 worth -1 irish -1 irish -1 bond -1 bond -1 newsroom -1 amt -1 amt -1 amt -1 option -1 option -1 option -1 pct -1 pct -1 pct -1 pct -1 pct -1 pct -1 mln -1 mln -1 mln -1 -2

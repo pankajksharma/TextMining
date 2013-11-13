@@ -1,0 +1,2 @@
+stay -1 carry -1 tempor -1 duty -1 capit -1 europ -1 grozn -1 grozn -1 grozn -1 chech -1 ultimatum -1 swiss -1 swiss -1 diplomat -1 diplomat -1 head -1 embass -1 move -1 osc -1 osc -1 osc -1 tim -1 organ -1 coop -1 secur -1 olaf -1 kjels -1 guldiman -1 due -1 withdraw -1 -2
+withdraw -1 mission -1 mission -1 mission -1 region -1 -2

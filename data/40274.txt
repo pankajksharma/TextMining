@@ -1,0 +1,2 @@
+output -1 chg -1 week -1 week -1 domest -1 produc -1 distill -1 report -1 residual -1 eia -1 jet -1 end -1 crud -1 crud -1 crud -1 oil -1 oil -1 fuel -1 fuel -1 fuel -1 import -1 period -1 run -1 day -1 refin -1 gasolin -1 exc -1 spr -1 demand -1 suppl -1 -2
+aver -1 late -1 bbl -1 pct -1 -2

@@ -1,0 +1,4 @@
+compan -1 diplom -1 posavin -1 bosansk -1 clear -1 cemerin -1 emerg -1 remov -1 vecernj -1 interest -1 leftist -1 year -1 year -1 year -1 bank -1 bank -1 newspap -1 expert -1 invest -1 list -1 sourc -1 loan -1 mine -1 mine -1 germ -1 represent -1 meet -1 meet -1 govern -1 govern -1 -2
+digest -1 croat -1 croat -1 croat -1 croat -1 croat -1 croat -1 croat -1 croat -1 croat -1 zagreb -1 main -1 slov -1 million -1 rijek -1 herzegovin -1 party -1 party -1 remain -1 give -1 polit -1 press -1 return -1 foreign -1 bosnia -1 bosnia -1 head -1 work -1 work -1 lay -1 autumn -1 -2
+serb -1 serb -1 territor -1 ten -1 claim -1 poll -1 bord -1 interview -1 story -1 vote -1 aug -1 raiffeis -1 commun -1 session -1 brod -1 announc -1 charg -1 damir -1 ifor -1 dervent -1 held -1 vjesnik -1 lingerie -1 friday -1 port -1 due -1 slobodn -1 dalmacij -1 make -1 newsroom -1 montenegr -1 -2
+bosnian -1 fear -1 montenegrin -1 mark -1 deho -1 secess -1 disput -1 group -1 -2

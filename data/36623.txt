@@ -1,0 +1,2 @@
+limit -1 quiet -1 tuesday -1 clos -1 cif -1 screen -1 german -1 cargoe -1 firm -1 deal -1 gulf -1 slight -1 lost -1 shaxson -1 nymex -1 pric -1 pric -1 soft -1 futur -1 nichol -1 arb -1 end -1 arbitr -1 time -1 consid -1 attract -1 ground -1 weak -1 oportun -1 offer -1 -2
+london -1 play -1 mediterranean -1 northern -1 fob -1 med -1 day -1 relat -1 unlead -1 gasolin -1 gasolin -1 gasolin -1 demand -1 nwe -1 nwe -1 nwe -1 newsroom -1 eurograd -1 ara -1 ara -1 barg -1 thought -1 trad -1 trad -1 -2

@@ -1,0 +1,1 @@
+medic -1 medic -1 full -1 system -1 quart -1 produc -1 produc -1 stat -1 sold -1 end -1 research -1 cost -1 cost -1 consolid -1 novametrix -1 novametrix -1 develop -1 result -1 revenu -1 q1 -1 unaudit -1 expend -1 operat -1 -2

@@ -1,0 +1,2 @@
+market -1 market -1 cop -1 cop -1 clos -1 interest -1 rate -1 journ -1 journ -1 york -1 comex -1 physic -1 spot -1 today -1 pric -1 pric -1 pric -1 round -1 commod -1 incorpor -1 cent -1 cent -1 cent -1 fact -1 near -1 note -1 base -1 aug -1 cathod -1 prev -1 -2
+lb -1 desk -1 hedg -1 -2

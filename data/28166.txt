@@ -1,0 +1,2 @@
+compan -1 market -1 market -1 high -1 low -1 low -1 yen -1 yen -1 yen -1 yen -1 yen -1 deal -1 larg -1 sourc -1 pric -1 pric -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 auction -1 auction -1 august -1 public -1 public -1 financ -1 offer -1 assoc -1 -2
+bid -1 bid -1 bid -1 weight -1 half -1 consum -1 takefuj -1 takefuj -1 corp -1 wednesday -1 accept -1 secur -1 total -1 japan -1 japan -1 jsda -1 jsda -1 jsda -1 due -1 aver -1 aver -1 set -1 count -1 -2

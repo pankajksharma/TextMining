@@ -1,0 +1,2 @@
+compan -1 market -1 stock -1 month -1 begin -1 countr -1 year -1 divest -1 full -1 privat -1 fall -1 good -1 firm -1 larg -1 gross -1 gross -1 produc -1 govern -1 main -1 million -1 shar -1 crown -1 czech -1 exchang -1 pragu -1 pragu -1 servic -1 note -1 h1 -1 divid -1 -2
+plan -1 profit -1 profit -1 profit -1 result -1 chemic -1 refin -1 refin -1 concern -1 asset -1 total -1 june -1 newsroom -1 operat -1 kaucuk -1 kaucuk -1 kaucuk -1 sale -1 trad -1 group -1 -2

@@ -1,0 +1,1 @@
+stock -1 stock -1 clos -1 clos -1 countr -1 domest -1 domest -1 arg -1 aust -1 wheat -1 wheat -1 igc -1 disappear -1 disappear -1 export -1 eec -1 total -1 total -1 suppl -1 suppl -1 suppl -1 suppl -1 major -1 glob -1 forecast -1 usa -1 -2

@@ -1,0 +1,4 @@
+columb -1 applic -1 year -1 provinc -1 quant -1 quant -1 data -1 data -1 april -1 april -1 billion -1 albert -1 unit -1 unit -1 annual -1 annual -1 annual -1 week -1 quart -1 quart -1 quart -1 quart -1 sourc -1 stat -1 stat -1 percent -1 percent -1 percent -1 ontario -1 govern -1 -2
+canad -1 canad -1 canad -1 canad -1 canad -1 canad -1 reut -1 feet -1 shar -1 shar -1 maxim -1 control -1 bureau -1 bureau -1 august -1 foreign -1 daily -1 import -1 lumb -1 lumb -1 lumb -1 lumb -1 softwood -1 softwood -1 quebec -1 ottaw -1 quot -1 quot -1 quot -1 quot -1 quot -1 -2
+quot -1 entry -1 figur -1 edt -1 depart -1 permit -1 permit -1 date -1 base -1 export -1 export -1 export -1 export -1 export -1 export -1 export -1 july -1 july -1 affair -1 septemb -1 board -1 exceed -1 intern -1 present -1 subject -1 brit -1 total -1 sept -1 fee -1 trad -1 lag -1 -2
+pct -1 pct -1 -2

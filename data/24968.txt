@@ -1,0 +1,4 @@
+intl -1 early -1 early -1 credit -1 sharehold -1 aviv -1 beneex -1 year -1 year -1 year -1 year -1 year -1 declar -1 term -1 bank -1 bank -1 bank -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 annual -1 equit -1 equit -1 fund -1 -2
+fund -1 debt -1 debt -1 percent -1 percent -1 percent -1 special -1 q2 -1 q2 -1 q2 -1 provis -1 provis -1 million -1 million -1 mth -1 mth -1 deposit -1 long -1 dividend -1 public -1 public -1 return -1 provid -1 net -1 net -1 net -1 half -1 half -1 period -1 direct -1 consolid -1 -2
+save -1 basi -1 incom -1 incom -1 profit -1 asset -1 asset -1 board -1 intern -1 total -1 total -1 june -1 june -1 june -1 june -1 israel -1 israel -1 newsroom -1 operat -1 doubt -1 doubt -1 tel -1 tax -1 shekel -1 shekel -1 shekel -1 shekel -1 shekel -1 shekel -1 shekel -1 shekel -1 -2
+shekel -1 -2

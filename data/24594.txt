@@ -1,0 +1,5 @@
+quiet -1 mge -1 durum -1 durum -1 durum -1 clos -1 unc -1 unc -1 unc -1 unc -1 unc -1 unc -1 unc -1 duluth -1 bushel -1 bushel -1 bushel -1 hrw -1 mt -1 mt -1 mt -1 mt -1 havr -1 rudyard -1 dakot -1 dakot -1 low -1 portland -1 pendleton -1 coolee -1 -2
+wa -1 wa -1 wa -1 watervill -1 wenatch -1 receib -1 north -1 north -1 point -1 chg -1 chg -1 chg -1 chg -1 chg -1 chg -1 dark -1 dark -1 deal -1 deal -1 deal -1 deal -1 mill -1 red -1 nc -1 stat -1 bill -1 subdu -1 mix -1 pric -1 soft -1 soft -1 -2
+futur -1 flat -1 protein -1 termin -1 increas -1 stead -1 bureau -1 chicag -1 harvest -1 harvest -1 car -1 weak -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 city -1 washington -1 numb -1 hunt -1 bid -1 move -1 wolf -1 northern -1 northern -1 barley -1 note -1 note -1 rive -1 -2
+valu -1 newly -1 compar -1 minneapol -1 septemb -1 na -1 dollar -1 dn -1 dn -1 dn -1 dn -1 dn -1 dn -1 dn -1 dn -1 dn -1 dn -1 dn -1 dn -1 minnesot -1 minnesot -1 whit -1 whit -1 whit -1 whit -1 whit -1 whit -1 spring -1 spring -1 spring -1 spring -1 -2
+spring -1 spring -1 spring -1 spring -1 wind -1 unchang -1 add -1 northw -1 activ -1 pacif -1 pct -1 pct -1 pick -1 -2

@@ -1,0 +1,2 @@
+retail -1 french -1 own -1 hostil -1 privat -1 pari -1 start -1 de -1 de -1 franc -1 franc -1 franc -1 franc -1 percent -1 percent -1 percent -1 dock -1 dock -1 dock -1 shar -1 shar -1 shar -1 rais -1 off -1 outstand -1 obtain -1 assoc -1 bid -1 accept -1 convertibl -1 -2
+board -1 auch -1 auch -1 auch -1 sbf -1 bours -1 bond -1 bond -1 stor -1 newsroom -1 group -1 -2

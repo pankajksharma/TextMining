@@ -1,0 +1,4 @@
+compan -1 syria -1 memorandum -1 lebanon -1 accur -1 pipelin -1 mahmoud -1 send -1 gas -1 langu -1 year -1 construc -1 receiv -1 undermin -1 newspap -1 newspap -1 billion -1 decemb -1 hussein -1 capit -1 jord -1 sourc -1 mine -1 meet -1 airbus -1 expect -1 expect -1 lead -1 digest -1 al -1 -2
+al -1 reut -1 million -1 million -1 thursday -1 european -1 talk -1 gold -1 author -1 rais -1 press -1 buy -1 paid -1 verif -1 vouch -1 format -1 fisc -1 allocat -1 london -1 london -1 plo -1 bid -1 abba -1 hayat -1 asharq -1 riot -1 awsat -1 king -1 south -1 base -1 base -1 -2
+story -1 story -1 aug -1 council -1 milit -1 island -1 plan -1 plan -1 arabia -1 radic -1 airlin -1 arab -1 mubarak -1 reject -1 kuwait -1 kuwait -1 resum -1 petromin -1 saud -1 saud -1 secur -1 project -1 egypt -1 egypt -1 egypt -1 arabic -1 israel -1 israel -1 presid -1 operat -1 operat -1 -2
+iran -1 arafat -1 eritrea -1 yemen -1 offic -1 delay -1 disput -1 group -1 -2

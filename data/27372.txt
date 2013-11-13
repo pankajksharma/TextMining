@@ -1,0 +1,2 @@
+flight -1 flight -1 carry -1 french -1 stop -1 stop -1 month -1 month -1 spokeswom -1 frankfurt -1 pari -1 fax -1 de -1 week -1 suspend -1 germ -1 decid -1 abandon -1 iberia -1 iberia -1 iberia -1 iberia -1 mallorc -1 mallorc -1 viva -1 end -1 ceas -1 time -1 daily -1 past -1 -2
+london -1 london -1 servic -1 servic -1 take -1 direct -1 direct -1 link -1 unprofit -1 plan -1 hap -1 septemb -1 carg -1 flag -1 passeng -1 air -1 chang -1 rout -1 rout -1 palm -1 newsroom -1 tel -1 barcelon -1 subsid -1 -2

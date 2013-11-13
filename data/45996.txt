@@ -1,0 +1,5 @@
+stak -1 stak -1 stak -1 stak -1 market -1 recent -1 sect -1 carry -1 french -1 target -1 stock -1 union -1 sharehold -1 countr -1 year -1 year -1 year -1 climb -1 spokeswom -1 spokeswom -1 pari -1 pari -1 start -1 york -1 york -1 good -1 list -1 list -1 list -1 de -1 -2
+franc -1 franc -1 franc -1 larg -1 larg -1 abeill -1 capit -1 bought -1 report -1 report -1 percent -1 percent -1 percent -1 percent -1 help -1 lead -1 gain -1 volum -1 million -1 sold -1 thursday -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 assur -1 end -1 didn -1 time -1 -2
+august -1 august -1 rise -1 finish -1 past -1 exchang -1 cite -1 cut -1 net -1 insur -1 sharp -1 scor -1 scor -1 scor -1 scor -1 scor -1 scor -1 scor -1 scor -1 scor -1 specul -1 sweep -1 des -1 axa -1 axa -1 axa -1 axa -1 axa -1 axa -1 consolid -1 develop -1 -2
+reinsur -1 reinsur -1 reinsur -1 reinsur -1 sell -1 book -1 july -1 day -1 want -1 core -1 announc -1 dispos -1 dispos -1 dispos -1 june -1 glob -1 uap -1 aver -1 strateg -1 cond -1 takeov -1 make -1 newsroom -1 activ -1 wav -1 transact -1 opportun -1 hold -1 hold -1 sale -1 trad -1 -2
+trad -1 pct -1 -2

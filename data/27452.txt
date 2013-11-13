@@ -1,0 +1,2 @@
+carry -1 low -1 year -1 karach -1 full -1 bank -1 bank -1 bank -1 nil -1 nil -1 fays -1 fays -1 fais -1 unappropr -1 invest -1 balanc -1 sheet -1 al -1 al -1 al -1 al -1 interim -1 million -1 million -1 million -1 shar -1 end -1 dividend -1 princ -1 moham -1 -2
+half -1 pakist -1 note -1 incom -1 h1 -1 profit -1 profit -1 profit -1 arabia -1 post -1 rupee -1 rupee -1 saud -1 saud -1 june -1 chairm -1 newsroom -1 tax -1 tax -1 -2

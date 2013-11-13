@@ -1,0 +1,3 @@
+compan -1 stak -1 market -1 stock -1 record -1 low -1 liquid -1 year -1 year -1 rome -1 start -1 form -1 unit -1 unit -1 stat -1 stat -1 stat -1 percent -1 percent -1 agip -1 italian -1 janu -1 ordin -1 million -1 sold -1 sold -1 shar -1 shar -1 shar -1 shar -1 -2
+shar -1 increas -1 time -1 lire -1 lire -1 snam -1 sofid -1 servic -1 part -1 energ -1 enlarg -1 sell -1 announc -1 reduc -1 bours -1 held -1 strateg -1 newsroom -1 arm -1 milan -1 eni -1 eni -1 eni -1 eni -1 eni -1 eni -1 eni -1 surg -1 oilfield -1 sale -1 saipem -1 -2
+saipem -1 saipem -1 saipem -1 saipem -1 saipem -1 trad -1 group -1 pct -1 -2

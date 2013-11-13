@@ -1,0 +1,4 @@
+limit -1 early -1 market -1 tuesday -1 clos -1 clos -1 high -1 interest -1 interest -1 rate -1 rate -1 month -1 low -1 term -1 yen -1 bank -1 bank -1 deal -1 deal -1 deal -1 deal -1 quart -1 slight -1 expect -1 expect -1 expect -1 fell -1 fell -1 conflict -1 support -1 -2
+support -1 open -1 end -1 end -1 monday -1 remain -1 chin -1 chin -1 stead -1 momentum -1 short -1 rise -1 foreign -1 grow -1 rose -1 health -1 cent -1 exchang -1 cut -1 cut -1 continu -1 continu -1 intr -1 shanghai -1 shanghai -1 upward -1 move -1 move -1 move -1 fact -1 base -1 -2
+sell -1 export -1 session -1 day -1 result -1 hong -1 kong -1 demand -1 dollar -1 dollar -1 dollar -1 dollar -1 japan -1 friday -1 friday -1 friday -1 chang -1 hit -1 hit -1 late -1 unchang -1 newsroom -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 yuan -1 -2
+yuan -1 interbank -1 sidelin -1 slow -1 slug -1 trad -1 trad -1 trad -1 trad -1 trad -1 surplus -1 -2

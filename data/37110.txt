@@ -1,0 +1,4 @@
+flight -1 pilot -1 pilot -1 pilot -1 pilot -1 pilot -1 pilot -1 train -1 train -1 tuesday -1 hospit -1 kill -1 limb -1 arizon -1 eject -1 eject -1 eject -1 week -1 stat -1 east -1 atlant -1 km -1 km -1 km -1 home -1 home -1 jet -1 brok -1 thursday -1 hour -1 -2
+nation -1 reserv -1 past -1 investig -1 aircraft -1 crash -1 crash -1 crash -1 crash -1 crash -1 safe -1 safe -1 forc -1 forc -1 forc -1 forc -1 forc -1 forc -1 southw -1 southw -1 balk -1 miss -1 idah -1 idah -1 part -1 mile -1 mile -1 mile -1 attack -1 southwestern -1 wing -1 -2
+base -1 base -1 base -1 base -1 base -1 bois -1 lt -1 tankbust -1 milit -1 milit -1 plan -1 plan -1 plan -1 plan -1 plan -1 corp -1 person -1 board -1 board -1 board -1 guard -1 memb -1 air -1 air -1 air -1 air -1 air -1 air -1 air -1 crew -1 friday -1 -2
+marin -1 marin -1 don -1 fight -1 mission -1 shan -1 fourth -1 mountain -1 mountain -1 routin -1 offic -1 offic -1 accid -1 accid -1 -2

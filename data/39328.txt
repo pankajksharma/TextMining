@@ -1,0 +1,1 @@
+tegkor -1 record -1 full -1 climb -1 div -1 div -1 invest -1 invest -1 pay -1 cts -1 cts -1 cts -1 interim -1 interim -1 ordin -1 shar -1 techn -1 techn -1 typ -1 period -1 date -1 date -1 corpor -1 corp -1 oct -1 sept -1 johannesburg -1 newsroom -1 -2

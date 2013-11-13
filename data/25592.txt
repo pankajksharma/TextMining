@@ -1,0 +1,4 @@
+naphth -1 naphth -1 naphth -1 naphth -1 novemb -1 market -1 market -1 market -1 absorb -1 spec -1 cpc -1 tuesday -1 clos -1 sulphur -1 low -1 own -1 touch -1 touch -1 octob -1 octob -1 octob -1 petroleum -1 deal -1 indicat -1 week -1 issu -1 assess -1 assess -1 assess -1 stat -1 -2
+percent -1 expect -1 confirm -1 overnight -1 overnight -1 shift -1 mopj -1 lswr -1 lswr -1 pric -1 gain -1 belief -1 million -1 open -1 end -1 crud -1 crud -1 oil -1 chin -1 commod -1 august -1 august -1 rise -1 rose -1 exchang -1 offer -1 offer -1 allocat -1 allocat -1 bid -1 bid -1 -2
+half -1 half -1 half -1 half -1 half -1 toky -1 toky -1 lift -1 load -1 sell -1 taiw -1 corp -1 announc -1 hand -1 diesel -1 septemb -1 septemb -1 septemb -1 septemb -1 tend -1 tend -1 barrel -1 barrel -1 barrel -1 rough -1 dollar -1 dollar -1 indones -1 indones -1 heel -1 reflect -1 -2
+trad -1 trad -1 trad -1 use -1 -2

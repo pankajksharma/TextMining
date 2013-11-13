@@ -1,0 +1,3 @@
+negot -1 early -1 tuesday -1 stockpil -1 stockpil -1 stockpil -1 year -1 year -1 agent -1 quant -1 start -1 york -1 week -1 smok -1 meet -1 natur -1 natur -1 decid -1 decid -1 sheet -1 defend -1 long -1 nation -1 techn -1 industr -1 industr -1 commod -1 current -1 off -1 rib -1 -2
+cent -1 input -1 call -1 call -1 fisc -1 washington -1 bid -1 lot -1 ton -1 sell -1 sell -1 seal -1 plan -1 break -1 rub -1 rub -1 rub -1 desk -1 offic -1 offic -1 offic -1 offic -1 sale -1 sale -1 sale -1 sale -1 sale -1 prepar -1 prepar -1 block -1 surplus -1 -2
+surplus -1 -2

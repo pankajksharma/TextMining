@@ -1,0 +1,4 @@
+retail -1 accur -1 instruc -1 alleg -1 drug -1 traffick -1 insist -1 kill -1 construc -1 construc -1 stand -1 list -1 produc -1 meinrad -1 callej -1 lead -1 digest -1 cash -1 italian -1 accus -1 reut -1 federat -1 legal -1 sold -1 advers -1 shrink -1 contract -1 case -1 industr -1 industr -1 -2
+industr -1 malt -1 malt -1 malt -1 time -1 assist -1 seizur -1 press -1 press -1 urg -1 financ -1 made -1 verif -1 verif -1 vouch -1 import -1 techniqu -1 cut -1 call -1 complain -1 propert -1 assoc -1 prim -1 minist -1 minist -1 minist -1 court -1 permit -1 permit -1 aim -1 rescu -1 -2
+evasion -1 purpos -1 story -1 story -1 aug -1 plan -1 plan -1 labor -1 wednesday -1 vat -1 vat -1 vat -1 vat -1 involut -1 nazzjon -1 effect -1 orizzont -1 plot -1 army -1 army -1 reconsid -1 suppl -1 mastermind -1 request -1 request -1 hit -1 ord -1 offic -1 offic -1 delay -1 delay -1 -2
+commerc -1 tax -1 chamb -1 -2

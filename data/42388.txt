@@ -1,0 +1,3 @@
+cane -1 target -1 tahir -1 month -1 year -1 octob -1 output -1 food -1 mill -1 domest -1 meet -1 decid -1 fell -1 reut -1 pric -1 million -1 million -1 thursday -1 deliv -1 case -1 short -1 extr -1 buy -1 buy -1 told -1 import -1 import -1 crystal -1 farm -1 fisc -1 -2
+minist -1 minist -1 agricultur -1 pakist -1 pakist -1 sugar -1 sugar -1 sugar -1 sugar -1 sugar -1 lot -1 ton -1 ton -1 ton -1 ton -1 ton -1 sell -1 july -1 sugarcan -1 nawab -1 refin -1 yousaf -1 septemb -1 talpur -1 talpur -1 demand -1 demand -1 june -1 total -1 ikram -1 whit -1 -2
+depend -1 need -1 need -1 make -1 forecast -1 molass -1 -2

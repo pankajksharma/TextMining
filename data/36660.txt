@@ -1,0 +1,2 @@
+limit -1 launch -1 credit -1 credit -1 card -1 card -1 card -1 card -1 card -1 visa -1 visa -1 start -1 bank -1 toront -1 annual -1 cibc -1 cibc -1 percent -1 canad -1 canad -1 canad -1 canad -1 canad -1 reut -1 tripl -1 minim -1 vacat -1 vacat -1 vacat -1 gold -1 -2
+bureau -1 buy -1 off -1 pack -1 call -1 purchas -1 purchas -1 imper -1 reward -1 air -1 air -1 air -1 air -1 fee -1 commerc -1 -2

@@ -1,0 +1,3 @@
+stay -1 market -1 struck -1 tuesday -1 tuesday -1 money -1 rate -1 rate -1 rate -1 low -1 liquid -1 year -1 receiv -1 bank -1 bank -1 bank -1 billion -1 billion -1 standard -1 mop -1 invest -1 firm -1 deal -1 deal -1 deal -1 deal -1 stat -1 percent -1 overnight -1 omo -1 -2
+sold -1 thursday -1 open -1 matur -1 end -1 auction -1 feder -1 cent -1 cent -1 bid -1 bln -1 pakist -1 pakist -1 pakistan -1 pape -1 settl -1 chart -1 result -1 announc -1 rupee -1 rupee -1 rupee -1 wednesday -1 wednesday -1 worth -1 bond -1 ovai -1 subhan -1 set -1 operat -1 inflow -1 -2
+inflow -1 interbank -1 -2

@@ -1,0 +1,4 @@
+stak -1 compan -1 compan -1 flight -1 fledgl -1 vehicl -1 month -1 own -1 sun -1 spokeswom -1 billion -1 billion -1 invest -1 firm -1 annual -1 capit -1 domest -1 domest -1 domest -1 jack -1 percent -1 percent -1 percent -1 categ -1 expect -1 expect -1 govern -1 soon -1 main -1 big -1 -2
+busi -1 telephon -1 million -1 million -1 leas -1 leas -1 leas -1 dist -1 industr -1 chin -1 remain -1 short -1 foreign -1 foreign -1 aircraft -1 aircraft -1 purchas -1 final -1 develop -1 taiw -1 taiw -1 taiw -1 taiw -1 taiw -1 taipei -1 detail -1 conduc -1 island -1 plan -1 plan -1 plan -1 -2
+plan -1 mainland -1 corp -1 includ -1 revenu -1 account -1 account -1 passeng -1 aerospac -1 aerospac -1 aerospac -1 aerospac -1 aerospac -1 joint -1 ventur -1 ventur -1 ventur -1 ventur -1 friday -1 found -1 chairm -1 set -1 newsroom -1 partn -1 partn -1 partn -1 partn -1 partn -1 asia -1 pacif -1 sale -1 -2
+mln -1 -2

@@ -1,0 +1,4 @@
+compan -1 credit -1 accur -1 stop -1 saturday -1 high -1 facil -1 ahram -1 monet -1 year -1 gomhur -1 millionair -1 bank -1 lake -1 billion -1 billion -1 resourc -1 mid -1 stat -1 pay -1 britain -1 lead -1 lead -1 treasur -1 digest -1 monitor -1 level -1 al -1 al -1 al -1 -2
+reut -1 law -1 million -1 wat -1 face -1 oil -1 oil -1 abroad -1 discuss -1 cabinet -1 increas -1 reserv -1 press -1 press -1 verif -1 vouch -1 import -1 cent -1 head -1 continu -1 minist -1 iraq -1 london -1 quick -1 cair -1 evad -1 diversif -1 pound -1 pound -1 front -1 draft -1 -2
+risk -1 propos -1 sell -1 story -1 story -1 aug -1 contact -1 council -1 strict -1 profit -1 condemn -1 labor -1 banb -1 septemb -1 accept -1 reject -1 el -1 secur -1 secur -1 held -1 egypt -1 egypt -1 egypt -1 egypt -1 rule -1 israel -1 hamd -1 newsroom -1 akhbar -1 nass -1 confer -1 -2
+terror -1 dam -1 trad -1 tax -1 -2

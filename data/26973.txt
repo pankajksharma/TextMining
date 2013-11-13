@@ -1,0 +1,2 @@
+mexic -1 mexic -1 market -1 floor -1 protest -1 stock -1 stock -1 stock -1 stock -1 build -1 data -1 data -1 start -1 system -1 free -1 gmt -1 local -1 local -1 confirm -1 mean -1 main -1 reut -1 pric -1 pric -1 entr -1 open -1 time -1 time -1 time -1 public -1 -2
+made -1 told -1 exchang -1 exchang -1 bell -1 edt -1 bols -1 bols -1 organ -1 wednesday -1 spokesm -1 spokesm -1 spokesm -1 releas -1 releas -1 releas -1 norm -1 consult -1 delay -1 electron -1 electron -1 electron -1 electron -1 trad -1 trad -1 trad -1 trad -1 trad -1 block -1 -2

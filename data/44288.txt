@@ -1,0 +1,3 @@
+octan -1 paraffin -1 paraffin -1 paraffin -1 rand -1 rate -1 review -1 fall -1 fall -1 alo -1 fund -1 fund -1 afric -1 afric -1 litr -1 litr -1 litr -1 gauteng -1 gauteng -1 gauteng -1 pric -1 pric -1 pric -1 pric -1 pric -1 contribut -1 adjust -1 illumin -1 illumin -1 illumin -1 -2
+drop -1 area -1 rise -1 rise -1 rise -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 cent -1 exchang -1 fact -1 period -1 period -1 coast -1 coast -1 coast -1 energ -1 energ -1 south -1 deterior -1 compar -1 includ -1 -2
+septemb -1 septemb -1 diesel -1 diesel -1 prev -1 effect -1 gasolin -1 gasolin -1 gasolin -1 dollar -1 aver -1 johannesburg -1 johannesburg -1 newsroom -1 -2

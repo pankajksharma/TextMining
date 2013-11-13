@@ -1,0 +1,2 @@
+nasdaq -1 approach -1 market -1 tuesday -1 stock -1 stock -1 fract -1 year -1 ahead -1 invest -1 yield -1 percent -1 meet -1 treasur -1 index -1 index -1 fomc -1 open -1 open -1 open -1 industr -1 stead -1 feder -1 reserv -1 conclud -1 commit -1 rose -1 wall -1 street -1 caut -1 -2
+bond -1 chang -1 dow -1 unchang -1 -2

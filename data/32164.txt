@@ -1,0 +1,2 @@
+limit -1 sampath -1 sampath -1 sampath -1 month -1 year -1 privat -1 bank -1 bank -1 bank -1 list -1 stat -1 provis -1 million -1 colomb -1 colomb -1 financ -1 net -1 net -1 note -1 h1 -1 h1 -1 h1 -1 turnov -1 profit -1 result -1 rupee -1 sri -1 lank -1 unaudit -1 -2
+blu -1 chip -1 newsroom -1 tel -1 commerc -1 tax -1 pct -1 -2

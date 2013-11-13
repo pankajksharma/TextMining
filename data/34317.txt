@@ -1,0 +1,2 @@
+stock -1 privat -1 redeem -1 midcom -1 midcom -1 midcom -1 midcom -1 common -1 deal -1 complet -1 complet -1 debt -1 percent -1 pric -1 million -1 adjust -1 shar -1 shar -1 convert -1 time -1 august -1 offer -1 subordin -1 part -1 note -1 note -1 note -1 commun -1 commun -1 announc -1 -2
+prev -1 convertibl -1 subject -1 due -1 hold -1 option -1 option -1 -2

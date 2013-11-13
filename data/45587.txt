@@ -1,0 +1,2 @@
+gilt -1 gilt -1 gilt -1 sect -1 hous -1 stock -1 stg -1 stg -1 stg -1 bracket -1 build -1 data -1 data -1 privat -1 bank -1 bank -1 billion -1 billion -1 discount -1 minus -1 m4 -1 england -1 societ -1 show -1 million -1 sold -1 overse -1 edg -1 statist -1 purchas -1 -2
+london -1 net -1 net -1 net -1 net -1 bln -1 note -1 denot -1 sell -1 exclud -1 july -1 july -1 july -1 includ -1 prev -1 uk -1 june -1 june -1 boe -1 boe -1 boe -1 boe -1 repurchas -1 releas -1 newsroom -1 transact -1 sale -1 sign -1 -2

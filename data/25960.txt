@@ -1,0 +1,3 @@
+early -1 market -1 market -1 situat -1 slip -1 look -1 tuesday -1 stock -1 stock -1 clos -1 clos -1 rand -1 low -1 low -1 term -1 mild -1 sight -1 lid -1 point -1 point -1 point -1 dump -1 deal -1 deal -1 list -1 huge -1 knock -1 afric -1 afric -1 report -1 -2
+lost -1 local -1 gain -1 index -1 index -1 index -1 futur -1 turnaround -1 shar -1 shar -1 strength -1 end -1 leav -1 gold -1 industr -1 industr -1 polit -1 short -1 bear -1 foreign -1 foreign -1 charact -1 spark -1 initial -1 lack -1 crim -1 wrangl -1 put -1 direct -1 pessim -1 south -1 -2
+sell -1 sell -1 simil -1 day -1 day -1 post -1 board -1 promis -1 bat -1 negat -1 hope -1 offic -1 trad -1 sick -1 -2

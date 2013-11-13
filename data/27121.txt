@@ -1,0 +1,4 @@
+compan -1 market -1 market -1 market -1 outnumb -1 back -1 rumor -1 stock -1 stock -1 kual -1 clos -1 clos -1 clos -1 lumpur -1 high -1 month -1 stag -1 year -1 composit -1 composit -1 full -1 bank -1 point -1 point -1 point -1 writ -1 line -1 invest -1 turn -1 troubl -1 -2
+spot -1 deal -1 deal -1 deal -1 huge -1 breather -1 key -1 loan -1 percent -1 expect -1 lead -1 darby -1 jump -1 advanc -1 gain -1 gain -1 index -1 index -1 index -1 index -1 index -1 volum -1 volum -1 volum -1 futur -1 million -1 million -1 shar -1 shar -1 shar -1 push -1 -2
+end -1 end -1 kl -1 renew -1 rise -1 buy -1 rose -1 cent -1 cent -1 cent -1 lose -1 exchang -1 mere -1 sharp -1 gent -1 syed -1 azman -1 led -1 earn -1 institut -1 institut -1 day -1 steel -1 announc -1 includ -1 board -1 sime -1 blu -1 blu -1 blu -1 blu -1 -2
+chip -1 chip -1 chip -1 chip -1 brought -1 maybank -1 maybank -1 maybank -1 malay -1 absent -1 ringgit -1 hold -1 surg -1 perwaj -1 amcol -1 pct -1 -2

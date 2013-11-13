@@ -1,0 +1,4 @@
+recov -1 metal -1 early -1 early -1 floor -1 brisk -1 adopt -1 cop -1 cop -1 cop -1 cop -1 cop -1 cop -1 cop -1 cop -1 stock -1 clos -1 high -1 high -1 high -1 high -1 month -1 month -1 low -1 low -1 namib -1 ring -1 cover -1 cover -1 cover -1 -2
+billion -1 sumitom -1 fall -1 lme -1 lme -1 deal -1 larg -1 quart -1 mine -1 lost -1 percent -1 percent -1 revelat -1 minor -1 expect -1 exag -1 pric -1 pric -1 pric -1 pric -1 gain -1 disrupt -1 thursday -1 short -1 short -1 fuel -1 pow -1 pow -1 extend -1 exchang -1 london -1 -2
+london -1 move -1 scar -1 heavy -1 heavy -1 heavy -1 posit -1 chil -1 ton -1 ton -1 smelt -1 corp -1 giant -1 tend -1 explain -1 memb -1 june -1 japan -1 suppl -1 suppl -1 friday -1 hit -1 glob -1 unauthor -1 afternoon -1 newsroom -1 surg -1 trad -1 trad -1 trad -1 trad -1 -2
+trad -1 influ -1 -2

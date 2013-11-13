@@ -1,0 +1,3 @@
+early -1 market -1 life -1 launch -1 launch -1 launch -1 recent -1 thin -1 french -1 slack -1 interest -1 interest -1 month -1 month -1 cover -1 spokeswom -1 physic -1 hamp -1 week -1 expect -1 confirm -1 cash -1 volum -1 futur -1 futur -1 legal -1 thursday -1 open -1 open -1 deliv -1 -2
+deliv -1 deliv -1 contract -1 contract -1 expir -1 expir -1 reason -1 exchang -1 wheat -1 wheat -1 wheat -1 wheat -1 posit -1 final -1 ton -1 ton -1 lot -1 lot -1 lot -1 july -1 july -1 day -1 hand -1 wednesday -1 wednesday -1 septemb -1 septemb -1 septemb -1 septemb -1 septemb -1 septemb -1 -2
+matif -1 matif -1 matif -1 matif -1 total -1 chang -1 peak -1 delay -1 trad -1 trad -1 trad -1 trad -1 -2

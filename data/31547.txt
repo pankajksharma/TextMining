@@ -1,0 +1,3 @@
+grain -1 frost -1 frost -1 frost -1 frost -1 frost -1 frost -1 frost -1 tuesday -1 tuesday -1 saturday -1 saturday -1 sunday -1 sunday -1 sunday -1 sep -1 belt -1 northeast -1 albert -1 albert -1 manitob -1 slight -1 slight -1 slight -1 slight -1 slight -1 slight -1 outlook -1 canad -1 canad -1 -2
+canad -1 environ -1 environ -1 monday -1 monday -1 weekend -1 grainbelt -1 area -1 august -1 august -1 august -1 august -1 wid -1 cent -1 cent -1 call -1 le -1 prair -1 northern -1 gilbert -1 risk -1 risk -1 risk -1 risk -1 risk -1 risk -1 gra -1 aug -1 day -1 interlak -1 septemb -1 -2
+foothill -1 foothill -1 friday -1 saskatchew -1 morn -1 morn -1 morn -1 forecast -1 forecast -1 forecast -1 forecast -1 region -1 region -1 prairie -1 -2

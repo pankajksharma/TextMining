@@ -1,0 +1,2 @@
+recov -1 market -1 econom -1 tuesday -1 interest -1 rate -1 monet -1 monet -1 countr -1 boj -1 boj -1 boj -1 boj -1 boj -1 pursu -1 bank -1 bank -1 affect -1 affect -1 affect -1 meet -1 decid -1 decid -1 fomc -1 ensur -1 open -1 leav -1 feder -1 commit -1 mat -1 -2
+wednesday -1 japan -1 japan -1 polic -1 polic -1 polic -1 polic -1 polic -1 unchang -1 offic -1 offic -1 offic -1 offic -1 -2

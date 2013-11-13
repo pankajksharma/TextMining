@@ -1,0 +1,2 @@
+imm -1 imm -1 clos -1 opinion -1 bankruptc -1 low -1 currenc -1 currenc -1 yen -1 yen -1 yen -1 ifo -1 firm -1 file -1 franc -1 fund -1 buba -1 strong -1 overnight -1 fell -1 fell -1 reut -1 index -1 gain -1 gain -1 futur -1 futur -1 thursday -1 push -1 end -1 -2
+end -1 haven -1 swiss -1 swiss -1 buy -1 financ -1 cut -1 cut -1 cut -1 safe -1 mail -1 sell -1 consum -1 divid -1 aug -1 day -1 derivat -1 derivat -1 japan -1 sept -1 late -1 late -1 late -1 desk -1 -2

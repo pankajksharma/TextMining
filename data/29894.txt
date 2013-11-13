@@ -1,0 +1,2 @@
+launch -1 lpc -1 lpc -1 lpc -1 credit -1 credit -1 tenor -1 tuesday -1 money -1 grenfel -1 year -1 morg -1 bank -1 bank -1 invest -1 deal -1 deal -1 capit -1 capit -1 slat -1 debt -1 loan -1 bps -1 bps -1 upp -1 chas -1 pric -1 exist -1 million -1 million -1 -2
+million -1 deutsch -1 arrang -1 increas -1 swed -1 commit -1 commit -1 provid -1 libor -1 guaranteed -1 offer -1 london -1 size -1 skansk -1 skansk -1 skansk -1 malm -1 aug -1 revolut -1 refin -1 septemb -1 ups -1 ab -1 ab -1 newsroom -1 fee -1 sign -1 mln -1 -2

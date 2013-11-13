@@ -1,0 +1,2 @@
+compan -1 healthcar -1 healthcar -1 newsdesk -1 interest -1 interest -1 month -1 month -1 full -1 york -1 common -1 common -1 minor -1 minor -1 cash -1 cash -1 cash -1 q2 -1 shar -1 shar -1 end -1 end -1 imag -1 imag -1 outstand -1 loss -1 loss -1 loss -1 servic -1 net -1 -2
+net -1 weight -1 note -1 incom -1 incom -1 incom -1 incom -1 profit -1 charg -1 charg -1 charg -1 revenu -1 joint -1 joint -1 expend -1 ventur -1 ventur -1 june -1 june -1 aver -1 operat -1 compens -1 compens -1 compens -1 tax -1 -2

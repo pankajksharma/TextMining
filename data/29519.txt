@@ -1,0 +1,3 @@
+vida -1 vidin -1 compan -1 compan -1 compan -1 eom -1 clos -1 monet -1 liquid -1 liquid -1 own -1 own -1 spokeswom -1 spokeswom -1 agree -1 firm -1 unit -1 treat -1 fund -1 produc -1 report -1 stat -1 stat -1 plovdiv -1 expect -1 govern -1 govern -1 decid -1 big -1 parv -1 -2
+monday -1 discuss -1 industr -1 industr -1 cabinet -1 sofia -1 sofia -1 sofia -1 told -1 loss -1 declin -1 imf -1 bulgar -1 bulgar -1 bulgar -1 complex -1 part -1 part -1 mm -1 pledg -1 problem -1 mai -1 milit -1 milit -1 milit -1 plant -1 plant -1 involut -1 vi -1 intern -1 elabor -1 -2
+separat -1 make -1 newsroom -1 closur -1 closur -1 closur -1 omz -1 lom -1 delay -1 delay -1 delay -1 unik -1 vratz -1 aviotechnik -1 shubel -1 shum -1 -2

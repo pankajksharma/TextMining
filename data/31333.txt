@@ -1,0 +1,2 @@
+thin -1 clos -1 clos -1 clos -1 drug -1 high -1 mor -1 curb -1 point -1 point -1 mid -1 tobacc -1 tobacc -1 tobacc -1 tobacc -1 deal -1 deal -1 week -1 week -1 debt -1 debt -1 debt -1 grad -1 approv -1 minor -1 govern -1 treasur -1 philip -1 cos -1 administ -1 -2
+legal -1 drop -1 approxim -1 shed -1 feder -1 sustain -1 off -1 volatil -1 loss -1 loss -1 cut -1 quot -1 bid -1 bid -1 wrangl -1 note -1 aim -1 basi -1 widen -1 corpor -1 corpor -1 session -1 compar -1 alcohol -1 bond -1 bond -1 rule -1 ensu -1 due -1 sale -1 trad -1 -2

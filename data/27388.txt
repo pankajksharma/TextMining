@@ -1,0 +1,3 @@
+clos -1 month -1 month -1 liquid -1 year -1 cashflow -1 cashflow -1 lisbon -1 bank -1 bank -1 bank -1 billion -1 billion -1 portug -1 portug -1 client -1 client -1 fund -1 loan -1 stat -1 requir -1 help -1 pension -1 extraordin -1 extraordin -1 extraordin -1 banc -1 escudo -1 escudo -1 escudo -1 -2
+million -1 shar -1 deposit -1 end -1 end -1 con -1 con -1 bureau -1 hurt -1 rise -1 foment -1 exterior -1 bfe -1 figur -1 net -1 net -1 net -1 net -1 half -1 pre -1 pre -1 part -1 note -1 cost -1 basi -1 book -1 profit -1 profit -1 profit -1 profit -1 profit -1 -2
+profit -1 profit -1 sa -1 includ -1 impact -1 regulat -1 asset -1 june -1 sale -1 sale -1 tax -1 tax -1 -2

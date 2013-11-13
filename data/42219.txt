@@ -1,0 +1,2 @@
+municip -1 rate -1 rate -1 facil -1 sport -1 sport -1 broward -1 broward -1 amount -1 invest -1 issu -1 rev -1 rev -1 stat -1 expect -1 profess -1 fac -1 a1 -1 a1 -1 fl -1 moody -1 moody -1 fla -1 servic -1 date -1 cty -1 announc -1 desk -1 sale -1 sale -1 -2
+count -1 tax -1 -2

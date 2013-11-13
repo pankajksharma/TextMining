@@ -1,0 +1,2 @@
+metal -1 clos -1 kg -1 high -1 high -1 lme -1 lme -1 lme -1 deal -1 larg -1 today -1 strong -1 local -1 local -1 help -1 overnight -1 level -1 pric -1 pric -1 pric -1 pric -1 gain -1 europ -1 thursday -1 end -1 kl -1 narrow -1 buy -1 buy -1 cent -1 -2
+cent -1 exchang -1 offer -1 tin -1 tin -1 london -1 ton -1 ton -1 malays -1 malays -1 turnov -1 prev -1 prem -1 demand -1 japan -1 ringgit -1 ringgit -1 ringgit -1 hold -1 trad -1 trad -1 pick -1 -2

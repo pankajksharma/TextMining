@@ -1,0 +1,4 @@
+nationw -1 attach -1 thrust -1 read -1 bottom -1 promot -1 promot -1 promot -1 guilt -1 asterisk -1 advertis -1 newspap -1 pty -1 sydney -1 sydney -1 sydney -1 ads -1 good -1 deal -1 unit -1 free -1 free -1 individual -1 stat -1 pay -1 expect -1 decid -1 show -1 telephon -1 mirror -1 -2
+allan -1 case -1 rtr -1 public -1 public -1 public -1 off -1 off -1 daily -1 daily -1 typ -1 commit -1 underlin -1 austral -1 phon -1 phon -1 purchas -1 contradict -1 compet -1 compet -1 seri -1 new -1 new -1 new -1 new -1 put -1 fine -1 fine -1 mobil -1 mobil -1 mobil -1 -2
+pape -1 pape -1 apply -1 apply -1 consum -1 consum -1 mislead -1 mislead -1 mislead -1 mislead -1 basic -1 corp -1 corp -1 charg -1 charg -1 regulat -1 effect -1 fel -1 fel -1 promis -1 found -1 found -1 publish -1 cond -1 cond -1 cond -1 cond -1 chairm -1 meant -1 newsroom -1 telegraph -1 -2
+telegraph -1 telegraph -1 advert -1 advert -1 accc -1 accc -1 -2

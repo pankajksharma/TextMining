@@ -1,0 +1,4 @@
+follow -1 compan -1 novemb -1 hous -1 hard -1 hard -1 bushel -1 seoul -1 dark -1 dark -1 firm -1 decemb -1 decemb -1 deal -1 wint -1 wint -1 mill -1 mill -1 mill -1 red -1 red -1 bought -1 bought -1 ship -1 percent -1 percent -1 percent -1 percent -1 flour -1 flour -1 -2
+flour -1 confirm -1 pric -1 pric -1 soft -1 soft -1 soft -1 soft -1 futur -1 protein -1 protein -1 protein -1 protein -1 give -1 chicag -1 buy -1 dongah -1 dongah -1 typ -1 typ -1 inchun -1 wheat -1 wheat -1 wheat -1 wheat -1 western -1 city -1 declin -1 cheiljedang -1 cheiljedang -1 cheiljedang -1 -2
+korean -1 korean -1 northern -1 northern -1 south -1 basi -1 ton -1 ton -1 ton -1 ton -1 fob -1 fob -1 detail -1 detail -1 result -1 corp -1 corp -1 corp -1 maruben -1 board -1 total -1 total -1 japan -1 friday -1 port -1 combin -1 whit -1 whit -1 whit -1 whit -1 set -1 -2
+spring -1 spring -1 newsroom -1 northw -1 max -1 max -1 max -1 max -1 pacif -1 offic -1 trad -1 trad -1 trad -1 trad -1 -2

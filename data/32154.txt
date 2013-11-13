@@ -1,0 +1,2 @@
+clos -1 kg -1 kg -1 high -1 bag -1 bag -1 low -1 deal -1 deal -1 decemb -1 decemb -1 produc -1 report -1 subdu -1 sent -1 level -1 pref -1 pric -1 pric -1 volum -1 thursday -1 matur -1 deliv -1 deliv -1 deliv -1 oil -1 remain -1 stead -1 stead -1 stead -1 -2
+commod -1 quint -1 castorseed -1 groundnut -1 rose -1 cent -1 bombay -1 arriv -1 arriv -1 gujarat -1 period -1 ton -1 rupee -1 rupee -1 septemb -1 reduc -1 caut -1 caut -1 caut -1 friday -1 cast -1 cast -1 indian -1 indian -1 operat -1 inflow -1 trad -1 trad -1 trad -1 restrict -1 -2

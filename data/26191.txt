@@ -1,0 +1,2 @@
+ham -1 wimbledon -1 attend -1 halftim -1 shear -1 di -1 southg -1 matteo -1 middlesbrough -1 heskey -1 tissy -1 unsworth -1 everton -1 batty -1 nottingham -1 unit -1 aston -1 haaland -1 vill -1 sunderland -1 tottenham -1 sheringham -1 derby -1 southampton -1 west -1 dail -1 riep -1 mcallist -1 st -1 st -1 -2
+penalt -1 manchest -1 sum -1 sum -1 leagu -1 leagu -1 socc -1 ferguson -1 engl -1 engl -1 forest -1 le -1 premy -1 premy -1 quin -1 match -1 gray -1 leicest -1 coventr -1 minut -1 wednesday -1 goal -1 cruyff -1 chelsea -1 newcastl -1 ord -1 blackburn -1 -2

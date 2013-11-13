@@ -1,0 +1,4 @@
+yellow -1 anti -1 recent -1 situat -1 alert -1 reach -1 delug -1 inundat -1 songhua -1 low -1 liao -1 begin -1 begin -1 kill -1 kill -1 provinc -1 provinc -1 northeast -1 newspap -1 middl -1 bank -1 start -1 sea -1 billion -1 billion -1 headquart -1 headquart -1 headquart -1 peopl -1 peopl -1 -2
+huge -1 stat -1 injur -1 storm -1 storm -1 level -1 level -1 futur -1 wat -1 wat -1 face -1 grim -1 chin -1 chin -1 chin -1 area -1 rais -1 damag -1 flood -1 flood -1 flood -1 flood -1 flood -1 flood -1 flood -1 flood -1 flood -1 flood -1 daily -1 weak -1 cent -1 -2
+sever -1 warn -1 warn -1 warn -1 quot -1 drought -1 autumn -1 autumn -1 heavy -1 empty -1 northeastern -1 northeastern -1 thousand -1 southwestern -1 rive -1 rive -1 rive -1 rive -1 dang -1 caus -1 wednesday -1 wednesday -1 xinhua -1 vuln -1 june -1 yangtz -1 tribut -1 season -1 fight -1 yuan -1 telegraph -1 -2
+possibl -1 group -1 -2

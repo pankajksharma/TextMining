@@ -1,0 +1,4 @@
+fully -1 correct -1 mb -1 mb -1 mb -1 sery -1 sery -1 memor -1 memor -1 memor -1 netserv -1 netserv -1 netserv -1 netserv -1 netserv -1 lxe -1 mhz -1 mhz -1 lh -1 fast -1 start -1 start -1 start -1 hp -1 hp -1 hp -1 hp -1 hp -1 hp -1 system -1 -2
+system -1 intel -1 pent -1 pent -1 pent -1 pent -1 pent -1 pent -1 error -1 lx -1 lx -1 lx -1 ship -1 ship -1 unveil -1 unveil -1 check -1 pric -1 pric -1 model -1 model -1 support -1 support -1 ram -1 ram -1 monday -1 hewlet -1 cent -1 packard -1 comput -1 comput -1 -2
+serv -1 serv -1 serv -1 serv -1 microprocess -1 base -1 base -1 base -1 corp -1 septemb -1 expand -1 expand -1 power -1 pro -1 pro -1 pro -1 pro -1 pro -1 pro -1 pro -1 pro -1 pro -1 gb -1 gb -1 midrang -1 midrang -1 stor -1 process -1 process -1 process -1 process -1 -2
+process -1 bay -1 -2

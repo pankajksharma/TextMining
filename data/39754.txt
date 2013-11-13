@@ -1,0 +1,4 @@
+react -1 tight -1 small -1 recent -1 recent -1 hous -1 econom -1 situat -1 tempor -1 money -1 money -1 clos -1 clos -1 steep -1 high -1 rate -1 low -1 low -1 monet -1 liquid -1 ssangyong -1 ssangyong -1 year -1 year -1 year -1 ahead -1 start -1 yr -1 point -1 billion -1 -2
+billion -1 sunkyong -1 sunkyong -1 fall -1 fall -1 squeez -1 deal -1 deal -1 deal -1 deal -1 deal -1 deal -1 today -1 issu -1 issu -1 yield -1 yield -1 yield -1 yield -1 yield -1 percent -1 overnight -1 outlook -1 level -1 push -1 benchmark -1 author -1 rise -1 rise -1 rise -1 finish -1 -2
+daily -1 call -1 numb -1 lack -1 won -1 yoon -1 korean -1 consolid -1 consolid -1 consolid -1 consolid -1 pessim -1 yeom -1 jeong -1 sell -1 corpor -1 corpor -1 corpor -1 corpor -1 corpor -1 corpor -1 attribut -1 day -1 day -1 profit -1 wednesday -1 wednesday -1 chusok -1 secur -1 secur -1 secur -1 -2
+secur -1 secur -1 demand -1 worth -1 bond -1 bond -1 hit -1 aver -1 amid -1 -2

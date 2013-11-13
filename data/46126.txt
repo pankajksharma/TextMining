@@ -1,0 +1,2 @@
+saturday -1 retir -1 retir -1 body -1 cup -1 cup -1 sport -1 year -1 team -1 sueddeutsch -1 captain -1 german -1 german -1 franc -1 franc -1 week -1 germ -1 euro -1 klinsman -1 klinsman -1 klinsman -1 world -1 world -1 england -1 belief -1 poland -1 ident -1 european -1 end -1 nucleus -1 -2
+nation -1 sum -1 ve -1 win -1 virtual -1 vogt -1 socc -1 daily -1 champ -1 call -1 quot -1 friend -1 strik -1 match -1 exper -1 won -1 play -1 play -1 aim -1 squad -1 valu -1 thing -1 plan -1 person -1 intern -1 bert -1 juergen -1 zeitung -1 coach -1 -2

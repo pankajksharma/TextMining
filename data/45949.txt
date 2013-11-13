@@ -1,0 +1,3 @@
+early -1 elect -1 elect -1 elect -1 lebanon -1 lebanon -1 lebanon -1 lebanon -1 lebanon -1 damascus -1 accur -1 stock -1 sunday -1 month -1 ad -1 kill -1 nahar -1 agree -1 diyar -1 nida -1 watan -1 list -1 capit -1 holland -1 lead -1 digest -1 al -1 al -1 reut -1 bekaa -1 -2
+beirut -1 beirut -1 beirut -1 round -1 round -1 talk -1 candid -1 ber -1 ber -1 prior -1 reop -1 hizbollah -1 hizbollah -1 guerrill -1 press -1 press -1 speak -1 leban -1 verif -1 vouch -1 exchang -1 loss -1 embass -1 compet -1 parlia -1 parlia -1 parlia -1 twent -1 valley -1 clash -1 upcom -1 -2
+south -1 south -1 hundr -1 story -1 story -1 vote -1 aug -1 anwar -1 day -1 coop -1 announc -1 safir -1 heat -1 kuwait -1 bours -1 egypt -1 friday -1 battl -1 israel -1 make -1 mount -1 soldy -1 sign -1 -2

@@ -1,0 +1,2 @@
+compan -1 exercis -1 seoul -1 hospit -1 lieuten -1 lieuten -1 north -1 hawk -1 mine -1 lost -1 shrapnel -1 minor -1 injur -1 injur -1 toe -1 km -1 suff -1 missil -1 airm -1 infantr -1 wound -1 navigat -1 nearb -1 korean -1 step -1 mile -1 minefield -1 minefield -1 minefield -1 minefield -1 -2
+south -1 south -1 south -1 south -1 americ -1 serge -1 divid -1 wand -1 conduc -1 land -1 compass -1 demilit -1 army -1 army -1 army -1 friday -1 inadvert -1 soldy -1 soldy -1 soldy -1 soldy -1 korea -1 korea -1 korea -1 walk -1 zone -1 -2

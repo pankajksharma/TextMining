@@ -1,0 +1,2 @@
+botsch -1 compan -1 jorn -1 interest -1 interest -1 interest -1 own -1 year -1 telebr -1 telebr -1 telebr -1 privat -1 newspap -1 line -1 line -1 line -1 firm -1 firm -1 week -1 brasil -1 germ -1 germ -1 germ -1 germ -1 stat -1 fix -1 fix -1 long -1 deutsch -1 deutsch -1 -2
+telekom -1 telekom -1 telecommun -1 telecommun -1 telecommun -1 buy -1 buy -1 buy -1 priv -1 network -1 network -1 network -1 phon -1 minist -1 minist -1 visit -1 brazil -1 brazil -1 brazil -1 want -1 cellul -1 offic -1 wolfgang -1 -2

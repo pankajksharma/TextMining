@@ -1,0 +1,3 @@
+sect -1 correct -1 correct -1 correct -1 month -1 month -1 year -1 year -1 rome -1 istat -1 istat -1 istat -1 octob -1 data -1 yr -1 yr -1 output -1 regist -1 fall -1 fall -1 headlin -1 quart -1 quart -1 quart -1 quart -1 quart -1 quart -1 quart -1 quart -1 gross -1 -2
+slight -1 domest -1 produc -1 gmt -1 percent -1 italy -1 q2 -1 q2 -1 q2 -1 q2 -1 italian -1 italian -1 provis -1 provis -1 nation -1 versus -1 industr -1 increas -1 statist -1 rose -1 rose -1 work -1 gdp -1 gdp -1 gdp -1 gdp -1 gdp -1 growth -1 growth -1 servic -1 period -1 -2
+note -1 final -1 institut -1 day -1 compar -1 prev -1 q1 -1 q1 -1 due -1 few -1 releas -1 newsroom -1 pct -1 pct -1 -2

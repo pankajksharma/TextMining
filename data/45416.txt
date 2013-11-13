@@ -1,0 +1,4 @@
+early -1 market -1 market -1 market -1 market -1 market -1 econom -1 isn -1 clos -1 clos -1 send -1 high -1 high -1 high -1 interest -1 interest -1 rate -1 rate -1 rate -1 low -1 low -1 begin -1 frankfurt -1 data -1 data -1 sight -1 agree -1 point -1 point -1 fall -1 -2
+flirt -1 manag -1 turn -1 turn -1 firm -1 deal -1 deal -1 deal -1 wait -1 week -1 week -1 week -1 germ -1 germ -1 strong -1 strong -1 treasur -1 treasur -1 anymor -1 suff -1 fell -1 outperform -1 index -1 long -1 techn -1 chicag -1 rais -1 august -1 terribl -1 extend -1 victim -1 -2
+rose -1 loss -1 cut -1 purchas -1 move -1 ago -1 sharp -1 sharp -1 fail -1 new -1 basi -1 basi -1 session -1 july -1 day -1 inspir -1 optim -1 goal -1 secur -1 fed -1 friday -1 bund -1 bund -1 bund -1 bund -1 bundesbank -1 late -1 repurchas -1 mass -1 unchang -1 add -1 -2
+fear -1 fear -1 surpr -1 left -1 trad -1 trad -1 trad -1 -2

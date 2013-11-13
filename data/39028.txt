@@ -1,0 +1,2 @@
+tuesday -1 stock -1 stock -1 york -1 nys -1 volum -1 shar -1 shar -1 shar -1 hour -1 hour -1 hour -1 sum -1 exchang -1 exchang -1 bell -1 doldrum -1 lack -1 move -1 twovolum -1 new -1 americ -1 led -1 session -1 session -1 compar -1 compar -1 wednesday -1 major -1 activ -1 -2
+activ -1 trad -1 -2

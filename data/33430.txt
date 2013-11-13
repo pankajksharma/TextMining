@@ -1,0 +1,4 @@
+temper -1 temper -1 fahrenheit -1 life -1 life -1 keen -1 gener -1 attend -1 tuesday -1 tuesday -1 medic -1 saturday -1 high -1 peac -1 doct -1 doct -1 doct -1 hospit -1 year -1 team -1 wean -1 heartbeat -1 live -1 physic -1 poor -1 good -1 treat -1 slight -1 cardiac -1 cardiac -1 -2
+cardiac -1 celsius -1 home -1 bout -1 status -1 priz -1 support -1 support -1 round -1 teret -1 teret -1 teret -1 teret -1 drop -1 calcut -1 nobel -1 remain -1 remain -1 remain -1 remain -1 remain -1 increas -1 hover -1 feed -1 clock -1 sever -1 sen -1 sen -1 sen -1 sen -1 sen -1 -2
+won -1 destitut -1 devot -1 woodland -1 direct -1 admit -1 struggl -1 saint -1 failur -1 day -1 dang -1 dang -1 falt -1 dr -1 ask -1 degree -1 unst -1 unst -1 concern -1 nun -1 regard -1 elabor -1 irregul -1 irregul -1 malar -1 mother -1 mother -1 mother -1 mother -1 cond -1 cond -1 -2
+cond -1 cond -1 adequat -1 unchang -1 heart -1 heart -1 heart -1 nur -1 respir -1 respir -1 beat -1 vomit -1 -2

@@ -1,0 +1,2 @@
+ag -1 month -1 construc -1 full -1 frankfurt -1 fall -1 domest -1 germ -1 report -1 stat -1 busi -1 busi -1 busi -1 million -1 million -1 drop -1 drop -1 ymo -1 ymo -1 ymo -1 ymo -1 electroly -1 industr -1 reason -1 oxidat -1 foreign -1 weak -1 loss -1 loss -1 loss -1 -2
+compon -1 pre -1 pre -1 pre -1 part -1 note -1 sanit -1 h1 -1 profit -1 profit -1 june -1 cond -1 due -1 due -1 newsroom -1 operat -1 sole -1 mark -1 mark -1 sale -1 sale -1 sale -1 sale -1 slow -1 tax -1 tax -1 tax -1 group -1 group -1 group -1 -2

@@ -1,0 +1,2 @@
+draw -1 point -1 stand -1 stand -1 lost -1 st -1 st -1 lucern -1 lucern -1 lausan -1 weekend -1 swiss -1 swiss -1 aarau -1 aarau -1 socc -1 grasshop -1 grasshop -1 premy -1 premy -1 won -1 match -1 play -1 play -1 sion -1 sion -1 divid -1 divid -1 lugan -1 lugan -1 -2
+result -1 result -1 gall -1 gall -1 servet -1 servet -1 neuchatel -1 neuchatel -1 goal -1 zurich -1 tabulat -1 boy -1 boy -1 young -1 young -1 basl -1 basl -1 -2

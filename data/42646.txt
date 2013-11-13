@@ -1,0 +1,2 @@
+catalog -1 catalog -1 catalog -1 catalog -1 lo -1 lo -1 lo -1 lo -1 agree -1 deal -1 merchandis -1 produc -1 produc -1 display -1 special -1 test -1 test -1 thursday -1 ha -1 ha -1 ha -1 ha -1 industr -1 cent -1 cent -1 box -1 box -1 box -1 offer -1 mail -1 -2
+mail -1 mail -1 sampl -1 franchis -1 californ -1 advert -1 distribut -1 distribut -1 -2

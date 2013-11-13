@@ -1,0 +1,2 @@
+compan -1 asiasat -1 stock -1 month -1 own -1 own -1 room -1 shr -1 nil -1 nil -1 trust -1 invest -1 wire -1 list -1 stat -1 stat -1 britain -1 st -1 interim -1 million -1 satel -1 satel -1 satel -1 end -1 dividend -1 chin -1 telecommun -1 hk -1 hk -1 cent -1 -2
+cent -1 exchang -1 cabl -1 net -1 citic -1 plc -1 new -1 part -1 note -1 equal -1 except -1 turnov -1 corp -1 result -1 announc -1 beij -1 item -1 flag -1 intern -1 hutch -1 whampoa -1 hong -1 hong -1 kong -1 kong -1 june -1 june -1 operat -1 asia -1 asia -1 hold -1 -2

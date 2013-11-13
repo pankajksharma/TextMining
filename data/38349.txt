@@ -1,0 +1,3 @@
+ampl -1 ampl -1 calm -1 approach -1 market -1 brisk -1 jakart -1 jakart -1 jakart -1 jakart -1 jakart -1 back -1 pool -1 money -1 money -1 money -1 money -1 money -1 money -1 money -1 money -1 rate -1 rate -1 rate -1 month -1 liquid -1 liquid -1 term -1 bank -1 bank -1 -2
+swap -1 swap -1 deal -1 deal -1 deal -1 deal -1 week -1 salar -1 percent -1 percent -1 percent -1 percent -1 percent -1 local -1 overnight -1 tutesday -1 end -1 long -1 monday -1 remain -1 edg -1 edg -1 stabl -1 return -1 civil -1 cent -1 call -1 call -1 city -1 serv -1 transfer -1 -2
+period -1 compar -1 result -1 explain -1 friday -1 suppl -1 chang -1 neutr -1 aver -1 morn -1 polic -1 newsroom -1 operat -1 reflect -1 interbank -1 interbank -1 -2

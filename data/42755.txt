@@ -1,0 +1,2 @@
+inspect -1 shipsal -1 secondhand -1 ldt -1 ldt -1 ldt -1 ldt -1 dwt -1 dwt -1 dwt -1 dwt -1 complet -1 report -1 brok -1 sold -1 sold -1 sold -1 sold -1 sold -1 iapeto -1 feax -1 vaki -1 london -1 final -1 ton -1 break -1 break -1 break -1 break -1 survey -1 -2
+built -1 built -1 built -1 built -1 subject -1 ventur -1 cond -1 vessel -1 indian -1 indian -1 indian -1 indian -1 demol -1 sale -1 sale -1 -2

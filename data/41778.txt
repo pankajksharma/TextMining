@@ -1,0 +1,2 @@
+find -1 drug -1 contain -1 ship -1 ship -1 ship -1 thursday -1 netherland -1 coffee -1 colomb -1 colomb -1 ground -1 marijuan -1 marijuan -1 made -1 pack -1 metric -1 ton -1 sail -1 surround -1 spokesm -1 arrest -1 cartagen -1 found -1 port -1 set -1 polic -1 polic -1 polic -1 caribbean -1 -2
+prepar -1 -2

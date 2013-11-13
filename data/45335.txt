@@ -1,0 +1,2 @@
+compan -1 newsdesk -1 carry -1 mfs -1 mfs -1 reach -1 rate -1 cover -1 cover -1 agree -1 agree -1 agree -1 point -1 bellsouth -1 stat -1 local -1 local -1 expect -1 interconnect -1 florid -1 florid -1 interim -1 telephon -1 ident -1 minim -1 termin -1 chicag -1 call -1 numb -1 servic -1 -2
+georg -1 equal -1 simil -1 commun -1 commun -1 corp -1 includ -1 friday -1 friday -1 port -1 connect -1 enter -1 singl -1 execut -1 pact -1 reciproc -1 -2

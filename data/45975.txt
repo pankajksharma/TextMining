@@ -1,0 +1,3 @@
+market -1 credit -1 credit -1 credit -1 french -1 ffr -1 year -1 year -1 year -1 fresh -1 bank -1 bank -1 billion -1 foncy -1 foncy -1 foncy -1 de -1 franc -1 franc -1 franc -1 downturn -1 report -1 stat -1 stat -1 lend -1 restat -1 provis -1 provis -1 provis -1 million -1 -2
+wound -1 propert -1 figur -1 figur -1 figur -1 net -1 net -1 net -1 net -1 net -1 half -1 half -1 sharp -1 posit -1 restructur -1 period -1 note -1 cost -1 incom -1 h1 -1 bar -1 gave -1 attribut -1 compar -1 profit -1 result -1 estat -1 june -1 real -1 due -1 add -1 -2
+mln -1 -2

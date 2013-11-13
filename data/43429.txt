@@ -1,0 +1,4 @@
+protest -1 ptu -1 ptu -1 territ -1 carry -1 train -1 train -1 stop -1 clos -1 union -1 own -1 privat -1 privat -1 sydney -1 affect -1 system -1 line -1 contain -1 employ -1 tnt -1 special -1 govern -1 govern -1 govern -1 govern -1 govern -1 reut -1 belief -1 futur -1 million -1 -2
+thursday -1 shot -1 nation -1 nation -1 nation -1 industr -1 time -1 feder -1 commod -1 tasman -1 rtr -1 public -1 prevail -1 traff -1 spt -1 told -1 procrastin -1 austral -1 austral -1 austral -1 austral -1 austral -1 austral -1 interst -1 interst -1 work -1 work -1 work -1 continu -1 continu -1 servic -1 -2
+servic -1 servic -1 strik -1 strik -1 strik -1 specul -1 northern -1 freight -1 freight -1 freight -1 rail -1 rail -1 rail -1 south -1 south -1 hesit -1 run -1 transport -1 corp -1 sens -1 concern -1 john -1 refus -1 held -1 worth -1 respons -1 rule -1 action -1 newsroom -1 operat -1 operat -1 -2
+consult -1 amid -1 offic -1 delay -1 disput -1 cross -1 cross -1 cross -1 -2

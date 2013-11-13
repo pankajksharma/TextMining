@@ -1,0 +1,3 @@
+popul -1 elect -1 econom -1 gener -1 accur -1 clos -1 rate -1 enriqu -1 march -1 newspap -1 headlin -1 spain -1 albert -1 de -1 meet -1 lead -1 decid -1 digest -1 implic -1 dia -1 world -1 path -1 reut -1 pai -1 galind -1 europ -1 mund -1 european -1 catalon -1 aleix -1 -2
+colonel -1 quadr -1 party -1 party -1 cinc -1 case -1 nation -1 nation -1 gacet -1 negocio -1 abc -1 press -1 verif -1 vouch -1 cut -1 vidal -1 substitut -1 growth -1 move -1 juan -1 catal -1 story -1 aug -1 gal -1 ciu -1 eurogener -1 psychiatr -1 ask -1 expand -1 el -1 el -1 -2
+perot -1 celebr -1 major -1 los -1 bundesbank -1 bundesbank -1 bundesbank -1 coal -1 madrid -1 top -1 smooth -1 rodriguez -1 -2

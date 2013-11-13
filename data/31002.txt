@@ -1,0 +1,3 @@
+karel -1 market -1 stock -1 stock -1 clos -1 clos -1 clos -1 bank -1 point -1 point -1 mkt -1 invest -1 deal -1 week -1 week -1 issu -1 slight -1 undervalu -1 attent -1 expect -1 advanc -1 pric -1 gain -1 gain -1 index -1 volum -1 million -1 shar -1 shar -1 shar -1 -2
+end -1 sum -1 outpac -1 edg -1 stead -1 stead -1 crown -1 crown -1 narrow -1 return -1 foreign -1 ground -1 czech -1 czech -1 cent -1 exchang -1 pragu -1 px50 -1 komercn -1 declin -1 move -1 heavy -1 bastl -1 atlantik -1 financn -1 direct -1 await -1 turnov -1 bours -1 total -1 friday -1 -2
+season -1 don -1 holiday -1 holiday -1 holiday -1 unchang -1 wind -1 trad -1 slow -1 -2

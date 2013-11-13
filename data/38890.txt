@@ -1,0 +1,2 @@
+immed -1 bank -1 billion -1 billion -1 billion -1 oversubscrib -1 week -1 week -1 cnb -1 yield -1 yield -1 yield -1 yield -1 yield -1 percent -1 treasur -1 bill -1 bill -1 bill -1 matur -1 minim -1 maxim -1 nation -1 auction -1 crown -1 crown -1 crown -1 off -1 financ -1 czech -1 -2
+czech -1 czech -1 pragu -1 minist -1 figur -1 bid -1 bid -1 crosb -1 note -1 ave -1 aug -1 compar -1 wednesday -1 accept -1 hit -1 hit -1 aver -1 aver -1 newsroom -1 alan -1 pct -1 pct -1 pct -1 pct -1 -2

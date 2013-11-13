@@ -1,0 +1,2 @@
+compan -1 televis -1 televis -1 stock -1 suspend -1 suspend -1 produc -1 produc -1 audio -1 audio -1 telephon -1 volum -1 thursday -1 shar -1 shar -1 shar -1 end -1 pend -1 hk -1 exchang -1 announc -1 hong -1 hong -1 kong -1 kong -1 friday -1 request -1 make -1 unchang -1 newsroom -1 -2
+manufactur -1 hold -1 hold -1 trad -1 trad -1 recor -1 recor -1 recor -1 recor -1 -2

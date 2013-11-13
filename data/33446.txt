@@ -1,0 +1,4 @@
+early -1 fahrenheit -1 medic -1 medic -1 saturday -1 saturday -1 saturday -1 doct -1 doct -1 doct -1 hospit -1 agent -1 fall -1 fall -1 fall -1 renown -1 treat -1 report -1 local -1 cardiac -1 enorm -1 celsius -1 celsius -1 home -1 world -1 show -1 antibiot -1 support -1 strength -1 chest -1 -2
+control -1 teret -1 teret -1 teret -1 calcut -1 feve -1 feve -1 feve -1 age -1 remain -1 remain -1 author -1 stabl -1 cathol -1 speak -1 told -1 clock -1 sen -1 sen -1 sen -1 vigil -1 quot -1 city -1 continu -1 signif -1 improv -1 infect -1 new -1 woodland -1 direct -1 gestur -1 -2
+strict -1 dr -1 degree -1 degree -1 unst -1 unst -1 nun -1 compl -1 eastern -1 malar -1 malar -1 consc -1 mother -1 mother -1 mother -1 cond -1 cond -1 cond -1 cond -1 cond -1 cond -1 cond -1 unnam -1 make -1 releas -1 unchang -1 mission -1 heart -1 indian -1 surpr -1 bulletin -1 -2
+roman -1 nur -1 respir -1 keep -1 -2

@@ -1,0 +1,2 @@
+observ -1 clos -1 clos -1 clos -1 gas -1 spokeswom -1 brent -1 york -1 petroleum -1 unit -1 gmt -1 gmt -1 gmt -1 stat -1 ipe -1 ipe -1 futur -1 futur -1 hour -1 hour -1 crud -1 oil -1 oil -1 monday -1 monday -1 monday -1 ceas -1 time -1 time -1 mercantil -1 -2
+short -1 short -1 exchang -1 exchang -1 london -1 day -1 labor -1 intern -1 due -1 set -1 holiday -1 newsroom -1 norm -1 norm -1 trad -1 trad -1 trad -1 option -1 option -1 -2

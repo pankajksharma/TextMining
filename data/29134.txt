@@ -1,0 +1,4 @@
+capac -1 market -1 perform -1 fast -1 unix -1 form -1 form -1 site -1 system -1 system -1 manag -1 manag -1 manag -1 manag -1 client -1 larg -1 produc -1 produc -1 stat -1 environ -1 window -1 window -1 pric -1 instal -1 volum -1 volum -1 volum -1 verit -1 verit -1 verit -1 -2
+verit -1 verit -1 verit -1 verit -1 custom -1 futur -1 futur -1 embed -1 shar -1 thursday -1 enterpr -1 deliv -1 deliv -1 techn -1 platform -1 platform -1 grow -1 provid -1 network -1 disk -1 disk -1 disk -1 oem -1 serv -1 serv -1 serv -1 ten -1 thousand -1 resel -1 develop -1 microsoft -1 -2
+microsoft -1 microsoft -1 corp -1 announc -1 relat -1 optim -1 enhanc -1 capabl -1 capabl -1 extern -1 strateg -1 stor -1 stor -1 stor -1 morn -1 version -1 version -1 version -1 softwar -1 softwar -1 make -1 add -1 partn -1 pact -1 operat -1 operat -1 creat -1 licens -1 trad -1 nt -1 nt -1 -2
+group -1 independ -1 -2

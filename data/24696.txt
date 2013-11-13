@@ -1,0 +1,2 @@
+rate -1 rate -1 rate -1 amount -1 invest -1 issu -1 stat -1 govt -1 local -1 expect -1 aaa -1 aaa -1 moody -1 moody -1 adjust -1 ambac -1 bldg -1 bldg -1 servic -1 auth -1 ten -1 date -1 sevy -1 sevy -1 pub -1 pub -1 pub -1 vmig -1 vmig -1 imp -1 -2
+e1 -1 e2 -1 e3 -1 cty -1 e4 -1 e5 -1 ser -1 f1 -1 f2 -1 tn -1 announc -1 sale -1 sale -1 -2

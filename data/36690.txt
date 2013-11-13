@@ -1,0 +1,2 @@
+market -1 tuesday -1 cs -1 kg -1 kg -1 bag -1 bag -1 line -1 firm -1 firm -1 week -1 week -1 week -1 week -1 grad -1 strong -1 advanc -1 world -1 reut -1 pric -1 pric -1 pric -1 sold -1 sold -1 aas -1 coffee -1 coffee -1 coffee -1 coffee -1 keny -1 -2
+keny -1 keny -1 keny -1 auction -1 auction -1 auction -1 auction -1 auction -1 told -1 rose -1 rose -1 offer -1 senior -1 ago -1 abs -1 export -1 compar -1 break -1 break -1 board -1 resum -1 aver -1 sale -1 offic -1 offic -1 trad -1 -2

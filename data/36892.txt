@@ -1,0 +1,4 @@
+market -1 market -1 market -1 sect -1 recent -1 recent -1 adopt -1 adopt -1 exert -1 tuesday -1 clos -1 clos -1 month -1 halt -1 fluctu -1 countr -1 undercut -1 currenc -1 currenc -1 currenc -1 schedul -1 consensus -1 bank -1 bank -1 bank -1 deal -1 deal -1 deal -1 peso -1 peso -1 -2
+peso -1 peso -1 peso -1 peso -1 repeat -1 report -1 stat -1 meet -1 strong -1 local -1 downward -1 expect -1 govern -1 confirm -1 jump -1 appear -1 million -1 abroad -1 time -1 narrow -1 rise -1 buy -1 buy -1 urg -1 colomb -1 colomb -1 colomb -1 foreign -1 pressur -1 pressur -1 commit -1 -2
+cent -1 exchang -1 head -1 london -1 bid -1 upward -1 move -1 juan -1 posit -1 rang -1 equal -1 aim -1 bogot -1 export -1 export -1 sell -1 session -1 session -1 run -1 basic -1 day -1 day -1 wednesday -1 plac -1 unabl -1 apprec -1 expend -1 dollar -1 dollar -1 total -1 make -1 -2
+negat -1 unchang -1 unchang -1 newsroom -1 add -1 measur -1 guillerm -1 interbank -1 offic -1 trad -1 trad -1 trad -1 -2

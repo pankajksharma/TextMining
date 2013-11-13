@@ -1,0 +1,4 @@
+early -1 tight -1 market -1 market -1 bolst -1 texa -1 tuesday -1 thin -1 privat -1 april -1 suggest -1 cattl -1 cattl -1 cattl -1 cattl -1 cattl -1 cattl -1 week -1 week -1 week -1 week -1 week -1 light -1 light -1 sourc -1 sourc -1 sourc -1 sourc -1 oklahom -1 report -1 -2
+report -1 strong -1 expect -1 expect -1 kans -1 pric -1 pric -1 pric -1 rally -1 sold -1 whittl -1 remain -1 area -1 area -1 extr -1 finish -1 respect -1 commit -1 feed -1 feed -1 pack -1 pack -1 cwt -1 western -1 head -1 heavy -1 feedlot -1 feedlot -1 feedlot -1 feedlot -1 feedlot -1 -2
+predict -1 half -1 bob -1 panhandl -1 transport -1 day -1 day -1 compar -1 result -1 labor -1 plant -1 wednesday -1 ready -1 invent -1 septemb -1 plac -1 secur -1 suppl -1 request -1 showl -1 showl -1 jani -1 deplet -1 holiday -1 aggress -1 possibl -1 plain -1 plain -1 hold -1 sale -1 slow -1 -2
+trad -1 trad -1 pick -1 -2

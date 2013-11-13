@@ -1,0 +1,4 @@
+mediat -1 mur -1 ambassador -1 tough -1 elector -1 elector -1 elect -1 elect -1 elect -1 elect -1 launch -1 lebanon -1 lebanon -1 lebanon -1 lebanon -1 econom -1 econom -1 damascus -1 accur -1 hraw -1 hraw -1 ad -1 declar -1 bank -1 middl -1 nahar -1 jabe -1 diyar -1 nida -1 watan -1 -2
+supervis -1 interior -1 list -1 list -1 percent -1 east -1 lost -1 balanc -1 lead -1 digest -1 sheet -1 al -1 al -1 reut -1 phas -1 harsh -1 beirut -1 hour -1 party -1 harir -1 hizbollah -1 amal -1 incomplet -1 press -1 press -1 tension -1 leban -1 verif -1 rose -1 vouch -1 call -1 -2
+prim -1 prim -1 minist -1 minist -1 minist -1 minist -1 move -1 parlia -1 russian -1 delegat -1 appeal -1 consolid -1 mokheib -1 hoss -1 attack -1 iranian -1 story -1 story -1 aug -1 contact -1 council -1 anwar -1 result -1 announc -1 safir -1 concern -1 consitut -1 june -1 friday -1 mp -1 boycot -1 -2
+mount -1 resign -1 resign -1 presid -1 commerc -1 eas -1 -2

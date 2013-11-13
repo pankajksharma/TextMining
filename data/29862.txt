@@ -1,0 +1,4 @@
+stak -1 acquir -1 acquir -1 hous -1 hous -1 stg -1 stg -1 interest -1 interest -1 interest -1 chain -1 chain -1 chain -1 own -1 hotel -1 hotel -1 hotel -1 hotel -1 hotel -1 hotel -1 hotel -1 hotel -1 hotel -1 receiv -1 itt -1 itt -1 itt -1 pari -1 newspap -1 newspap -1 -2
+fetch -1 individual -1 allen -1 report -1 percent -1 expect -1 savoy -1 hyd -1 big -1 ritz -1 janu -1 million -1 million -1 auction -1 auction -1 remain -1 time -1 time -1 time -1 financ -1 financ -1 financ -1 made -1 fort -1 fort -1 fort -1 fort -1 purchas -1 london -1 london -1 initial -1 -2
+bid -1 bid -1 bid -1 bid -1 bid -1 plc -1 georg -1 chief -1 part -1 part -1 pape -1 granad -1 granad -1 charl -1 exclud -1 exclud -1 exclud -1 portfolio -1 luxur -1 luxur -1 grosvenor -1 grosvenor -1 express -1 corp -1 includ -1 sheraton -1 sheraton -1 sheraton -1 rule -1 rule -1 process -1 -2
+madrid -1 newsroom -1 execut -1 top -1 park -1 thought -1 group -1 group -1 group -1 -2

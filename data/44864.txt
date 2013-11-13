@@ -1,0 +1,4 @@
+early -1 market -1 market -1 market -1 market -1 market -1 recent -1 gener -1 econom -1 quiet -1 back -1 feel -1 stock -1 find -1 low -1 low -1 low -1 room -1 term -1 data -1 york -1 point -1 point -1 point -1 fall -1 fall -1 good -1 good -1 good -1 deal -1 -2
+deal -1 deal -1 today -1 aex -1 domest -1 percent -1 strong -1 help -1 expect -1 lead -1 mood -1 tumbl -1 tumbl -1 index -1 index -1 index -1 volum -1 show -1 crop -1 shar -1 shar -1 shar -1 support -1 european -1 end -1 end -1 techn -1 techn -1 shed -1 dutch -1 dutch -1 -2
+dutch -1 remain -1 stead -1 increas -1 time -1 tone -1 short -1 weak -1 bounc -1 head -1 spark -1 growth -1 heavy -1 sharp -1 posit -1 retrac -1 new -1 sell -1 corpor -1 struggl -1 day -1 result -1 relat -1 relat -1 wall -1 wall -1 street -1 street -1 bours -1 fed -1 rack -1 -2
+friday -1 bond -1 bond -1 late -1 regar -1 volat -1 brought -1 add -1 activ -1 wav -1 amid -1 sign -1 trad -1 option -1 -2

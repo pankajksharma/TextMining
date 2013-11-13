@@ -1,0 +1,1 @@
+market -1 tuni -1 tuni -1 stock -1 clos -1 clos -1 high -1 point -1 firm -1 sourc -1 index -1 volum -1 million -1 shar -1 thursday -1 sfbt -1 exchang -1 move -1 wednesday -1 reduc -1 dinar -1 dinar -1 dinar -1 dinar -1 dinar -1 bours -1 bours -1 bever -1 trad -1 trad -1 -2

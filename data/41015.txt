@@ -1,0 +1,4 @@
+flight -1 flight -1 attend -1 violat -1 fly -1 journey -1 room -1 schedul -1 build -1 maid -1 bank -1 bank -1 bank -1 bank -1 agree -1 week -1 west -1 west -1 west -1 west -1 west -1 stat -1 east -1 meet -1 helicopt -1 helicopt -1 helicopt -1 helicopt -1 govern -1 wit -1 -2
+flagr -1 kiryat -1 hour -1 sefe -1 time -1 area -1 author -1 twin -1 cent -1 aircraft -1 overf -1 withheld -1 flow -1 flow -1 arriv -1 accompan -1 visit -1 ramallah -1 ramallah -1 postpon -1 russian -1 neighbor -1 permit -1 settl -1 settl -1 commun -1 session -1 day -1 hap -1 wednesday -1 prev -1 -2
+expand -1 town -1 built -1 legisl -1 passeng -1 egypt -1 whit -1 rule -1 palestin -1 palestin -1 palestin -1 palestin -1 palestin -1 israel -1 israel -1 israel -1 israel -1 israel -1 make -1 measur -1 presid -1 presid -1 jerusalem -1 yass -1 arafat -1 arafat -1 arafat -1 arafat -1 arafat -1 demol -1 jewish -1 -2
+jewish -1 sign -1 bulldoz -1 -2

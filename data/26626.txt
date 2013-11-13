@@ -1,0 +1,2 @@
+market -1 emerg -1 emerg -1 fly -1 dc -1 frankfurt -1 york -1 manag -1 gmt -1 woodward -1 injur -1 jet -1 jet -1 telephon -1 speak -1 contin -1 contin -1 airport -1 aircraft -1 safe -1 forc -1 gatwick -1 london -1 london -1 hydraul -1 problem -1 problem -1 develop -1 land -1 land -1 -2
+land -1 plan -1 caus -1 examin -1 airlin -1 airlin -1 board -1 passeng -1 determin -1 crew -1 mainten -1 make -1 offic -1 keith -1 -2

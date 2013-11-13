@@ -1,0 +1,2 @@
+soybean -1 soybean -1 early -1 refer -1 cdt -1 illinoi -1 illinoi -1 bushel -1 bushel -1 soy -1 low -1 year -1 good -1 deal -1 ill -1 report -1 yield -1 yield -1 yield -1 profess -1 overnight -1 futur -1 crop -1 crop -1 crop -1 nelson -1 open -1 drop -1 drop -1 sam -1 -2
+tone -1 bear -1 cent -1 cbot -1 cbot -1 midw -1 farm -1 tour -1 tour -1 tour -1 americ -1 result -1 optim -1 optim -1 septemb -1 weather -1 prospect -1 prospect -1 scout -1 sign -1 trad -1 trad -1 -2

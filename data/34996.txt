@@ -1,0 +1,3 @@
+diplom -1 novemb -1 netanyahu -1 econom -1 econom -1 econom -1 french -1 fly -1 peac -1 peac -1 promot -1 ross -1 spokeswom -1 middl -1 middl -1 pari -1 pari -1 pari -1 capit -1 sourc -1 meet -1 east -1 east -1 mideast -1 talk -1 talk -1 talk -1 monday -1 gold -1 den -1 -2
+flow -1 cove -1 integr -1 dore -1 embass -1 prim -1 senior -1 minist -1 osam -1 baz -1 baz -1 cair -1 plan -1 hosn -1 mubarak -1 benjamin -1 el -1 egypt -1 egypt -1 forthcom -1 process -1 process -1 israel -1 israel -1 israel -1 advis -1 advis -1 envoy -1 reviv -1 confer -1 confer -1 -2
+presid -1 region -1 offic -1 offic -1 prepar -1 -2

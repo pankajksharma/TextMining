@@ -1,0 +1,2 @@
+limit -1 early -1 early -1 market -1 market -1 market -1 recent -1 thin -1 tuesday -1 stock -1 stock -1 fair -1 low -1 rebound -1 start -1 point -1 point -1 week -1 key -1 gmt -1 percent -1 nikkei -1 nikkei -1 nikkei -1 eye -1 mix -1 mix -1 level -1 level -1 path -1 -2
+pric -1 gain -1 futur -1 futur -1 brok -1 brok -1 shar -1 vacat -1 benchmark -1 sum -1 monday -1 continu -1 toky -1 toky -1 corpor -1 septemb -1 japan -1 aver -1 aver -1 morn -1 morn -1 add -1 activ -1 peak -1 trad -1 trad -1 -2

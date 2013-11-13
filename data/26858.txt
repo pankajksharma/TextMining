@@ -1,0 +1,5 @@
+flight -1 flight -1 flight -1 flight -1 flight -1 flight -1 flight -1 flight -1 flight -1 flight -1 own -1 own -1 own -1 okecie -1 oo -1 polskie -1 receiv -1 linie -1 schedul -1 schedul -1 schedul -1 schedul -1 schedul -1 lotnicz -1 ppl -1 agent -1 tutak -1 data -1 data -1 ers -1 -2
+ers -1 complet -1 stat -1 stat -1 stat -1 percent -1 percent -1 percent -1 expect -1 balanc -1 balanc -1 treasur -1 reut -1 polish -1 polish -1 polish -1 poland -1 sp -1 enterpr -1 atr -1 b737 -1 b737 -1 b737 -1 b737 -1 b767 -1 b767 -1 b767 -1 warsaw -1 er -1 increas -1 supple -1 -2
+ryan -1 ground -1 airport -1 airport -1 provid -1 aircraft -1 import -1 numb -1 numb -1 servic -1 aerospatial -1 posit -1 note -1 ton -1 lot -1 lot -1 lot -1 lot -1 lot -1 lot -1 export -1 export -1 export -1 chart -1 chart -1 chart -1 chart -1 chart -1 includ -1 includ -1 sa -1 -2
+truck -1 truck -1 truck -1 truck -1 airlin -1 airlin -1 carg -1 carg -1 carg -1 carg -1 intern -1 total -1 total -1 total -1 boe -1 deficit -1 suppl -1 chang -1 negat -1 newsroom -1 fleet -1 budap -1 handl -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 surplus -1 pct -1 -2
+pct -1 -2

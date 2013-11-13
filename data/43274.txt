@@ -1,0 +1,4 @@
+market -1 market -1 blund -1 blund -1 clear -1 clear -1 clear -1 money -1 target -1 target -1 target -1 monet -1 bank -1 bank -1 bank -1 bank -1 bank -1 fax -1 austr -1 amsterdam -1 advanc -1 main -1 pric -1 choos -1 thursday -1 europ -1 speech -1 european -1 european -1 european -1 -2
+european -1 dutch -1 win -1 time -1 stabl -1 public -1 public -1 financ -1 made -1 told -1 cent -1 cent -1 cent -1 cent -1 cent -1 head -1 duisenberg -1 duisenberg -1 duisenberg -1 success -1 inflat -1 wim -1 move -1 fact -1 accurat -1 ecb -1 ecb -1 ecb -1 ecb -1 direct -1 alpbach -1 -2
+basi -1 credibl -1 exclud -1 simil -1 july -1 institut -1 merit -1 essent -1 goal -1 goal -1 goal -1 explain -1 explain -1 explain -1 inform -1 suppl -1 real -1 transpar -1 transpar -1 achief -1 strateg -1 strateg -1 strateg -1 strateg -1 depend -1 explan -1 polic -1 newsroom -1 confer -1 presid -1 presid -1 -2
+possibl -1 ord -1 verdict -1 prepar -1 -2

@@ -1,0 +1,3 @@
+limit -1 healthcar -1 healthcar -1 healthcar -1 french -1 french -1 target -1 target -1 union -1 month -1 monet -1 hospit -1 curb -1 pari -1 billion -1 trend -1 trend -1 decreas -1 franc -1 fund -1 report -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 govern -1 fell -1 fell -1 -2
+european -1 assur -1 end -1 nation -1 increas -1 increas -1 public -1 snam -1 caiss -1 met -1 national -1 told -1 health -1 health -1 cent -1 continu -1 continu -1 prim -1 minist -1 figur -1 spend -1 spend -1 spend -1 spend -1 spend -1 spend -1 spend -1 part -1 maladie -1 aim -1 july -1 -2
+july -1 july -1 july -1 driv -1 prev -1 jup -1 jup -1 jup -1 alain -1 june -1 deficit -1 friday -1 releas -1 newsroom -1 offic -1 keep -1 prepar -1 pct -1 -2

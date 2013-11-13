@@ -1,0 +1,3 @@
+compan -1 compan -1 motor -1 warehous -1 engag -1 clos -1 interest -1 interest -1 month -1 shr -1 nil -1 billion -1 billion -1 invest -1 invest -1 dragon -1 stat -1 percent -1 percent -1 special -1 payabl -1 gain -1 interim -1 million -1 shar -1 shar -1 end -1 dividend -1 dividend -1 dividend -1 -2
+telecommun -1 telecommun -1 hk -1 cent -1 cent -1 cent -1 propert -1 servic -1 net -1 net -1 net -1 citic -1 citic -1 citic -1 weight -1 note -1 base -1 propos -1 book -1 except -1 except -1 earn -1 turnov -1 dispos -1 airlin -1 airlin -1 item -1 hong -1 hong -1 hong -1 kong -1 -2
+kong -1 kong -1 june -1 sept -1 sept -1 aver -1 newsroom -1 operat -1 pacif -1 pacif -1 pacif -1 hold -1 distribut -1 distribut -1 trad -1 pct -1 -2

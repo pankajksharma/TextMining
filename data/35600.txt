@@ -1,0 +1,4 @@
+spoil -1 ambassador -1 ambassador -1 ambassador -1 diplom -1 convey -1 protest -1 back -1 french -1 french -1 french -1 target -1 clos -1 gas -1 countr -1 countr -1 countr -1 pari -1 rare -1 tie -1 invest -1 punish -1 franc -1 franc -1 franc -1 report -1 lead -1 law -1 law -1 law -1 -2
+challeng -1 challeng -1 oil -1 monday -1 mess -1 mess -1 mess -1 mess -1 mess -1 mess -1 foreign -1 foreign -1 foreign -1 told -1 import -1 exchang -1 call -1 quot -1 spark -1 minist -1 minist -1 washington -1 washington -1 mere -1 host -1 chirac -1 play -1 play -1 rummelhardt -1 rummelhardt -1 liby -1 -2
+liby -1 liby -1 sanct -1 sanct -1 sanct -1 gave -1 relat -1 relat -1 relat -1 includ -1 ask -1 hand -1 gaddaf -1 gaddaf -1 spokesm -1 ceremon -1 ceremon -1 credent -1 credent -1 credent -1 muammar -1 intend -1 envoy -1 partn -1 tripol -1 tripol -1 surpr -1 presid -1 terror -1 iran -1 jacqu -1 -2
+jacqu -1 hope -1 joset -1 routin -1 routin -1 dalan -1 -2

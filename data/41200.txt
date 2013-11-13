@@ -1,0 +1,4 @@
+parkway -1 parkway -1 parkway -1 parkway -1 early -1 market -1 market -1 enliv -1 quiet -1 quiet -1 tuesday -1 rumor -1 rumor -1 rumor -1 rumor -1 rumor -1 target -1 target -1 target -1 stock -1 supe -1 pharmaceut -1 hospit -1 own -1 hotel -1 start -1 point -1 firm -1 deal -1 deal -1 -2
+deal -1 coffemix -1 key -1 gmt -1 gmt -1 berjay -1 aliv -1 advanc -1 fell -1 pantai -1 gain -1 index -1 volum -1 volum -1 volum -1 million -1 million -1 million -1 million -1 thursday -1 shar -1 shar -1 shar -1 shar -1 shar -1 open -1 open -1 drop -1 shed -1 industr -1 time -1 -2
+rise -1 rise -1 singapor -1 singapor -1 singapor -1 rose -1 declin -1 bid -1 sharp -1 dull -1 jurong -1 led -1 strait -1 ana -1 surround -1 corp -1 sembawang -1 broad -1 takeov -1 takeov -1 takeov -1 takeov -1 make -1 reviv -1 activ -1 top -1 top -1 shipyard -1 hold -1 trad -1 trad -1 -2
+trad -1 cross -1 group -1 block -1 -2

@@ -1,0 +1,2 @@
+market -1 understood -1 tunis -1 sulphur -1 sulphur -1 high -1 cif -1 low -1 term -1 quant -1 deal -1 deal -1 week -1 week -1 straight -1 straight -1 report -1 parcel -1 mean -1 pric -1 sold -1 sold -1 end -1 oil -1 fuel -1 figur -1 ton -1 ton -1 lot -1 sell -1 -2
+run -1 run -1 formul -1 kt -1 carg -1 dollar -1 friday -1 due -1 nwe -1 nwe -1 coupl -1 coupl -1 activ -1 hold -1 trad -1 trad -1 trial -1 -2

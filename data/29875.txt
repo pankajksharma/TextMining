@@ -1,0 +1,2 @@
+market -1 tight -1 tight -1 cif -1 firm -1 firm -1 firm -1 assess -1 strong -1 ipe -1 ipe -1 jet -1 jet -1 futur -1 thursday -1 remain -1 remain -1 remain -1 fuel -1 quot -1 london -1 ton -1 fob -1 fob -1 liby -1 med -1 med -1 med -1 prem -1 prem -1 -2
+prem -1 carg -1 carg -1 sept -1 sept -1 avail -1 avail -1 nwe -1 nwe -1 newsroom -1 ara -1 barg -1 surg -1 trad -1 trad -1 trad -1 -2

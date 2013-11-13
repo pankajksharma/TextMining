@@ -1,0 +1,2 @@
+haned -1 itam -1 month -1 facil -1 facil -1 facil -1 year -1 yen -1 billion -1 osak -1 manag -1 million -1 million -1 million -1 million -1 mth -1 rent -1 current -1 airport -1 airport -1 airport -1 net -1 ago -1 toky -1 note -1 actual -1 septemb -1 prev -1 late -1 parent -1 -2
+parent -1 forecast -1 forecast -1 forecast -1 sale -1 -2

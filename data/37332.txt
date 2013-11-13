@@ -1,0 +1,2 @@
+mouth -1 karel -1 grain -1 market -1 market -1 quiet -1 quiet -1 cif -1 cif -1 lid -1 deal -1 today -1 report -1 report -1 luim -1 easy -1 busi -1 brok -1 futur -1 rotterdam -1 rotterdam -1 european -1 european -1 open -1 remain -1 remain -1 chicag -1 feed -1 feed -1 arriv -1 -2
+arriv -1 pellet -1 pellet -1 visit -1 nearb -1 soymeal -1 soymeal -1 posit -1 argentin -1 argentin -1 ton -1 ton -1 sunmeal -1 hamburg -1 hand -1 hand -1 hand -1 bours -1 faith -1 chang -1 sept -1 meal -1 afternoon -1 afternoon -1 activ -1 operat -1 absent -1 trad -1 trad -1 trad -1 -2

@@ -1,0 +1,4 @@
+market -1 market -1 tuesday -1 stock -1 stock -1 clos -1 broker -1 high -1 high -1 high -1 low -1 low -1 low -1 year -1 year -1 year -1 touch -1 touch -1 term -1 come -1 point -1 drag -1 good -1 firm -1 firm -1 repeat -1 week -1 capit -1 fund -1 percent -1 -2
+anal -1 local -1 squar -1 pric -1 index -1 volum -1 volum -1 peregrin -1 provis -1 million -1 shar -1 shar -1 shar -1 open -1 end -1 nation -1 monday -1 remain -1 current -1 short -1 buy -1 finish -1 weak -1 rose -1 exchang -1 exchang -1 bombay -1 bombay -1 bombay -1 cement -1 growth -1 -2
+bse -1 bse -1 london -1 bid -1 net -1 gujarat -1 ambuj -1 half -1 posit -1 dull -1 nse -1 day -1 result -1 rupee -1 wednesday -1 wednesday -1 account -1 vuln -1 hong -1 kong -1 major -1 prompt -1 holiday -1 holiday -1 holiday -1 aggress -1 absent -1 drift -1 sidelin -1 trad -1 trad -1 -2
+trad -1 trad -1 trad -1 -2

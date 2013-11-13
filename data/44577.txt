@@ -1,0 +1,5 @@
+devast -1 early -1 fat -1 grain -1 unicef -1 struck -1 struck -1 carry -1 saturday -1 send -1 seoul -1 seoul -1 seoul -1 month -1 countr -1 torrent -1 year -1 rain -1 nutr -1 agree -1 north -1 north -1 north -1 north -1 north -1 war -1 good -1 brink -1 food -1 food -1 -2
+unit -1 larg -1 red -1 fund -1 ship -1 ship -1 report -1 flour -1 expect -1 govern -1 stalin -1 world -1 aid -1 million -1 million -1 million -1 million -1 million -1 crop -1 conflict -1 support -1 end -1 kore -1 nation -1 nation -1 techn -1 sum -1 sum -1 supple -1 short -1 buy -1 -2
+flood -1 flood -1 sock -1 inchon -1 namp -1 provid -1 western -1 effort -1 noodl -1 minist -1 arriv -1 armistic -1 korean -1 korean -1 korean -1 appeal -1 inst -1 part -1 part -1 part -1 program -1 program -1 south -1 south -1 blanket -1 ton -1 pledg -1 gave -1 relat -1 includ -1 relief -1 -2
+relief -1 relief -1 child -1 child -1 child -1 malnutr -1 effect -1 carg -1 spokesm -1 worth -1 worth -1 destroy -1 friday -1 port -1 port -1 famin -1 powd -1 powd -1 powd -1 powd -1 milk -1 milk -1 milk -1 milk -1 add -1 vessel -1 korea -1 korea -1 korea -1 korea -1 unific -1 -2
+left -1 eas -1 eas -1 cross -1 -2

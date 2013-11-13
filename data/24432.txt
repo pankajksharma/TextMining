@@ -1,0 +1,3 @@
+market -1 sect -1 record -1 rate -1 march -1 march -1 year -1 year -1 term -1 yr -1 trend -1 trend -1 decemb -1 decemb -1 quart -1 quart -1 quart -1 quart -1 quart -1 quart -1 salar -1 salar -1 produc -1 produc -1 produc -1 percent -1 percent -1 percent -1 percent -1 percent -1 -2
+percent -1 percent -1 percent -1 percent -1 strong -1 statist -1 bureau -1 rose -1 rose -1 austral -1 austral -1 austral -1 farm -1 farm -1 growth -1 growth -1 growth -1 growth -1 canber -1 abs -1 earn -1 compar -1 wag -1 wag -1 wag -1 labor -1 labor -1 septemb -1 june -1 june -1 june -1 -2
+june -1 june -1 suppl -1 aver -1 moderat -1 newsroom -1 measur -1 measur -1 pct -1 -2

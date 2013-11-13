@@ -1,0 +1,3 @@
+hous -1 retail -1 econom -1 econom -1 econom -1 econom -1 tuesday -1 perform -1 perform -1 perform -1 bank -1 bank -1 bank -1 nab -1 manag -1 good -1 good -1 unit -1 unit -1 produc -1 michig -1 michig -1 michig -1 percent -1 moment -1 luncheon -1 luncheon -1 quest -1 environ -1 environ -1 -2
+nation -1 nation -1 nation -1 ve -1 ceda -1 rtr -1 commit -1 told -1 margin -1 margin -1 austral -1 austral -1 direct -1 argus -1 argus -1 argus -1 beaut -1 develop -1 except -1 except -1 except -1 run -1 corp -1 answ -1 exceed -1 exceed -1 hong -1 hong -1 kong -1 kong -1 don -1 -2
+franchis -1 operat -1 -2

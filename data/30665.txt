@@ -1,0 +1,2 @@
+market -1 martin -1 econom -1 rate -1 rate -1 rate -1 rate -1 rate -1 bp -1 bpi -1 room -1 room -1 bank -1 bank -1 point -1 point -1 santo -1 portug -1 portug -1 portug -1 de -1 larg -1 germ -1 percent -1 anal -1 anal -1 expect -1 investiment -1 banc -1 reut -1 -2
+dos -1 thursday -1 portugu -1 portugu -1 financ -1 cut -1 cut -1 cut -1 cut -1 cut -1 cut -1 chief -1 poll -1 basi -1 rui -1 friday -1 friday -1 bundesbank -1 repo -1 repo -1 repo -1 repo -1 repo -1 add -1 forecast -1 surpr -1 -2

@@ -1,0 +1,4 @@
+stay -1 market -1 market -1 market -1 small -1 slip -1 stock -1 stock -1 clos -1 clos -1 high -1 high -1 progress -1 low -1 merg -1 baltic -1 bank -1 bank -1 bank -1 bank -1 stand -1 turn -1 deal -1 deal -1 free -1 free -1 slight -1 slight -1 stat -1 percent -1 -2
+subdu -1 eye -1 level -1 pric -1 busi -1 index -1 volum -1 million -1 million -1 million -1 million -1 million -1 thursday -1 shar -1 shar -1 shar -1 riga -1 versus -1 versus -1 industr -1 tallin -1 remain -1 eston -1 eston -1 made -1 provid -1 exchang -1 hansabank -1 hansabank -1 horizon -1 new -1 -2
+dip -1 save -1 save -1 corpor -1 turnov -1 turnov -1 compar -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 kroon -1 forexbank -1 forexbank -1 plast -1 newsroom -1 activ -1 activ -1 activ -1 yesterday -1 norm -1 impetus -1 -2
+trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 keep -1 -2

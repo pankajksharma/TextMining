@@ -1,0 +1,3 @@
+swinglin -1 backstop -1 market -1 lpc -1 lpc -1 credit -1 credit -1 carry -1 stg -1 stg -1 stg -1 interest -1 facil -1 facil -1 liquid -1 year -1 woolwich -1 woolwich -1 woolwich -1 woolwich -1 build -1 build -1 morg -1 morg -1 borrow -1 deal -1 seek -1 jp -1 loan -1 sourc -1 -2
+bps -1 bps -1 bps -1 bps -1 advanc -1 societ -1 societ -1 pric -1 million -1 million -1 million -1 arrang -1 bear -1 financ -1 commit -1 commit -1 provid -1 libor -1 libor -1 london -1 led -1 aug -1 revolut -1 day -1 includ -1 mandat -1 dollar -1 westlb -1 newsroom -1 add -1 fee -1 -2
+fee -1 group -1 option -1 mln -1 -2

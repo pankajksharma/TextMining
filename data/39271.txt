@@ -1,0 +1,2 @@
+limit -1 limit -1 interest -1 interest -1 month -1 presum -1 term -1 fresh -1 quant -1 york -1 york -1 view -1 maintain -1 mill -1 mill -1 sourc -1 ship -1 meet -1 requir -1 outlook -1 advanc -1 raw -1 raw -1 raw -1 hemispher -1 pric -1 pric -1 futur -1 crop -1 european -1 -2
+european -1 gather -1 industr -1 momentum -1 short -1 buy -1 buy -1 buy -1 harvest -1 weak -1 purchas -1 london -1 upturn -1 signif -1 sharp -1 northern -1 examin -1 cotton -1 cotton -1 cotton -1 cotton -1 prompt -1 late -1 newsroom -1 add -1 thought -1 -2

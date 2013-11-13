@@ -1,0 +1,3 @@
+compan -1 life -1 life -1 breakdown -1 high -1 high -1 achmea -1 achmea -1 achmea -1 constrib -1 wasa -1 topdanmark -1 year -1 full -1 bank -1 portug -1 invest -1 fax -1 list -1 unlist -1 stat -1 britain -1 amsterdam -1 expect -1 contribut -1 million -1 european -1 dutch -1 guild -1 swed -1 -2
+danish -1 provid -1 health -1 nv -1 friend -1 insur -1 net -1 pre -1 half -1 half -1 note -1 incom -1 incom -1 incom -1 incom -1 h1 -1 profit -1 profit -1 profit -1 profit -1 post -1 post -1 prem -1 prem -1 bours -1 expend -1 ventur -1 total -1 total -1 bcp -1 incl -1 -2
+newsroom -1 partn -1 eurek -1 eurek -1 hold -1 fee -1 tax -1 tax -1 group -1 group -1 pct -1 -2

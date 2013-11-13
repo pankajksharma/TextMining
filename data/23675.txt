@@ -1,0 +1,4 @@
+stay -1 market -1 market -1 econom -1 econom -1 clos -1 clos -1 clos -1 clos -1 clos -1 record -1 interest -1 rate -1 rate -1 rate -1 yen -1 bank -1 lo -1 lo -1 lo -1 billion -1 billion -1 toront -1 invest -1 lydia -1 zajc -1 unit -1 unit -1 cibc -1 reid -1 -2
+farrill -1 farrill -1 week -1 today -1 slight -1 meet -1 special -1 expect -1 overnight -1 overnight -1 eye -1 canad -1 canad -1 canad -1 canad -1 canad -1 canad -1 canad -1 canad -1 fell -1 reut -1 soft -1 soft -1 flat -1 adjust -1 europ -1 support -1 open -1 open -1 open -1 end -1 -2
+monday -1 monday -1 statist -1 feder -1 bureau -1 narrow -1 foreign -1 weak -1 commit -1 exchang -1 cut -1 cut -1 numb -1 new -1 rang -1 rang -1 pattern -1 revis -1 basic -1 session -1 hike -1 resist -1 asian -1 prev -1 comment -1 dollar -1 dollar -1 dollar -1 june -1 spur -1 see -1 -2
+forecast -1 forecast -1 activ -1 mark -1 hold -1 trad -1 trad -1 trad -1 eas -1 cross -1 surplus -1 -2

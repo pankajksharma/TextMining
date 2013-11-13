@@ -1,0 +1,3 @@
+tuesday -1 french -1 french -1 la -1 ffr -1 figar -1 year -1 year -1 year -1 conserv -1 pari -1 newspap -1 shortfal -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 unoffic -1 amount -1 franc -1 franc -1 franc -1 franc -1 franc -1 report -1 report -1 -2
+meet -1 govern -1 govern -1 time -1 social -1 social -1 social -1 press -1 daily -1 daily -1 financ -1 commit -1 commit -1 health -1 care -1 tribun -1 desfoss -1 le -1 predict -1 predict -1 predict -1 bln -1 overshoot -1 pape -1 welfar -1 welfar -1 welfar -1 welfar -1 welfar -1 includ -1 septemb -1 -2
+account -1 exceed -1 secur -1 secur -1 secur -1 june -1 deficit -1 deficit -1 deficit -1 deficit -1 deficit -1 deficit -1 newsroom -1 forecast -1 forecast -1 origin -1 surplus -1 -2

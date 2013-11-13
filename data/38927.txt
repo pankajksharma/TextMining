@@ -1,0 +1,2 @@
+study -1 study -1 draw -1 rival -1 clos -1 room -1 team -1 data -1 firm -1 unit -1 deal -1 sourc -1 sourc -1 produc -1 name -1 alsthom -1 end -1 end -1 win -1 thomson -1 thomson -1 thomson -1 thomson -1 buy -1 off -1 made -1 lagarder -1 lagarder -1 lagarder -1 lagarder -1 -2
+declin -1 alcatel -1 alcatel -1 bid -1 bid -1 bid -1 bid -1 consum -1 sa -1 wednesday -1 septemb -1 multimed -1 daewoo -1 daewoo -1 sept -1 due -1 separat -1 dilig -1 set -1 make -1 make -1 execut -1 electron -1 electron -1 docu -1 group -1 group -1 -2

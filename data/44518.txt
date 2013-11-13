@@ -1,0 +1,1 @@
+market -1 market -1 stock -1 clos -1 clos -1 hudson -1 bank -1 open -1 nation -1 monday -1 lima -1 lima -1 financ -1 financ -1 exchang -1 peru -1 peru -1 day -1 saul -1 friday -1 friday -1 due -1 holiday -1 holiday -1 newsroom -1 -2

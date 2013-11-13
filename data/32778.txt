@@ -1,0 +1,4 @@
+elect -1 hous -1 tuesday -1 tuesday -1 year -1 year -1 year -1 conserv -1 billion -1 billion -1 billion -1 billion -1 billion -1 seat -1 annual -1 annual -1 wait -1 debt -1 costel -1 costel -1 costel -1 costel -1 costel -1 stat -1 stat -1 approv -1 minor -1 govern -1 govern -1 govern -1 -2
+govern -1 govern -1 impl -1 impl -1 impl -1 impl -1 upp -1 treasur -1 intent -1 support -1 party -1 increas -1 univers -1 bureau -1 rtr -1 grow -1 warn -1 austral -1 cut -1 cut -1 cut -1 canber -1 spend -1 parlia -1 parlia -1 repay -1 half -1 bln -1 senat -1 senat -1 ll -1 -2
+put -1 part -1 underl -1 underl -1 program -1 program -1 save -1 exclud -1 plan -1 express -1 charg -1 includ -1 ask -1 labor -1 concern -1 asset -1 budget -1 budget -1 budget -1 budget -1 budget -1 budget -1 student -1 subject -1 june -1 deficit -1 friday -1 major -1 oppos -1 releas -1 measur -1 -2
+measur -1 pete -1 sale -1 block -1 chamb -1 -2

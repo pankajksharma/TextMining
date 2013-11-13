@@ -1,0 +1,2 @@
+sect -1 sect -1 fulltim -1 full -1 full -1 trend -1 fall -1 employ -1 employ -1 employ -1 quart -1 quart -1 quart -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 strong -1 textil -1 fell -1 fell -1 q2 -1 show -1 show -1 million -1 drop -1 drop -1 industr -1 -2
+industr -1 industr -1 industr -1 swiss -1 swiss -1 swiss -1 time -1 time -1 time -1 statist -1 statist -1 feder -1 stabl -1 rose -1 declin -1 declin -1 servic -1 sharp -1 job -1 job -1 job -1 part -1 compar -1 chemic -1 zurich -1 editor -1 electron -1 offic -1 offic -1 commerc -1 pct -1 -2

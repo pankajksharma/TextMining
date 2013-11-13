@@ -1,0 +1,2 @@
+market -1 refer -1 merrill -1 merrill -1 ag -1 exercis -1 sep -1 sep -1 page -1 mar -1 war -1 war -1 war -1 spot -1 list -1 capit -1 issu -1 issu -1 reut -1 reut -1 pric -1 pric -1 pric -1 million -1 shar -1 min -1 control -1 swiss -1 exchang -1 call -1 -2
+quot -1 london -1 strik -1 alusuiss -1 alusuiss -1 lonz -1 lonz -1 mlz -1 period -1 note -1 gear -1 americ -1 lot -1 sfr -1 sfr -1 sfr -1 paydat -1 exer -1 prem -1 total -1 lynch -1 lynch -1 styl -1 set -1 newsroom -1 hold -1 pct -1 -2

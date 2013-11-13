@@ -1,0 +1,4 @@
+payment -1 gener -1 stock -1 interest -1 catalog -1 jul -1 jul -1 jul -1 wgtd -1 data -1 shr -1 botanik -1 prefer -1 invest -1 invest -1 common -1 week -1 week -1 quart -1 gross -1 stat -1 convers -1 requir -1 condens -1 cash -1 cash -1 cash -1 cash -1 cash -1 cash -1 -2
+cash -1 avg -1 q2 -1 payabl -1 administ -1 oper -1 shar -1 shar -1 shar -1 shar -1 shar -1 liabl -1 preop -1 end -1 end -1 end -1 give -1 increas -1 equival -1 financ -1 financ -1 provid -1 flow -1 margin -1 loss -1 loss -1 loss -1 loss -1 loss -1 loss -1 propert -1 -2
+net -1 net -1 net -1 net -1 net -1 net -1 net -1 net -1 net -1 net -1 net -1 thousand -1 thousand -1 note -1 note -1 cost -1 widen -1 incom -1 aug -1 aug -1 aug -1 gard -1 asset -1 effect -1 equip -1 dollar -1 expend -1 expend -1 expend -1 stor -1 add -1 -2
+activ -1 activ -1 activ -1 activ -1 activ -1 activ -1 operat -1 operat -1 operat -1 sale -1 sale -1 sale -1 -2

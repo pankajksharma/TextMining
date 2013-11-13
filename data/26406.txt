@@ -1,0 +1,2 @@
+compan -1 remov -1 remov -1 medic -1 medic -1 drug -1 skin -1 select -1 system -1 system -1 system -1 food -1 file -1 unit -1 complet -1 complet -1 stat -1 epilight -1 epilight -1 ellimin -1 esc -1 esc -1 esc -1 follicl -1 administ -1 techn -1 damag -1 hair -1 hair -1 hair -1 -2
+propriet -1 permit -1 wednesday -1 clinic -1 commerc -1 trial -1 trial -1 -2

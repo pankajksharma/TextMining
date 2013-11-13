@@ -1,0 +1,2 @@
+stak -1 tru -1 retail -1 rumor -1 target -1 high -1 high -1 own -1 touch -1 year -1 year -1 deal -1 deal -1 capit -1 gmt -1 percent -1 percent -1 jump -1 pric -1 pric -1 gain -1 brok -1 million -1 shar -1 shar -1 push -1 talk -1 attract -1 grow -1 met -1 -2
+met -1 met -1 met -1 met -1 punt -1 net -1 slid -1 specul -1 specul -1 estimat -1 turnov -1 corp -1 asset -1 friday -1 intraday -1 hit -1 takeov -1 takeov -1 takeov -1 hold -1 hold -1 trad -1 -2

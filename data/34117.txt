@@ -1,0 +1,4 @@
+compan -1 compan -1 acquir -1 acquir -1 liber -1 stock -1 sharehold -1 interest -1 interest -1 interest -1 own -1 merg -1 merg -1 receiv -1 reunif -1 agree -1 agree -1 retain -1 common -1 common -1 common -1 equit -1 complet -1 stat -1 approv -1 approv -1 percent -1 percent -1 percent -1 decid -1 -2
+home -1 home -1 home -1 home -1 home -1 home -1 home -1 home -1 home -1 class -1 class -1 class -1 shar -1 shar -1 shar -1 shar -1 shar -1 aggreg -1 control -1 monday -1 avoid -1 superced -1 media -1 media -1 media -1 media -1 media -1 exchang -1 exchang -1 network -1 call -1 -2
+purchas -1 king -1 king -1 king -1 king -1 king -1 king -1 king -1 shop -1 shop -1 shop -1 shop -1 shop -1 shop -1 shop -1 shop -1 shop -1 propos -1 propos -1 exclud -1 vote -1 vote -1 commun -1 corp -1 libert -1 libert -1 libert -1 libert -1 includ -1 prem -1 prev -1 -2
+silf -1 silf -1 silf -1 silf -1 silf -1 silf -1 silf -1 held -1 subject -1 major -1 sole -1 hold -1 hold -1 split -1 -2

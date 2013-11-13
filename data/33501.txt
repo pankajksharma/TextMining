@@ -1,0 +1,4 @@
+market -1 market -1 market -1 sunday -1 year -1 year -1 year -1 build -1 newspap -1 newspap -1 newspap -1 billion -1 billion -1 billion -1 manag -1 unit -1 week -1 key -1 capit -1 issu -1 issu -1 issu -1 issu -1 issu -1 issu -1 issu -1 issu -1 debt -1 debt -1 debt -1 -2
+debt -1 stat -1 sovereign -1 sovereign -1 prop -1 busi -1 million -1 gao -1 gao -1 gao -1 europ -1 overse -1 overse -1 end -1 jian -1 benchmark -1 give -1 give -1 chin -1 chin -1 chin -1 chin -1 chin -1 chin -1 time -1 rais -1 stood -1 off -1 singapor -1 foreign -1 financ -1 -2
+provid -1 focus -1 frequ -1 frequ -1 austral -1 offer -1 quot -1 minist -1 minist -1 minist -1 depart -1 posit -1 part -1 direct -1 detail -1 detail -1 institut -1 plan -1 driv -1 hong -1 hong -1 hong -1 kong -1 kong -1 kong -1 dollar -1 japan -1 bond -1 bond -1 bond -1 bond -1 -2
+bond -1 glob -1 glob -1 meant -1 make -1 make -1 add -1 yankee -1 signific -1 -2

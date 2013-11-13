@@ -1,0 +1,2 @@
+tuesday -1 clos -1 clos -1 gas -1 high -1 high -1 sea -1 sea -1 spets -1 wait -1 suspend -1 sourc -1 ship -1 ship -1 local -1 swell -1 lead -1 novorossiisk -1 novorossiisk -1 tank -1 crud -1 reliabl -1 oil -1 oil -1 oil -1 oil -1 remain -1 termin -1 termin -1 time -1 -2
+fuel -1 london -1 anchor -1 russian -1 ural -1 shut -1 shut -1 bpd -1 lift -1 load -1 ton -1 ton -1 ton -1 export -1 day -1 black -1 black -1 wednesday -1 carg -1 carg -1 carg -1 barrel -1 port -1 port -1 late -1 morn -1 wind -1 wind -1 newsroom -1 -2

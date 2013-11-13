@@ -1,0 +1,2 @@
+soybean -1 soybean -1 usda -1 grain -1 clear -1 newsdesk -1 bushel -1 hrw -1 hrw -1 year -1 week -1 week -1 week -1 week -1 end -1 chicag -1 august -1 corn -1 corn -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 wheat -1 destin -1 destin -1 destin -1 ago -1 ago -1 -2
+pakist -1 south -1 export -1 taiw -1 philippin -1 malays -1 sri -1 lank -1 nw -1 total -1 japan -1 thailand -1 whit -1 whit -1 vessel -1 pacif -1 korea -1 yemen -1 hrs -1 hrs -1 -2

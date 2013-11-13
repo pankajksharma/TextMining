@@ -1,0 +1,2 @@
+early -1 imm -1 imm -1 clos -1 finsih -1 high -1 high -1 high -1 revers -1 nerv -1 currenc -1 currenc -1 yen -1 yen -1 yen -1 data -1 bank -1 line -1 week -1 bought -1 reut -1 futur -1 strength -1 end -1 swiss -1 finish -1 weak -1 head -1 heavy -1 play -1 -2
+mail -1 aug -1 septemb -1 derivat -1 derivat -1 japan -1 sept -1 moderat -1 moderat -1 desk -1 mark -1 drift -1 trad -1 trad -1 trad -1 trad -1 -2

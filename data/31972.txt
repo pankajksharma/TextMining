@@ -1,0 +1,2 @@
+grain -1 credit -1 hard -1 armen -1 armen -1 hrw -1 deal -1 wint -1 red -1 pric -1 deliv -1 commod -1 buy -1 ccc -1 ccc -1 contin -1 wheat -1 wheat -1 purchas -1 agricultur -1 depart -1 period -1 part -1 program -1 ton -1 ton -1 ton -1 export -1 dori -1 corp -1 -2
+frankel -1 septemb -1 donat -1 -2

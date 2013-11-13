@@ -1,0 +1,4 @@
+columb -1 instruc -1 sery -1 catch -1 record -1 sunday -1 game -1 game -1 game -1 hospit -1 hospit -1 hospit -1 begin -1 year -1 bench -1 club -1 manag -1 manag -1 manag -1 manag -1 manag -1 road -1 complet -1 west -1 veter -1 minor -1 injur -1 expect -1 name -1 home -1 -2
+world -1 blood -1 blood -1 boston -1 boston -1 interim -1 interim -1 interim -1 marcel -1 insid -1 dieg -1 monday -1 remain -1 leagu -1 leagu -1 leagu -1 time -1 august -1 return -1 san -1 continu -1 trip -1 step -1 lifetim -1 organ -1 americ -1 admit -1 run -1 day -1 watch -1 wednesday -1 -2
+cincinnat -1 plac -1 john -1 calf -1 friday -1 major -1 baltimor -1 cleveland -1 angel -1 angel -1 angel -1 angel -1 angel -1 mcnamar -1 mcnamar -1 mcnamar -1 mcnamar -1 mcnamar -1 mcnamar -1 mcnamar -1 mcnamar -1 oakland -1 clot -1 clot -1 season -1 season -1 presbyter -1 clubhous -1 maddon -1 homestand -1 lacheman -1 -2
+manager -1 joe -1 basebal -1 absent -1 californ -1 californ -1 californ -1 coach -1 -2

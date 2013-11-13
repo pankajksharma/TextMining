@@ -1,0 +1,4 @@
+early -1 early -1 early -1 market -1 sect -1 clips -1 econom -1 eltek -1 back -1 back -1 thin -1 rumor -1 interest -1 month -1 point -1 form -1 output -1 output -1 causeway -1 fall -1 fall -1 line -1 poor -1 invest -1 firm -1 deal -1 key -1 key -1 sympath -1 gmt -1 -2
+percent -1 percent -1 percent -1 lead -1 advanc -1 fell -1 fell -1 slowdown -1 gain -1 index -1 index -1 volum -1 million -1 million -1 million -1 million -1 shar -1 shar -1 shar -1 shar -1 open -1 push -1 pull -1 wobbl -1 wobbl -1 drop -1 industr -1 industr -1 industr -1 time -1 rise -1 -2
+singapor -1 singapor -1 singapor -1 grow -1 bounc -1 comput -1 declin -1 net -1 heavy -1 half -1 elec -1 develop -1 strait -1 attribut -1 compar -1 profit -1 result -1 wednesday -1 expand -1 board -1 intern -1 june -1 aver -1 takeov -1 ipc -1 ipc -1 ipc -1 activ -1 electron -1 electron -1 trad -1 -2
+trad -1 trad -1 -2

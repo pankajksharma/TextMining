@@ -1,0 +1,3 @@
+compan -1 interest -1 interest -1 interest -1 rate -1 rate -1 rate -1 rate -1 rate -1 low -1 low -1 low -1 year -1 bank -1 bank -1 bank -1 bank -1 point -1 line -1 borrow -1 peso -1 peso -1 peso -1 peso -1 peso -1 peso -1 bought -1 percent -1 percent -1 requir -1 -2
+expect -1 overnight -1 overnight -1 fell -1 lend -1 belief -1 volum -1 million -1 million -1 million -1 pull -1 oil -1 attract -1 finish -1 foreign -1 weak -1 made -1 cent -1 cent -1 cut -1 cut -1 cut -1 inflat -1 move -1 move -1 half -1 philippin -1 day -1 day -1 wednesday -1 dollar -1 -2
+dollar -1 dollar -1 wrong -1 aver -1 intend -1 make -1 hold -1 trad -1 trad -1 trad -1 influ -1 -2

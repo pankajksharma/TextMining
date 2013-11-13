@@ -1,0 +1,2 @@
+market -1 market -1 small -1 sect -1 slip -1 rate -1 rate -1 rate -1 liquid -1 liquid -1 ahead -1 privat -1 bank -1 week -1 week -1 week -1 issu -1 percent -1 percent -1 percent -1 treasur -1 treasur -1 bill -1 overnight -1 overnight -1 fell -1 volum -1 thursday -1 weekend -1 narrow -1 -2
+made -1 cair -1 pound -1 pound -1 pound -1 wednesday -1 egypt -1 egypt -1 newsroom -1 interbank -1 -2

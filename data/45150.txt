@@ -1,0 +1,4 @@
+study -1 congress -1 money -1 bag -1 bag -1 bag -1 bag -1 bag -1 bag -1 bag -1 bag -1 rate -1 month -1 safet -1 safet -1 agent -1 undermin -1 newspap -1 nil -1 today -1 today -1 report -1 report -1 report -1 report -1 commonwealth -1 commonwealth -1 percent -1 profess -1 injur -1 -2
+injur -1 injur -1 injur -1 injur -1 injur -1 injur -1 injur -1 leth -1 bill -1 pair -1 administ -1 contribut -1 show -1 nation -1 increas -1 univers -1 author -1 damag -1 spiral -1 highway -1 car -1 car -1 traff -1 wash -1 told -1 crash -1 research -1 research -1 cut -1 propert -1 forc -1 -2
+collid -1 net -1 fatal -1 insur -1 insur -1 insur -1 georg -1 front -1 speed -1 chief -1 claim -1 claim -1 save -1 hoeh -1 hoff -1 kph -1 break -1 virgin -1 virgin -1 impact -1 impact -1 reduc -1 effect -1 effect -1 deploy -1 equip -1 air -1 air -1 air -1 air -1 air -1 -2
+air -1 air -1 friday -1 mph -1 arm -1 arm -1 usa -1 usa -1 -2

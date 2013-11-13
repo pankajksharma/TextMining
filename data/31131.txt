@@ -1,0 +1,2 @@
+life -1 life -1 life -1 fin -1 high -1 high -1 high -1 live -1 invest -1 cattl -1 food -1 week -1 oy -1 domest -1 gmt -1 percent -1 helsink -1 raisio -1 raisio -1 raisio -1 raision -1 tehtaat -1 markk -1 markk -1 markk -1 markk -1 markk -1 volum -1 brok -1 brok -1 -2
+million -1 shar -1 overse -1 buy -1 fuel -1 feed -1 dairy -1 cost -1 save -1 announc -1 chemic -1 invent -1 invent -1 friday -1 hit -1 hit -1 hit -1 newsroom -1 activ -1 trad -1 trad -1 group -1 -2

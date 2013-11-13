@@ -1,0 +1,3 @@
+contrast -1 life -1 life -1 life -1 life -1 life -1 ag -1 ag -1 high -1 high -1 fax -1 unit -1 stat -1 jump -1 jump -1 busi -1 busi -1 sold -1 thursday -1 brussel -1 dutch -1 increas -1 belgian -1 belgian -1 belgian -1 coupon -1 health -1 fort -1 fort -1 aslk -1 -2
+aslk -1 aslk -1 aslk -1 insur -1 insur -1 insur -1 insur -1 insur -1 insur -1 insur -1 insur -1 insur -1 cger -1 cger -1 cger -1 cger -1 bankassur -1 half -1 save -1 incom -1 h1 -1 earn -1 earn -1 result -1 result -1 result -1 prem -1 element -1 achief -1 few -1 newsroom -1 -2
+sale -1 belg -1 subst -1 group -1 accid -1 -2

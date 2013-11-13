@@ -1,0 +1,4 @@
+payment -1 limit -1 correct -1 correct -1 correct -1 interest -1 month -1 year -1 year -1 year -1 year -1 year -1 year -1 full -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 billion -1 system -1 portug -1 expenditur -1 expenditur -1 capit -1 capit -1 gross -1 -2
+domest -1 method -1 produc -1 gmt -1 stat -1 percent -1 percent -1 percent -1 percent -1 balanc -1 govern -1 fell -1 fell -1 fell -1 escudo -1 escudo -1 escudo -1 escudo -1 escudo -1 escudo -1 jan -1 reut -1 janu -1 narrow -1 social -1 rise -1 current -1 current -1 financ -1 financ -1 financ -1 -2
+rose -1 rose -1 prim -1 minist -1 minist -1 gdp -1 spend -1 net -1 sharp -1 period -1 period -1 period -1 incom -1 exclud -1 july -1 july -1 plan -1 compar -1 account -1 foreseen -1 budget -1 budget -1 budget -1 budget -1 secur -1 deficit -1 deficit -1 deficit -1 deficit -1 deficit -1 deficit -1 -2
+forecast -1 reflect -1 pct -1 -2

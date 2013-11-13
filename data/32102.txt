@@ -1,0 +1,4 @@
+trawl -1 trawl -1 trawl -1 fire -1 fire -1 minat -1 novemb -1 stop -1 heard -1 illeg -1 illeg -1 skip -1 gas -1 tuna -1 kill -1 kill -1 start -1 line -1 galway -1 galway -1 peopl -1 west -1 report -1 stat -1 atlant -1 injur -1 injur -1 confirm -1 protect -1 wat -1 -2
+wat -1 broadcast -1 long -1 insid -1 insid -1 appar -1 ireland -1 ireland -1 ireland -1 die -1 pow -1 blaz -1 box -1 head -1 western -1 fish -1 fish -1 fish -1 fish -1 court -1 strick -1 suspic -1 territor -1 territor -1 mile -1 escort -1 escort -1 detain -1 tackl -1 rte -1 maru -1 -2
+charg -1 explos -1 town -1 cork -1 men -1 memb -1 memb -1 crew -1 crew -1 order -1 shadow -1 irish -1 irish -1 irish -1 irish -1 friday -1 friday -1 japan -1 japan -1 found -1 port -1 port -1 port -1 port -1 bandon -1 castletownbear -1 vessel -1 vessel -1 vessel -1 vessel -1 region -1 -2
+southern -1 southern -1 offic -1 offic -1 offic -1 vessesl -1 -2

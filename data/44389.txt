@@ -1,0 +1,5 @@
+cumulat -1 febru -1 market -1 market -1 market -1 struck -1 stock -1 stock -1 stock -1 stock -1 stock -1 stock -1 clos -1 high -1 high -1 high -1 interest -1 rate -1 month -1 low -1 low -1 low -1 low -1 begin -1 currenc -1 fresh -1 point -1 fall -1 invest -1 invest -1 -2
+invest -1 invest -1 invest -1 deal -1 annual -1 week -1 week -1 week -1 week -1 week -1 issu -1 domest -1 yield -1 yield -1 percent -1 percent -1 deem -1 moment -1 treasur -1 treasur -1 treasur -1 bill -1 eye -1 fell -1 reut -1 main -1 index -1 brok -1 brok -1 brok -1 million -1 -2
+million -1 thursday -1 shar -1 stagnat -1 pts -1 sum -1 stead -1 time -1 time -1 current -1 august -1 august -1 august -1 attract -1 sofia -1 row -1 daily -1 coupon -1 foreign -1 exchang -1 exchang -1 exchang -1 alik -1 declin -1 bse -1 sse -1 sse -1 bulgar -1 bulgar -1 recess -1 calcul -1 -2
+pape -1 pape -1 rang -1 basi -1 lev -1 lev -1 lev -1 bulg -1 bulg -1 aug -1 corpor -1 corpor -1 turnov -1 rabs -1 rabs -1 rabs -1 septemb -1 histor -1 dollar -1 dollar -1 friday -1 friday -1 chang -1 illiquid -1 repo -1 repo -1 unchang -1 operat -1 fourth -1 shy -1 interbank -1 -2
+trad -1 trad -1 pct -1 -2

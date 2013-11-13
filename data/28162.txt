@@ -1,0 +1,2 @@
+market -1 tight -1 tempor -1 money -1 manil -1 manil -1 rate -1 rate -1 rate -1 rate -1 liquid -1 liquid -1 bank -1 bank -1 bank -1 system -1 deal -1 deal -1 peso -1 week -1 week -1 loan -1 percent -1 percent -1 local -1 overnight -1 overnight -1 soft -1 soft -1 phibor -1 -2
+phibor -1 phibor -1 edg -1 stead -1 rise -1 rose -1 cent -1 cut -1 call -1 offer -1 problem -1 philippin -1 wednesday -1 wednesday -1 due -1 interbank -1 interbank -1 -2

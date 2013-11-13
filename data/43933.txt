@@ -1,0 +1,1 @@
+nasdaq -1 nasdaq -1 valujet -1 mfs -1 clos -1 cisc -1 system -1 intel -1 issu -1 dell -1 banc -1 world -1 volum -1 comput -1 aug -1 boatm -1 corp -1 corp -1 merisel -1 friday -1 activ -1 activ -1 novel -1 com -1 com -1 oracl -1 trad -1 -2

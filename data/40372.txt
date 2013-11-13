@@ -1,0 +1,3 @@
+metal -1 econom -1 econom -1 intermed -1 month -1 month -1 month -1 month -1 month -1 month -1 year -1 year -1 year -1 year -1 receiv -1 agent -1 fall -1 good -1 good -1 good -1 fax -1 unit -1 indicat -1 client -1 newsprint -1 issu -1 produc -1 produc -1 produc -1 produc -1 -2
+percent -1 canad -1 canad -1 canad -1 reut -1 reut -1 pric -1 pric -1 pric -1 pric -1 pric -1 index -1 index -1 index -1 index -1 index -1 leav -1 industr -1 industr -1 industr -1 increas -1 statist -1 statist -1 bureau -1 rise -1 finish -1 ottaw -1 declin -1 servic -1 fact -1 part -1 -2
+base -1 pulp -1 offset -1 contact -1 july -1 july -1 july -1 july -1 survey -1 plant -1 wednesday -1 inform -1 june -1 june -1 major -1 chang -1 ippi -1 forecast -1 fer -1 reflect -1 pct -1 -2

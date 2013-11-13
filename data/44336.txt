@@ -1,0 +1,3 @@
+negot -1 compan -1 stak -1 econom -1 gener -1 gener -1 interest -1 zolt -1 build -1 bank -1 bank -1 manag -1 manag -1 manag -1 unit -1 unit -1 maintain -1 garanc -1 garanc -1 garanc -1 utass -1 stat -1 stat -1 special -1 minor -1 decid -1 decid -1 laszl -1 busi -1 strength -1 -2
+remain -1 nagy -1 import -1 sandor -1 success -1 insur -1 insur -1 insur -1 insur -1 insur -1 direct -1 rt -1 sell -1 otp -1 otp -1 otp -1 otp -1 otp -1 otp -1 otp -1 otp -1 otp -1 otp -1 relat -1 post -1 post -1 post -1 septemb -1 board -1 board -1 memb -1 -2
+fill -1 friday -1 role -1 peto -1 chairm -1 chairm -1 separat -1 newsroom -1 activ -1 budap -1 hung -1 boost -1 hold -1 delay -1 sale -1 sale -1 subsid -1 prepar -1 prepar -1 -2

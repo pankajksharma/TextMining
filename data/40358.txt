@@ -1,0 +1,3 @@
+mccab -1 tuesday -1 william -1 appoint -1 complet -1 report -1 name -1 reshuffl -1 techn -1 comput -1 comput -1 comput -1 head -1 senior -1 senior -1 plc -1 jame -1 jame -1 posit -1 chief -1 chief -1 buckley -1 buckley -1 buckley -1 buckley -1 americ -1 educat -1 develop -1 struggl -1 coo -1 -2
+person -1 inform -1 amelio -1 cbt -1 cbt -1 cbt -1 cbt -1 cbt -1 chairm -1 late -1 softwar -1 make -1 gil -1 resign -1 execut -1 execut -1 execut -1 vice -1 presid -1 presid -1 presid -1 presid -1 operat -1 interact -1 offic -1 use -1 appl -1 appl -1 appl -1 appl -1 appl -1 -2
+group -1 group -1 group -1 -2

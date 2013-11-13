@@ -1,0 +1,4 @@
+compan -1 compan -1 nasdaq -1 market -1 market -1 market -1 small -1 rival -1 tempor -1 tuesday -1 stock -1 sharehold -1 sharehold -1 merg -1 merg -1 receib -1 pari -1 adia -1 adia -1 adia -1 adia -1 adia -1 adia -1 ecco -1 ecco -1 ecco -1 ecco -1 adecc -1 adecc -1 adecc -1 -2
+adecc -1 manpow -1 swap -1 spain -1 firm -1 firm -1 firm -1 firm -1 unit -1 unit -1 list -1 list -1 employ -1 franc -1 franc -1 franc -1 capit -1 capit -1 capit -1 switzerland -1 stat -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 meet -1 approv -1 approv -1 special -1 -2
+cash -1 world -1 world -1 big -1 big -1 personnel -1 personnel -1 shar -1 shar -1 shar -1 shar -1 shar -1 shar -1 deposit -1 increas -1 increas -1 swiss -1 swiss -1 swiss -1 off -1 exchang -1 austral -1 move -1 job -1 americ -1 vote -1 sa -1 plac -1 favor -1 intend -1 make -1 -2
+fulfil -1 creat -1 -2

@@ -1,0 +1,2 @@
+alert -1 rate -1 rate -1 rate -1 rate -1 month -1 point -1 system -1 key -1 issu -1 grad -1 percent -1 nikkei -1 assign -1 assign -1 paint -1 paint -1 brok -1 shar -1 thursday -1 kansai -1 kansai -1 cent -1 research -1 research -1 research -1 nikk -1 nikk -1 move -1 direct -1 -2
+valu -1 institut -1 aver -1 see -1 -2

@@ -1,0 +1,2 @@
+launch -1 tuesday -1 applic -1 hospit -1 countr -1 patient -1 diagnost -1 seek -1 scio -1 scio -1 scio -1 scio -1 shionog -1 shionog -1 natriuret -1 monitor -1 world -1 blood -1 blood -1 blood -1 level -1 rest -1 test -1 test -1 test -1 test -1 congest -1 typ -1 bnp -1 bnp -1 -2
+exacerb -1 detect -1 acut -1 acut -1 base -1 base -1 develop -1 develop -1 sell -1 failur -1 failur -1 failur -1 failur -1 japan -1 japan -1 pept -1 add -1 heart -1 heart -1 heart -1 heart -1 licens -1 licens -1 licens -1 licens -1 diagnos -1 -2

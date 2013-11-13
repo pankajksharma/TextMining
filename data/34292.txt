@@ -1,0 +1,4 @@
+night -1 market -1 market -1 draw -1 recent -1 sect -1 sect -1 gener -1 heav -1 rumor -1 target -1 stock -1 stock -1 stock -1 stock -1 stock -1 clos -1 them -1 interest -1 fair -1 month -1 fall -1 toront -1 toront -1 toront -1 toront -1 resourc -1 resourc -1 turn -1 invest -1 -2
+spot -1 pop -1 caught -1 barrick -1 drill -1 percent -1 lost -1 attent -1 expect -1 lead -1 cash -1 name -1 canad -1 reut -1 big -1 pric -1 junior -1 shar -1 candid -1 monday -1 monday -1 monday -1 industr -1 gold -1 gold -1 gold -1 gold -1 gold -1 gold -1 gold -1 gold -1 -2
+edg -1 bureau -1 momentum -1 buy -1 attract -1 arequip -1 exchang -1 loss -1 nice -1 explor -1 play -1 play -1 heavy -1 heavy -1 jame -1 capel -1 posit -1 bob -1 ll -1 consolid -1 greenston -1 result -1 corp -1 corp -1 ask -1 midnight -1 strateg -1 morn -1 morn -1 takeov -1 takeov -1 -2
+takeov -1 hefty -1 kinross -1 sign -1 abund -1 trad -1 trad -1 trad -1 trad -1 trad -1 trad -1 boaz -1 boaz -1 -2

@@ -1,0 +1,3 @@
+early -1 market -1 sect -1 recent -1 econom -1 tuesday -1 hard -1 month -1 month -1 month -1 year -1 year -1 construc -1 construc -1 construc -1 privat -1 bank -1 bank -1 bank -1 bank -1 bank -1 bank -1 billion -1 pictur -1 fall -1 fall -1 firm -1 firm -1 loan -1 loan -1 -2
+loan -1 loan -1 downtick -1 stat -1 percent -1 percent -1 percent -1 percent -1 percent -1 percent -1 local -1 fell -1 fell -1 fell -1 lend -1 janu -1 busi -1 flat -1 time -1 wid -1 extend -1 extend -1 cent -1 cent -1 cent -1 declin -1 declin -1 growth -1 growth -1 trill -1 grant -1 -2
+taiw -1 taiw -1 taiw -1 taipei -1 attribut -1 july -1 july -1 july -1 july -1 july -1 estat -1 caut -1 june -1 june -1 real -1 consecut -1 negat -1 negat -1 newsroom -1 fourth -1 mark -1 peak -1 offic -1 slow -1 -2
