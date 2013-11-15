@@ -6,12 +6,25 @@ def getTextSet(p):
 	return l
 #output ti = { t1, t2 ,t3 ..tn }
 
-def Generate-Beta () :
+# Format 
+#NDP = [['','']['','']['','']['','']['',''].....['', '']]
 
-
-
-
-def suffling(nd , Dnd , NDP,u , NDP ):
+def suffling(nd , Dnd , NDP,u ):
 	for p in Dnd :
-	termse 
+		termset = getTextset(p)
+		flag = 1
+		for t in termset : 
+			if t in nd :
+				flag = 0 
+			else :
+				flag = 1 
+
+		if flag is 0 : # all terms are in nd | remove complete conflict 
+			new_NDP  = []
+			for p in NDP : 
+				for t in termset :	
+					if p[0] is t : 
+						
+				
+				
 	
