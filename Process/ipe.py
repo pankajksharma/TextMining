@@ -1,5 +1,5 @@
 def getTextSet(p):
-#input pi = {(t1,f1),(t2,f2)...(tn,fn)}
+#input pi = [[t1,f1],[t2,f2]...[tn,fn]]
 	l=[]
 	for i in p : 
 		l.append(i[0])
@@ -27,14 +27,6 @@ def getsum2(t,p,sum_intersection):
 
 	return sum1 
  
-def getsum1(t,p):
-	sum1 = 0 
-	for i in t :
-		sum1 =sum1+i[1]
-	for i in p :	
-		sum1 =sum1+p[1]
-
-	return sum1 
 
 def remove_pattern(NDP,p):
 	new_NDP=[]
@@ -71,6 +63,8 @@ def suffling(nd , Dnd , NDP,u ):
 			
 			
 	return new_NDP 
+
+
 
 
 

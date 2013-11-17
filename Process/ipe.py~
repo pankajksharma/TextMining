@@ -24,6 +24,7 @@ def getsum2(t,p,sum_intersection):
 	for i in p :
 		sum1 =sum1+i[1]
 	sum1 =sum1 - 2*sum_intersection
+
 	return sum1 
  
 def getsum1(t,p):
@@ -56,8 +57,9 @@ def suffling(nd , Dnd , NDP,u ):
 		if fal is 0 :
 			new_NDP  = remove_pattern(NDP,p) #Remove complete confllict offenders 
 		else : 
-			offering = ( 1 - 1/u )* getsum1( t, p ) 
-			base = getsum2(t,p)
+			var = getsum1( t, p ) 
+			offering = ( 1 - 1/u )* var 
+			base = getsum2(t,p,var)
 			l = [] 
 			for t in p :
 				if t in n :
@@ -69,6 +71,8 @@ def suffling(nd , Dnd , NDP,u ):
 			
 			
 	return new_NDP 
+
+
 
 
 
