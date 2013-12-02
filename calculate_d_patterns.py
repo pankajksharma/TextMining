@@ -1,4 +1,4 @@
-from Process.spm import SPMining
+from gapbide import Gapbide
 import MySQLdb
 import json
 
@@ -15,10 +15,10 @@ class DP(object):
 		return dp
 
 	def d_patterns(self, doc):
-			sp = SPMining(doc, self.min_sup).spmine()
-			print
-			print sp
-			print
+			if len(doc) != 1:
+				sp = Gapbide(doc, self.min_sup*len(doc), 0, 3).run()
+			else:
+				sp = doc[0]
 			dp = {}
 			for pat in sp:
 				p = {}
@@ -27,13 +27,14 @@ class DP(object):
 				dp = self.compose(dp, p)
 			return dp
 
-p=DP(0.75)
+p=DP(0.5)
 print p.d_patterns([[1,2,3,4],[2,4,5,3],[3,6,1],[5,1,2,7,3]])
 # print p.get_terms_support()
 
 connection = MySQLdb.connect('localhost', 'root', 'root', 'mining')
 cursor = connection.cursor()
-query = "select * from data where type='pos' and id<>25"
+cursor2 = connection.cursor()
+query = "select id,data from data"
 cursor.execute(query)
 cursor.scroll(0, 'absolute')
 dp = DP(0.3)
@@ -41,7 +42,8 @@ while True:
 	c = cursor.fetchone()
 	if not c:
 		break
-	print c[0]
 	data = c[-1].replace('\'','"')
-	print data
-	print dp.d_patterns(json.loads(data))
+	dps = dp.d_patterns(json.loads(data))
+	query = "update data set dp = '%s' where id = %s" %(json.dumps(dps), str(c[0]))
+	cursor2.execute(query)
+	connection.commit()
